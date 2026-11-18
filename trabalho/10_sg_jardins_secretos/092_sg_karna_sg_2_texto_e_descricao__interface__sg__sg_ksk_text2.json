@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_ksk_text2",
+  "po": "ptbr/sg/interface__sg__sg_ksk_text2.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Karna] — SG 2 (Texto e Descrição)",
+  "origem": "interface/sg/sg_ksk_text2.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Confining Desire",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "An SG acquired without even realizing it\nafter returning alive from Imaginary Number Space.\nIt's apparently BB's second SG.\nAn SG of the same type as \"Monopolizing Desire.\"\n\n             ◆\n\nIt can be a bizarre SG, depending on the circumstances.\n\"I want to lock you up\"\n\"I don't want to let you out into the world\"\n\"It'd be nice if all you had was me\"\nand such desires solidified into actual implementation.\n\nThe imaginary number space called the Dog Space\nwas likely influenced greatly by this SG.\n",
+      "pt": ""
+    }
+  ]
+}

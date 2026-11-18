@@ -1,0 +1,29 @@
+# Menu / interface - interface/modeselect/modeselect.bin
+# Fonte no jogo: interface/modeselect/modeselect.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "This mode is for those who are new to the RPG genre.\nBetter rates for enemy data, money, and items."
+msgstr "Modo para quem está começando no gênero RPG.\nMelhores taxas de dados de inimigo, dinheiro e itens."
+
+msgctxt "1"
+msgid "This mode is for those who wish to fully enjoy the experience."
+msgstr "Modo para quem quer aproveitar a experiência por completo."
+
+msgctxt "2"
+msgid "This mode is for those who enjoy severe gameplay.\nEnemy ATK raised and Boss HP also increased."
+msgstr "Modo para quem gosta de desafio pesado.\nATK dos inimigos e HP dos chefes aumentados."
+
+msgctxt "3"
+msgid "#C255120120Clear Data has been loaded.#CDEF"
+msgstr "#C255120120Clear Data carregado.#CDEF"
+
+msgctxt "4"
+msgid "Skip the prologue and start from\nthe Servant selection event."
+msgstr "Pula o prólogo e começa a partir do\nevento de escolha do Servo."
+

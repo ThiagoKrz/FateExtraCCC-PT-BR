@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_zin_text3",
+  "po": "ptbr/sg/interface__sg__sg_zin_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Carigiri Jinako] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_zin_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Curse of Death",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Jinako's third ess geee～.\n\nOh no     it's a save-preventing character!\n\nToo bad, your progress has been lost!\n\nAhh, but―――\n\n             ◆\n\n―――but\n\nif it's all just gonna to end someday,\nthen I decided I won't do anything.\n\nI thought, when it ends someday,\nI want to be smiling.\n\nWhich is the real me, anyway?\nWhich is the real, \"easy mode\"?\n",
+      "pt": ""
+    }
+  ]
+}

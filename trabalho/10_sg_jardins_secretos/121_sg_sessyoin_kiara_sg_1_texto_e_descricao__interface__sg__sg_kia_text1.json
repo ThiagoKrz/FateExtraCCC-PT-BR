@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_kia_text1",
+  "po": "ptbr/sg/interface__sg__sg_kia_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Sessyoin Kiara] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_kia_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Pheromones",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Kiara Sessyoin's SG.\nAn instinctual temptation that goes against reason.\n\n\"Pheromone\" is the general term for substances secreted and\nemitted from the bodies of animals to affect the behavioral\nand physiological states of others from the same species.\nPut simply, a special constitution that's \"easier to love.\"\nKiara Sessyoin was a graceful individual, but was born with\na constitution that was at odds with her personality.\n\nShe had vowed to liberate others from earthly desires,\nbut her constitution attracted many in the wrong way,\nand was confronted with reality every time.\n\nInstinct spoils reason.\nDesires burn away ideals.\nKiara, having been shown that humans are mere animals\nyet accepting that she devote her life to converting them,\neventually decided to head for the Moon Cell―――\nto the Holy Grail War.\n\n             ◆\n\nAlso, the word for \"vow\" in Sanskrit is \"Praṇidhāna.\"\nA promise, an oath that a bodhisattva takes for the sake\nof enlightenment and the salvation of all living things.\n\nTo become a bodhisattva, one must take four vows,\nalso known as the \"complete vows.\"\nPure vows will harbor power,\neventually turning the bodhisattva into a Buddha.\n",
+      "pt": ""
+    }
+  ]
+}

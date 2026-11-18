@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_emi_text1",
+  "po": "ptbr/sg/interface__sg__sg_emi_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [EMIYA (Archer)] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_emi_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Tool Mania",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Archer's first SG.\nA peculiar fondness for the make of his tools and\nhandling them with care. In Archer's case, you could say\nhe's one step away from being a military enth#RUBSotaku#RUBEusi#RENDast.\n\nWhatever the case, one should treat things with care.\n\n             ◆\n\nWhile Archer may be a Heroic Spirit of the Bow, he is,\nin truth, a magus rather than a knight.\nHe makes use of the magic known as \"Projection,\"\ninstantly reproducing and using many weapons.\nThe numerous weapons Archer uses are copies of\n\"what he once saw, what he fought against.\"\n\nProjection magic can produce counterfeits out of mana.\nTo bring it closer to the real thing, he'd need to know\nits structure. Archer became a tool maniac for the sake of\nimproving the precision of his magic…… or so he'd claim.\n\nBut he's got no such excuse with electrical appliances.\n",
+      "pt": ""
+    }
+  ]
+}

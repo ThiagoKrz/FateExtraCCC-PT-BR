@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_rin_text2",
+  "po": "ptbr/sg/interface__sg__sg_rin_text2.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Tohsaka Rin] — SG 2 (Texto e Descrição)",
+  "origem": "interface/sg/sg_rin_text2.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Money Worship",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Rin Tohsaka's second SG.\n\nA peculiar tendency to value money over all other things.\nFor her, money is something like gasoline;\nsomething she accumulates and burns to move forward.\n\n             ◆\n\nIn capitalism, money is synonymous with omnipotence.\nUsed well, it's possible to gain authority, even happiness.\nBut needless to say, money is bound to nations & economies.\nIt has no power in and of itself.\nWise men will warn you: \n\"it's not how much you have, but what you can buy.\"\n\nAs vampires collects blood, money worshipers collect money.\nYou could say it's proof of the ruling class―――\npolitics aside, separate from the modern-day aristocracy.\n\nAs the term \"Money Worship\" states,\nsometimes people elevate money to an object of worship.\nThat \"money is God.\" When you're collecting money,\ntake care that you do not end up a slave to it instead.\n",
+      "pt": ""
+    }
+  ]
+}

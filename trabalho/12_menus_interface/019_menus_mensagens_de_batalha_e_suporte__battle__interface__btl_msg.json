@@ -1,0 +1,94 @@
+{
+  "id": "menus/battle__interface__btl_msg",
+  "po": "ptbr/menus/battle__interface__btl_msg.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Mensagens de Batalha e Suporte",
+  "origem": "battle/interface/btl_msg.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 7,
+  "linhas_exclusivas": 7,
+  "traduzidas": 6,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Master's Support Command",
+      "pt": "Comando de Apoio do Mestre"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Required MP",
+      "pt": "MP Necessário"
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "MP",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "below %",
+      "pt": "abaixo de %"
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Escape?",
+      "pt": "Fugir?"
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Heal & scan enemy. Cost: One Turn",
+      "pt": "Cura e escaneia o inimigo. Custo: 1 turno"
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Command Seal",
+      "pt": "Selo de Comando"
+    }
+  ]
+}

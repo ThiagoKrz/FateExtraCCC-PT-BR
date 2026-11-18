@@ -1,0 +1,29 @@
+# Menu / interface - interface/cmn/install.bin
+# Fonte no jogo: interface/cmn/install.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "No Error."
+msgstr ""
+
+msgctxt "1"
+msgid "The installed game data has been damaged.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF."
+msgstr ""
+
+msgctxt "2"
+msgid "The installed game data has failed to load.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF."
+msgstr ""
+
+msgctxt "3"
+msgid "No memory stick has been detected.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF."
+msgstr ""
+
+msgctxt "4"
+msgid "Install has been aborted due to activation of Sleep Mode.\nCreation of install data has failed."
+msgstr ""
+

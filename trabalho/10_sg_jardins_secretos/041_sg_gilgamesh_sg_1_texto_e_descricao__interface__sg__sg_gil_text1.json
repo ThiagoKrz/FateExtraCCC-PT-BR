@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_gil_text1",
+  "po": "ptbr/sg/interface__sg__sg_gil_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Gilgamesh] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_gil_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Lynchpin of Heaven",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "That which symbolizes Gilgamesh's way of life.\nHow the ancient gods lived and of his origins.\n\nGods in this universe are split into two categories.\nThat which already existed and become gods,\nand those who were reborn as gods.\n\nThat which already existed such as heavenly bodies,\nlike the sun and moon, or natural phenomena,\nlike storms or earthquakes, that became objects of worship.\n\nThose reborn as gods were originally human, but somehow\ndeviated from their humanity and became objects of worship.\nHeroes, saviors, systems vital to prosperity and the like\nfall under this category.\n\nThe gods of Mesopotamia are of the former.\nThey were natural phenomena with intent and individuality,\nreigning as the will of the heavens.\nThe one the gods sent to censure the people of Earth\nwas Gilgamesh.\n\n             ◆\n\nThe lynchpin of heaven.\nThe king made by the gods to secure the Earth\nthat separated from them in the Age of the Gods.\n\nBut he did not fulfill that role.\nPutting his own desires first, he ruled his kingdom\nas an individual, and regarded the way of the gods\nas a relic from a past age.\n\n\"I shall abide by the gods, and respect them. But perish.\nThe moment you created me,\nyou lost your position by your own doing.\"\n\nAnd so, for the first time in ancient Uruk,\na king not beholden to the gods was born.\nThe King of Heroes, Gilgamesh. A king made as a lynchpin\nwho instead became the speartip that put an end to\nthe previous era.\n",
+      "pt": ""
+    }
+  ]
+}

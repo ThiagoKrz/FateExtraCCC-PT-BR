@@ -1,0 +1,83 @@
+{
+  "id": "menus/interface__svtselect__msg",
+  "po": "ptbr/menus/interface__svtselect__msg.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Seleção de Servo (Estilos e Avisos)",
+  "origem": "interface/svtselect/msg.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 6,
+  "linhas_exclusivas": 6,
+  "traduzidas": 6,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Standard - A balanced set of combat abilities.",
+      "pt": "Standard - Conjunto equilibrado de habilidades de combate."
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Technical - Fight by reinforcing Projection Skills.",
+      "pt": "Technical - Luta reforçando Habilidades de Projeção."
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Maniac - Strong skills but physically weak.",
+      "pt": "Maniac - Habilidades fortes, mas fisicamente fraco."
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Cheat - Overwhelm enemies with unlimited weapons.",
+      "pt": "Cheat - Esmaga inimigos com armas ilimitadas."
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Partner with #SVT?",
+      "pt": "Formar parceria com #SVT?"
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "In choosing a male Master, some events\nwill become unavailable. Is that okay?",
+      "pt": "Ao escolher um Mestre homem, alguns eventos\nficam indisponíveis. Tudo bem?"
+    }
+  ]
+}

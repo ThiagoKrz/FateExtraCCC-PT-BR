@@ -1,0 +1,105 @@
+{
+  "id": "menus/interface__save__msg",
+  "po": "ptbr/menus/interface__save__msg.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Menu de Salvamento e Carregamento",
+  "origem": "interface/save/msg.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 8,
+  "linhas_exclusivas": 8,
+  "traduzidas": 8,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Save your progress.",
+      "pt": "Salva seu progresso."
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Load saved data.",
+      "pt": "Carrega dados salvos."
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Delete saved data.",
+      "pt": "Apaga dados salvos."
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change in-game settings.",
+      "pt": "Altera as configurações do jogo."
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Return to title without saving.",
+      "pt": "Volta ao título sem salvar."
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Cannot be used.",
+      "pt": "Não pode ser usado."
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Cannot be used.",
+      "pt": "Não pode ser usado."
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Return to title without saving?",
+      "pt": "Voltar ao título sem salvar?"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "menus/interface__select__i_move",
+  "po": "ptbr/menus/interface__select__i_move.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Menu de Deslocamento pela Escola",
+  "origem": "interface/select/i_move.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 6,
+  "linhas_exclusivas": 3,
+  "traduzidas": 6,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "School Building 1st Floor",
+      "pt": "Escola - Andar 1"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "School Building 2nd Floor",
+      "pt": "Escola - Andar 2"
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": true,
+      "repeticoes": 188,
+      "en": "Schoolyard",
+      "pt": "Pátio"
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "My Room",
+      "pt": "Meu Quarto"
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": true,
+      "repeticoes": 188,
+      "en": "Student Council Room",
+      "pt": "Sala do Grêmio"
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "max 63 bytes",
+      "medida": null,
+      "max_bytes": 63,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Where would you like to go?",
+      "pt": "Para onde deseja ir?"
+    }
+  ]
+}

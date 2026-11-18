@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_emi_text2",
+  "po": "ptbr/sg/interface__sg__sg_emi_text2.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [EMIYA (Archer)] — SG 2 (Texto e Descrição)",
+  "origem": "interface/sg/sg_emi_text2.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Serving Constitution",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Archer's second SG.\nIt refers to the mentality of devotion towards others.\nIt could also be called the self-sacrifice of\nputting other people's happiness before their own.\n\nWhen the holder of this SG becomes a husband,\nthey'll surely be more than capable at working.\n\n             ◆\n\nYou could say it's devotion similar to the way of chivalry,\nbut its true nature is different. In this case, service\nisn't rendered to specific individuals but society itself.\n\nWhat lies at its end is the vanishing of individuality.\nBecoming a faceless upholder of social justice,\ntreated as an instrument rather than a person,\nand so met a fitting end.\n",
+      "pt": ""
+    }
+  ]
+}

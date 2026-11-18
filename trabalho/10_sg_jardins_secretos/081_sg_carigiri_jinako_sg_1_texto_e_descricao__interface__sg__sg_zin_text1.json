@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_zin_text1",
+  "po": "ptbr/sg/interface__sg__sg_zin_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Carigiri Jinako] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_zin_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Compulsive Liar",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Jinako's first ess geee～.\n\nI didn't mean to trick you,\nbut I was embarrassed so I ended up doing it anyway.\n\nI'm not even clear on it myself,\nbut I don't want anything to do with other people.\n\nThey'll never see my heart.\n\n             ◆\n\nLying is pretty lonely, you know.\nIt's sad to have no truth.\n\nThe truth is always in the dark.\nIt's probably disappointing anyway.\n\nCome on.\nIsn't it better than actually looking?\n",
+      "pt": ""
+    }
+  ]
+}

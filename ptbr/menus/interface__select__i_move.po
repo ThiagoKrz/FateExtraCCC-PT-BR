@@ -1,0 +1,39 @@
+# Texto de largura fixa (extended) - interface/select/i_move.bin
+# Fonte no jogo: interface/select/i_move.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. max 63 bytes
+msgctxt "0"
+msgid "School Building 1st Floor"
+msgstr "Escola - Andar 1"
+
+#. max 63 bytes
+msgctxt "1"
+msgid "School Building 2nd Floor"
+msgstr "Escola - Andar 2"
+
+#. max 63 bytes
+msgctxt "2"
+msgid "Schoolyard"
+msgstr "Pátio"
+
+#. max 63 bytes
+msgctxt "3"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. max 63 bytes
+msgctxt "4"
+msgid "Student Council Room"
+msgstr "Sala do Grêmio"
+
+#. max 63 bytes
+msgctxt "5"
+msgid "Where would you like to go?"
+msgstr "Para onde deseja ir?"
+

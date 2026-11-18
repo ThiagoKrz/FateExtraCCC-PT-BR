@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_mll_text3",
+  "po": "ptbr/sg/interface__sg__sg_mll_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Meltlilith] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_mll_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 4,
+      "en": "Crime Ballet",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Meltlilith's third SG.\nIt's not an SG that represents a secret in her heart,\nbut rather a genuine, hidden crime.\n\nTo make herself invincible, Meltlilith rewrote a basic rule\non the Far Side of the Moon: \"Loss of sense of time\"\nto \"Loss of hit detection on Meltlilith.\"\n\nMeltlilith's victory wasn't guaranteed by this contrivance,\nbut this cheat was checked by her parent BB,\nand she was thrust from her place as star of the stage.\n\n             ◆\n\nIn classical ballet, a superior dancer makes themselves\nfeel weightless, allowing them to dance like a feather.\nThis may be why Meltlilith, who adores ballet,\nwould come to picture the form of invincibility as\n\"a solitary, untouchable prima donna\".\n\n",
+      "pt": ""
+    }
+  ]
+}

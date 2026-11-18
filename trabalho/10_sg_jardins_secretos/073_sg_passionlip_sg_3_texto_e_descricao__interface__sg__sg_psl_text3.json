@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_psl_text3",
+  "po": "ptbr/sg/interface__sg__sg_psl_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Passionlip] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_psl_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Hypersensitivity",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "An SG that Passionlip desperately wanted to keep hidden.\n\nSensations on the skin across her entire body are sharp,\na constitution sensitive to even the slightest contact.\nIt's why she's so sensitive to the hostility of others.\n\nWhat she may take as numerically 1 Damage,\nher spirit takes from ten to a hundredfold.\nThe high mental fortitude that Lip demonstrates\nin daily life and in combat is worthy of praise.\n\nThe negative effects of this trait are obvious,\nbut #RUBSDamage#RUBEpain#REND is not the only thing that gets accentuated.\nJoy and affection are also amplified.\nThe casual touching of fingers,\neven the casual meeting of hands; to Passionlip,\nthey're an irreplaceable happiness to be remembered.\n\n……though, until now,\nthere hasn't been a single person who's touched\nan atrocious monster like Passionlip with \"affection.\"\n",
+      "pt": ""
+    }
+  ]
+}

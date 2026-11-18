@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "nome": "Glossário Operacional Fate/Extra CCC PT-BR",
+    "escopo": "Padrão local do repositório para tradução, injeção e geração da ISO PT-BR de Fate/Extra CCC (PSP)",
+    "status": "ativo",
+    "atualizado_em": "2026-11-17",
+    "herda_de": [
+      "standards/GLOSSARIO_TYPEMOON_OPERACIONAL.json",
+      "C:/Users/Thiago/Desktop/fate-cafe-react/standards/type-moon/GLOSSARIO_TYPEMOON_OPERACIONAL.json"
+    ],
+    "referencias_consolidadas": {
+      "fate_cafe_react": "C:/Users/Thiago/Desktop/fate-cafe-react/standards/type-moon/GLOSSARIO_TYPEMOON_OPERACIONAL.json",
+      "fsn_remastered": "C:/Users/Thiago/Desktop/FSN-Remastered-PT-BR/Pasta principal/standards/type-moon/PROMPT_REVISAO_FSN_REMASTERED_SCRIPTS.md",
+      "fha_remastered": "C:/Users/Thiago/Desktop/FHA-Remastered-PT-BR/Pasta principal/standards/type-moon/PROMPT_AGENTE_FHA_UNIFICADO.md",
+      "mahoyo_vn": [
+        "D:/Tradução/mahoyo-pt-br/MAHOYO REMASTERED/data00200 - Scripts/glossario.json",
+        "D:/Tradução/mahoyo-pt-br/MAHOYO REMASTERED/data00200 - Scripts/revisao/nomes/PADRAO_NOMES.md"
+      ],
+      "mahoyo_manga": "D:/Tradução/mahoyo_manga/REGRAS_TRADUCAO_MANGA.md",
+      "tsukihime_remake": [
+        "C:/Users/Thiago/Desktop/TsukihimeRE-fatecafe/docs/GLOSSARIO_TYPEMOON_OPERACIONAL.json",
+        "C:/Users/Thiago/Desktop/TsukihimeRE-fatecafe/docs/HANDOFF.md"
+      ]
+    },
+    "observacao": "Este glossário é operacional e local. Ele herda todas as convenções Type-Moon consolidadas do Fate Café (sincronizadas em standards/GLOSSARIO_TYPEMOON_OPERACIONAL.json) e dos projetos irmãos (FSN, FHA, Mahoyo, Tsukihime Remake), acrescentando os termos e restrições técnicas exclusivos de Fate/Extra CCC (PSP)."
+  },
+
+  "regras": {
+    "prioridade_maxima": "PRIORIDADE MÁXIMA. Se um termo estiver neste glossário ou em GLOSSARIO_TYPEMOON_OPERACIONAL.json, ele deve ser usado exatamente como está definido.",
+    "conflito_prompt_vs_glossario": "Se houver conflito entre o prompt e o glossário, o glossário vence.",
+    "conflito_fatecafe_vs_ccc": "Para termos gerais da Type-Moon, o glossário central do Fate Café (GLOSSARIO_TYPEMOON_OPERACIONAL.json) vence. Este arquivo vence apenas para termos, nomes de UI/sistema próprios do patch EN e restrições técnicas exclusivas do Fate/Extra CCC (PSP).",
+    "encoding": "Acentuação correta é obrigatória. É proibido deixar texto sem acento por preguiça ou `?` no lugar de caractere válido.",
+    "codigos_de_controle": "Códigos de controle do jogo são sagrados. Copiar na mesma posição, sem traduzir e sem alterar espaçamento interno.",
+    "limites_tecnicos": "Nenhuma tradução pode violar os limites em `restricoes_tecnicas`. Se não couber, reescreva mais curto; nunca truncar no meio de uma palavra.",
+    "classes_nunca_traduzir": [
+      "Saber",
+      "Lancer",
+      "Archer",
+      "Rider",
+      "Caster",
+      "Assassin",
+      "AssasSin",
+      "Berserker",
+      "Ruler",
+      "Avenger",
+      "Moon Cancer",
+      "Alter Ego",
+      "Alter-Ego",
+      "Foreigner",
+      "Pretender",
+      "Shielder",
+      "Beast",
+      "Savior",
+      "Saver",
+      "Gunner",
+      "Watcher",
+      "Faker"
+    ],
+    "termos_vn_relacao_escolar_preservaveis": [
+      "Senpai",
+      "Kouhai",
+      "kouhai"
+    ],
+    "nota_termos_vn_relacao_escolar": "Em visual novels e textos com dinâmica escolar japonesa (como a Academia Tsukumihara e o tratamento de BB), termos como Senpai e Kouhai/kouhai permanecem em PT-BR quando soarem naturais. Não force veterano, calouro ou colega de um ano abaixo.",
+    "convencoes_localizacao": {
+      "fonte": "Padrão consolidado do Fate Café React, FSN Remastered PT-BR, FHA Remastered PT-BR, Mahoyo (VN e Mangá) e Tsukihime Remake PT-BR.",
+      "ordem_dos_nomes_japoneses": "Sobrenome antes do prenome em nomes japoneses completos (Kishinami Hakuno, Tohsaka Rin, Matou Sakura, Matou Shinji, Ryuudou Issei, Fujimura Taiga, Aozaki Touko, Kotomine Kirei, Sessyoin Kiara, Carigiri Jinako, Monji Gatou), sempre sem mácrons (Touko, Ryuudou). Nomes ocidentais/estrangeiros mantêm a ordem própria (Leonardo Bistario Harwey, Julius B. Harwey, Dan Blackmore, Twice H. Pieceman, Rani VIII, Alice, Nero Claudius, Elizabeth Báthory, Hans Christian Andersen).",
+      "magia_e_praticantes": "魔法 (True Magic / Magic) = 'Magia Verdadeira' (sempre maiúscula); 魔術 (Magecraft) = 'magia' (minúscula no meio da frase; proibido 'taumaturgia' ou 'feitiçaria'); 魔力 (Magical Energy) = 'energia mágica' (minúscula no meio da frase); 魔法使い (Magician) = 'Feiticeiro' / 'Feiticeira' (maiúscula); 魔術師 (Magus / Mage) = 'mago' / 'maga' (minúscula no meio da frase); 神秘 (Mystery) = 'Mistério' (maiúscula quando conceito).",
+      "honorificos": "Manter -kun, -san, -chan, -sensei, -senpai, Senpai, Kouhai/kouhai, Onii-chan, Fuji-nee. 先生 = '-sensei' (Fujimura-sensei), nunca 'Professor(a) X' quando houver '-sensei'. Vocativo com honorífico mantém o honorífico.",
+      "andares": "Tradução literal do número do andar: 1F = '1º andar' no diálogo corrido (e 'Andar 1' nos rótulos curtos de mapa porque o caractere 'º' não existe na fonte do jogo). Não converter para a contagem brasileira.",
+      "falas_e_pontuacao": "Aspas duplas retas \" \" (nunca aspas curvas nem travessão em `—`, pois não existem na fonte; travessão longo do jogo `―――` e reticências `……` preservados).",
+      "onomatopeias_e_reacoes": "Abrasileirar sempre: 'Tch' = 'Tsc'; 'Eh?!' = 'Hã?!' / 'O quê?!'; suspiro = 'Ah...' / 'Ai, ai...'; resmungo = 'Hunf'; 'Munch, munch' = 'Nham, nham'. Proibido SFX em inglês (Hmph, Sigh, Gasp, Grab).",
+      "adaptacao_com_freio": "PT-BR natural e literário; narração mais formal/literária, falas calibradas pelo perfil de voz do personagem (escala 1 a 4), sem gíria caricata nem regionalismo estadual; uso de 'você' (evitando 'tu').",
+      "notas_de_contexto": "Referências culturais não ganham nota explicativa inventada dentro da caixa de diálogo."
+    }
+  },
+
+  "diretrizes_operacionais": {
+    "ordem_leitura_llm": [
+      "standards/GLOSSARIO_CCC_OPERACIONAL.json",
+      "standards/GLOSSARIO_TYPEMOON_OPERACIONAL.json",
+      "standards/README.md",
+      "standards/PROMPT_TRADUCAO_CCC.md",
+      "standards/DIARIO_DE_MUDANCAS.md"
+    ],
+    "pipeline_canonico_resumido": [
+      "Traduzir editando os arquivos .po em ptbr/",
+      "Padronizar termos repetidos com python tools/glossario.py",
+      "Verificar largura de linhas e gênero com python tools/medida.py e python tools/genero.py",
+      "Gerar a ISO com python tools/build.py",
+      "Conferir com python tools/verify.py e python tools/integrity.py",
+      "Testar no PPSSPP",
+      "Registrar mudanças estruturais em standards/DIARIO_DE_MUDANCAS.md"
+    ],
+    "regra_de_registro": "Toda mudança maior, decisão de arquitetura ou descoberta sobre o formato do jogo DEVE ser registrada em standards/DIARIO_DE_MUDANCAS.md antes de encerrar o trabalho, para que a próxima sessão continue sem redescobrir nada."
+  },
+
+  "glossario_ccc": {
+    "Servant": {
+      "pt": "Servo",
+      "nota": "Obrigatório traduzir como Servo (plural: Servos), seguindo o padrão unificado Fate Café / FSN / FHA / SE.RA.PH."
+    },
+    "Servants": {
+      "pt": "Servos",
+      "nota": "Plural padrão."
+    },
+    "Master": {
+      "pt": "Mestre",
+      "nota": "Obrigatório traduzir como Mestre / Mestra (plural: Mestres), seguindo o padrão unificado Fate Café / FSN / FHA / SE.RA.PH."
+    },
+    "Masters": {
+      "pt": "Mestres",
+      "nota": "Plural padrão."
+    },
+    "Mystic Code": {
+      "pt": "Artefato Místico",
+      "nota": "Obrigatório traduzir como Artefato Místico (plural: Artefatos Místicos), seguindo o padrão unificado."
+    },
+    "Mystic Codes": {
+      "pt": "Artefatos Místicos",
+      "nota": "Plural padrão."
+    },
+    "Supreme Mystic Code": {
+      "pt": "Artefato Místico Supremo",
+      "nota": "Padrão Fate Café."
+    },
+    "Mythological Mystic Code": {
+      "pt": "Artefato Místico Mitológico",
+      "nota": "Forma específica do CCC derivada de Artefato Místico."
+    },
+    "Command Seal": {
+      "pt": "Selo de Comando",
+      "nota": "Plural: Selos de Comando."
+    },
+    "Command Seals": {
+      "pt": "Selos de Comando",
+      "nota": "Plural padrão."
+    },
+    "Command Spell": {
+      "pt": "Selo de Comando",
+      "nota": "Mesmo conceito em japonês (令呪)."
+    },
+    "Command Spells": {
+      "pt": "Selos de Comando",
+      "nota": "Plural padrão."
+    },
+    "Noble Phantasm": {
+      "pt": "Fantasma Nobre",
+      "nota": "Obrigatório traduzir como Fantasma Nobre (plural: Fantasmas Nobres), seguindo o padrão unificado."
+    },
+    "Noble Phantasms": {
+      "pt": "Fantasmas Nobres",
+      "nota": "Plural padrão."
+    },
+    "Holy Grail": {
+      "pt": "Santo Graal",
+      "nota": "Padrão unificado."
+    },
+    "Holy Grail War": {
+      "pt": "Guerra do Santo Graal",
+      "nota": "Padrão unificado."
+    },
+    "Moon Holy Grail War": {
+      "pt": "Guerra do Santo Graal Lunar",
+      "nota": "Padrão SE.RA.PH / Fate Café."
+    },
+    "Moon Cell": {
+      "pt": "Moon Cell",
+      "nota": "Nunca traduzir."
+    },
+    "Mooncell": {
+      "pt": "Moon Cell",
+      "nota": "Padronizar com espaço: Moon Cell."
+    },
+    "Moon Cell Automaton": {
+      "pt": "Moon Cell Automaton",
+      "nota": "Ou Autômato Moon Cell quando descritivo."
+    },
+    "Spiritron": {
+      "pt": "Spiritron",
+      "nota": "Nunca traduzir. Plural: Spiritrons."
+    },
+    "Spiritrons": {
+      "pt": "Spiritrons",
+      "nota": "Plural padrão."
+    },
+    "Pseudo-Spiritron": {
+      "pt": "Pseudo-Spiritron",
+      "nota": "Padrão Fate Café / SE.RA.PH."
+    },
+    "Pseudo-Spiritrons": {
+      "pt": "Pseudo-Spiritrons",
+      "nota": "Plural padrão."
+    },
+    "Code Cast": {
+      "pt": "Code Cast",
+      "nota": "Nunca traduzir."
+    },
+    "Code Casts": {
+      "pt": "Code Casts",
+      "nota": "Plural padrão."
+    },
+    "Heroic Spirit": {
+      "pt": "Espírito Heroico",
+      "nota": "Plural: Espíritos Heroicos."
+    },
+    "Divine Spirit": {
+      "pt": "Espírito Divino",
+      "nota": "Plural: Espíritos Divinos."
+    },
+    "Spirit Origin": {
+      "pt": "Origem Espiritual",
+      "nota": "Plural: Origens Espirituais."
+    },
+    "Saint Graph": {
+      "pt": "Origem Espiritual",
+      "nota": "Mesmo conceito (霊基)."
+    },
+    "Spirit Core": {
+      "pt": "Núcleo Espiritual",
+      "nota": "Padrão Fate Café."
+    },
+    "Authority": {
+      "pt": "Autoridade",
+      "nota": "Maiúscula quando poder divino conceitual."
+    },
+    "Bounded Field": {
+      "pt": "Campo Limitado",
+      "nota": "Padrão unificado."
+    },
+    "Reality Marble": {
+      "pt": "Projeção de Realidade",
+      "nota": "Padrão unificado."
+    },
+    "Marble Phantasm": {
+      "pt": "Projeção de Fantasia",
+      "nota": "Padrão unificado."
+    },
+    "Counter Force": {
+      "pt": "Força de Contenção",
+      "nota": "Padrão unificado."
+    },
+    "Magic Circuit": {
+      "pt": "Circuito Mágico",
+      "nota": "Plural: Circuitos Mágicos."
+    },
+    "Magic Circuits": {
+      "pt": "Circuitos Mágicos",
+      "nota": "Plural padrão."
+    },
+    "Magic Crest": {
+      "pt": "Brasão Mágico",
+      "nota": "Padrão unificado."
+    },
+    "Mage's Association": {
+      "pt": "Associação dos Magos",
+      "nota": "Idem Mages' Association."
+    },
+    "Mages' Association": {
+      "pt": "Associação dos Magos",
+      "nota": "Padrão unificado."
+    },
+    "Clock Tower": {
+      "pt": "Torre do Relógio",
+      "nota": "Padrão unificado."
+    },
+    "Atlas Institute": {
+      "pt": "Instituto Atlas",
+      "nota": "Padrão unificado."
+    },
+    "Holy Church": {
+      "pt": "Igreja Sagrada",
+      "nota": "Padrão unificado."
+    },
+    "Magecraft": {
+      "pt": "magia",
+      "nota": "Minúscula no meio da frase. Nunca usar 'taumaturgia' ou 'feitiçaria'."
+    },
+    "Magic": {
+      "pt": "Magia Verdadeira",
+      "nota": "Sempre maiúscula quando se referir às Cinco Magias Verdadeiras (魔法)."
+    },
+    "True Magic": {
+      "pt": "Magia Verdadeira",
+      "nota": "Sempre maiúscula."
+    },
+    "Magical Energy": {
+      "pt": "energia mágica",
+      "nota": "Minúscula no meio da frase."
+    },
+    "Magician": {
+      "pt": "Feiticeiro",
+      "nota": "Feiticeiro / Feiticeira com maiúscula para usuário de Magia Verdadeira."
+    },
+    "Magus": {
+      "pt": "mago",
+      "nota": "mago / maga com minúscula no meio da frase."
+    },
+    "Mystery": {
+      "pt": "Mistério",
+      "nota": "Maiúscula quando conceito da lore."
+    },
+    "True Name": {
+      "pt": "Nome Verdadeiro",
+      "nota": "Padrão unificado."
+    },
+    "SE.RA.PH": {
+      "pt": "SE.RA.PH",
+      "nota": "Mantido."
+    },
+    "SERIAL PHANTASM": {
+      "pt": "SERIAL PHANTASM",
+      "nota": "Manter em caixa alta."
+    },
+    "Near Side": {
+      "pt": "Near Side",
+      "nota": "Manter 'Near Side' nos termos do sistema/mapa do CCC; usar 'Lado Próximo da Lua' quando descritivo por extenso."
+    },
+    "Near Side of the Moon": {
+      "pt": "Near Side / Lado Próximo da Lua",
+      "nota": "Near Side nos termos de sistema; Lado Próximo da Lua quando descritivo por extenso."
+    },
+    "Far Side": {
+      "pt": "Far Side",
+      "nota": "Manter 'Far Side' nos termos do sistema/mapa do CCC; usar 'Lado Distante da Lua' quando descritivo por extenso (padrão SE.RA.PH)."
+    },
+    "Far Side of the Moon": {
+      "pt": "Far Side / Lado Distante da Lua",
+      "nota": "Far Side nos termos de sistema; Lado Distante da Lua quando descritivo por extenso."
+    },
+    "Secret Garden": {
+      "pt": "Secret Garden",
+      "nota": "Nunca traduzir. Abreviação SG também fica como SG."
+    },
+    "SG": {
+      "pt": "SG",
+      "nota": "Sigla mantida."
+    },
+    "Info Matrix": {
+      "pt": "Info Matrix",
+      "nota": "Nunca traduzir (ou Information Matrix)."
+    },
+    "Information Matrix": {
+      "pt": "Information Matrix",
+      "nota": "Nome do recurso do jogo, mantido."
+    },
+    "Sentinel": {
+      "pt": "Sentinela",
+      "nota": "Sempre no feminino (a Sentinela), padrão SE.RA.PH."
+    },
+    "Sentinels": {
+      "pt": "Sentinelas",
+      "nota": "Sempre no feminino."
+    },
+    "Sakura Five": {
+      "pt": "Sakura Five",
+      "nota": "Padrão Fate Café."
+    },
+    "Sakura Series": {
+      "pt": "Sakura Series",
+      "nota": "Padrão Fate Café."
+    },
+    "Alter Ego of Pleasure": {
+      "pt": "Alter Ego do prazer",
+      "nota": "Padrão SE.RA.PH."
+    },
+    "Alter Ego of Love and Hatred": {
+      "pt": "Alter Ego do amor e do ódio",
+      "nota": "Padrão SE.RA.PH."
+    },
+    "Alter Ego of Yearning": {
+      "pt": "Alter Ego da sede de amor",
+      "nota": "Padrão SE.RA.PH (渇愛 = sede de amor)."
+    },
+    "Ruler of the Moon": {
+      "pt": "Governante da Lua",
+      "nota": "Título de BB em SE.RA.PH; não confundir com a classe Ruler."
+    },
+    "BB Channel": {
+      "pt": "BB Channel",
+      "nota": "Mantido."
+    },
+    "Ten Crowns": {
+      "pt": "Dez Coroas",
+      "nota": "Skill de BB (十の支配 / Domination of the Ten)."
+    },
+    "Moon's Regalia": {
+      "pt": "Regalia da Lua",
+      "nota": "Padrão Fate Café."
+    },
+    "Imaginary Number Space": {
+      "pt": "espaço imaginário",
+      "nota": "Padrão Fate Café (虚数空間)."
+    },
+    "Clear Data": {
+      "pt": "Clear Data",
+      "nota": "Nome de recurso do jogo, mantido."
+    },
+    "Arena": {
+      "pt": "Arena",
+      "nota": "Igual."
+    },
+    "Praetor": {
+      "pt": "Praetor",
+      "nota": "Tratamento que Nero usa para o Mestre. Mantido em latim, como no patch inglês."
+    },
+    "Tamamo Nine": {
+      "pt": "Tamamo Nine",
+      "nota": "Mantido."
+    },
+
+    "classes": {
+      "nota": "Classes de Servo NUNCA são traduzidas (incluindo Savior/Saver e Gunner).",
+      "termos": [
+        "Saber", "Archer", "Lancer", "Rider", "Caster", "Assassin", "Berserker",
+        "Ruler", "Avenger", "Moon Cancer", "Alter Ego", "Alter-Ego", "Foreigner",
+        "Pretender", "Shielder", "Beast", "Savior", "Saver", "Gunner", "Watcher", "Faker"
+      ]
+    },
+
+    "personagens": {
+      "nota": "Nomes próprios nunca são traduzidos. Todos os nomes japoneses completos usam ordem japonesa (Sobrenome Nome), sem mácrons (Touko, Ryuudou). Nota CCC vs FGO: no patch EN e texturas do CCC usa-se 'Meltlilith' (no FGO/Fate Café usa-se 'Meltryllis'); manter 'Meltlilith' no CCC para consistência visual com o jogo.",
+      "termos": [
+        "Kishinami Hakuno", "Tohsaka Rin", "Matou Sakura", "Matou Shinji",
+        "Ryuudou Issei", "Fujimura Taiga", "Aozaki Touko", "Kotomine Kirei",
+        "Sessyoin Kiara", "Carigiri Jinako", "Monji Gatou",
+        "Nero Claudius", "Tamamo no Mae", "Tamamo-no-Mae", "Gilgamesh",
+        "EMIYA", "Rani VIII", "Julius B. Harwey", "Leonardo Bistario Harwey", "Leo",
+        "Twice H. Pieceman", "Gawain", "Hans Christian Andersen", "Andersen", "Karna",
+        "BB", "Passionlip", "Meltlilith", "Elizabeth Báthory", "Alice",
+        "Dan Blackmore", "Lil' Ronnie", "Robin Hood", "Lu Bu", "Vlad III",
+        "Francis Drake", "Li Shuwen", "Arcueid Brunestud"
+      ]
+    },
+
+    "locais": {
+      "Tsukumihara Academy": "Academia Tsukumihara",
+      "School Building 1st Floor": "Escola - Andar 1",
+      "School Building 2nd Floor": "Escola - Andar 2",
+      "School Building 3rd Floor": "Escola - Andar 3",
+      "Schoolyard": "Pátio",
+      "Main gate": "Portão principal",
+      "Classroom 2-A": "Sala 2-A",
+      "Infirmary": "Enfermaria",
+      "Student Council Room": "Sala do Grêmio",
+      "Janitor's Closet": "Depósito do Zelador",
+      "Storeroom": "Depósito",
+      "Rooftop": "Terraço",
+      "Garden": "Jardim",
+      "Library": "Biblioteca",
+      "My Room": "Meu Quarto",
+      "nota": "Rótulos curtos de mapa usam 'Andar N' porque o caractere 'º' não existe na fonte do jogo; em prosa/diálogo corrido pode-se escrever '1º andar' apenas se sem 'º' (ex.: 'primeiro andar')."
+    },
+
+    "interface": {
+      "Yes": "Sim",
+      "No": "Não",
+      "Exit": "Sair",
+      "Buy": "Comprar",
+      "Sell": "Vender",
+      "Items": "Itens",
+      "Mystic Codes": "Artefatos Místicos",
+      "Search": "Procurar",
+      "Required MP": "MP Necessário",
+      "Master's Support Command": "Comando de Apoio do Mestre",
+      "nota": "MP, HP, ATK e DEF ficam como estão."
+    }
+  },
+
+  "lista_negra": {
+    "Servant (mantido em inglês no texto traduzido)": "Servo",
+    "Master / Masters (mantido em inglês no texto traduzido)": "Mestre / Mestra / Mestres",
+    "Noble Phantasm (mantido em inglês no texto traduzido)": "Fantasma Nobre",
+    "Mystic Code (mantido em inglês no texto traduzido)": "Artefato Místico",
+    "Savior traduzido como Salvador": "Savior (classe nunca se traduz)",
+    "Pergaminho Nobre": "Fantasma Nobre",
+    "Selo de Mando": "Selo de Comando",
+    "Projétil Mágico": "Projeção",
+    "Marble Fantasma": "Projeção de Realidade",
+    "Força Contrária": "Força de Contenção",
+    "Ancestral Verdadeiro": "Ancestral Original",
+    "taumaturgia / feitiçaria (para Magecraft)": "magia",
+    "Mago (para Magician / 魔法使い)": "Feiticeiro / Feiticeira",
+    "Nome completo em ordem ocidental (Rin Tohsaka, Sakura Matou, Issei Ryuudou, Jinako Carigiri, Kiara Sessyoin, Taiga Fujimura)": "Ordem japonesa: Tohsaka Rin, Matou Sakura, Ryuudou Issei, Carigiri Jinako, Sessyoin Kiara, Fujimura Taiga",
+    "Professor(a) + sobrenome onde há -sensei": "Sobrenome-sensei (ex.: Fujimura-sensei)",
+    "SFX em inglês (Tch, Eh?!, Hmph, Sigh, Gasp, Grab)": "Tsc, Hã?! / O quê?!, Hunf, Ah..."
+  },
+
+  "codigos_de_controle": {
+    "nota": "Aparecem dentro do texto. Copiar exatamente, incluindo espaços internos. Nunca traduzir o conteúdo de um código.",
+    "#Cnnnnnnnnn": "Abre uma cor. Os 9 dígitos são a cor. Sempre fechado por #CDEF.",
+    "#CDEF": "Volta à cor padrão.",
+    "#RUBS ... #RUBE ... #REND": "Texto rubi (furigana). Formato: #RUBS<base>#RUBE<leitura>#REND. A base é o que aparece grande, a leitura é o que aparece pequeno em cima.",
+    "#ROFSnnnn": "Desloca o rubi horizontalmente. Vem antes do #RUBS.",
+    "#FAMILY": "Sobrenome do jogador, inserido pelo jogo.",
+    "#GIVEN": "Nome do jogador, inserido pelo jogo.",
+    "#SVT": "Nome do Servo do jogador.",
+    "#TITM0001": "Nome do item corrente.",
+    "#TVALnn": "Valor numérico inserido pelo jogo.",
+    "#[a][b]#": "Seletor de variante por gênero do jogador. Primeira opção = masculino, segunda = feminino. Traduzir as DUAS opções.",
+    "\\n": "Quebra de linha literal. Controla a diagramação da caixa de diálogo; manter a mesma quantidade de linhas do original sempre que possível."
+  },
+
+  "restricoes_tecnicas": {
+    "largura_de_linha": {
+      "regra": "O jogo NÃO quebra linha sozinho. O que passar da largura da caixa é cortado na tela.",
+      "unidade": "pixels; cada caractere comum, inclusive acentuado, mede 7px",
+      "limites": {
+        "dialogo": 338,
+        "dialogo_ultima_linha": 319,
+        "escolha": 350,
+        "in_dungeon": 396,
+        "info_matrix": 423,
+        "secret_garden": 415
+      },
+      "em_caracteres": "diálogo 48 por linha, 45 na última; escolha 50 em uma linha só",
+      "max_linhas": { "dialogo": 3, "escolha": 1, "in_dungeon": 2 },
+      "caracteres_largos": "… ～ ― — ☆ ♪ □ △ ○ × ◆ → 「 」 ※ medem 15px, não 7",
+      "nomes_variaveis": "medidos no pior caso: #FAMILY e #GIVEN contam 11 caracteres, #SVT conta 9, e #[a][b]# conta pela variante mais longa",
+      "verificacao": "python tools/medida.py (também roda a cada build)"
+    },
+    "genero_do_protagonista": {
+      "regra": "O jogador escolhe se o protagonista é homem ou mulher. Todo adjetivo, particípio, pronome ou tratamento que se refira a ele precisa do seletor #[masculino][feminino]#.",
+      "ordem": "primeira opção masculina, segunda feminina",
+      "exemplos": [
+        "Você tem essa cara de #[bobo][boba]#",
+        "Você é bem #[direto][direta]#",
+        "Será um prazer recebê-#[lo][la]#",
+        "#[Sr.][Srta.]#"
+      ],
+      "verificacao": "python tools/genero.py — levanta suspeitas para revisão humana, não decide sozinho"
+    },
+    "acentos_disponiveis": ["á", "é", "í", "ó", "ú", "â", "ê", "ô", "ã", "õ", "ç", "à", "Á", "É", "Í", "Ó", "Ú", "À", "Ç"],
+    "acentos_indisponiveis": {
+      "lista": ["Â", "Ã", "Ê", "Ô", "Õ"],
+      "efeito": "São rebaixados automaticamente para A, E, O na hora de gravar.",
+      "orientacao": "Escreva em Caixa Alta Apenas na Inicial (Opções, não OPÇÕES) e o problema não aparece."
+    },
+    "preload_pak": {
+      "regra": "NENHUM arquivo dentro de pack/PRELOAD.pak pode mudar de tamanho, nem um byte.",
+      "motivo": "O patch inglês carrega o código nativo logo depois do conteúdo do PRELOAD, num endereço gravado dentro do EBOOT. Crescer desloca esse código e o jogo dá tela preta no boot.",
+      "protecao": "tools/build.py e tools/accents.py abortam ou mantêm o arquivo em inglês automaticamente."
+    },
+    "campos_largura_fixa": {
+      "onde": ["ptbr/sg/", "ptbr/lore/", "parte de ptbr/menus/", "ptbr/sistema/eboot.po"],
+      "regra": "O comentário `#. max N bytes` no .po é o limite real. Acentos custam 1 byte (são bytes de controle), igual a uma letra comum.",
+      "consequencia": "Se estourar, o build mantém aquela entrada em inglês e avisa."
+    },
+    "historia_sem_limite": {
+      "regra": "Textos de ptbr/historia/ podem crescer à vontade: cada fala é referenciada por ponteiro e o texto maior é gravado no fim do arquivo com o ponteiro reapontado.",
+      "excecao": "field_new/main/0000.dat mora no PRELOAD.pak e NÃO pode crescer."
+    },
+    "arquivos_intocaveis": {
+      "interface/cmn/install.bin": "Fica em inglês. Está no PRELOAD, é UTF-8 (acento custa 2 bytes) e o inglês já ocupa os 656 bytes exatos.",
+      "interface/item/msg.bin": "Placeholder japonês, não é texto de UI.",
+      "cmn/item_param_01.bin e _04.bin": "Não contêm texto: só marcadores !rmap> apontando para o código nativo."
+    }
+  },
+
+  "unidades_bloqueadas": {
+    "items": "~493 textos. O texto vive em espaço de relocação compilado no patch.o. Exige reconstruir o código nativo com o PSP SDK.",
+    "subs": "~1.365 textos (legendas de vozes de batalha). Geradas em generated.cpp e compiladas. Mesmo bloqueio.",
+    "sdk": "O PSP SDK já está instalado em C:/pspsdk (psp-gcc 4.3.5) e PSPSDK_HOME já está configurado."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_kia_text4",
+  "po": "ptbr/sg/interface__sg__sg_kia_text4.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Sessyoin Kiara] — Episódio",
+  "origem": "interface/sg/sg_kia_text4.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Kiara's Noble Phantasm",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "#RUBS All the World's Desire#RUBEAngra Mainyu#REND/CCC:\n\nThe Noble Phantasm of the demonized Kiara Sessyoin.\n\nBy absorbing two Alter Egos and utilizing the Moon Cell,\nKiara Sessyoin turned into a demon.\nShe turns into an Earth Mother, accepting all of humanity's\ndesires and at the same time becoming a sacrifice to them.\n\nAn existence similar to the man-made demon who was\naccused as a demon and honored as a sacrifice\nto prove the evil of mankind.\n\nBecoming the outlet for all of mankind's desires, she uses\nher Code#RUBSTen Thousand Colored Stagnation#RUBE Cast Banshoku Yuutai#REND to invite people's souls,\nbillions of them, creating a maelstrom of pleasure.\nThat maelstrom melts those possessing intelligence,\nsublimating their \"lives\" into a single moment.\nIt is the birth of a fleeting, but eternal#RUBSPure Land of Bliss#RUBE Sukhāvatī#REND.\n\nThis maelstrom of pleasure is effective on any being\nwith intelligence, regardless of its structure.\nIt is not a Noble Phantasm restricted to this World.\n",
+      "pt": ""
+    }
+  ]
+}

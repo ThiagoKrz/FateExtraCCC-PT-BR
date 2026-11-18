@@ -1,0 +1,171 @@
+{
+  "id": "lore/interface__infomatrixex__infomatrix_d_07",
+  "po": "ptbr/lore/interface__infomatrixex__infomatrix_d_07.po",
+  "grupo": "11_lore_matriz",
+  "capitulo": "Info Matrix",
+  "titulo": "Info Matrix (Ficha 07) — Cap. 7 / Final — Sessyoin Kiara e Andersen",
+  "origem": "interface/infomatrixex/infomatrix_d_07.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 14,
+  "linhas_exclusivas": 13,
+  "traduzidas": 1,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "Kiara Sessyoin",
+      "pt": "Sessyoin Kiara"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 6,
+      "en": "マスター偽名",
+      "pt": ""
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Hans Christian Andersen",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 8,
+      "en": "サーバント偽名",
+      "pt": ""
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "#RUBS        A Story Just For You#RUBEMärchen Meines Lebens#REND",
+      "pt": ""
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 9,
+      "en": "#RUBSほうぐぎめい#RUBE宝具偽名#REND",
+      "pt": ""
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "The Three Great Authors",
+      "pt": ""
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "The Three Great Authors",
+      "pt": ""
+    },
+    {
+      "id": 9,
+      "msgctxt": "8",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Human Observation",
+      "pt": ""
+    },
+    {
+      "id": 10,
+      "msgctxt": "9",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Human Observation",
+      "pt": ""
+    },
+    {
+      "id": 11,
+      "msgctxt": "10",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Character Background I",
+      "pt": ""
+    },
+    {
+      "id": 12,
+      "msgctxt": "11",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Character Background I",
+      "pt": ""
+    },
+    {
+      "id": 13,
+      "msgctxt": "12",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Character Background II",
+      "pt": ""
+    },
+    {
+      "id": 14,
+      "msgctxt": "13",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Blank Page",
+      "pt": ""
+    }
+  ]
+}

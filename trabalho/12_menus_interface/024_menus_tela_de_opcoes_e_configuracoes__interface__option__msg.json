@@ -1,0 +1,105 @@
+{
+  "id": "menus/interface__option__msg",
+  "po": "ptbr/menus/interface__option__msg.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Tela de Opções e Configurações",
+  "origem": "interface/option/msg.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 8,
+  "linhas_exclusivas": 8,
+  "traduzidas": 8,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change the text display speed.",
+      "pt": "Altera a velocidade do texto."
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Turn event voices ON/OFF.",
+      "pt": "Liga e desliga as vozes dos eventos."
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change the BGM volume.",
+      "pt": "Altera o volume da música."
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change SE and voice volumes.",
+      "pt": "Altera o volume de efeitos e vozes."
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change camera controls in Arena.",
+      "pt": "Altera os controles de câmera na Arena."
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Change the game difficulty.",
+      "pt": "Altera a dificuldade do jogo."
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Save into the installed data.",
+      "pt": "Salva nos dados instalados."
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Save settings and return to System Menu.",
+      "pt": "Salva e volta ao Menu do Sistema."
+    }
+  ]
+}

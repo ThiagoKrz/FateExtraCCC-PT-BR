@@ -1,0 +1,29 @@
+# Menu / interface - interface/title/msg.bin
+# Fonte no jogo: interface/title/msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Data Install is disabled for the patched"
+msgstr "A Instalação de Dados está"
+
+msgctxt "1"
+msgid "version of Fate/Extra CCC."
+msgstr "desativada nesta versão."
+
+msgctxt "2"
+msgid ""
+msgstr ""
+
+msgctxt "3"
+msgid "It provides no benefits because the game data"
+msgstr "Não traz vantagem: os dados do jogo são"
+
+msgctxt "4"
+msgid "is always loaded from the memory stick."
+msgstr "sempre lidos do memory stick."
+

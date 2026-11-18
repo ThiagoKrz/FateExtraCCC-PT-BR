@@ -1,0 +1,2314 @@
+# Historia - cena 091
+# Fonte no jogo: field_new/091/0000.dat
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. locationOrName
+msgctxt "12020"
+msgid "Rani"
+msgstr ""
+
+#. locationOrName
+msgctxt "12040"
+msgid "Dan"
+msgstr ""
+
+#. locationOrName
+msgctxt "12048"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12056"
+msgid "Gatou"
+msgstr ""
+
+#. locationOrName
+msgctxt "12064"
+msgid "Lil' Ronnie"
+msgstr ""
+
+#. locationOrName
+msgctxt "12080"
+msgid "Julius"
+msgstr ""
+
+#. locationOrName
+msgctxt "12104"
+msgid "Leo"
+msgstr ""
+
+#. locationOrName
+msgctxt "12112"
+msgid "Twice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12124"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12136"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12148"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12220"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12272"
+msgid "Gawain"
+msgstr ""
+
+#. locationOrName
+msgctxt "12304"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12412"
+msgid "???"
+msgstr ""
+
+#. locationOrName
+msgctxt "12420"
+msgid "Servant"
+msgstr ""
+
+#. locationOrName
+msgctxt "12436"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12448"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12460"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12472"
+msgid "Rider"
+msgstr ""
+
+#. locationOrName
+msgctxt "12484"
+msgid "Lancer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12496"
+msgid "Berserker"
+msgstr ""
+
+#. locationOrName
+msgctxt "12512"
+msgid "Assassin"
+msgstr ""
+
+#. locationOrName
+msgctxt "12524"
+msgid "Savior"
+msgstr ""
+
+#. locationOrName
+msgctxt "12580"
+msgid "Andersen"
+msgstr ""
+
+#. locationOrName
+msgctxt "12596"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12604"
+msgid "Passionlip"
+msgstr ""
+
+#. locationOrName
+msgctxt "12624"
+msgid "Meltlilith"
+msgstr ""
+
+#. locationOrName
+msgctxt "12640"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12656"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12672"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12688"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12704"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12740"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12756"
+msgid "Jinako"
+msgstr ""
+
+#. locationOrName
+msgctxt "12764"
+msgid "Karna"
+msgstr ""
+
+#. locationOrName
+msgctxt "12772"
+msgid "Green Tea"
+msgstr "Chá Verde"
+
+#. locationOrName
+msgctxt "12792"
+msgid "Newscaster"
+msgstr "Apresentador"
+
+#. locationOrName
+msgctxt "12812"
+msgid "Rin's Archer"
+msgstr "Archer da Rin"
+
+#. locationOrName,locationOrName2
+msgctxt "13184"
+msgid "Rooftop"
+msgstr "Terraço"
+
+#. locationOrName,locationOrName2
+msgctxt "13192"
+msgid "Storeroom"
+msgstr "Depósito"
+
+#. locationOrName,locationOrName2
+msgctxt "13224"
+msgid "Garden"
+msgstr "Jardim"
+
+#. locationOrName,locationOrName2
+msgctxt "13392"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. locationOrName,locationOrName2
+msgctxt "13404"
+msgid "Library"
+msgstr "Biblioteca"
+
+#. locationOrName2
+msgctxt "13516"
+msgid "Search"
+msgstr "Procurar"
+
+#. backlog,motion,text
+msgctxt "30768"
+msgid "Activate the switch?"
+msgstr ""
+
+#. choice
+msgctxt "30792"
+msgid "Press."
+msgstr ""
+
+#. popupStd
+msgctxt "30916"
+msgid "HP & MP fully restored."
+msgstr ""
+
+#. unk_op1653
+msgctxt "30948"
+msgid "Save?"
+msgstr ""
+
+#. unk_op1653
+msgctxt "30968"
+msgid "Retry battle?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40068"
+msgid "Is there a checkpoint in that area?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40312"
+msgid "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40848"
+msgid "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "41868"
+msgid "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42160"
+msgid "Apocalypse Now!\nCome back soooooooon!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42628"
+msgid "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "43540"
+msgid "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest."
+msgstr ""
+
+#. unk_op1659
+msgctxt "47768"
+msgid "　Obtained\n#C000246204#TITM0001#CDEF."
+msgstr "　Obtido:\n#C000246204#TITM0001#CDEF."
+
+#. popupStd_line1
+msgctxt "47812"
+msgid "Obtained"
+msgstr "Obtido"
+
+#. unk_op1653
+msgctxt "576940"
+msgid "Challenge the gatekeeper?"
+msgstr ""
+
+#. popupStd
+msgctxt "577192"
+msgid "Checkpoint unlocked."
+msgstr ""
+
+#. choice
+msgctxt "577308"
+msgid "Stay here."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578084"
+msgid "You WOULD be here.\nYou never listen, do you?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578140"
+msgid "#C236196003Rin#CDEF…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578168"
+msgid "Or maybe one of #C236196003Rin#CDEF's other selves?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579936"
+msgid "Uhh―――What did you say?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579964"
+msgid "Tohsaka Money-Is-Power-System! Yeah!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580004"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580020"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580036"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580052"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580068"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580084"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580100"
+msgid "………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580392"
+msgid "Hmhm. Hehehe. Aa-hahaha! See ya～!\nPad my savings as much as you can!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580488"
+msgid "―――Huh!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581924"
+msgid "This will lower the target enemy's level.\nPlease insert 2,000 #RUBSSakurament#RUBESm#REND."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582024"
+msgid "This will lower the target enemy's level.\nPlease insert 3,000 #RUBSSakurament#RUBESm#REND."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582844"
+msgid "Sakurament… I don't know what they were going\nfor with that name, but isn't it just a veil\nfor \"Sacrament\"?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583064"
+msgid "Sakura-ment…? Huhh? I feel like I have heard\nof a word that means that… Ah, whatevz!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583764"
+msgid "Please insert 2,000 Sm."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583800"
+msgid "Please insert 3,000 Sm."
+msgstr ""
+
+#. choice
+msgctxt "583836"
+msgid "Pay 2,000 Sm."
+msgstr ""
+
+#. choice
+msgctxt "583860"
+msgid "Pay 3,000 Sm."
+msgstr ""
+
+#. choice
+msgctxt "583884"
+msgid "Not right now…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583908"
+msgid "Confirming payment… … …"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584308"
+msgid "Target enemy's level has been lowered.\nThank you for your service."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584384"
+msgid "This will lower the target enemy's level.\nPlease insert #RUBSSakurament#RUBESm#REND."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584592"
+msgid "…there was no treasure."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "585908"
+msgid "Perhaps having a lavish Servant causes a Master\ndistress."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "587528"
+msgid "Thanks as always～鷙\nGreat job, #C236196003#GIVEN#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "588220"
+msgid "Ghnn…\nHmph. Fine, whatever.\nI'm not annoyed or anything at ALL!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "588380"
+msgid "…that's right. This Tohsaka Money-Is-Power\nsystem is nothing but a nonsensical event\nthat's lost its point."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "588500"
+msgid "This shield blocking our path is an\nimpenetrable wall."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "589508"
+msgid "The more money the better, no?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "589664"
+msgid "#C236196003Rin#CDEF answered plainly.\nShe looks cheerful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "589732"
+msgid "…I see."
+msgstr ""
+
+#. choice
+msgctxt "590332"
+msgid "Money Slave"
+msgstr ""
+
+#. choice
+msgctxt "590344"
+msgid "Money Queen"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "590460"
+msgid "Ah―――Not that…!\nAh, wa-ahh―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "591256"
+msgid "The blood Servant, #C236196003Lancer#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "591304"
+msgid "The first time, we were no match.\nNow though, maybe we…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "591364"
+msgid "…#C236196003Lancer#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "591728"
+msgid "……………………………………\n……………………………………\n……well, I'll let you go this time too."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "592076"
+msgid "Tch, this isn't something to be thanking me for!\nRemember that, #C236196003#NICK#CDEF, #C236196003#SVT#CDEF, and that\nlounging #C236196003Leonardo#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "593080"
+msgid "But――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "594192"
+msgid "But―――just now, #C236196003Rin#CDEF said \"slave labor.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "594364"
+msgid "Or could it be that #C236196003Rin#CDEF hasn't seen it…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "594568"
+msgid "I nod, \"That's right.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "594992"
+msgid "Everything until now was just her expressing\n[#C000246204Overly Self-conscious#CDEF] and [#C000246204Money Worship#CDEF]…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "595212"
+msgid "I nod, \"Obviously.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "596596"
+msgid "#C236196003Gawain#CDEF…!?\nWh-what is he doing here…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "597044"
+msgid "Eh? NOW!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "597352"
+msgid "In this school… time does not flow. Thus,\nthe Harwey Tenterest System makes no sense!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "597616"
+msgid "Th-this is ridiculousssssss!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "597840"
+msgid "And hey! #C236196003Gawain#CDEF!\nDoesn't it hurt your knightly pride, being\nmade to do such dirty jobs!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "598412"
+msgid "Thanks, come again."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "598432"
+msgid "Oh? It appears that #C236196003#NICK#CDEF does not possess\nenough money. What shall we do, #C236196003Leo#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "598692"
+msgid "The total amounts to this.\nWhat say you, #C236196003Leo#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "599336"
+msgid "…ah, I see.\nThat explains their hostility. Indeed."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "599456"
+msgid "…and thus the storm passed."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "599692"
+msgid "Throw me a bone once in a while…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "600012"
+msgid "Sir. By your command, my lord―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "600412"
+msgid "Your Servant has lost their strength…\nNo one may call this a fair bout.\nPlease do not be disheartened by this."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "600612"
+msgid "Now then, I shall recover the due sum.\n……oh?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "600660"
+msgid "It appears that #C236196003#NICK#CDEF does not possess\nenough money. What shall we do, #C236196003Leo#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "600912"
+msgid "The total amounts to this.\nWhat say you, #C236196003Leo#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "602000"
+msgid "I stand up and nod, \"You're right.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "602560"
+msgid "#C236196003Leo#CDEF…\nI have failed you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "602696"
+msgid "It makes for a meager reward, but it's fine as\nloaned money. Consider it as me investing\nin you."
+msgstr ""
+
+#. popupStd
+msgctxt "603796"
+msgid "Repaid the 100,000 Sm."
+msgstr ""
+
+#. popupStd
+msgctxt "604308"
+msgid "Head to the next floor?"
+msgstr ""
+
+#. choice
+msgctxt "604348"
+msgid "Stay here."
+msgstr ""
+
+#. locationOrName
+msgctxt "638000"
+msgid "Rin Tohsaka"
+msgstr "Tohsaka Rin"
+
+#. locationOrName
+msgctxt "638012"
+msgid "Shinji Matou"
+msgstr "Matou Shinji"
+
+#. locationOrName
+msgctxt "638028"
+msgid "Sakura Matou"
+msgstr "Matou Sakura"
+
+#. locationOrName
+msgctxt "638044"
+msgid "Taiga Fujimura"
+msgstr "Fujimura Taiga"
+
+#. locationOrName
+msgctxt "638060"
+msgid "Aozaki Touko"
+msgstr ""
+
+#. locationOrName
+msgctxt "638076"
+msgid "Issei Ryuudou"
+msgstr "Ryuudou Issei"
+
+#. locationOrName
+msgctxt "638092"
+msgid "Father Kotomine"
+msgstr "Padre Kotomine"
+
+#. locationOrName
+msgctxt "638108"
+msgid "Male Student"
+msgstr "Aluno"
+
+#. locationOrName
+msgctxt "638124"
+msgid "Female Student"
+msgstr "Aluna"
+
+#. locationOrName
+msgctxt "638140"
+msgid "Young Man"
+msgstr "Rapaz"
+
+#. locationOrName,locationOrName2
+msgctxt "638152"
+msgid "Main gate"
+msgstr "Portão principal"
+
+#. locationOrName,locationOrName2
+msgctxt "638164"
+msgid "Schoolyard"
+msgstr "Pátio"
+
+#. locationOrName,locationOrName2
+msgctxt "638176"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "638196"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "638216"
+msgid "School Building 3F"
+msgstr "Escola - Andar 3"
+
+#. locationOrName,locationOrName2
+msgctxt "638236"
+msgid "Classroom 2-A"
+msgstr "Sala 2-A"
+
+#. locationOrName,locationOrName2
+msgctxt "638252"
+msgid "Infirmary"
+msgstr "Enfermaria"
+
+#. locationOrName,locationOrName2
+msgctxt "638264"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "638284"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "638304"
+msgid "1st & 2nd Year Classroom"
+msgstr "Salas do 1o e 2o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "638332"
+msgid "3rd Year Classroom"
+msgstr "Salas do 3o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "638352"
+msgid "Student Council Room"
+msgstr "Sala do Grêmio"
+
+#. locationOrName,locationOrName2
+msgctxt "638376"
+msgid "Janitor's Closet"
+msgstr "Depósito do Zelador"
+
+#. choice
+msgctxt "638396"
+msgid "Don't press."
+msgstr ""
+
+#. popupStd_line2
+msgctxt "638412"
+msgid "#TVAL02 Sm#CDEF."
+msgstr ""
+
+#. unk_op1659
+msgctxt "638432"
+msgid "　You cannot carry any more\n#C000246204#TITM0001#CDEF."
+msgstr "　Você não pode carregar mais\n#C000246204#TITM0001#CDEF."
+
+#. backlog,motion,text
+msgctxt "638488"
+msgid "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "638592"
+msgid "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "638728"
+msgid "I'm concerned about #C236196003Rin#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "638772"
+msgid "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "638912"
+msgid "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639032"
+msgid "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639132"
+msgid "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639324"
+msgid "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639388"
+msgid "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639468"
+msgid "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639584"
+msgid "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639712"
+msgid "Even in cyberspace, you need proper rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639756"
+msgid "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639884"
+msgid "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640012"
+msgid "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640120"
+msgid "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640208"
+msgid "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640300"
+msgid "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640448"
+msgid "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640532"
+msgid "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640664"
+msgid "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640764"
+msgid "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640924"
+msgid "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641052"
+msgid "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641144"
+msgid "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641276"
+msgid "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641376"
+msgid "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641584"
+msgid "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641708"
+msgid "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641840"
+msgid "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641932"
+msgid "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642056"
+msgid "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642136"
+msgid "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642240"
+msgid "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642328"
+msgid "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest."
+msgstr ""
+
+#. unk_op1650
+msgctxt "642448"
+msgid "You may now save your current game data\n            as #C000246204Clear Data#CDEF."
+msgstr "Agora você pode salvar seus dados\n         como #C000246204Clear Data#CDEF."
+
+#. unk_op1650
+msgctxt "642532"
+msgid "     You may use this data to carry\nover elements to the start of a new game."
+msgstr "     Você pode usar esses dados para levar\nelementos ao início de um novo jogo."
+
+#. unk_op1650
+msgctxt "642612"
+msgid "Please be careful to not overwrite\n  the data while you are saving."
+msgstr "Tome cuidado para não sobrescrever\n  os dados ao salvar."
+
+#. unk_op1653
+msgctxt "642680"
+msgid "Would you like to save your Clear Data?"
+msgstr "Deseja salvar seus Clear Data?"
+
+#. popupSaveBeforeQuit_line1
+msgctxt "642720"
+msgid "Are you sure you wish to exit"
+msgstr "Tem certeza de que deseja sair"
+
+#. popupSaveBeforeQuit_line2
+msgctxt "642752"
+msgid "without saving the Clear Data?"
+msgstr "sem salvar os Clear Data?"
+
+#. backlog,motion,text
+msgctxt "642784"
+msgid "We enter a new floor and soon come to a wide expanse.\nTo our left, there's a path. In front of us is――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642892"
+msgid "I didn't think she'd just be waiting for us though…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642948"
+msgid "But I'll let you off the hook, this time. Or\nshould I say, thanks for being so predictable.\nYou wouldn't be you otherwise, #C236196003#GIVEN#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643096"
+msgid "Hm…? Why are you thanking #[him][her]#, #C236196003Rin#CDEF?\nDid you perhaps come here to ask for my\nPraetor's help in restoring your sanity?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643240"
+msgid "…careful, Master. That smile is the same as\nwhen a predator finds its prey. If you're not\nprepared, she'll strip you down to your shoes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643380"
+msgid "Do not be deceived, Darling. That smile\nis of a woman whose wily schemes are in motion."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643468"
+msgid "If you ask how I know this, well,\nI DO have a mirror, you know?\nI suppose she reminded me of myself."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643572"
+msgid "Well, well. What fine eyes you have, mongrel;\ndazzled by avarice. Has your true nature shown\nitself? That of a bill collector in pursuit?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643712"
+msgid "Ever the eyesore, that Servant.\nBut I'll let the heckles slide since #SVT[she][he][she][he]# is so\nannoying…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643824"
+msgid "Well, you ARE an important guest.\nMaybe I should make some use of that liveliness\nof yours today."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "643924"
+msgid "#C236196003#GIVEN#CDEF? If you want to reach the outside,\nthen you'll have to head to the end of this\npath. Just one thing―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644056"
+msgid "As you can see, there's an obstacle in your way.\nWill you be able to beat it and continue\nforward?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644156"
+msgid "Please wait a second. We analyzed your footage\nand concluded that the hostile enemy you see\nwas specially made."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644268"
+msgid "Please #C000246204avoid fighting it at all costs#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644324"
+msgid "Wow, was that voice #C236196003Leo#CDEF's? So he was thrown\ninto that old school too. Well, whatever."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644428"
+msgid "#C236196003Leo#CDEF is right. This guy is pretty tough.\nYou'll have a tough time beating him with that\nServant of yours."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644552"
+msgid "But―――I'll offer a lifeline this time.\n\"If you scratch my back,\" that is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644632"
+msgid "If you show me some good will, I'll lower his\nrank for you. I set up a terminal with direct\naccess to my bank account, just over there."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644768"
+msgid "If you want to take things easy, then\n#C000246204pay the designated amount#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644852"
+msgid "I call it the \"Tohsaka Money-Is-Power-System\"!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "644900"
+msgid "Ah, brother, could you boil up some tea for me?\nSomething bitter and hot. I want to turn my\nmood around, just a bit."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645020"
+msgid "Heheheh… You're so terrified that you\ncan't even speak, huh? I'll take my leave here."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645108"
+msgid "What happens now depends on you, #C236196003#GIVEN#CDEF.\nI'll at least permit you to either fight with\nthe power you have or raise some funds."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645252"
+msgid "Damn! I was so astonished that I went and lost\nsight of #C236196003Rin#CDEF…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645332"
+msgid "Praetor. I know how you feel, but pull yourself\ntogether. Unlike #C236196003Rin#CDEF's brains, that enormity\nthere is definitely a formidable threat."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645484"
+msgid "Will you take arms and fight head-to-head?\nOr look for valuables in the labyrinth?\nMayhap gather funds through your compatriots?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645616"
+msgid "I will abide by your decision.\nThink long and hard about it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645680"
+msgid "Master. It's okay to be surprised, but this is\nserious. It's in her nature to do this sort\nof thing sometimes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645792"
+msgid "So we'll just have to play along. We can beat\nthat gatekeeper using all we got, or we can\ngather up goods from beating other enemies."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "645928"
+msgid "Or, you could ask people you know for money.\nI'll leave the choice up to you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646008"
+msgid "…okay… Some people really think this way,\nhuh…? That #C236196003Rin Tohsaka#CDEF… I regret making an\nenemy out of that woman…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646140"
+msgid "I got it. If my husband were to ever lose his\nlife's savings, I will try imitating her ☆"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646232"
+msgid "Her wisdom floodeth over, I must say. That\nwoman, I had thought she was a buffoon, but she\nknows how to make logical use of slaves."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646364"
+msgid "Taking your enemy's life and making money are\ntwo different matters. Wearing adversary down\nwhile your enriching your nation's treasury―"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646504"
+msgid "A formidable friend you had, #C236196003#FAMILY#CDEF. I did\ntell you to pick your friends more wisely, but\nI'll agree with that one. Very interesting."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646656"
+msgid "Be that as it may, I will not give you my gold.\nMake your money with your own two hands."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646748"
+msgid "I didn't see this coming at all,\nbut I get the logic behind it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646812"
+msgid "For the time being,\n#C000246204let's try searching the area around here#CDEF…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646892"
+msgid "Greaaat鷙\nYou did as I hoped you would,\ndidn't you, my sweet worker ant!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "646968"
+msgid "She's hardly making sense any more.\nThat girl's head is chock full of nothing but $."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647056"
+msgid "It's just her excitement talking.\nShe must be elated to have gained so much money."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647140"
+msgid "If you liked that, #C236196003#GIVEN#CDEF,\nthen allow me to introduce even more, new goods!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647232"
+msgid "The enemy this time is even more tough and \npowerful! With this little guy, #C236196003#GIVEN#CDEF,\nI plan to take every penny of your finances!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647380"
+msgid "…not bad. You managed to beat that program\nwith just your current power. I underestimated\nyour stingin―your strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647500"
+msgid "This time for sure though, I'll be taking every\ncent you have! Of course, through this even\nstronger money system!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647616"
+msgid "…I've been wondering something for a while now.\nWith all her brilliant talent, why does this\nwoman employ such obtuse methods?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647744"
+msgid "Mhm. A natural money-grubber. All that awaits\nher in the underworld is Datsue-ba of the three\ncrossings or Charon on the river Lethe."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647880"
+msgid "Hmph. What's with that look? If you think about\nit, I'm suffering here, too."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "647960"
+msgid "That #C236196003Lancer#CDEF is an extravagant one, you know.\nShe says she \"wants a much bigger bath,\"\nso I'm gonna need to be well funded."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648100"
+msgid "Ergo, I'll need a BIG cha-ching of a deposit.\nThanks～!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648156"
+msgid "…hmm. It sounds like that damned #C236196003Lancer#CDEF's\nsquandering is the cause for #C236196003Rin#CDEF's eccentric\nbehavior."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648288"
+msgid "However, that too is part of a Master's\nresourcefulness. A Master has a natural duty to\nfulfill their Servant's worldly desires!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648420"
+msgid "Yes. We have learned something today, Master."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648468"
+msgid "We  learned  something,  right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648500"
+msgid "…I'm a little relieved now. These tactics\nmade me doubt her sanity, but she's not actually\nharassing us. #C236196003Lancer#CDEF's just wasteful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648648"
+msgid "But she's still our enemy right now. We can't be\ngiving her any pity. So, what do we do, Master?\nStill have some weight in that wallet?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648784"
+msgid "I see… So of all things,\n#C236196003Rin#CDEF made a contract with a #RUBSmoney-eating bug#RUBEspendthrift#REND, huh?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "648904"
+msgid "#C236196003Rin#CDEF, as the Master, has to cover all the costs\nof that lizard girl's exorbitance. How cruel…\n#C236196003Lancer#CDEF is seriously a harpy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649060"
+msgid "Ah, but hold on, hold on―a reliable husband\nalways overlooks his own wife's playfulness\nwith a smile鷙"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649164"
+msgid "#C236196003Rin#CDEF may be our enemy, but I think we should\nsupport her attitude in all this."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649260"
+msgid "So this persistent fundraising is #C236196003Lancer#CDEF's\ndoing? But even further incorrigible than the\nMaster is that lavish Servant."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649396"
+msgid "She contracted the wrong partner. As a\ntactician, she is capable, but one who scurries\nabout to provide for a subject is no ruler."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649528"
+msgid "Subjects are the ones who support the treasury.\n#C236196003Rin Tohsaka#CDEF. You work a tad too hard to name\nyourself \"Queen of the Moon.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649668"
+msgid "…I understand #C236196003Rin#CDEF's situation a bit better\nnow. It sounds like that #C236196003Lancer#CDEF is the culprit\nhere."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649800"
+msgid "It's not like I can't sympathize with having a\nServant that doesn't listen to you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649884"
+msgid "But that aside, what's happening now is\nthat she's pressing me for even more money."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "649968"
+msgid "Around. Around.\nMy ticking bank account goes all around."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650028"
+msgid "Am I going to let #C236196003Rin#CDEF keep swindling me,\nor am I ready to fight to the death?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650124"
+msgid "The destiny of one who pays-to-win\nis so heavy, so bitter."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650184"
+msgid "#C236196003Rin#CDEF…\nI do not believe that greeting is appropriate…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650256"
+msgid "The service ends here, though. Sorry to have\nyou toil so hard to make me money,\nbut your search ends here."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650364"
+msgid "I won't let you go any further. Actually, as\nlong as this wall is here, you won't be able\nto no matter how hard you try."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650488"
+msgid "Kuh! I couldn't believe it, so I rushed over.\nLo and behold, you beat him free-to-play…!\nCheat! You're cheating, aren't you!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650616"
+msgid "Don't hate the player, hate the game you made.\nIf anyone is cheating, it's you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650696"
+msgid "True. But we're still pretty shocked.\nWe thought for sure you wouldn't be able to\nbeat this enemy…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650796"
+msgid "I think we glimpsed at humanity's true\npotential. Anger from getting ripped off by\n#C236196003Rin Tohsaka#CDEF. That alone upset the balance…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "650940"
+msgid "At any rate, your advance stops here.\nSince, as long as this wall is here, you won't\nbe able to get past."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651048"
+msgid "#C236196003Rin#CDEF's hidden \"heart.\"\nAs long as I refuse to understand that heart,\nI won't be able to open that door."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651168"
+msgid "…so it is.\nBut before that, I have something I want to ask."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651232"
+msgid "#C236196003Rin#CDEF. Is the purpose of this money system to\nserve #C236196003Lancer#CDEF? You say you need money for\nyour Servant?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651364"
+msgid "…let me take it from here, Master.\n#C236196003Rin Tohsaka#CDEF. Was this money collection mess\nreally necessary to sustain #C236196003Lancer#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651512"
+msgid "That shield is troublesome, after all…\nWell, let us put that aside."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651584"
+msgid "#C236196003Rin#CDEF. I have a single question: for future\nreference, did you struggle with money up 'til\nnow to provide for that extravagant #C236196003Lancer#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651752"
+msgid "\"Shield,\" you said? It would be tactless to\ndemolish this wall by brute force. Joy is found\nonly after making a human's #RUBS  heart#RUBEdesire#REND clear."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "651908"
+msgid "Therefore, I shall bestow upon you a question.\nRed miser, there. Is #C236196003Lancer#CDEF truly the cause for\nyour gathering of money?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652044"
+msgid "Eh? Why #C236196003Lancer#CDEF? She doesn't have much to do with\nthis. I simply like money a lot."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652144"
+msgid "#C236196003Lancer#CDEF can't live without extravagance because\nher lineage is what it is―but I'm different.\nI have no interest in things like luxury."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652296"
+msgid "Basically, it's not that #C236196003Rin Tohsaka#CDEF enjoys luxury――\nrather, she simply likes money itself…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652408"
+msgid "Yes, that's right! Even I think it's strange,\nbut whenever I see a mountain of cash, I get\na little choked up!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652520"
+msgid "Until now I haven't told anyone―no, it was so\nembarrassing I absolutely could never mention\nit, you know鷙"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652628"
+msgid "Look. I may be resisting you, but I wouldn't be\nexaggerating if I said I was half doing it for\nthe money."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652736"
+msgid "Getting paid by older Middle Easterners is the\nBEST, and high-grade treasure, too―――\nUgh….!? Wait, what―this pain again!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652864"
+msgid "…! A current runs through my left hand.\nMy body lightens, as if wanting to dash about."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "652952"
+msgid "That's the gap in #C236196003Rin#CDEF's heart…!\nIf I had to define it, I would say she's a:"
+msgstr ""
+
+#. choice
+msgctxt "653048"
+msgid "Money Zombie"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653064"
+msgid "Yeah. Well, there's a lot of ways to say it,\nbut she's definitely―"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653132"
+msgid "I say what I had summarized, [#C000246204Money Worship#CDEF]―――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653200"
+msgid "That's it! A splendid question you made,\n#C236196003#FAMILY#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653268"
+msgid "Huh? You're kidding me!?\nMy protection was destroyed again!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653332"
+msgid "*kgh*. Play time is over now. I'm going to rout\nyou here and now, then send you off to the\ntorture chamber."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653440"
+msgid "Come here, #C236196003Lancer#CDEF!\nThis time I really will let you have your way!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653524"
+msgid "…! I felt prepared, but consecutive battles\nare…! Praetor, this battle will be a harsh\none!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653620"
+msgid "#C236196003Lancer#CDEF now, huh…!?\nWe're different than we were before, though!\nLet's go all out, Master!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653728"
+msgid "She is desperate enough to use her trump card,\nso now her defeat flag has been completely set!\nDarling, let us take them down!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653856"
+msgid "Consecutive battles? Light a fire in your belly,\nmongrel. You too have grown a bit.\nSoon we should be able to fight decently."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "653984"
+msgid "My body felt exhausted after the previous money\nsystem battles, but #C236196003#SVT#CDEF's encouragement\nhelped me brace myself once more."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654124"
+msgid "Are you dumb? I won't do it right now. I told\nyou that I'm off during my baths, no? Skin\nmaintenance is a required class for idols."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654256"
+msgid "More importantly, my bath blood is running out.\nDidn't I tell you that I never use the same\nblood twice?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654364"
+msgid "Hurry up and catch some more cattle.\nDon't you want to become the #C000246204Queen of the Moon#CDEF?\nThen get it done. Chop chop."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654496"
+msgid "I frantically stop myself from immediately\nreplying with, \"Thank you.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654568"
+msgid "I have a hunch that if I thanked her now,\nthen #C236196003Rin#CDEF would resent me for life right after."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654676"
+msgid "Thank you very much, Miss #C236196003Tohsaka#CDEF.\nYour sympathy has been a lifesaver."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654764"
+msgid "If I end up catching you all, I'll do craaazy\nbad stuff to you in the torture chamber!\nI won't forgive you even if you cry and beg!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "654896"
+msgid "#C236196003Rin#CDEF's figure fades away.\nThe offshoot must've not been able to hold on\nafter having their secret exposed."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655020"
+msgid "We confirmed the #C000246204SG#CDEF, and I would\nlike to consider this a draw, but―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655112"
+msgid "Wait, #C236196003Rin#CDEF! You mentioned the torture chamber.\nWas that really your handiwork?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655208"
+msgid "Wait, you'll answer my question before you\nrun off! Did you really make the call to\nconstruct that torture chamber!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655328"
+msgid "Wait a momeeent!\nThough you mentioned the torture chamber,\nis that really one of your hobbies, #C236196003Rin#CDEF?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655444"
+msgid "If you will flee, then leave a gift, too. Woman.\nIs that torture chamber your handiwork? I had\ndeemed you not to be abnormal to that extent."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655588"
+msgid "Yeah.\nThat torture chamber, where people aren't considered as humans."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655660"
+msgid "Assuming #C236196003Rin Tohsaka#CDEF is sane,\nthere's no way she would approve of that kind of hell."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655764"
+msgid "It's #C236196003Lancer#CDEF's doing.\n#C236196003Rin#CDEF can't be involved in something like that."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655864"
+msgid "Of course.\nCaptured slaves have to be imprisoned somewhere,\nno?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "655928"
+msgid "A cowardly Master,\nan elite that's all talk,\nand a sloth that won't get to work."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656012"
+msgid "I'm overflowing with skilled individuals;\nleaving them idle is a waste. That's why\nthey're doing just a bit of slave labor."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656136"
+msgid "And they get basic necessities; sleep, breaks,\nand dessert! Look, if you don't provide ample\namusement, their work precision goes down."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656272"
+msgid "So? I'm making good use of some bad debt.\nThey can thank me, but there's no reason for\nthem to complain."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656380"
+msgid "Th-this girl is scary… She's so young, but\nshe's one of those who only thinks about\nsqueezin' people dry!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656488"
+msgid "No, that's not the issue here. #C236196003#FAMILY#CDEF,\nhave you noticed anything out of place?"
+msgstr ""
+
+#. choice
+msgctxt "656584"
+msgid "She's being lenient, even for Rin."
+msgstr ""
+
+#. choice
+msgctxt "656620"
+msgid "What's in the Torture Chamber is different."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656664"
+msgid "Of course.\nWhat she was just talking about sounded\ntoo lenient for a miser like #C236196003Rin#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656768"
+msgid "Basic necessities are excessive enough,\nbut breaks and dessert too?\nThis is totally unthinkable for the\ninventor of the Tohsaka Money-Is-Power system!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "656920"
+msgid "No, that's not it. Do these \"basic necessities\"\nMiss #C236196003Tohsaka#CDEF was talking about sound like\ncrucifying people and stealing their blood?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657072"
+msgid "Of course.\nThere are discrepancies between that torture chamber\nand what #C236196003Rin#CDEF was claiming."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657180"
+msgid "That torture chamber we all saw was this world's hell.\nEveryone had their freedom stripped away;\ntheir blood and their magic circuits stolen."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657324"
+msgid "This discrepancy can only mean one thing."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657368"
+msgid "The torture chamber #C236196003Rin#CDEF was talking about\nand the one that we saw are two different things…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657480"
+msgid "Eh? Crucify? Tied up by their hands and feet,\ngetting their blood drawn out? It's not a fancy\nmetaphor for squeezing them for every penny?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657620"
+msgid "I explained again to #C236196003Rin#CDEF just what\nkind of place this torture chamber that we saw was."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657724"
+msgid "I want to say you're all lying to me…\nbut I'll know for sure if I go check.\n…#C236196003Lancer#CDEF would definitely do that, though."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657860"
+msgid "I'll let those Masters and NPCs go if so.\nIt was my mistake being so neglectful, despite\nknowing what kind of Servant she is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "657988"
+msgid "…!\nSo, #C236196003Rin Tohsaka#CDEF really was #C236196003Rin Tohsaka#CDEF after all."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658076"
+msgid "…hmm. I overestimated myself as well.\nBut by the way you're speaking, do you know what\nkind of person I used to be before?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658200"
+msgid "I can't remember how many battles I\nmanaged to win and advance from,\nbut I know her because of how many\ntimes her advice had saved my life."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658340"
+msgid "You say you can't remember how many battles\nyou've been through…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658408"
+msgid "………well, whatever. Anyway,\nI'm undoubtedly #C236196003Rin Tohsaka#CDEF. This personality\nof mine has always been deep within me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658540"
+msgid "So, #C236196003#GIVEN#CDEF. If you get all relaxed because\nof some silly reason like us being friends in\nthe past, you really will just end up dead."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658692"
+msgid "Leaving some cold-hearted words behind,\n#C236196003Rin#CDEF's offshoot crumbles."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "658776"
+msgid "…at any rate, the Shield has been destroyed.\nDarkness from the next floor of the Labyrinth expands before me,\nas if inviting me in…"
+msgstr ""
+
+#. unk_op1653
+msgctxt "658912"
+msgid "Return to the old school?"
+msgstr ""
+
+#. popupStd
+msgctxt "658940"
+msgid "Return to the previous floor?"
+msgstr ""
+
+#. choice
+msgctxt "658972"
+msgid "Return to previous floor."
+msgstr ""
+
+#. choice
+msgctxt "659000"
+msgid "Return to the old school."
+msgstr ""
+
+#. choice
+msgctxt "659028"
+msgid "To the next floor."
+msgstr ""
+
+#. inDungeon
+msgctxt "659048"
+msgid "This layout…\nIt's like a carefully crafted money hunting ground."
+msgstr ""
+
+#. inDungeon
+msgctxt "659116"
+msgid "To ask someone for a loan or to save it up yourself…\nWhat do you want to do?"
+msgstr ""
+
+#. inDungeon
+msgctxt "659196"
+msgid "I detect a large amount of enemies and items ahead."
+msgstr ""
+
+#. inDungeon
+msgctxt "659248"
+msgid "Making us earn money before stripping it away…\nIt's an oddly efficient system of exploitation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659344"
+msgid "She badgers you into putting in some Sm\nand puts a shiny, empty treasure right there."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659432"
+msgid "It's plain as day, Miss #C236196003Tohsaka#CDEF.\nIt isn't hard to imagine what the next #C000246204SG#CDEF is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659544"
+msgid "Sakurament…?\nApparently it's the official-sounding\nname of the currency used in the\n#C000246204Far Side of the Moon#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659668"
+msgid "Somehow I got some over the course of things,\nbut it seems to be different from the #RUBS money#RUBEPPT#REND\nused in the #C000246204Holy Grail War#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659824"
+msgid "Since PPT is a digital currency usable only\nfor doing things in the #C000246204Holy Grail War#CDEF, it holds\nno meaning here in the #C000246204Far Side of the Moon#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659996"
+msgid "\"Sm\" is #RUBS        mana  #RUBEmagical energy#REND itself…\nIt appears to be a definable resource,\neven in an imaginary number space."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660132"
+msgid "Hm. Sakurament… It has a somewhat palpitating\nring to it, does it not? It is a good name.\nI like it!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660236"
+msgid "A shame about our previous riches, but that is\nhow things go. Once we return to the #C000246204Holy Grail\nWar#CDEF, we can spend to our heart's content."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660392"
+msgid "We should gather more of this Sakurament as\nwell. Since as you know, my Imperial Privilege\nbeats out Golden Rule any day!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660516"
+msgid "Anyway, who would've thought we'd get shaken\ndown for cash after getting our levels reset.\nSucks… Guess we just have to save up."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660648"
+msgid "Even if my Darling is flat broke, as long as\nthere is love, it is a non-issue. Have you heard\nthis? \"Love lasts as long as money endures.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660788"
+msgid "Yeah. It's a shame that I can't use these anymore.\nFirst my memories, then my savings get erased…\nIt's all so dreadful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660912"
+msgid "I'll pull myself together and go gather some Sm."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660964"
+msgid "Oho. Neither memories nor riches…\nAlways the bumbling ape, aren't you, mongrel?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661048"
+msgid "Ku! NOW you laugh…!?\nMaybe we should visit the Commissary again\nand see how much those glittery ornaments of\nyours sell for."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661176"
+msgid "Anyway, all I can do is work hard and get some Sm.\nI'll think of a way to make money without #C236196003Gilgamesh#CDEF…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661300"
+msgid "Insufficient payment.\nPlease try again later, destitute Master.\nI repeat: insufficient payment―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661404"
+msgid "The amount of 2,000 Sm has been cleared.\nThe target enemy's level will be reduced."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661488"
+msgid "The amount of 3,000 Sm has been cleared.\nThe target enemy's level will be reduced."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661572"
+msgid "…alright.\nNow we should be able to beat that gatekeeper enemy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661636"
+msgid "I'm about to teach you that money grudges\nain't pretty…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661696"
+msgid "The \"target enemy\" isn't even alive,\nand it's STILL asking for Sakurament!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661772"
+msgid "#C236196003Rin Tohsaka#CDEF… She is really something else!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661832"
+msgid "Good. Quite superb. Now we can chase after\n#C236196003Rin#CDEF. …hm?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661904"
+msgid "Phew….\nMaking enemies with #C236196003Rin Tohsaka#CDEF turned out to be\na pain in the ass. Now, let's… hm?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662016"
+msgid "A great success, Darling!\nNow, we should hurry and track down #C236196003Rin#CDEF…\n…huh?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662108"
+msgid "Dull. If this is all there is, then I would\nenjoy the disgraceful sight of that woman\nherself much more. However―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662228"
+msgid "Well done with your business there. It appears\nthat you defeated the gatekeeper enemy with\nnary a scratch."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662336"
+msgid "By my lord's orders,\nI have come to collect on the money\nowed by you, #C236196003#NICK#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662432"
+msgid "100,000 Sm in all.\nI would like to ask you to pay back the sum\nin full, here and now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662520"
+msgid "Wha….\nThis is what they call tyranny!\nI have yet to indulge in a single luxury!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662604"
+msgid "This is still pretty sudden. Do you remember\nwhat the repayment period was set as?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662688"
+msgid "Huh? What is this all of a sudden?\nHas #C236196003Leo#CDEF's family fell into ruin in but a night?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662788"
+msgid "We did literally just finished beating the enemy,\nbut he didn't have to come all the way into the\nLabyrinth just to collect the debt…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662924"
+msgid "I understand that it is too sudden.\nThis is an oversight that I myself made…\nI am terribly sorry."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663024"
+msgid "I'm glad I was able to loan you the 100,000 Sm,\n#C236196003#FAMILY#CDEF, but I was forgetting something\nvery important."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663144"
+msgid "Simply idling is a waste if things won't get\ninteresting. Now with your goal met, I thought\nabout collecting and sent #C236196003Gawain#CDEF over to you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663300"
+msgid "I look forward to your repayment."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663336"
+msgid "\"If things don't get interesting\"?\nIs that what this damn President just said!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663416"
+msgid "\"Since we're friends.\"\nWhat was that statement supposed to mean then?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663488"
+msgid "I can't help but shiver at how I fell to\nthe very bottom of the hierarchy that sprang\nforth from within the Student Council…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663616"
+msgid "If a lord wished it, a knight would even\nenter matrimony with a senior woman. Such is our\nduty. I think of collections as rather cute."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663752"
+msgid "Now then. The idle chatter ends here.\nI would like for you to please repay the money\nlent to you by #C236196003Leo#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663876"
+msgid "Now I've got no one else to turn to."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663916"
+msgid "I borrowed from #C236196003Leo#CDEF a sum of 100,000 Sm.\nNow, I guess I'll have to―――"
+msgstr ""
+
+#. choice
+msgctxt "664008"
+msgid "Be honest and return it."
+msgstr ""
+
+#. choice
+msgctxt "664036"
+msgid "I think you can let me keep it…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664072"
+msgid "…you have my gratitude. I, #C236196003Gawain#CDEF, have hereby\nreceived your repayment. I await your next use\nof our service."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664200"
+msgid "Then we have no choice.\nWe will make do with everything they have\non hand, #C236196003Gawain#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664300"
+msgid "Sir. Then, I shall be taking all of the money\non your person now……\n……………"
+msgstr ""
+
+#. popupStd
+msgctxt "664380"
+msgid "Repaid with all money on hand."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664412"
+msgid "Yes, you're very strapped, I see.\nBut there is nothing we can do about it.\nPlease return, #C236196003Gawain#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664528"
+msgid "Sir. Though the amount is base, I shall return."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664576"
+msgid "Then, my Lady, I wish you all the best in your\nfuture battles."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664640"
+msgid "Then, #C236196003#FAMILY #GIVEN#CDEF, I wish you all\nthe best in your future battles."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664728"
+msgid "Praetor, he went back!?\nHe truly came here only to collect the debt!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664800"
+msgid "Hmph. The persistence of moneylenders is\ndreadful in any age…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664864"
+msgid "……now I get it. This is firsthand experience\nto what a western European financial\nconglomerate does to prosper."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664980"
+msgid "Eh? No way, he left? He only came to collect\nthe money, what the heck!? #C236196003Rin#CDEF and them\nare two sides of the same coin they so adore!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665128"
+msgid "Fool. How dreadfully dull. You will not at least\nshow me that you have the backbone to shirk a\ndebt, mongrel?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665240"
+msgid "From this point forward, I wonder how that President and I\nare going to get along working side by side…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665348"
+msgid "This sum seems to be a pittance for someone like #C236196003Leo#CDEF.\nWhy not just let me have it, like a\n\"Thanks for working so hard, here's a reward鷙\"\nsort of thing?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665520"
+msgid "#C236196003Leo#CDEF. The Lady has presented a serious opinion\nand appears intent on evading her debt."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665624"
+msgid "#C236196003Leo#CDEF. Sir #C236196003#FAMILY #GIVEN#CDEF has presented a\nserious opinion and appears intent on evading\nhis debt."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665752"
+msgid "What a magnificently terrible attitude.\nOkay, let's respond appropriately as well,\n#C236196003Gawain#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665860"
+msgid "In the event that you refused to repay, I was\nordered to reclaim the money through force.\nPlease do not think ill of me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665984"
+msgid "Are you out of your mind!?\nAgh! Ready yourself, Praetor! Though it was\nunforseen, this is our decisive battle!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666096"
+msgid "Woah, you're joking…!\nWe've got an opponent here much nastier than\n#C236196003Rin Tohsaka#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666196"
+msgid "Agh! This is why I detest lapdogs!\nHe looks like the gentle type,\nbut he's just terribly fiendish!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666296"
+msgid "Hmph―― This is a good opportunity.\nShow me that chivalry of yours, lapdog!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666376"
+msgid "Now then, I have positively recovered the\n100,000 Sm. I await your next use\nof our service."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666468"
+msgid "Then we have no choice.\nWe will make do with everything they have\non hand, #C236196003Gawain#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666568"
+msgid "Sir. Then, I shall be taking all of the money\non your person now……\n……………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666648"
+msgid "Yes, you're very strapped, I see.\nBut there is nothing we can do about it.\nPlease return, #C236196003Gawain#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666764"
+msgid "Sir. Though the amount is base, I shall return."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666812"
+msgid "Then, my Lady, I wish you all the best in your\nfuture battles."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666876"
+msgid "Then, #C236196003#FAMILY #GIVEN#CDEF, I wish you all\nthe best in your future battles."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666964"
+msgid "Sorry, Master. I am absolutely no match\nfor him as I am now…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667028"
+msgid "But I will one day return this debt in the #C000246204Holy\nGrail War#CDEF. And as you wish, with 10%\npercent interest added per day."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667164"
+msgid "…good thing #C236196003Leo#CDEF wasn't here. Even if this\nwasn't serious, that Servant with his Master\nhere would be no joke."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667292"
+msgid "Some things in this world are too good to be\ntrue… I'm sure you've learned that now. We're\nmore suited for the honest life, anyway."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667428"
+msgid "Ow, ow, ow… You say, \"You really took this\nchance to try your hardest,\" but I usually try\nthis hard, though."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667540"
+msgid "It did not seem like I would have had to, but he\nforced me to show off all that I had. This\nperson truly is not one to snoot at…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667672"
+msgid "You wield your blade merely to execute your\norders? An ever earnest knight is a dreadfully\ndull problem for me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667784"
+msgid "…hm? I am in the middle of rehabilitation, no?\nAnyway, YOUR riches were stolen; mine are fine\nand well. No reason for me to get serious."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667924"
+msgid "It's disappointing that the money was returned,\nbut it was a loan after all. No use crying over it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668024"
+msgid "\"In this world, there are some opponents\nyou can pick a fight with and some you\ncan not.\"\nI'll take that lesson as something\nto be learned from this―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668180"
+msgid "Oh, really?\n…I murmur as I stand back up."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668224"
+msgid "It's disappointing that the money was returned,\nbut it was a loan after all. No use crying over it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668324"
+msgid "\"In this world, there are some opponents\nyou can pick a fight with and some you\ncan not.\"\nI'll take that lesson as something\nto be learned from this―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668480"
+msgid "…I'm astonished. #C236196003Gawain#CDEF may have been holding\nback, but I wasn't thinking that he would lose."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668592"
+msgid "There will be time to reflect later. For now,\nlet's show #C236196003#FAMILY#CDEF some respect and withdraw\nfrom there."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668712"
+msgid "It was a waste to battle in a place such as\nthis. I wish to formally cross blades with you\nin the Near Side of the Moon someday."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668844"
+msgid "At that time, I shall challenge you\nwith all of my might. I swear on my lord\nand on my honor as a knight."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668952"
+msgid "We did it, Praetor! This money is officially\nours. We shall host a banquet tonight!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669036"
+msgid "Ultimately, skipping on your debt by force makes\nyou quite the scoundrel… Ah, well. Maybe we'll\njust think of it as a bonus."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669164"
+msgid "That's my Darling!\nWith a swoosh and a swish, we made a quick buck!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669232"
+msgid "Oh, by the way～ An amazing Camellia oil brush\ncame out, liiikee, recently. I was thinking it\nwould be sooo nice for grooming my tail鷙"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669368"
+msgid "Not using their full power or such.\nWhat a stale excuse they have given us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669444"
+msgid "…yet, it is unlikely that they were lying.\nIt is quite fascinating to ponder how you would \nfight against \"that.\" Right, mongrel?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669576"
+msgid "Looks like brute force seemed to work somehow.\nI feel a bit sorry for #C236196003Leo#CDEF, but I'll be using\nthat borrowed money as personal funds from now on."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669736"
+msgid "One day, I'll fight against a serious #C236196003Gawain#CDEF――\nIn order to also get to that, I'll first need to search\nfor #C236196003Rin#CDEF's #C000246204SG#CDEF. Let's return to our search of the Labyrinth."
+msgstr ""
+

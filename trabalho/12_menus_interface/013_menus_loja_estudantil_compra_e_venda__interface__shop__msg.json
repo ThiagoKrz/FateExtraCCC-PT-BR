@@ -1,0 +1,149 @@
+{
+  "id": "menus/interface__shop__msg",
+  "po": "ptbr/menus/interface__shop__msg.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Loja Estudantil (Compra e Venda)",
+  "origem": "interface/shop/msg.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 12,
+  "linhas_exclusivas": 12,
+  "traduzidas": 12,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Buy",
+      "pt": "Comprar"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Sell",
+      "pt": "Vender"
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Exit",
+      "pt": "Sair"
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Items",
+      "pt": "Itens"
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Mystic Codes",
+      "pt": "Artefatos Místicos"
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "How many would you like to buy?",
+      "pt": "Quantos você quer comprar?"
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "How many would you like to sell?",
+      "pt": "Quantos você quer vender?"
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Change into this Mystic Code?",
+      "pt": "Trocar para este Artefato Místico?"
+    },
+    {
+      "id": 9,
+      "msgctxt": "8",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 12,
+      "en": "Yes",
+      "pt": "Sim"
+    },
+    {
+      "id": 10,
+      "msgctxt": "9",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 2,
+      "en": " No",
+      "pt": " Não"
+    },
+    {
+      "id": 11,
+      "msgctxt": "10",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "It's too expensive… I'll pass.",
+      "pt": "Está caro demais… Vou passar."
+    },
+    {
+      "id": 12,
+      "msgctxt": "11",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "It looks like it's sold out.\nI'll try again later.",
+      "pt": "Parece que está esgotado.\nVou tentar mais tarde."
+    }
+  ]
+}

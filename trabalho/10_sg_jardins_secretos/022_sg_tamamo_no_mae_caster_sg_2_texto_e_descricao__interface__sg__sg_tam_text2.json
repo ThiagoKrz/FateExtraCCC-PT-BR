@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_tam_text2",
+  "po": "ptbr/sg/interface__sg__sg_tam_text2.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Tamamo-no-Mae (Caster)] — SG 2 (Texto e Descrição)",
+  "origem": "interface/sg/sg_tam_text2.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Poor Cook",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Caster's second SG.\n\"Poor Cook\" is not a typographical error.\nIt's simply that Caster thinks she's a \"Poor Cook\";\nshe's actually a \"Good Cook.\"\nThis misunderstanding seems to have happened\nbecause her ideal level of cooking is way too high.\n\nThough she may seem like an uninhibited personality,\nCaster has a very modest and reserved family image.\nShe's has recently been attending cooking classes,\nall for the sake of making delicious meals for her Darling.\n\n             ◆\n\nDuring the Holy Grail War, Caster didn't know basic dishes.\nLove is the Magic that turns a microwave cook-woman\ninto a good wife and wise mother.\n\nWill the day that Caster in a coverall apron\nsay to her Darling \"Here, open wide鷙\" ever come?\nEven if it's 99% impossible,\nI want to believe that dream will come true.\n",
+      "pt": ""
+    }
+  ]
+}

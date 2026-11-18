@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_ran_text3",
+  "po": "ptbr/sg/interface__sg__sg_ran_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Rani VIII] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_ran_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Powergamer",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Rani's third SG. Unmistakably a \"Woman of Science.\"\n\nA character, a nature that values theory over sense.\nSimply a woman belonging to the sciences… Science,\nengineering, agriculture, medicine, pharmaceuticals, etc.\n\nThere are plenty of fields where honest, daily study is\nmore reliable for increasing merit than flashy activities.\nSince the scientific community respects data and research,\nreliable effort is preferred over single-stroke genius.\nThat's why many of them are bad at asserting themselves.\n(Or perhaps it's that they simply don't feel the need to)\n\nForgetting this fact, as well as Rani not knowing\nhow to appeal with her efforts and superiority,\nis what led to a tragedy such as this.\nSomeone that doesn't think of themselves as cute is cute.\n\nOriginally, this was an ordinary attribute and\nnot an embarrassing secret, but……\nJinako's heartless words set unholy fire to Rani's insides.\n",
+      "pt": ""
+    }
+  ]
+}

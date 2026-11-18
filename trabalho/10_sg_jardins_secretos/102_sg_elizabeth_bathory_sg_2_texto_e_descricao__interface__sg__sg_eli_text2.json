@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_eli_text2",
+  "po": "ptbr/sg/interface__sg__sg_eli_text2.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Elizabeth Bathory] — SG 2 (Texto e Descrição)",
+  "origem": "interface/sg/sg_eli_text2.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Loves Cooking",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Elizabeth's second SG.\n\nThough she says she likes cooking, this is not purely\nenjoying the act of cooking, like the red-mantled Archer.\n\nElizabeth's fondness for cooking stems from a desire\nto be praised by or monopolize the person she likes.\nUltimately, it's nothing more than a desire to be beloved\nas a wife. But her skills in cooking are utterly lacking.\n\nIt's apparent her wish to be a wife was expressed as\na fondness for cooking, stressing the importance of meals.\nOr perhaps it's her instincts as a dragon.\n\n             ◆\n\nThough Elizabeth tells of her songs with Saber\nand her aspirations as a wife to Caster,\nwhat belies its foundation is the complete opposite.\n\nHer use of cooking to keep her beloved's attention,\nto confirm her beloved's love―――\ndoes not come from an \"equal relationship.\"\nShe would \"bestow meals\" to her beloved as a noble.\nIt's no different from…… feeding an animal.\nIt has none of the \"romance\" she longed for.\nThe controlling disposition she inherited devours\neven her most meager dreams.\n",
+      "pt": ""
+    }
+  ]
+}

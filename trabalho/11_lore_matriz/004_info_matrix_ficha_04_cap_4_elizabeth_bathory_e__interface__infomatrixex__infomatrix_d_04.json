@@ -1,0 +1,171 @@
+{
+  "id": "lore/interface__infomatrixex__infomatrix_d_04",
+  "po": "ptbr/lore/interface__infomatrixex__infomatrix_d_04.po",
+  "grupo": "11_lore_matriz",
+  "capitulo": "Info Matrix",
+  "titulo": "Info Matrix (Ficha 04) — Cap. 4 — Elizabeth Bathory e Matou Shinji",
+  "origem": "interface/infomatrixex/infomatrix_d_04.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 14,
+  "linhas_exclusivas": 12,
+  "traduzidas": 1,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": true,
+      "repeticoes": 193,
+      "en": "Meltlilith",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": true,
+      "repeticoes": 188,
+      "en": "Shinji Matou",
+      "pt": "Matou Shinji"
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Elizabeth Báthory",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 8,
+      "en": "サーバント偽名",
+      "pt": ""
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "#RUBS    Fresh Blood Demoness#RUBEBáthory Erzsébet#REND",
+      "pt": ""
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 9,
+      "en": "#RUBSほうぐぎめい#RUBE宝具偽名#REND",
+      "pt": ""
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Dragon's Reverse Scale",
+      "pt": ""
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "竜の逆鱗（偽名）",
+      "pt": ""
+    },
+    {
+      "id": 9,
+      "msgctxt": "8",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Supersonic",
+      "pt": ""
+    },
+    {
+      "id": 10,
+      "msgctxt": "9",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "スーパーソニック（偽名）",
+      "pt": ""
+    },
+    {
+      "id": 11,
+      "msgctxt": "10",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Migraine",
+      "pt": ""
+    },
+    {
+      "id": 12,
+      "msgctxt": "11",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "頭痛持ち（偽名）",
+      "pt": ""
+    },
+    {
+      "id": 13,
+      "msgctxt": "12",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Character Background II",
+      "pt": ""
+    },
+    {
+      "id": 14,
+      "msgctxt": "13",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "人物背景Ⅱ（偽名）",
+      "pt": ""
+    }
+  ]
+}

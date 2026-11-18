@@ -1,0 +1,39 @@
+{
+  "id": "menus/interface__cmn__dialog",
+  "po": "ptbr/menus/interface__cmn__dialog.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Diálogos Comuns (Sim / Não)",
+  "origem": "interface/cmn/dialog.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 2,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 12,
+      "en": "Yes",
+      "pt": "Sim"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 2,
+      "en": " No",
+      "pt": " Não"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+# Menu / interface - interface/shop/msg.bin
+# Fonte no jogo: interface/shop/msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Buy"
+msgstr "Comprar"
+
+msgctxt "1"
+msgid "Sell"
+msgstr "Vender"
+
+msgctxt "2"
+msgid "Exit"
+msgstr "Sair"
+
+msgctxt "3"
+msgid "Items"
+msgstr "Itens"
+
+msgctxt "4"
+msgid "Mystic Codes"
+msgstr "Artefatos Místicos"
+
+msgctxt "5"
+msgid "How many would you like to buy?"
+msgstr "Quantos você quer comprar?"
+
+msgctxt "6"
+msgid "How many would you like to sell?"
+msgstr "Quantos você quer vender?"
+
+msgctxt "7"
+msgid "Change into this Mystic Code?"
+msgstr "Trocar para este Artefato Místico?"
+
+msgctxt "8"
+msgid "Yes"
+msgstr "Sim"
+
+msgctxt "9"
+msgid " No"
+msgstr " Não"
+
+msgctxt "10"
+msgid "It's too expensive… I'll pass."
+msgstr "Está caro demais… Vou passar."
+
+msgctxt "11"
+msgid "It looks like it's sold out.\nI'll try again later."
+msgstr "Parece que está esgotado.\nVou tentar mais tarde."
+

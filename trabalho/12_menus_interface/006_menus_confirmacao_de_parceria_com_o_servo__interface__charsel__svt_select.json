@@ -1,0 +1,28 @@
+{
+  "id": "menus/interface__charsel__svt_select",
+  "po": "ptbr/menus/interface__charsel__svt_select.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Confirmação de Parceria com o Servo",
+  "origem": "interface/charsel/svt_select.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 1,
+  "linhas_exclusivas": 1,
+  "traduzidas": 1,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Partner with this Servant?",
+      "pt": "Formar parceria com este Servo?"
+    }
+  ]
+}

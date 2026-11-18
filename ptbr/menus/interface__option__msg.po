@@ -1,0 +1,41 @@
+# Menu / interface - interface/option/msg.bin
+# Fonte no jogo: interface/option/msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Change the text display speed."
+msgstr "Altera a velocidade do texto."
+
+msgctxt "1"
+msgid "Turn event voices ON/OFF."
+msgstr "Liga e desliga as vozes dos eventos."
+
+msgctxt "2"
+msgid "Change the BGM volume."
+msgstr "Altera o volume da música."
+
+msgctxt "3"
+msgid "Change SE and voice volumes."
+msgstr "Altera o volume de efeitos e vozes."
+
+msgctxt "4"
+msgid "Change camera controls in Arena."
+msgstr "Altera os controles de câmera na Arena."
+
+msgctxt "5"
+msgid "Change the game difficulty."
+msgstr "Altera a dificuldade do jogo."
+
+msgctxt "6"
+msgid "Save into the installed data."
+msgstr "Salva nos dados instalados."
+
+msgctxt "7"
+msgid "Save settings and return to System Menu."
+msgstr "Salva e volta ao Menu do Sistema."
+

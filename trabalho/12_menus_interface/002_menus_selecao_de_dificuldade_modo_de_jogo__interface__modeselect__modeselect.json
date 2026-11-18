@@ -1,0 +1,72 @@
+{
+  "id": "menus/interface__modeselect__modeselect",
+  "po": "ptbr/menus/interface__modeselect__modeselect.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Seleção de Dificuldade / Modo de Jogo",
+  "origem": "interface/modeselect/modeselect.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 5,
+  "linhas_exclusivas": 5,
+  "traduzidas": 5,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "This mode is for those who are new to the RPG genre.\nBetter rates for enemy data, money, and items.",
+      "pt": "Modo para quem está começando no gênero RPG.\nMelhores taxas de dados de inimigo, dinheiro e itens."
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "This mode is for those who wish to fully enjoy the experience.",
+      "pt": "Modo para quem quer aproveitar a experiência por completo."
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "This mode is for those who enjoy severe gameplay.\nEnemy ATK raised and Boss HP also increased.",
+      "pt": "Modo para quem gosta de desafio pesado.\nATK dos inimigos e HP dos chefes aumentados."
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "#C255120120Clear Data has been loaded.#CDEF",
+      "pt": "#C255120120Clear Data carregado.#CDEF"
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Skip the prologue and start from\nthe Servant selection event.",
+      "pt": "Pula o prólogo e começa a partir do\nevento de escolha do Servo."
+    }
+  ]
+}

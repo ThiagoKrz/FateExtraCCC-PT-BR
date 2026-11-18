@@ -1,0 +1,29 @@
+# Menu / interface - interface/equip/msg.bin
+# Fonte no jogo: interface/equip/msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Change which Mystic Code?"
+msgstr "Trocar qual Artefato Místico?"
+
+msgctxt "1"
+msgid "Change into this Mystic Code?"
+msgstr "Trocar para este Artefato Místico?"
+
+msgctxt "2"
+msgid "Not equipped."
+msgstr "Não equipado."
+
+msgctxt "3"
+msgid "Slot 1 has been locked."
+msgstr "Espaço 1 bloqueado."
+
+msgctxt "4"
+msgid "Slot 2 has been locked."
+msgstr "Espaço 2 bloqueado."
+

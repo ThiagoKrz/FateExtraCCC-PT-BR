@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Arquivos pesados extraídos localmente da ISO (regeneráveis via EnglishBase + tools/)
+/EnglishBase/
+/output/
+/work/*
+!/work/font-ptbr/
+
+# Logs e preferências locais do Painel GUI
+/trabalho/logs/
+/trabalho/backups/
+/trabalho/.preferencias.json

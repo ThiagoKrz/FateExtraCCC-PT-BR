@@ -1,0 +1,2494 @@
+# Historia - cena 103
+# Fonte no jogo: field_new/103/0000.dat
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. locationOrName
+msgctxt "12016"
+msgid "Rani"
+msgstr ""
+
+#. locationOrName
+msgctxt "12036"
+msgid "Dan"
+msgstr ""
+
+#. locationOrName
+msgctxt "12044"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12052"
+msgid "Gatou"
+msgstr ""
+
+#. locationOrName
+msgctxt "12060"
+msgid "Lil' Ronnie"
+msgstr ""
+
+#. locationOrName
+msgctxt "12076"
+msgid "Julius"
+msgstr ""
+
+#. locationOrName
+msgctxt "12100"
+msgid "Leo"
+msgstr ""
+
+#. locationOrName
+msgctxt "12108"
+msgid "Twice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12120"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12132"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12144"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12216"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12268"
+msgid "Gawain"
+msgstr ""
+
+#. locationOrName
+msgctxt "12300"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12408"
+msgid "???"
+msgstr ""
+
+#. locationOrName
+msgctxt "12416"
+msgid "Servant"
+msgstr ""
+
+#. locationOrName
+msgctxt "12432"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12444"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12456"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12468"
+msgid "Rider"
+msgstr ""
+
+#. locationOrName
+msgctxt "12480"
+msgid "Lancer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12492"
+msgid "Berserker"
+msgstr ""
+
+#. locationOrName
+msgctxt "12508"
+msgid "Assassin"
+msgstr ""
+
+#. locationOrName
+msgctxt "12520"
+msgid "Savior"
+msgstr ""
+
+#. locationOrName
+msgctxt "12576"
+msgid "Andersen"
+msgstr ""
+
+#. locationOrName
+msgctxt "12592"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12600"
+msgid "Passionlip"
+msgstr ""
+
+#. locationOrName
+msgctxt "12620"
+msgid "Meltlilith"
+msgstr ""
+
+#. locationOrName
+msgctxt "12636"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12652"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12668"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12684"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12700"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12736"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12752"
+msgid "Jinako"
+msgstr ""
+
+#. locationOrName
+msgctxt "12760"
+msgid "Karna"
+msgstr ""
+
+#. locationOrName
+msgctxt "12768"
+msgid "Green Tea"
+msgstr "Chá Verde"
+
+#. locationOrName
+msgctxt "12788"
+msgid "Newscaster"
+msgstr "Apresentador"
+
+#. locationOrName
+msgctxt "12808"
+msgid "Rin's Archer"
+msgstr "Archer da Rin"
+
+#. locationOrName,locationOrName2
+msgctxt "13180"
+msgid "Rooftop"
+msgstr "Terraço"
+
+#. locationOrName,locationOrName2
+msgctxt "13188"
+msgid "Storeroom"
+msgstr "Depósito"
+
+#. locationOrName,locationOrName2
+msgctxt "13220"
+msgid "Garden"
+msgstr "Jardim"
+
+#. locationOrName,locationOrName2
+msgctxt "13388"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. locationOrName,locationOrName2
+msgctxt "13400"
+msgid "Library"
+msgstr "Biblioteca"
+
+#. locationOrName2
+msgctxt "13512"
+msgid "Search"
+msgstr "Procurar"
+
+#. backlog,motion,text
+msgctxt "30764"
+msgid "Activate the switch?"
+msgstr ""
+
+#. choice
+msgctxt "30788"
+msgid "Press."
+msgstr ""
+
+#. popupStd
+msgctxt "30912"
+msgid "HP & MP fully restored."
+msgstr ""
+
+#. unk_op1653
+msgctxt "30944"
+msgid "Save?"
+msgstr ""
+
+#. unk_op1653
+msgctxt "30964"
+msgid "Retry battle?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40064"
+msgid "Is there a checkpoint in that area?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40308"
+msgid "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40844"
+msgid "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "41864"
+msgid "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42156"
+msgid "Apocalypse Now!\nCome back soooooooon!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42624"
+msgid "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "43536"
+msgid "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest."
+msgstr ""
+
+#. unk_op1659
+msgctxt "47764"
+msgid "　Obtained\n#C000246204#TITM0001#CDEF."
+msgstr "　Obtido:\n#C000246204#TITM0001#CDEF."
+
+#. popupStd_line1
+msgctxt "47808"
+msgid "Obtained"
+msgstr "Obtido"
+
+#. popupStd
+msgctxt "614524"
+msgid "Checkpoint unlocked."
+msgstr ""
+
+#. choice
+msgctxt "614640"
+msgid "Stay here."
+msgstr ""
+
+#. inDungeon
+msgctxt "615004"
+msgid "!rmap>#00000000"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "615508"
+msgid "That's―――\nI-it was YOUR fault for spacing out!\nYou even had your #C000246204SG#CDEF taken…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "615880"
+msgid "While #C236196003Elizabeth#CDEF pumps her fists excitedly,\n#C236196003Shinji#CDEF shakes his head in disbelief."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "615992"
+msgid "His eyes turn to the table draped in a white cloth."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "616048"
+msgid "…so, the amazing strategy you came up with\nis this food?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "616560"
+msgid "But, I guess……\nHmm………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "616812"
+msgid "Oh? Interested in my sample, are we?\nWell, I didn't make it for you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617096"
+msgid "EAT. UP.\nI'll make roasted mince meat out of you\notherwise!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617232"
+msgid "#C236196003Shinji#CDEF takes a fork in hand and faces the meal."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617484"
+msgid "*gulp*――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617500"
+msgid "BLARGHHHHHHHH!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617540"
+msgid "Waaaahhh!!!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617668"
+msgid "Whaaa!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "617680"
+msgid "#C236196003Shinji#CDEF―is #C236196003Shinji#CDEF alright!!!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "618168"
+msgid "This'll blow #C236196003#GIVEN#CDEF's stomach sky-high\nbefore Charm kicks in―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "618956"
+msgid "No, they've come to us.\nHurry and fix yourself up.\nIt's basic manners."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "619232"
+msgid "………………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "619440"
+msgid "Come now, first is the morning table.\nFollow me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "620076"
+msgid "Welcome to the first table: morning."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "620340"
+msgid "Ermm, is this… spaghetti?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "620840"
+msgid "In any case, the hell tour is taking off.\nFocus, Master.\nRemember #C236196003Rin Tohsaka#CDEF's advice."
+msgstr ""
+
+#. choice
+msgctxt "621336"
+msgid "Elizabeth, we know what you're scheming!"
+msgstr ""
+
+#. choice
+msgctxt "621380"
+msgid "Eating that won't end well, will it!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "621424"
+msgid "Huh…? Wha―no way!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "621452"
+msgid "………*sigh*."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "622276"
+msgid "I'm breaking off your lifeline."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "622308"
+msgid "Sorry, I'M SORRY! Anything but that!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "622992"
+msgid "STOPPP! You think my Darling is going to be\nfed on some other woman's cooking!?\nI. SHALL. EAT."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "623196"
+msgid "Gah, that's…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "623880"
+msgid "This time, #C236196003Elizabeth#CDEF snaps her finger at me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "624020"
+msgid "I guess… I have to eat…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "624128"
+msgid "This should be fine. It looks alright.\nDoesn't smell off. Maybe #C236196003Shinji#CDEF just has bad taste."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "624284"
+msgid "It's fine… it's fine…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "624308"
+msgid "――――――!!!!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "625412"
+msgid "It just tasted like chaos."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "625756"
+msgid "I'll be blunt."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "626016"
+msgid "Wh… what did you say…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "626828"
+msgid "Ah―Hey! Wait up!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "628188"
+msgid "Ta-da!\nEnjoy this special stew I painstakingly,\nslowly simmered."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "628260"
+msgid "I call it:\n\"Bon Voyage to the Blood Red Sea\"!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "628308"
+msgid "There's a crimson stew served in this deep bowl."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "628368"
+msgid "As usual, it looks fine…\nbut that no longer offers me any solace."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "628696"
+msgid "Hmmmm, how soooo?\nThat's just how it came. Yep."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629068"
+msgid "…………!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629084"
+msgid "Suddenly, our eyes meet."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629112"
+msgid "#C236196003Elizabeth#CDEF grips the hem of her skirt,\nlooking like she's about to cry."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629396"
+msgid "No! No, no! I don't want it to get thrown away!\nDo that, and I PROMISE I won't open that door!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629604"
+msgid "…………………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "629736"
+msgid "She said that she \"painstakingly, slowly simmered\" this stew."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "630352"
+msgid "…#[piggy][squirrely]#?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "630516"
+msgid "――――――!!!"
+msgstr ""
+
+#. choice
+msgctxt "630940"
+msgid "Awful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "631540"
+msgid "I-is it…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "632092"
+msgid "…………hang in there, Shinji-boy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "632488"
+msgid "I know. But it paid off."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "632812"
+msgid "The final round is about to start――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "633196"
+msgid "The night table.\nAs I imagined, the table is\ncrammed with an exorbitant amount of food."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "634076"
+msgid "…sure, we can easily open that door if we use\nthe unarmed Shinji-boy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "635104"
+msgid "But as a Servant, I can't idly watch by as my\nMaster's stomach gets destroyed."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "635652"
+msgid "#C236196003#SVT#CDEF…\nThanks. Your sympathy helps steady my nerves."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "635788"
+msgid "This food was prepared by #C236196003Elizabeth#CDEF for #C236196003#FAMILY\n#GIVEN#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "636000"
+msgid "This food was prepared by #C236196003Elizabeth#CDEF for #C236196003#FAMILY\n#GIVEN#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "636492"
+msgid "F-f-f-for REALLLL!!??\nThere it is! The marriage proposal!\nI'm holding you to it!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "636764"
+msgid "―――A-alright. Here I go."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "636856"
+msgid "I glance at #C236196003Elizabeth#CDEF, who's staring at me\nintently and paying no heed to #C236196003#SVT#CDEF's uproar."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "637008"
+msgid "Yes… Help yourself."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "637100"
+msgid "Hey! That single bite did a ton of\ndamage to you!\nAre you really going to be alright?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "637912"
+msgid "Why is it so… so red…?\nPut a little green in it or something!\nThat's what I would do!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "638112"
+msgid "YOU'RE too calm, #C236196003Rani#CDEF!\nPlease stop #[him][her]#!\nI can't bear to watch this…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639176"
+msgid "That was a really fun idea."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639332"
+msgid "\"Want to try it then?\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639364"
+msgid "#[Yep][Mhm]#, I want some.\nBut my belly is filled with enough chaos\nas it is, so―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639452"
+msgid "\"No worries. My curry is excellent.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639496"
+msgid "#C080080080Within my wandering mind,#CDEF\n#C236196003Julius#CDEF#C080080080 and #CDEF#C236196003Leo#CDEF#C080080080 present curry to me while smiling.#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639796"
+msgid "Master! Get a grip on yourself!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639828"
+msgid "Darling! Please come back to us!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "639912"
+msgid "――――Oh."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640552"
+msgid "Woah! You ate it all!\nAnd the doors are fully open!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640680"
+msgid "………how did you find the taste?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "640784"
+msgid "This is what I have to say―――"
+msgstr ""
+
+#. choice
+msgctxt "640824"
+msgid "It was very delicious."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641044"
+msgid "I hastily add:\n\"The food you made for me satisfied my heart\nalong with my stomach.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641220"
+msgid "That said―――I know perfectly well how much\nshe toiled to prepare all this food for me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641328"
+msgid "\"It tasted bad. Thank you,\" I tell her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641376"
+msgid "――――――!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641452"
+msgid "So he ran?\nNo matter. The end is nigh anyway."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "641968"
+msgid "#C236196003Elizabeth#CDEF absentmindedly watches her own body deteriorate."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642248"
+msgid "Livestock, other nobles, they'd all praise me.\nWell, I did hang anyone who didn't, but――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "642608"
+msgid "Really stunning work today, #C236196003#NICK#CDEF.\nI kind of feel full myself…"
+msgstr ""
+
+#. locationOrName
+msgctxt "661568"
+msgid "Rin Tohsaka"
+msgstr "Tohsaka Rin"
+
+#. locationOrName
+msgctxt "661580"
+msgid "Shinji Matou"
+msgstr "Matou Shinji"
+
+#. locationOrName
+msgctxt "661596"
+msgid "Sakura Matou"
+msgstr "Matou Sakura"
+
+#. locationOrName
+msgctxt "661612"
+msgid "Taiga Fujimura"
+msgstr "Fujimura Taiga"
+
+#. locationOrName
+msgctxt "661628"
+msgid "Aozaki Touko"
+msgstr ""
+
+#. locationOrName
+msgctxt "661644"
+msgid "Issei Ryuudou"
+msgstr "Ryuudou Issei"
+
+#. locationOrName
+msgctxt "661660"
+msgid "Father Kotomine"
+msgstr "Padre Kotomine"
+
+#. locationOrName
+msgctxt "661676"
+msgid "Male Student"
+msgstr "Aluno"
+
+#. locationOrName
+msgctxt "661692"
+msgid "Female Student"
+msgstr "Aluna"
+
+#. locationOrName
+msgctxt "661708"
+msgid "Young Man"
+msgstr "Rapaz"
+
+#. locationOrName,locationOrName2
+msgctxt "661720"
+msgid "Main gate"
+msgstr "Portão principal"
+
+#. locationOrName,locationOrName2
+msgctxt "661732"
+msgid "Schoolyard"
+msgstr "Pátio"
+
+#. locationOrName,locationOrName2
+msgctxt "661744"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "661764"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "661784"
+msgid "School Building 3F"
+msgstr "Escola - Andar 3"
+
+#. locationOrName,locationOrName2
+msgctxt "661804"
+msgid "Classroom 2-A"
+msgstr "Sala 2-A"
+
+#. locationOrName,locationOrName2
+msgctxt "661820"
+msgid "Infirmary"
+msgstr "Enfermaria"
+
+#. locationOrName,locationOrName2
+msgctxt "661832"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "661852"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "661872"
+msgid "1st & 2nd Year Classroom"
+msgstr "Salas do 1o e 2o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "661900"
+msgid "3rd Year Classroom"
+msgstr "Salas do 3o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "661920"
+msgid "Student Council Room"
+msgstr "Sala do Grêmio"
+
+#. locationOrName,locationOrName2
+msgctxt "661944"
+msgid "Janitor's Closet"
+msgstr "Depósito do Zelador"
+
+#. choice
+msgctxt "661964"
+msgid "Don't press."
+msgstr ""
+
+#. popupStd_line2
+msgctxt "661980"
+msgid "#TVAL02 Sm#CDEF."
+msgstr ""
+
+#. unk_op1659
+msgctxt "662000"
+msgid "　You cannot carry any more\n#C000246204#TITM0001#CDEF."
+msgstr "　Você não pode carregar mais\n#C000246204#TITM0001#CDEF."
+
+#. backlog,motion,text
+msgctxt "662056"
+msgid "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662160"
+msgid "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662296"
+msgid "I'm concerned about #C236196003Rin#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662340"
+msgid "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662480"
+msgid "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662600"
+msgid "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662700"
+msgid "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662892"
+msgid "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662956"
+msgid "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663036"
+msgid "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663152"
+msgid "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663280"
+msgid "Even in cyberspace, you need proper rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663324"
+msgid "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663452"
+msgid "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663580"
+msgid "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663688"
+msgid "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663776"
+msgid "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663868"
+msgid "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664016"
+msgid "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664100"
+msgid "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664232"
+msgid "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664332"
+msgid "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664492"
+msgid "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664620"
+msgid "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664712"
+msgid "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664844"
+msgid "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664944"
+msgid "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665152"
+msgid "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665276"
+msgid "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665408"
+msgid "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665500"
+msgid "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665624"
+msgid "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665704"
+msgid "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665808"
+msgid "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665896"
+msgid "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest."
+msgstr ""
+
+#. unk_op1650
+msgctxt "666016"
+msgid "You may now save your current game data\n            as #C000246204Clear Data#CDEF."
+msgstr "Agora você pode salvar seus dados\n         como #C000246204Clear Data#CDEF."
+
+#. unk_op1650
+msgctxt "666100"
+msgid "     You may use this data to carry\nover elements to the start of a new game."
+msgstr "     Você pode usar esses dados para levar\nelementos ao início de um novo jogo."
+
+#. unk_op1650
+msgctxt "666180"
+msgid "Please be careful to not overwrite\n  the data while you are saving."
+msgstr "Tome cuidado para não sobrescrever\n  os dados ao salvar."
+
+#. unk_op1653
+msgctxt "666248"
+msgid "Would you like to save your Clear Data?"
+msgstr "Deseja salvar seus Clear Data?"
+
+#. popupSaveBeforeQuit_line1
+msgctxt "666288"
+msgid "Are you sure you wish to exit"
+msgstr "Tem certeza de que deseja sair"
+
+#. popupSaveBeforeQuit_line2
+msgctxt "666320"
+msgid "without saving the Clear Data?"
+msgstr "sem salvar os Clear Data?"
+
+#. unk_op1653
+msgctxt "666352"
+msgid "Return to the old school?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666380"
+msgid "Have yourself a small shock to kick things off.\nIf we went straight to the main course, you'd be\nliable to get overwhelmed and keel over."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666520"
+msgid "There's a table draped in a blindingly pure white cloth.\nAs if it were stained with a single drop of blood―――\nsome sort of red food is placed on top of it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666680"
+msgid "Precisely: ostrich bolognese!\nI even handled skewering the ostrich dead\nmyself!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666760"
+msgid "………this hits hard. And in various ways.\nTruth be told, I glossed it over at first and\nfigured it was soup or something."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666884"
+msgid "THIS is the kind of stuff nobles chow down on…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666936"
+msgid "Hmph. It doesn't look so bad. While it may\nbe heavy on the red, I would say it looks\nwell-plated."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667036"
+msgid "I'm interested in my rival's cooking…\nBut still, don't fail to heed #C236196003Rin#CDEF's advice,\nMaster."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667144"
+msgid "Surprisingly upfront about it, isn't she? Yeah,\nwell, there's an issue with the color. Being\nflat red doesn't do our appetites any justice."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667284"
+msgid "Grr… She's astoundingly, plainly vain about it,\nisn't she? The only word she knows is\n\"sanguine,\" and it shows!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667400"
+msgid "But there's bad news for her! We see through\nthis entire ploy. Now, Darling! Please give her\na piece of your mind!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667516"
+msgid "It's far too heavy on the spices, but it may\njust pass as a delicacy.\nSo, what will you do?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667608"
+msgid "Will you submit and be done in by this dish?\nOr will you preserve your humanity and\nreject it? Choose whichever you fancy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667732"
+msgid "That's right. Regardless of what's on the menu,\nthere's no need to eat it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667808"
+msgid "WHY!? There was nothing in my perfectly crafted\ninvitation or humble demeanor that should've\ngiven me away!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667916"
+msgid "Every detail was a dead giveaway.\nWe outed her from the moment we read that invitation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668004"
+msgid "Anyway, even #C236196003#FAMILY #GIVEN#CDEF isn't so\nmuch of a pushover as to fall for this―――!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668104"
+msgid "Every detail was a dead giveaway.\nAnd as for that surveillance footage…\nI can't be bothered to mention it, nevermind."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668224"
+msgid "Anyway, even #C236196003#FAMILY #GIVEN#CDEF isn't so\nmuch of a pushover as to fall for this―――!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668324"
+msgid "Gah… If the cat's out of the bag then so be it.\nStill, you have no right to refuse.\nTHIS is why!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668424"
+msgid "There, behind #C236196003Elizabeth#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668468"
+msgid "A sturdy door, one that I've seen at some\npoint on another floor, blocks the path."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668552"
+msgid "Why would I ever forget about this pesky door?\nNo, how could I ever forget?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668628"
+msgid "That door―――It's the mortifying artificial\nNoble Phantasm that \"commando\" #C236196003Rani#CDEF crafted:\nThe#C000246204 Fully Automatic, Strip-Style OpenLock (Patent pending)#CDEF!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668812"
+msgid "It's been modded, so there's no more stripping\ninvolved… It's an automatic eat-it-all-style\nOpenLock. *bleh*"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668924"
+msgid "Yep. Which means you can't proceed\nuntil you finish the whole plate."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668996"
+msgid "So eat up. Eat quick. Clean that plate\nof my assorted cooking until it's clean…\nIt's the only choice you have, #ROFS0002#RUBSdarling#RUBEpiggy#REND!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669148"
+msgid "So eat up. Eat quick. Clean that plate\nof my assorted cooking until it's clean…\nIt's the only choice you have, #RUBS    honey#RUBEsquirrely#REND!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669296"
+msgid "Hold, #C236196003Lancer#CDEF. Would it still count if I partook?\nI would think it makes no difference,\nso long as the plate is cleaned."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669432"
+msgid "Being a food taster is a Servant's job.\nI'll eat instead of my Master.\nIt's all the same in the end, no?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669540"
+msgid "Wait. If eating it all suffices, then it should\nmatter not if I'm the one who eats, yes? I have\na useful food tasting Noble Phantasm."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669676"
+msgid "Sorry to say, but I saw that one coming…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669720"
+msgid "That food data can't be #RUBS  deleted#RUBEdigested#REND unless it's\n#C236196003#GIVEN#CDEF who does it―it's user-restricted.\nIt won't work on some other schmuck."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669884"
+msgid "My word…! You knave!\nYou were doing more than merely\nstanding there looking all pale…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669976"
+msgid "…got it. I took you for a clever guy when it\ncame to things that don't matter, but I'll give\nyou props this time. And in your state, too."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670116"
+msgid "Ughhh. Bravo―to seaweed!?\nI'm ashamed to say that I'll be unable\nto help you, #RUBS  Master#RUBEDarling#REND… *sob, sob, sob*"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670244"
+msgid "Impudent little seaweed…\nYou seem to have a knack for the little details."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670320"
+msgid "Not bad. You ARE my attendant, shit as you are.\nNo stalling, #[piggy][squirrely]#. Ready yourself and get\nto eating. It'll feel like flying to heaven."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670472"
+msgid "I try to think about how I can escape\nher fingertip's command, escape from everyone's gaze―\nbut nothing comes to me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670592"
+msgid "I sit at the table, nervous.\nBefore me is a red mass―――Ostrich bolognese."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670672"
+msgid "This should be fine. It looks alright.\nDoesn't smell off."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670732"
+msgid "#[H-he][Sh-she]# went into a tailspin!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670772"
+msgid "I-I didn't expect it to be THIS bad…\nPull yourself together, #RUBS  Master#RUBEPraetor#REND!\nDon't leave me in this world all alone…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670908"
+msgid "You're pushing it, hey!\nSpit it out, spit it out now! Hold on, I'll go\nget water―――shit! We're in the Labyrinth!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671028"
+msgid "Hey, are you alright!?\nThis screen isn't doing any favors for her\nimage as a lady…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671116"
+msgid "Stop, stop the cameras! No filming allowed!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671160"
+msgid "Kyaaaaa! Darlinggggg!? Shooting rockets\nout of your mouth and spinning thrice\nbackwards―you're hardly human anymore!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671280"
+msgid "D-damn you, #C236196003lizard woman#CDEF!\nAs bad as I am at cooking, something THIS awful\nwouldn't happen from MY food!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671400"
+msgid "A massive amount of ether was expelled the\nmoment #[he][she]# ate it…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671476"
+msgid "Even the propellants for my #RUBS       vimana   #RUBEgolden sailboat#REND\ndon't compare! Is this humanity's oldest―no,\nnewest invention: death-by-blast cooking!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671640"
+msgid "W-we have to act!\n#[His][Her]# vitals are dropping at an impossible rate!\n#[He][She]#'s going down at mach speed!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671756"
+msgid "There is… no poison. Which means a\ndouble-attack occurs on one's palate AND mind\ndue to the purely \"horrible flavor.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671876"
+msgid "You have to be joking! All this damage, ONLY\nfrom the awful taste!?\n#C236196003Elizabeth#CDEF… You're one scary girl…!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672000"
+msgid "The flavor was epic.\nIt wasn't anything simple,\nlike being entirely sweet or entirely spicy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672096"
+msgid "My stomach won't stop churning, sweat won't stop dripping―\nMy entire body is rejecting this foreign substance."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672208"
+msgid "But I mustn't give in. I mustn't vomit.\nIf I yield to the surging urge,\nour path will forever be closed…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672316"
+msgid "―――Teary eyed, I somehow manage to cram it\nall down into my stomach."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672388"
+msgid "S-so how was it? What did you think?\nThose are tears of joy, right? Right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672464"
+msgid "―――It's terrible.\nIt's not a question of whether it tastes good or bad.\nThis has reached the realm of mass destruction.\nTerrorism, basically."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672612"
+msgid "For example―――well, I can't think of an example,\nbut if I HAD to come up with one―――\nit's like licking a candy, and tasting turpentine… times 1,000.\nNo, that still might be understating it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672812"
+msgid "See how my #RUBS  Master#RUBEPraetor#REND splendidly finished it all!?\nOpen that door. Then you can taste the\nsame agony―upon your flesh!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672952"
+msgid "Good job, Master. Alright, #C236196003Elizabeth#CDEF.\nOpen the door. Personally, I want to get\nstarted on our payback."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673072"
+msgid "We'll indulge in this farce no longer! Will you\nhurry and open that door behind you? Or at\nleast go take some cooking classes, please!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673208"
+msgid "…you finished it all, to the point that your\neyes are bulging like a dead fish.\nThat was admirable…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673312"
+msgid "#C236196003#FAMILY#CDEF. I'll say it just this once:\nyou exhibited a caliber suitable to being\nmy Master. Rest in peace."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673436"
+msgid "―――That's done with.\nNow, open the door, #C236196003Elizabeth#CDEF.\nThis banquet has only just begun, hasn't it?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673552"
+msgid "…I messed up. #[He][She]# doesn't seem to like\nbolognese… I didn't do enough research…\nSoup would've been foolproof and I knew it…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673688"
+msgid "T-this was only the beginning. Next up is\nthe main dish, the MAIN dish! You're NOT going\nto be disappointed this time!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673808"
+msgid "…you're something else, #[man][girl]#."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673848"
+msgid "The two of them run off further into the Labyrinth."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673900"
+msgid "Are you okay, #C236196003#NICK#CDEF?\nIt looks like your #RUBS   HP  #RUBEvitality#REND dropped, is all…\nThink you can keep going?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674032"
+msgid "…I'm probably… alright.\n#C236196003#FAMILY #GIVEN#CDEF's stomach hasn't burst yet."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674120"
+msgid "Also, thanks to that thunderous shock,\nit seems that #C236196003Elizabeth#CDEF didn't Charm me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674216"
+msgid "That's the silver lining."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674244"
+msgid "So, next is the lunch table…\nThe least I can do is let you lean on me\nas we make our way there."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674344"
+msgid "So, two left now… I dropped the ball here…\nI should've ordered stomach medicine\nat the Commissary…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674448"
+msgid "How regrettable…\nHowever, this may be a chance to use for\n#C236196003Tamamo#CDEF's benefit."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674544"
+msgid "Now that you've had such a savage experience,\nyou'll think anything I cook up tastes good―\neven if it comes out a bit sloppy…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674672"
+msgid "Don't lose heart. You're the type of mongrel\nwho can do what you put your mind to. If you\nendured it once, you can endure it again."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674804"
+msgid "Man…\nI still have yet to digest the bolognese,\nbut here we are at the next table."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674888"
+msgid "Welcome to table two: the lunch table.\nThis dish is sure to astonish you!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674964"
+msgid "#C236196003#NICK#CDEF, wait!\nWe're going to send you some software\nwe found for this exact job."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675060"
+msgid "We downloaded an unarmed Shinji familiar\nthat eats food. It's free software,\nso we paid nothing for it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675164"
+msgid "Hold on a 'sec!\nWhy's it set to have MY face on it!?\nYou DEFINITELY customized that thing!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675256"
+msgid "This software specializes in processing food.\nThat's all it can do… so don't hold back.\nPour all that edible destruction into it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675388"
+msgid "It's set to #C236196003#FAMILY #GIVEN#CDEF's user\nand shares the same privileges, so it should\nbe able to clear the restriction issue."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675524"
+msgid "#C236196003Rin#CDEF and #C236196003Rani#CDEF do it again, such a great job.\nNow I should have nothing to fear with that food anymo―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675664"
+msgid "I-I won't allow this. You expect me to serve\nmy food to some… some filthy doll…\nThat would be unbelievably humiliating."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675788"
+msgid "Impossible, actually. You're a farm animal,\nso eat up like you crave it. Drain that bowl\nuntil there isn't even a drop left…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675916"
+msgid "Another tantrum? Bad habit you got there.\nStill, no matter how much noise you make, that\ndoor will open once the plate is cleaned."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676048"
+msgid "#C236196003Elizabeth#CDEF says no more, not even \"stop it\"\nor \"just try it\" or the like."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676140"
+msgid "I think it's because she can't."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676172"
+msgid "But in the end, no matter what she does…\nthe dish she labored to prepare is going\nto get thrown into the #ROFS-005#RUBSShinji-boy#RUBEtrash#REND right before her eyes.\nI'm sure it's unbearable for her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676376"
+msgid "…if I want to unravel #C236196003Elizabeth#CDEF's mind,\nI get the feeling that I shouldn't rely on the\nShinji-boy―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676500"
+msgid "Mhm. It won't do otherwise. I'm not supporting\nher per se, but I don't want to see my Praetor\nbe inconsiderate of a maiden's feelings."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676636"
+msgid "*sigh* …let me ask, just in case.\nWhat are you planning to do with that spoon\nyou're clutching, Master?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676744"
+msgid "*sigh*, my Darling is always like this…\nWhat are you planning to do with that spoon?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676832"
+msgid "One's esophagus is crucial.\nFine, go ahead and die along with\nthat demon-dish."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676912"
+msgid "Just one sip. So long as it's one sip.\nThis courage will surely lead to her #C000246204SG#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677008"
+msgid "―――I think as such, then try taking a sip of the stew."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677068"
+msgid "It's horrid. Terrible. Overpowering. Pungent."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677116"
+msgid "It's like mud. It makes me wonder if maybe #C236196003Elizabeth#CDEF\nisn't a Heroic Spirit from Earth,\nbut rather from Venus with some polar opposite culture."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677276"
+msgid "…but the saving grace here was that the ingredients\nwere all tender, at least.\nSeems like she really did painstakingly prepare it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677408"
+msgid "I command my body to, at last, finish a mere sip."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677460"
+msgid "…what do you think… of this one?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677496"
+msgid "#C236196003Elizabeth#CDEF questions me with a grave expression.\nThis dish is…"
+msgstr ""
+
+#. choice
+msgctxt "677576"
+msgid "Terrible."
+msgstr ""
+
+#. choice
+msgctxt "677588"
+msgid "It's alright, I guess…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677612"
+msgid "I-it can't be…! I let it simmer for so long!\nI did my very best, there's no way it\ncame out bad!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677712"
+msgid "You merely tried to brute-force it. Laboring\nto learn the culinary arts and refine\none's technique produces results."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677832"
+msgid "Toil alone won't make it good.\nTo make the finest dish, proper knowledge\nand a process are necessary."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677936"
+msgid "Regardless of what the cook thinks, if the one\neating thinks it tastes bad, then that's that.\nIt wouldn't be so onerous if love was enough."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678076"
+msgid "You misunderstand ingredients vs skill. Premium\ningredients are premium because top chefs use\nthem. Third-rate ingredients suit third-rates."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678220"
+msgid "That's right.\nNow that I got my thoughts on the dish across,\nI'll have the unarmed Shinji-boy process what's left."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678336"
+msgid "How silly of me, of all people, to get genuinely\nworried for even a second. Yeah, that's right.\nOf course. You understand how good it is!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678476"
+msgid "#C236196003Elizabeth#CDEF, perhaps out of relief, happily wags her dragon tail.\nIt seems like she really\ndid take making this stew pretty seriously."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678628"
+msgid "…that said, I expect that there's still a nighttime\ntable waiting for me. Sorry, but I'll be leaving\nthe rest of this to the unarmed Shinji-boy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678776"
+msgid "Fine, there's still the main course left.\nI'll let you off the hook this time."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678856"
+msgid "The next one should move you to cry, saying\nhow delicious it is, I'm sure of it.\n…be prepared."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678952"
+msgid "Huh, that's it!?\nAgh, damn it! She just does whatever she wants!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679020"
+msgid "Thanks to the unarmed Shinji-boy's outstanding work,\nthe crimson stew was processed instantly."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679116"
+msgid "#C236196003Elizabeth#CDEF may have been acting tough in\nher own way by leaving before watching this happen."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679224"
+msgid "And―unlock complete.\nWho's a hard little worker, Shinji-boy鷙\nMaybe we shouldn't have made it look like him."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679336"
+msgid "Umm, Senpai? Are you okay…?\nYou had the processing software, so you didn't\nhave to push yourself to eat, yet…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679448"
+msgid "She has an obsession with cooking.\nIt's likely related to the next #C000246204SG#CDEF―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679540"
+msgid "Yes. The structure of a floor is considerably\ninfluenced by the Core's secrets. Please\ninvestigate in that direction without pause."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679672"
+msgid "Yeah, without pause."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679696"
+msgid "I take the stomach medicine I got from\n#C236196003Sakura#CDEF out of my pocket and down it all in one go."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679804"
+msgid "After looping around the Labyrinth,\nwe finally reach the last table."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679876"
+msgid "A full red course.\nA red Manchu-Han imperial feast."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679928"
+msgid "No matter where I look, all I see is red."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679972"
+msgid "You look overwhelmed right off the bat!\nThis is the#RUBS       Dracul's #RUBE dragon girl's#REND dinner―\nwelcome to #RUBS  DD no Shokutaku#RUBE\"DD's Diner!\"#REND"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680136"
+msgid "It's a shame that I can't put them out in order,\nbut I kept them all ready-to-eat."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680220"
+msgid "This time it's bacchanal. I won't pay any heed\nto whether your manners are good or bad.\nGo ahead! Start with any dish you like!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680348"
+msgid "Uh, hey? Not sure if I should be the one saying\nthis, but they have that Shinji-boy, remember?\nThis plan of yours is a bust."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680476"
+msgid "Wouldn't it be much more practical to not get\nhung up on this food stuff and instead just\nsmash their faces in right here and now?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680608"
+msgid "You just don't get it, rat. That's why you're\na third-rate. That's no longer even remotely\nthe issue at hand."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680720"
+msgid "#C236196003Elizabeth#CDEF doesn't bother turning to #C236196003Shinji#CDEF,\nbut instead stares straight at me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680832"
+msgid "The automatic eat-it-all style OpenLock looms behind her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680892"
+msgid "But she's right.\n\"That isn't the issue at hand\" at all."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680948"
+msgid "#C236196003#FAMILY #GIVEN#CDEF's objective here isn't to\nopen that door."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681024"
+msgid "It's to break the Shield that lies beyond it.\nWhich means obtaining #C236196003Elizabeth#CDEF's secret."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681128"
+msgid "Using #RUBS   the unarmed Shinji-boy#RUBEa mechanical process#REND\nwill do nothing to jostle her mind――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681236"
+msgid "Dude… You're not thinking of tackling this,\nare you…!? This crimson tour around hell!!??"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681328"
+msgid "I glance at the trembling #C236196003Shinji#CDEF\nthen take a seat at the table."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681408"
+msgid "It feels like the fork and knife I'm holding\nare shaking in my hands, but it must just be my imagination.\nBe still, right hand of mine."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681544"
+msgid "Praetor.\nI hear your determination loud and clear."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681596"
+msgid "I have nothing left to say now.\nYour mind is as broad as the Valles Marineris.\nMhm. It's red over there as well."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681712"
+msgid "Dragon girl, feast your eyes on my Master's\ngreatness! I won't allow you the place of #[his][her]# \nlover, but I permit you to fall in love!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681856"
+msgid "Wait. I get what you're going for here,\nbut taking this head-on is too risky.\nLet me take some of―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "681960"
+msgid "No, if that were possible, the Student Council\nwould've found a way to make it work.\n…I said something pointless."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682076"
+msgid "Please wait, Darling!\nYou mustn't, you mustn't!\nI absolutely cannot allow you to eat this!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682168"
+msgid "I already made Darling suffer all alone in the\nImaginary Number Ocean. I shall not display such\ndisgracefulness a second time."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682296"
+msgid "Therefore… at least allow me to turn this\nall into cinders!\nIt'll be bitter, but still edible!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682392"
+msgid "…#C236196003#FAMILY#CDEF. Unfortunately, there exists no\nseasoning within my treasure stores which\ncan make the flavor palatable."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682524"
+msgid "Yet it does contain mystical herbs which quell\nthe gut. The downside is, upon ingestion, you'll\nforever lose your sense of taste… …well?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682664"
+msgid "But I have to overcome this challenge\nwith my own two hands… I mean, my mouth."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682744"
+msgid "I know how tough this battle will be.\nSo in the event that I'm able to eat this―――\nmaybe I'll settle down back in the village and get married?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "682892"
+msgid "My dear…! I-I'm so happy!\nI'm happy… but you know how taboo it is to\nspeak promises like that out loud!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683000"
+msgid "I know how tough this battle will be. So in the\nevent that I'm able to eat this――I'll settle\ndown back in the village and get married."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683140"
+msgid "Calm, but at the end of your rope, huh…\nGot it. Go right on ahead.\nI'll pick up whatever's left of you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683248"
+msgid "W-what are you spouting all of a sudden!?\nHey, relax! I'm sure you meant well, but\nthat's a Death Flag you're messing with!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683372"
+msgid "I'll bring you back from the underworld as\nmany times as it takes, so please eat it all.\nBy the way, my ring size is a 9鷙"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683496"
+msgid "That's fine resolve.\nShow me how well you can overcome\nthe Death #RUBS Flag#RUBEFate#REND you yourself raised."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683608"
+msgid "All I need now is to be ready; to be determined;\nto be so foolhardy I forget what pain is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683700"
+msgid "――――I shall partake."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683728"
+msgid "Praetor! You started shaking all of a sudden!\nY-you're okay, aren't you!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683804"
+msgid "Did your eyes just r-roll back for a\nsecond there…? I knew this was a bad idea!\nI'm worried now!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683904"
+msgid "Your soul was just starting to float away…\nCould this be a form of torture?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "683984"
+msgid "I'm alright. No problem.\nIt's just―from the very first bite―I got―\nquite a big shock."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684076"
+msgid "I-it tastes good, right? It does, right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684120"
+msgid "That's a tuna marinade, accompanied with jelly\nmade of soft-shell turtle lifeblood. I used\nfresh seafood from the #C000246204Moon Cell#CDEF in these."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684272"
+msgid "The #C000246204Moon Cell#CDEF. The Brain of God."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684324"
+msgid "It's a digital fishery rife with seafood―\none that records all of the past and predicts every future.\nIs it okay to describe it that way?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684464"
+msgid "…but try as I may to escape from reality by pondering\nsuch things, #RUBS the taste#RUBEreality#REND still assails me relentlessly."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684596"
+msgid "An unpleasant sweat is already gushing from my entire body,\nbut I must keep my hands moving."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684692"
+msgid "Oh no―#C236196003President #GIVEN#CDEF is turning pale…!\nThis is torture beyond torture!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684784"
+msgid "Please calm down, #C236196003Sakura#CDEF.\nYou too, Miss #C236196003Tohsaka#CDEF.\nYou're not making much sense."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "684896"
+msgid "#C236196003Sakura#CDEF, you mustn't look away.\nThis is…… this is the way\nthat kid runs #[his][her]# life……!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685008"
+msgid "That there is the determination of one who\nstands above others. The role of a President\nis truly a harsh one."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685120"
+msgid "Ha―hahaha…… That's what you get……"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685160"
+msgid "………………dude.\nIt's about time to call it―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685212"
+msgid "No way. There's still food left. And besides―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685264"
+msgid "That one there I slaved over,\neven though it's baked.\nI mean, it just gets burnt so easily."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685356"
+msgid "That octopus there was a bitter fight 'til the\nend. I've never tried one before―it kept moving\nno matter how many times I stabbed it. Bleh…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685500"
+msgid "But you like octopus, right?\nThat's the reason why I put up with it.\nI-I figured it'd make you happy!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685604"
+msgid "#C236196003Elizabeth#CDEF's eyes glitter with every plate I finish,\nand the ache in the back of my hand grows more prominent."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685732"
+msgid "\"Ahh, the goal must be close…\"\nAs I thought about it, I mindlessly continued\nmoving my fork and spoon."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685836"
+msgid "Also, I don't have any particular preference for octopus."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685896"
+msgid "#C080080080My boiling head searches for jovial memories.#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "685960"
+msgid "#C080080080Once, I spoke with someone about building a cafeteria.\nAhh, yeah. That was with the Student Council.#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686080"
+msgid "We decided that we would take turns managing meals,\nand we would all eat together."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686164"
+msgid "Oh, yeah. #C236196003Leo#CDEF mentioned #C236196003Julius#CDEF' curry was excellent.\nIn the end, I wonder what it tasted like?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686292"
+msgid "#C080080080Alas. An early reunion, isn't it?\nHow I'd like to have some Harwey curry………#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686388"
+msgid "#RUBS  Master#RUBEPraetor#REND! Pull yourself together!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686444"
+msgid "Mongrel, put focus into your dantian, below the\nnaval! Wind the tail of your soul back\ninside yourself!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686548"
+msgid "It seems I was having a weird dream."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686588"
+msgid "I analyze the situation before me:\napart from some deep-red ice cream sitting\non top of my spoon, all the other plates were now empty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686724"
+msgid "Mhm. That'll be the end of it.\nI've fully witnessed your valor."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686788"
+msgid "Yeah, that's the last dish. You did a great job."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686840"
+msgid "Yes, only one bite left.\nLet's wrap it up with a big slurp."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "686900"
+msgid "The scene of this feast shall go down in\nhistory. #C236196003#FAMILY#CDEF. I might herald you\nas my poison taster after this."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687028"
+msgid "I get encouraged by my Servant and finish the last bite.\nMy mouth is paralyzed at this point,\nbut a potently awful taste still spreads through it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687176"
+msgid "It's mint flavored. Red mint.\nFun fact: the mint plant was said to bloom in the\nGreek underworld."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687276"
+msgid "I quietly put my spoon down, give my thanks for the meal…\nthen rise from my seat."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687360"
+msgid "And now, umm… before you pass through,\nhow about I just get straight to it\nand ask you this:"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687456"
+msgid "Signs of her secrets appearing start to amplify,\nas if aligning with her expectant gaze."
+msgstr ""
+
+#. choice
+msgctxt "687548"
+msgid "It tasted god-awful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687572"
+msgid "……………that's a lie.\nYou're just another shallow farm animal, too."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687644"
+msgid "I messed up.\nThere's nothing delicious about practically fainting in pain."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687720"
+msgid "To get this feeling across to her…\nYeah, rather than \"delicious,\" I would say I'm \"satisfied.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687816"
+msgid "No need to think about it too hard at this point.\nIt tasted so bad, was so god-awful,\nthat I hardly believe food could be so bad."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "687948"
+msgid "*sigh*… Saw that one coming.\nDon't chalk this one up as MY mistake!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688020"
+msgid "Typical. The only thing he knows is when\nto quit. …although, he won't get the chance\nnext time."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688120"
+msgid "Let's leave that guy be. Once your stomach\nsettles down, all we have to do is find him\nand bring him to his knees!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688236"
+msgid "No need to strike him down as he flees.\nThis has been a complete and utter victory\nfor you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688328"
+msgid "That's right. …actually, even if I was told to go after him,\nI'd be hard-pressed to agree in this state."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688436"
+msgid "The #ROFS0002#RUBS    Ego    #RUBEoffshoot#REND I pulled the #C000246204SG#CDEF from should vanish soon.\nWe should leave the Labyrinth as soon as―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688588"
+msgid "Hey, dear, what kind of magic did you use…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688636"
+msgid "Magic… is something I, of course, can't use,\nbut I guess she's referring to me extracting her #C000246204SG#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688752"
+msgid "Not that. Way before that. When you ate my food\nand gave me your thoughts on it―――it was the\nbest feeling I've ever had. What was that?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "688892"
+msgid "But that only feels good for an instant.\nBliss burns out quickly, and all that's left\nare days of tedium."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689000"
+msgid "The boredom gives me headaches. It hurts.\nBut just now, and only just now――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689080"
+msgid "…before she completes her thought, her body vanishes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689136"
+msgid "With no way of now finding how it ends,\ntoday's exploration comes to a close."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689216"
+msgid "#C236196003Sakura#CDEF is currently preparing a potent antacid.\nWe'll transfer it to your room,\nso please return and get some rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689348"
+msgid "After the Student Council gives their closing remarks,\nI let out a sigh of relief.\nSuddenly, I'm conscious of how heavy my abdomen feels.\n……clearly I #ROFS0002#RUBS        ate too much#RUBEexceeded my capacity#REND."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "689568"
+msgid "Let's activate the #C000246204checkpoint#CDEF and hurry back to the school."
+msgstr ""
+
+#. popupStd
+msgctxt "689644"
+msgid "Continue to the next floor?"
+msgstr ""
+
+#. choice
+msgctxt "689672"
+msgid "Continue to the next floor."
+msgstr ""
+
+#. popupStd
+msgctxt "689700"
+msgid "Return to the previous floor?"
+msgstr ""
+
+#. choice
+msgctxt "689732"
+msgid "Return to previous floor."
+msgstr ""
+
+#. choice
+msgctxt "689760"
+msgid "Return to the old school."
+msgstr ""
+
+#. inDungeon
+msgctxt "689788"
+msgid "Th-this smell…\nI'm gravely concerned for your stomach!"
+msgstr ""
+
+#. inDungeon
+msgctxt "689844"
+msgid "This scent… We're close. Don't worry,\nI'll be there to rub your back afterwards."
+msgstr ""
+
+#. inDungeon
+msgctxt "689928"
+msgid "*sniff sniff*… This reeks of that girl's \"cooking\"!\nDarling, I'm sorry, but please prepare yourself."
+msgstr ""
+
+#. inDungeon
+msgctxt "690032"
+msgid "Only today will I recommend an inefficient route.\nPlease take the extra time to brace your stomach."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690132"
+msgid "This is the table where #C236196003Elizabeth#CDEF laid out food for me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690204"
+msgid "…urp.\nJust thinking about it makes me feel like I might hurl.\nSo, let's not think about it anymore."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690308"
+msgid "The surveillance camera shows the figures\nof #C236196003Elizabeth#CDEF and #C236196003Shinji#CDEF within the Labyrinth,\nquarreling in front of a table out of place."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690476"
+msgid "For the LAST time, take a step back and listen\nto what I say! Like hell you can divvy up this\nfloor all on your own!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690596"
+msgid "You just don't stop blabbing, rat. What am I\nsupposed to expect from a coward who\nabandons the leading role and scampers off?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690724"
+msgid "And that all happened because I trusted\nYOU with setting the stage."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690792"
+msgid "Besides, your strategy lacked any idol \"pizazz.\"\nBeing all sneaky like that is the very\ndefinition of a mousetrap."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "690908"
+msgid "On that note, I'LL be my own producer this time!\nThe ratings will snake their way to the top…\nNo, they'll DRAKE their way to the top!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691044"
+msgid "That's right. You can't be an idol without\ndoing challenges. And it's not a challenge\nunless it's about homemade cooking."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691168"
+msgid "My handcrafted meal will inflict #[piggy][squirrely]# with\nCharm and force #[him][her]# to surrender to me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691276"
+msgid "#[Piggy][Squirrely]# will weep over how delicious it is…\nOvercome with emotion, #[he][she]#'ll kneel at my feet\nand cling to me, kindly ask for more…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691428"
+msgid "Ahh… How beautiful would that look? I have no\ninterest in being a wide-appeal idol, but I'll\nend up becoming a household name for sure."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691568"
+msgid "Spare the households of the world from your\ntyranny, Miss Queen!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691636"
+msgid "#C236196003Shinji#CDEF doubtfully stares at the sample of food.\nIt's a shame that we can't really tell what kind of\nfood it is with this grainy picture."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691792"
+msgid "Wait, #C236196003Elizabeth#CDEF's \"home cooking\"――\nFor some reason, I don't get the sense that my\nfuture will be a palatable one."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "691924"
+msgid "But… sure, I'll give you the leftovers like the\nrat you are! Go on―take a bite and tell me\nwhat you think!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692036"
+msgid "You treat me like a rat and STILL expect me to\neat your food!? It might look alright on the\noutside, but I'm NOT eating that!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692164"
+msgid "You slave driver!\n…shit! Fine, if eating it will make you happy!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692232"
+msgid "That food there was meant for #C236196003#FAMILY #GIVEN#CDEF―――\nI realize that this is something I'll have to deal with too."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692360"
+msgid "#C236196003Shinji#CDEF stabs his fork into some sort of red mass\nand brings it to his lips."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692452"
+msgid "Oh, we cut out the visuals here since it\nbecomes offensive to the eyes.\nPlease enjoy just the audio."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692556"
+msgid "Cough… bleh… wait, wait a sec'. I just picked\nup on how our cultures differ. So, this\nis sauteed chicken, right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692672"
+msgid "So why are there thorns in the meat? And why\ndoes it explode? And why do I hear shrieks\nwhen I bite into it?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692784"
+msgid "Hm? Don't you normally eat thorns?\nIt makes food all crunchy and delicious, no?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692864"
+msgid "No one eats those!\nThey've got ZERO nutrients!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "692912"
+msgid "Hungary would've been wiped out ages ago if\nTHIS was considered cooking!\nApologize to the people of Budapest!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693024"
+msgid "Wait, that might actually accomplish what\nwe want. But my points still stand!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693104"
+msgid "You're a nitpicky one, dirty rat. I already\ndecided to go with this strategy. If I say\n\"yes,\" the project is a go!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693220"
+msgid "Chop-chop! If I've made myself clear, then go\ngather me more materials!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693292"
+msgid "Once again, we descend into the shrine with\nthe oppressive atmosphere."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693364"
+msgid "So, what do we do now?\nThe invitation didn't specify any meeting place―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693444"
+msgid "You needn't worry.\nAs expected of my rival, she appears to be\ncultured in banquet etiquette."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693540"
+msgid "Nah, that won't be a problem―\nLooks like the welcome wagon is coming to us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693620"
+msgid "What's the deal with throwing a dinner party in\nthe Labyrinth, anyway? They could at least come\ngreet… Ah, it appears they've arrived."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693756"
+msgid "I hope you're doing well, my adorable #[piggy][squirrely]#.\nI'm pleased to see you've accepted\nmy invitation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "693868"
+msgid "This will be my thanks for your crass behavior\nbefore. No spear, no torture. Have a full taste\nof my three meals: morning, lunch, and dinner."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694012"
+msgid "#C236196003Elizabeth#CDEF beams with the most ladylike smile\nshe can muster. #C236196003Shinji#CDEF, standing behind her with a pale,\naverted face catches my eye."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694176"
+msgid "\"I don't ever want to think about it again\"――\nHis expression speaks volumes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694256"
+msgid "As if leading us, #C236196003Elizabeth#CDEF disappears\ninto the depths of the Labyrinth."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694348"
+msgid "Why do we HAVE to take her up on this?\nTo be totally honest, I'm not very willing to do this.\nCan't we just do a plain old exploration of the Labyrinth?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694504"
+msgid "…this has gotten a bit catastrophic,\nhasn't it…? You'll have to play along for a bit\nin order to get her #C000246204SG#CDEF…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694632"
+msgid "If things start going real south,\nwe'll have to pull out fast.\nDon't miss any red flags."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "694724"
+msgid "…#[Mr.][Ms.]##C236196003 #NICK#CDEF. We'll be formulating measures\nto address the food just in case, but…\nI wish you the best of luck in the meantime."
+msgstr ""
+

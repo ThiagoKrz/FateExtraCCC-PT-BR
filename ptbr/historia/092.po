@@ -1,0 +1,909 @@
+# Historia - cena 092
+# Fonte no jogo: field_new/092/0000.dat
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. locationOrName
+msgctxt "12000"
+msgid "Rani"
+msgstr ""
+
+#. locationOrName
+msgctxt "12020"
+msgid "Dan"
+msgstr ""
+
+#. locationOrName
+msgctxt "12028"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12036"
+msgid "Gatou"
+msgstr ""
+
+#. locationOrName
+msgctxt "12044"
+msgid "Lil' Ronnie"
+msgstr ""
+
+#. locationOrName
+msgctxt "12060"
+msgid "Julius"
+msgstr ""
+
+#. locationOrName
+msgctxt "12084"
+msgid "Leo"
+msgstr ""
+
+#. locationOrName
+msgctxt "12092"
+msgid "Twice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12104"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12116"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12128"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12200"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12252"
+msgid "Gawain"
+msgstr ""
+
+#. locationOrName
+msgctxt "12284"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12392"
+msgid "???"
+msgstr ""
+
+#. locationOrName
+msgctxt "12400"
+msgid "Servant"
+msgstr ""
+
+#. locationOrName
+msgctxt "12416"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12428"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12440"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12452"
+msgid "Rider"
+msgstr ""
+
+#. locationOrName
+msgctxt "12464"
+msgid "Lancer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12476"
+msgid "Berserker"
+msgstr ""
+
+#. locationOrName
+msgctxt "12492"
+msgid "Assassin"
+msgstr ""
+
+#. locationOrName
+msgctxt "12504"
+msgid "Savior"
+msgstr ""
+
+#. locationOrName
+msgctxt "12560"
+msgid "Andersen"
+msgstr ""
+
+#. locationOrName
+msgctxt "12576"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12584"
+msgid "Passionlip"
+msgstr ""
+
+#. locationOrName
+msgctxt "12604"
+msgid "Meltlilith"
+msgstr ""
+
+#. locationOrName
+msgctxt "12620"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12636"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12652"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12668"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12684"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12720"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12736"
+msgid "Jinako"
+msgstr ""
+
+#. locationOrName
+msgctxt "12744"
+msgid "Karna"
+msgstr ""
+
+#. locationOrName
+msgctxt "12752"
+msgid "Green Tea"
+msgstr "Chá Verde"
+
+#. locationOrName
+msgctxt "12772"
+msgid "Newscaster"
+msgstr "Apresentador"
+
+#. locationOrName
+msgctxt "12792"
+msgid "Rin's Archer"
+msgstr "Archer da Rin"
+
+#. locationOrName,locationOrName2
+msgctxt "13164"
+msgid "Rooftop"
+msgstr "Terraço"
+
+#. locationOrName,locationOrName2
+msgctxt "13172"
+msgid "Storeroom"
+msgstr "Depósito"
+
+#. locationOrName,locationOrName2
+msgctxt "13204"
+msgid "Garden"
+msgstr "Jardim"
+
+#. locationOrName,locationOrName2
+msgctxt "13372"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. locationOrName,locationOrName2
+msgctxt "13384"
+msgid "Library"
+msgstr "Biblioteca"
+
+#. locationOrName2
+msgctxt "13496"
+msgid "Search"
+msgstr "Procurar"
+
+#. backlog,motion,text
+msgctxt "30748"
+msgid "Activate the switch?"
+msgstr ""
+
+#. choice
+msgctxt "30772"
+msgid "Press."
+msgstr ""
+
+#. popupStd
+msgctxt "30896"
+msgid "HP & MP fully restored."
+msgstr ""
+
+#. unk_op1653
+msgctxt "30928"
+msgid "Save?"
+msgstr ""
+
+#. unk_op1653
+msgctxt "30948"
+msgid "Retry battle?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40048"
+msgid "Is there a checkpoint in that area?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40292"
+msgid "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40828"
+msgid "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "41848"
+msgid "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42140"
+msgid "Apocalypse Now!\nCome back soooooooon!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42608"
+msgid "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "43520"
+msgid "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest."
+msgstr ""
+
+#. unk_op1659
+msgctxt "47748"
+msgid "　Obtained\n#C000246204#TITM0001#CDEF."
+msgstr "　Obtido:\n#C000246204#TITM0001#CDEF."
+
+#. popupStd_line1
+msgctxt "47792"
+msgid "Obtained"
+msgstr "Obtido"
+
+#. choice
+msgctxt "540704"
+msgid "Stay here."
+msgstr ""
+
+#. inDungeon
+msgctxt "540884"
+msgid "Urgh… I need… to hurry…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "541672"
+msgid "Area scan, as well as shield detection,\ncomplete."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "542420"
+msgid "Was that not #C236196003Rin#CDEF just now? She appeared\nunwell though…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "542688"
+msgid "A listless walk.\nWhat happened to that woman?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "543252"
+msgid "#C236196003#FAMILY#CDEF, keep chasing her.\nLet's figure out what she's doing."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "543368"
+msgid "I caught up to #C236196003Rin#CDEF…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "543572"
+msgid "More… prepare more blood, #C236196003Rin#CDEF…\nThat's what #C236196003Lancer#CDEF said…\nAs her Master, I have to obey, properly…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "543724"
+msgid "I wonder, why am I doing something so\npainful…?\nI just became Queen too…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "543968"
+msgid "#C236196003Rin#CDEF continuously mutters to herself."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "544100"
+msgid "#C236196003#GIVEN#CDEF…!?\nH-how long have you been standing there!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "544352"
+msgid "It has been a while now. Ah, but pay no heed\nto us. Please, go ahead and continue with your\npleasant self-harm."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "544484"
+msgid "\"For a slight minute or so,\" I replied."
+msgstr ""
+
+#. locationOrName
+msgctxt "550608"
+msgid "Rin Tohsaka"
+msgstr "Tohsaka Rin"
+
+#. locationOrName
+msgctxt "550620"
+msgid "Shinji Matou"
+msgstr "Matou Shinji"
+
+#. locationOrName
+msgctxt "550636"
+msgid "Sakura Matou"
+msgstr "Matou Sakura"
+
+#. locationOrName
+msgctxt "550652"
+msgid "Taiga Fujimura"
+msgstr "Fujimura Taiga"
+
+#. locationOrName
+msgctxt "550668"
+msgid "Aozaki Touko"
+msgstr ""
+
+#. locationOrName
+msgctxt "550684"
+msgid "Issei Ryuudou"
+msgstr "Ryuudou Issei"
+
+#. locationOrName
+msgctxt "550700"
+msgid "Father Kotomine"
+msgstr "Padre Kotomine"
+
+#. locationOrName
+msgctxt "550716"
+msgid "Male Student"
+msgstr "Aluno"
+
+#. locationOrName
+msgctxt "550732"
+msgid "Female Student"
+msgstr "Aluna"
+
+#. locationOrName
+msgctxt "550748"
+msgid "Young Man"
+msgstr "Rapaz"
+
+#. locationOrName,locationOrName2
+msgctxt "550760"
+msgid "Main gate"
+msgstr "Portão principal"
+
+#. locationOrName,locationOrName2
+msgctxt "550772"
+msgid "Schoolyard"
+msgstr "Pátio"
+
+#. locationOrName,locationOrName2
+msgctxt "550784"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "550804"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "550824"
+msgid "School Building 3F"
+msgstr "Escola - Andar 3"
+
+#. locationOrName,locationOrName2
+msgctxt "550844"
+msgid "Classroom 2-A"
+msgstr "Sala 2-A"
+
+#. locationOrName,locationOrName2
+msgctxt "550860"
+msgid "Infirmary"
+msgstr "Enfermaria"
+
+#. locationOrName,locationOrName2
+msgctxt "550872"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "550892"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "550912"
+msgid "1st & 2nd Year Classroom"
+msgstr "Salas do 1o e 2o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "550940"
+msgid "3rd Year Classroom"
+msgstr "Salas do 3o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "550960"
+msgid "Student Council Room"
+msgstr "Sala do Grêmio"
+
+#. locationOrName,locationOrName2
+msgctxt "550984"
+msgid "Janitor's Closet"
+msgstr "Depósito do Zelador"
+
+#. choice
+msgctxt "551004"
+msgid "Don't press."
+msgstr ""
+
+#. popupStd_line2
+msgctxt "551020"
+msgid "#TVAL02 Sm#CDEF."
+msgstr ""
+
+#. unk_op1659
+msgctxt "551040"
+msgid "　You cannot carry any more\n#C000246204#TITM0001#CDEF."
+msgstr "　Você não pode carregar mais\n#C000246204#TITM0001#CDEF."
+
+#. backlog,motion,text
+msgctxt "551096"
+msgid "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551200"
+msgid "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551336"
+msgid "I'm concerned about #C236196003Rin#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551380"
+msgid "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551520"
+msgid "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551640"
+msgid "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551740"
+msgid "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551932"
+msgid "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "551996"
+msgid "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552076"
+msgid "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552192"
+msgid "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552320"
+msgid "Even in cyberspace, you need proper rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552364"
+msgid "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552492"
+msgid "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552620"
+msgid "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552728"
+msgid "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552816"
+msgid "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "552908"
+msgid "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553056"
+msgid "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553140"
+msgid "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553272"
+msgid "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553372"
+msgid "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553532"
+msgid "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553660"
+msgid "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553752"
+msgid "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553884"
+msgid "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "553984"
+msgid "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554192"
+msgid "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554316"
+msgid "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554448"
+msgid "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554540"
+msgid "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554664"
+msgid "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554744"
+msgid "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554848"
+msgid "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "554936"
+msgid "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest."
+msgstr ""
+
+#. unk_op1650
+msgctxt "555056"
+msgid "You may now save your current game data\n            as #C000246204Clear Data#CDEF."
+msgstr "Agora você pode salvar seus dados\n         como #C000246204Clear Data#CDEF."
+
+#. unk_op1650
+msgctxt "555140"
+msgid "     You may use this data to carry\nover elements to the start of a new game."
+msgstr "     Você pode usar esses dados para levar\nelementos ao início de um novo jogo."
+
+#. unk_op1650
+msgctxt "555220"
+msgid "Please be careful to not overwrite\n  the data while you are saving."
+msgstr "Tome cuidado para não sobrescrever\n  os dados ao salvar."
+
+#. unk_op1653
+msgctxt "555288"
+msgid "Would you like to save your Clear Data?"
+msgstr "Deseja salvar seus Clear Data?"
+
+#. popupSaveBeforeQuit_line1
+msgctxt "555328"
+msgid "Are you sure you wish to exit"
+msgstr "Tem certeza de que deseja sair"
+
+#. popupSaveBeforeQuit_line2
+msgctxt "555360"
+msgid "without saving the Clear Data?"
+msgstr "sem salvar os Clear Data?"
+
+#. backlog,motion,text
+msgctxt "555392"
+msgid "Did you see that? That was her just now.\nShe was looking pale though…\nMaybe some food didn't agree with her?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "555504"
+msgid "Just now, that zombie-looking thing\ncrossing over there was #C236196003Rin#CDEF.\nWe've found some more delightful trouble!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "555628"
+msgid "We have also confirmed that was\none of #C236196003Rin#CDEF's other selves."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "555704"
+msgid "Her Servant doesn't seem to be around either.\nThis is your chance to obtain her #C000246204SG#CDEF.\nPlease pursue her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "555824"
+msgid "Like #C236196003Leo#CDEF said as well: she's clearly acting\nstrange. Her face is pale, and her eyes look\nempty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "555936"
+msgid "In one hand she held a syringe,\nwhich she was sticking into her arm.\nWhat―――on Earth―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556032"
+msgid "Ahh! But if I defy her,\nshe'll beat me with that long thing of hers…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556104"
+msgid "That girl always has to have her way, but she's\nstrong… and a noble… and that tail… When I\nhear her orders I feel, like, really―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556244"
+msgid "It's unclear what she's doing, but it's dangerous.\nThere's no way I can leave her like that…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556340"
+msgid "Since just now. Getting hit with something\nlong―being frustrated, but it feels good―\nsince around when you mentioned all that."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556472"
+msgid "Since just about a minute ago.\nWhat the hell are you doing…? Looks clearly\nlike something not good for your body…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556588"
+msgid "I could only make out bits and pieces of what she said,\nbut could it be that #C236196003Rin#CDEF is being abused by #C236196003Lancer#CDEF…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556732"
+msgid "J-just leave me alone!\nThis is a way of making money, that's it!\nThis has nothing to do with you!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556832"
+msgid "You asked for it! Come on out!\nAttack these voyeurs!\nGive them a HARSH beating they won't forget!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556932"
+msgid "Ergh, an enemy!\nI'll rout it, Master!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "556972"
+msgid "Are you some underling in desperation?\nWhat a waste of time…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "557036"
+msgid "Oh. #C236196003Rin#CDEF is so energetic now♪. Okay, okay. Now\nmy turn… Approach not you useless bureaucrat!\nHave you not seen my Darling's family crest!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "557192"
+msgid "Hmph. Has that money system she boasted of\nsold out? That spoils the fun.\nDrive this thing out, #C236196003#FAMILY#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "557316"
+msgid "Miss #C236196003Tohsaka#CDEF got away, huh?\n…looks like this one is quite different\nfrom the others up until now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "557432"
+msgid "There are still signs of this #C236196003Rin#CDEF in the\nLabyrinth. Let us try to search the area and\ncorner her a little more at all costs."
+msgstr ""
+
+#. popupStd
+msgctxt "557576"
+msgid "Return to the previous floor?"
+msgstr ""
+
+#. choice
+msgctxt "557608"
+msgid "Return to previous floor."
+msgstr ""
+
+#. choice
+msgctxt "557636"
+msgid "Return to the old school."
+msgstr ""
+
+#. inDungeon
+msgctxt "557664"
+msgid "That's not a complexion fit for a beautiful girl.\nPraetor, hurry and catch up to her!"
+msgstr ""
+
+#. inDungeon
+msgctxt "557752"
+msgid "Rin, what are you doing…!?"
+msgstr ""
+
+#. inDungeon
+msgctxt "557780"
+msgid "Oh dear, Rin is into some bad stuff.\nWe should stop her quickly, #RUBS  Master#RUBEDarling#REND."
+msgstr ""
+
+#. inDungeon
+msgctxt "557880"
+msgid "Hahaha, I think you misunderstand, mongrel.\nIt seems to me like she's enjoying herself."
+msgstr ""
+
+#. inDungeon
+msgctxt "557968"
+msgid "Rin's signal is just up ahead."
+msgstr ""
+
+#. inDungeon
+msgctxt "558000"
+msgid "This structure seems different from everything else\nso far. Please be extra cautious."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558088"
+msgid "Haa, haa… How many times has it been now,\nI wonder…? I've gone back and forth right up\nto my threshold…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558196"
+msgid "Ahaha… So cold―so dizzy… but I've got no\nchoice, yeah. Orders are orders. Orders are\nabsolute―this is all due to my orders…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558328"
+msgid "I should go collect more, at least…\nI have to deliver it soon…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558396"
+msgid "This Miss #C236196003Tohsaka#CDEF IS acting strange after all.\nIt looks like she hasn't noticed us\nintruding yet."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558512"
+msgid "The shadows enveloping the castle have deepened,\nI see… Praetor, be on guard. Something\noverpowering is here before us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558636"
+msgid "…looks like this is our last stop. I feel a\nremarkably large pressure, but… no, rather\nthan pressure, could this be… rejection?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558768"
+msgid "Wooow. At last, she shows what she is really\nmade of. This is a complex structure now, I see.\nIt is not called a \"Labyrinth\" for nothing."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "558908"
+msgid "Well, now. The atmosphere is different―a\nhostile type that is no longer being concealed.\nDo not get careless, mongrel."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "559028"
+msgid "There are many signs of hostile enemies.\nAdditionally, two shields have been identified."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "559120"
+msgid "How about that singing sound from before…\n#C236196003Lancer#CDEF's, it seems?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "559200"
+msgid "Signs are stronger than from the second floor.\nWe can still make contact with #C236196003#GIVEN#CDEF,\nthough…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "559312"
+msgid "…there's a high chance that #C236196003Lancer#CDEF is here.\nAnticipate a direct confrontation with Miss\n#C236196003Tohsaka#CDEF. #C236196003#FAMILY#CDEF, be fully prepared."
+msgstr ""
+

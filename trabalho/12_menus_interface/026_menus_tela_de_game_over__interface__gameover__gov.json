@@ -1,0 +1,28 @@
+{
+  "id": "menus/interface__gameover__gov",
+  "po": "ptbr/menus/interface__gameover__gov.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Tela de Game Over",
+  "origem": "interface/gameover/gov.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 1,
+  "linhas_exclusivas": 1,
+  "traduzidas": 1,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Return to Title Screen?",
+      "pt": "Voltar à tela de título?"
+    }
+  ]
+}

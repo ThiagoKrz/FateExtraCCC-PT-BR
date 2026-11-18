@@ -1,0 +1,28 @@
+{
+  "id": "menus/interface__dayresult__d_result",
+  "po": "ptbr/menus/interface__dayresult__d_result.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Tela de Resultado do Dia",
+  "origem": "interface/dayresult/d_result.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "",
+  "linhas_totais": 1,
+  "linhas_exclusivas": 1,
+  "traduzidas": 1,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": null,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "acquired!",
+      "pt": "adquirido!"
+    }
+  ]
+}

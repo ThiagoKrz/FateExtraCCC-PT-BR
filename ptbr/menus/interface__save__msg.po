@@ -1,0 +1,41 @@
+# Menu / interface - interface/save/msg.bin
+# Fonte no jogo: interface/save/msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Save your progress."
+msgstr "Salva seu progresso."
+
+msgctxt "1"
+msgid "Load saved data."
+msgstr "Carrega dados salvos."
+
+msgctxt "2"
+msgid "Delete saved data."
+msgstr "Apaga dados salvos."
+
+msgctxt "3"
+msgid "Change in-game settings."
+msgstr "Altera as configurações do jogo."
+
+msgctxt "4"
+msgid "Return to title without saving."
+msgstr "Volta ao título sem salvar."
+
+msgctxt "5"
+msgid "Cannot be used."
+msgstr "Não pode ser usado."
+
+msgctxt "6"
+msgid "Cannot be used."
+msgstr "Não pode ser usado."
+
+msgctxt "7"
+msgid "Return to title without saving?"
+msgstr "Voltar ao título sem salvar?"
+

@@ -1,0 +1,171 @@
+{
+  "id": "lore/interface__infomatrixex__infomatrix_d_05",
+  "po": "ptbr/lore/interface__infomatrixex__infomatrix_d_05.po",
+  "grupo": "11_lore_matriz",
+  "capitulo": "Info Matrix",
+  "titulo": "Info Matrix (Ficha 05) — Cap. 5 — Meltlilith e BB",
+  "origem": "interface/infomatrixex/infomatrix_d_05.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 14,
+  "linhas_exclusivas": 12,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": true,
+      "repeticoes": 193,
+      "en": "BB",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 6,
+      "en": "マスター偽名",
+      "pt": ""
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": true,
+      "repeticoes": 193,
+      "en": "Meltlilith",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "max 31 bytes",
+      "medida": null,
+      "max_bytes": 31,
+      "comum": false,
+      "repeticoes": 8,
+      "en": "サーバント偽名",
+      "pt": ""
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "#RUBS Benzaiten's Five-String Biwa#RUBESaraswati Meltout#REND",
+      "pt": ""
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 9,
+      "en": "#RUBSほうぐぎめい#RUBE宝具偽名#REND",
+      "pt": ""
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 4,
+      "en": "Crime Ballet",
+      "pt": ""
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 4,
+      "en": "Crime Ballet",
+      "pt": ""
+    },
+    {
+      "id": 9,
+      "msgctxt": "8",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Composite Divinity",
+      "pt": ""
+    },
+    {
+      "id": 10,
+      "msgctxt": "9",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "複合神性（偽名）",
+      "pt": ""
+    },
+    {
+      "id": 11,
+      "msgctxt": "10",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Neurological Disorder",
+      "pt": ""
+    },
+    {
+      "id": 12,
+      "msgctxt": "11",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "神経障害（偽名）",
+      "pt": ""
+    },
+    {
+      "id": 13,
+      "msgctxt": "12",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "The End of Pleasure",
+      "pt": ""
+    },
+    {
+      "id": 14,
+      "msgctxt": "13",
+      "tipo": "max 127 bytes",
+      "medida": null,
+      "max_bytes": 127,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "快楽の果て（偽名）",
+      "pt": ""
+    }
+  ]
+}

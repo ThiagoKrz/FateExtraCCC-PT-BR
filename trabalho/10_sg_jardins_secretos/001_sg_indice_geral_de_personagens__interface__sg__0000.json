@@ -1,0 +1,149 @@
+{
+  "id": "sg/interface__sg__0000",
+  "po": "ptbr/sg/interface__sg__0000.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG — Índice Geral de Personagens",
+  "origem": "interface/sg/0000.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 12,
+  "linhas_exclusivas": 2,
+  "traduzidas": 3,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 191,
+      "en": "Rin Tohsaka",
+      "pt": "Tohsaka Rin"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Rani VIII",
+      "pt": ""
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 192,
+      "en": "Passionlip",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Jinako Carigiri",
+      "pt": "Carigiri Jinako"
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 191,
+      "en": "Elizabeth",
+      "pt": ""
+    },
+    {
+      "id": 6,
+      "msgctxt": "5",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 193,
+      "en": "Meltlilith",
+      "pt": ""
+    },
+    {
+      "id": 7,
+      "msgctxt": "6",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 193,
+      "en": "BB",
+      "pt": ""
+    },
+    {
+      "id": 8,
+      "msgctxt": "7",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "Kiara Sessyoin",
+      "pt": "Sessyoin Kiara"
+    },
+    {
+      "id": 9,
+      "msgctxt": "8",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "Saber",
+      "pt": ""
+    },
+    {
+      "id": 10,
+      "msgctxt": "9",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "Archer",
+      "pt": ""
+    },
+    {
+      "id": 11,
+      "msgctxt": "10",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 189,
+      "en": "Caster",
+      "pt": ""
+    },
+    {
+      "id": 12,
+      "msgctxt": "11",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": true,
+      "repeticoes": 191,
+      "en": "Gilgamesh",
+      "pt": ""
+    }
+  ]
+}

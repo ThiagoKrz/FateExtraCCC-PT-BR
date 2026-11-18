@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_gil_text4",
+  "po": "ptbr/sg/interface__sg__sg_gil_text4.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Gilgamesh] — Episódio",
+  "origem": "interface/sg/sg_gil_text4.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Gil's Episode",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 11,
+      "en": "あああああああああああああああああああ\r\nいいいいいいいいいいいいいいいいいいい\r\nううううううううううううううううううう\r\n",
+      "pt": ""
+    }
+  ]
+}

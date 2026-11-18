@@ -1,0 +1,37 @@
+# Menu / interface - battle/interface/btl_msg.bin
+# Fonte no jogo: battle/interface/btl_msg.bin
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+msgctxt "0"
+msgid "Master's Support Command"
+msgstr "Comando de Apoio do Mestre"
+
+msgctxt "1"
+msgid "Required MP"
+msgstr "MP Necessário"
+
+msgctxt "2"
+msgid "MP"
+msgstr ""
+
+msgctxt "3"
+msgid "below %"
+msgstr "abaixo de %"
+
+msgctxt "4"
+msgid "Escape?"
+msgstr "Fugir?"
+
+msgctxt "5"
+msgid "Heal & scan enemy. Cost: One Turn"
+msgstr "Cura e escaneia o inimigo. Custo: 1 turno"
+
+msgctxt "6"
+msgid "Command Seal"
+msgstr "Selo de Comando"
+

@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_ner_text3",
+  "po": "ptbr/sg/interface__sg__sg_ner_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Nero (Saber)] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_ner_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Love for the People",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Saber's third SG.\n\nThis is the way of her heart.\nIt's said while Saber criticized herself as self-righteous,\nshe pursued the beauty to forgive all peoples―\n――the ultimate beauty.\nThough that wish was not to be granted in the end.\n\nHowever.\n\n\"Whether it be a single gold coin,\n a single night's sport,\n a single shard of a dream.\n\n To merely look upon the faces of people\n whose smiles are that of flowers――\n that, I think, is the form of ultimate beauty.\"\n\nShe told of that dream as if she was seeing it.\nStars for the sky. Flowers for Earth. And love for people.\nSaber didn't know, that way of life is the ultimate beauty.\n",
+      "pt": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_ran_text1",
+  "po": "ptbr/sg/interface__sg__sg_ran_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Rani VIII] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_ran_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Management Desire",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Rani's first SG.\n\nThe desire to reject any tolerance of waste\nand operate systems efficiently.\n\nThough not \"the desire to control others,\" in extremes,\nManagement Desire can be worse than Controlling Desire.\nIt ultimately brings forth people under the control of\nmisguided rules, raised in a misguided city of the future―\n――a dystopia, but that's another story.\n\n             ◆\n\nRani VIII is a measurement freak.\nShe takes pleasure in seeking orderly patterns,\neliminating ambiguity, and quantifying everything.\nAs a homunculus, Rani acknowledges her shameful humanity,\nshutting herself in her room to indulge in numerics.\nIt seems Rani herself hasn't noticed that this is\none of her few hobbies and idiosyncrasies.\n\nOn a side note, its opposite is the \"Submission Desire\" SG.\nRin & Rani. Though they're like oil and water, they may\nget along since they're like parts missing from each other.\n",
+      "pt": ""
+    }
+  ]
+}

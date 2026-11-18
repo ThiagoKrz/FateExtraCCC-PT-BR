@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_emi_text3",
+  "po": "ptbr/sg/interface__sg__sg_emi_text3.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [EMIYA (Archer)] — SG 3 (Texto e Descrição)",
+  "origem": "interface/sg/sg_emi_text3.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 2,
+      "en": "Bad Luck with Women",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Archer's third SG.\nJust like it says, fated to be troubled by women.\n\nMeltlilith was taken with Archer at first sight,\nbut judging by his attitude, he was quite used to it.\nApparently, he's dealt with many headstrong women in life.\n\n             ◆\n\nWhile it may be called \"Bad Luck with Women,\"\nthe man in question is, of course, also at fault.\nEven after becoming a Servant, there's no mistaking\nthat's he's retained the unfortunate habits he had in life.\n\n\"If the girl is cute, of course I'd like them.\"\n\nAnyone who can say that with a straight face\ndoesn't deserve any sympathy.\n\nOn a side note, this SG can only be acquired\nby the female protagonist.\n",
+      "pt": ""
+    }
+  ]
+}

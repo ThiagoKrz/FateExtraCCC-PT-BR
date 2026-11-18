@@ -1,0 +1,2344 @@
+# Historia - cena 152
+# Fonte no jogo: field_new/152/0000.dat
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. locationOrName
+msgctxt "11936"
+msgid "Rani"
+msgstr ""
+
+#. locationOrName
+msgctxt "11956"
+msgid "Dan"
+msgstr ""
+
+#. locationOrName
+msgctxt "11964"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "11972"
+msgid "Gatou"
+msgstr ""
+
+#. locationOrName
+msgctxt "11980"
+msgid "Lil' Ronnie"
+msgstr ""
+
+#. locationOrName
+msgctxt "11996"
+msgid "Julius"
+msgstr ""
+
+#. locationOrName
+msgctxt "12020"
+msgid "Leo"
+msgstr ""
+
+#. locationOrName
+msgctxt "12028"
+msgid "Twice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12040"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12052"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12064"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12136"
+msgid "Alice"
+msgstr ""
+
+#. locationOrName
+msgctxt "12188"
+msgid "Gawain"
+msgstr ""
+
+#. locationOrName
+msgctxt "12220"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12328"
+msgid "???"
+msgstr ""
+
+#. locationOrName
+msgctxt "12336"
+msgid "Servant"
+msgstr ""
+
+#. locationOrName
+msgctxt "12352"
+msgid "Saber"
+msgstr ""
+
+#. locationOrName
+msgctxt "12364"
+msgid "Archer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12376"
+msgid "Caster"
+msgstr ""
+
+#. locationOrName
+msgctxt "12388"
+msgid "Rider"
+msgstr ""
+
+#. locationOrName
+msgctxt "12400"
+msgid "Lancer"
+msgstr ""
+
+#. locationOrName
+msgctxt "12412"
+msgid "Berserker"
+msgstr ""
+
+#. locationOrName
+msgctxt "12428"
+msgid "Assassin"
+msgstr ""
+
+#. locationOrName
+msgctxt "12440"
+msgid "Savior"
+msgstr ""
+
+#. locationOrName
+msgctxt "12496"
+msgid "Andersen"
+msgstr ""
+
+#. locationOrName
+msgctxt "12512"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12520"
+msgid "Passionlip"
+msgstr ""
+
+#. locationOrName
+msgctxt "12540"
+msgid "Meltlilith"
+msgstr ""
+
+#. locationOrName
+msgctxt "12556"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12572"
+msgid "Elizabeth"
+msgstr ""
+
+#. locationOrName
+msgctxt "12588"
+msgid "BB"
+msgstr ""
+
+#. locationOrName
+msgctxt "12604"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12620"
+msgid "Kiara Sessyoin"
+msgstr "Sessyoin Kiara"
+
+#. locationOrName
+msgctxt "12656"
+msgid "Gilgamesh"
+msgstr ""
+
+#. locationOrName
+msgctxt "12672"
+msgid "Jinako"
+msgstr ""
+
+#. locationOrName
+msgctxt "12680"
+msgid "Karna"
+msgstr ""
+
+#. locationOrName
+msgctxt "12688"
+msgid "Green Tea"
+msgstr "Chá Verde"
+
+#. locationOrName
+msgctxt "12708"
+msgid "Newscaster"
+msgstr "Apresentador"
+
+#. locationOrName
+msgctxt "12728"
+msgid "Rin's Archer"
+msgstr "Archer da Rin"
+
+#. locationOrName,locationOrName2
+msgctxt "13100"
+msgid "Rooftop"
+msgstr "Terraço"
+
+#. locationOrName,locationOrName2
+msgctxt "13108"
+msgid "Storeroom"
+msgstr "Depósito"
+
+#. locationOrName,locationOrName2
+msgctxt "13140"
+msgid "Garden"
+msgstr "Jardim"
+
+#. locationOrName,locationOrName2
+msgctxt "13308"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. locationOrName,locationOrName2
+msgctxt "13320"
+msgid "Library"
+msgstr "Biblioteca"
+
+#. locationOrName2
+msgctxt "13432"
+msgid "Search"
+msgstr "Procurar"
+
+#. backlog,motion,text
+msgctxt "30684"
+msgid "Activate the switch?"
+msgstr ""
+
+#. choice
+msgctxt "30708"
+msgid "Press."
+msgstr ""
+
+#. popupStd
+msgctxt "30832"
+msgid "HP & MP fully restored."
+msgstr ""
+
+#. unk_op1653
+msgctxt "30864"
+msgid "Save?"
+msgstr ""
+
+#. unk_op1653
+msgctxt "30884"
+msgid "Retry battle?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "39984"
+msgid "Is there a checkpoint in that area?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40228"
+msgid "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "40764"
+msgid "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "41784"
+msgid "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42076"
+msgid "Apocalypse Now!\nCome back soooooooon!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "42544"
+msgid "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "43456"
+msgid "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest."
+msgstr ""
+
+#. unk_op1659
+msgctxt "47684"
+msgid "　Obtained\n#C000246204#TITM0001#CDEF."
+msgstr "　Obtido:\n#C000246204#TITM0001#CDEF."
+
+#. popupStd_line1
+msgctxt "47728"
+msgid "Obtained"
+msgstr "Obtido"
+
+#. unk_op1653
+msgctxt "48408"
+msgid "Try again?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "561852"
+msgid "…………………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562012"
+msgid "…why did you come here?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562148"
+msgid "I don't understand you…\nI was spoken to by you,\nI was saved so many times by you…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562240"
+msgid "But in the end, I was attacked by your Servant.\nDo you really… Do you really want to hurt\nme that badly…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562356"
+msgid "…this is the end.\nPlease let me ask this:\nwhat do you think of me?"
+msgstr ""
+
+#. choice
+msgctxt "562464"
+msgid "I hate Lip."
+msgstr ""
+
+#. choice
+msgctxt "562480"
+msgid "I like Lip."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562568"
+msgid "Hate… So, you hate me…\nThen why―\nWhy were you so nice to me…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562820"
+msgid "…I like… I like you.\nI like you a lot…\nSo, please tell me something."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "562892"
+msgid "What should I do to get you to like me back?"
+msgstr ""
+
+#. choice
+msgctxt "563368"
+msgid "…those claws hurt people."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "563640"
+msgid "?\nWhat  are  you  talking  about?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "563676"
+msgid "There's nothing weird about my hands.\nI'm normal. So why…?\nWhy would you tell such a lie?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "563992"
+msgid "Does she have a cognitive disorder?\nOr does she really see them so?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "564076"
+msgid "She doesn't see her own lethal weapons.\nTo her only, those claws\nappear to be a normal girl's arms."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "564248"
+msgid "…forever aloof."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "564612"
+msgid "Her disruptive claws squirm."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "566208"
+msgid "I approve.\n#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nYour love is genuine."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "566528"
+msgid "There's nothing… weird about me…\nIf I don't have you…\nI can't keep on living… but…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "566680"
+msgid "Please, die.\nPlease die now.\nBecome my cube, mine alone."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567240"
+msgid "Disappear… Disappear…\nNow, finally…\nYou'll be my prince, mine alone…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567476"
+msgid "!!??##%$$&'―――!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567508"
+msgid "Did, something, happen?\nAfter #C236196003Passionlip#CDEF lifted me, suddenly,\nmy vision, closed shut."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567624"
+msgid "No―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567636"
+msgid "I have vision."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567784"
+msgid "Beyond being cruel,\nbeyond hurting,\nbeyond scary\n―It's dreadful."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567864"
+msgid "I never knew such mortal suffering existed in this universe."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "567956"
+msgid "…it's alright, because, you're alive…\nI'll keep you like this in my cleavage,\nforever and ever."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568064"
+msgid "Now we're together, forever…\nUntil I break, until the Moon disappears…\nUntil death do us part―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568188"
+msgid "―――Those were the last words I ever heard."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568280"
+msgid "Unable to move my limbs or my head in the slightest,"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568336"
+msgid "I, formerly #C236196003#FAMILY #GIVEN#CDEF,\nwas discarded into oblivion."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568416"
+msgid "Ah―――Ahh, ah―――\nHea-vy―――\nMy hands… are so, hea-vy―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568496"
+msgid "Wh-y―――? Now I can't, stand…\nI can't, get up anymore…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "568568"
+msgid "#C236196003Passionlip#CDEF's will to fight wanes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "569120"
+msgid "Don't sweat the little details!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "569156"
+msgid "If it has a maiden's mind, then whether\nit's an AI, a god, or a monster―\nit falls under the \"girl\" umbrella!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "569428"
+msgid "So I―――"
+msgstr ""
+
+#. choice
+msgctxt "569444"
+msgid "Use Lip's SG to corner her."
+msgstr ""
+
+#. choice
+msgctxt "569472"
+msgid "………I can't do it."
+msgstr ""
+
+#. choice
+msgctxt "569500"
+msgid "………I can't do it.#C246168255薗#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "569544"
+msgid "…I can't do it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "569740"
+msgid "I don't understand… I'm, scared.\nI was, a normal girl."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570072"
+msgid "…but, she's still one of #C236196003BB#CDEF's parts."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570336"
+msgid "…AI don't change.\n#C236196003Passionlip#CDEF will forever follow this subroutine.\nThus―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570440"
+msgid "End this now.\nThis life should have never been."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570524"
+msgid "…I'm know I'm nagging,\nbut let me warn you:"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570768"
+msgid "Thinking she \"longs for others\" was really\na fatal bug. That's all there is to it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "570852"
+msgid "Darling… don't."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571232"
+msgid "Will you slay this monster or not?"
+msgstr ""
+
+#. choice
+msgctxt "571268"
+msgid "…finish her."
+msgstr ""
+
+#. choice
+msgctxt "571288"
+msgid "…don't finish her."
+msgstr ""
+
+#. choice
+msgctxt "571312"
+msgid "…don't finish her.#C246168255薗#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571352"
+msgid "…I, figured…\nI'm sorry…\nI hurt you, a lot…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571416"
+msgid "…I didn't, mean to…\nAt least… please believe me, on that…\nAhh, but―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571544"
+msgid "I wonder if,\nanything about me,\nwas cute…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571776"
+msgid "I'll never know what it was."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571808"
+msgid "Um… are you,\ngoing to forgive, me?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "571856"
+msgid "I can't properly explain why I want to help her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572036"
+msgid "I know very well how naive I am."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572300"
+msgid "I… still don't get it at all, but…\nThank you… very much."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572424"
+msgid "…I won't get in your way anymore.\nPlease, live on…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572484"
+msgid "…I can't be going easy on her here."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572668"
+msgid "……… aa……………\nAAA, AA―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572944"
+msgid "AA…… AAA……\nAAAAaaAAAAA!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "572984"
+msgid "I resist the urge of my legs to pedal back,\nand take #C236196003Lip#CDEF's wailing head-on."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "573588"
+msgid "…………aa…………\nAa, aa………………\nGuh, uh……………………"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "573652"
+msgid "Her mumbled cries echo."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "573876"
+msgid "#C236196003Passionlip#CDEF is on the floor, exhausted."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "574092"
+msgid "I wonder if AI sweat, too.\nI feel like her skin, noticeably moist,\nis an insult to this lively, defenseless young girl…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "574352"
+msgid "She wasn't incorporated into #C236196003BB#CDEF,\nshe's a part of #C236196003BB#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "574520"
+msgid "…first, let's identify #C236196003Lip#CDEF's #C000246204SG#CDEF."
+msgstr ""
+
+#. choice
+msgctxt "574708"
+msgid "Breast Valley"
+msgstr ""
+
+#. choice
+msgctxt "574736"
+msgid "Long hair"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "574748"
+msgid "You're wrong… I'm normal…\nNormal, see…\nThere's nothing strange about me…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "574844"
+msgid "……!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575020"
+msgid "…phah… ah… ahh…\nPlease, stop…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575068"
+msgid "No, why… are you touching me like that,\nnow of all times…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575136"
+msgid "I'm… scared…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575160"
+msgid "#C236196003Passionlip#CDEF sobs a little, shaking her head in refusal."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575320"
+msgid "Huh―――Kyaaaaa!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575348"
+msgid "Phah, ah, ahh…!\nI-it hurts, it hurts…!\nStop……!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575416"
+msgid "Clutching her chest, #C236196003Passionlip#CDEF screams out."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575576"
+msgid "Don't, don't… #C236196003#NICK#CDEF…\n…don't touch me………\n…………W-wait―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575680"
+msgid "You can touch me,\nso be… gentle…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575732"
+msgid "Disregarding her feeble voice, I peer into her cleavage."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "575792"
+msgid "That makes #C236196003Passionlip#CDEF blush and widen her damp eyes.\nShe may actually want to cover her face with her hands."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576048"
+msgid "…when you've had enough…\nplease, let go―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576436"
+msgid "S-so mean…\n…I'm normal…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576480"
+msgid "I'm normal…\nMy chest aches… haaa, ah…\nPlease let go!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576680"
+msgid "Hearing her screams, my composure falls apart."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576736"
+msgid "I want to see more.\nI want to hear more.\nI want to divulge more."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "576804"
+msgid "Driven by these urges, I dip my creeping fingers\ndeeper into her cleavage,\nas if peeking into her entire body―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577064"
+msgid "―――!!!!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577264"
+msgid "Uuuh, *sniff*… *sob*…\n…even after I asked… you to please stop…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577336"
+msgid "My fingers had wrapped around #C236196003Passionlip#CDEF's breasts and dug in."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577416"
+msgid "Despite repeating words of refusal as if we were lovers,\nshe doesn't make a single move to resist.\nShe doesn't stir in the slightest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577844"
+msgid "…I realize it again.\nShe's a seductive flirt.\nHer words say no, but her body says yes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "577956"
+msgid "This is her second #C000246204SG#CDEF.\nIt's called―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578188"
+msgid "…umm… That's not it at all…\nIf anything, uh… I would want to lock\n#C236196003#NICK#CDEF away in a box…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578316"
+msgid "Gah…! Damn, I was wrong…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578424"
+msgid "Her second #C000246204SG#CDEF is―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578468"
+msgid "Huh…?\nW-what, why―――\nMy, body, hurts…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578748"
+msgid "This may be her way of \"monopolizing someone's interest.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "578812"
+msgid "Y-you're wrong… wrong…!\nI don't like being bullied…\nI think."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579048"
+msgid "I start feeling… weird…\nI'm afraid, of being bullied…\nIt's not my fault…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579144"
+msgid "I'm sure everyone is a bully…\nThey get all excited about it…\nI… I don't, like it…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579268"
+msgid "It's not her fault that others get excited over her…?"
+msgstr ""
+
+#. choice
+msgctxt "579568"
+msgid "Squishy bounciness"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579588"
+msgid "Squishy… bounciness…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579724"
+msgid "Her third #C000246204SG#CDEF is her―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579768"
+msgid "Ah, mm―――!\nSto, p…!\nMy chest, is, bursting…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "579824"
+msgid "My piercing words strip down #C236196003Passionlip#CDEF's mind."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580296"
+msgid "Her world is fragile. Others are evil.\nShe's normal. She's not at fault."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580448"
+msgid "That's, mean, so mean…\nI'm sure you, #C236196003#NICK#CDEF,\nwould become my prince for me…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580556"
+msgid "I thought you didn't, hate me, like that…\nYou wouldn't… abandon me―――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580632"
+msgid "Why are you looking at me like that!?\nI'm not a monster. I'm a normal girl―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580720"
+msgid "All I wanted was to become a normal girl…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580796"
+msgid "Ah… ahh, ahhHh…! Stop, no, not that,\nI don't want to hear that…!!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "580880"
+msgid "I'm normal. Normal!\nI don't have, monster claws…!\nNothing's weird about my hands…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581108"
+msgid "It's hard to call a train of thought like that \"human.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581168"
+msgid "I… I…\n…I may be clumsy, indecisive,\nand not so smart, but―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581544"
+msgid "Hy… nng!\nT-too, loud… Ugh, your voice,\nyour voice… is tearing my skin apart―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581716"
+msgid "I can't tolerate such thinking."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "581748"
+msgid "I need… no, humans need friends."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582048"
+msgid "I'll stop if you tell me to, #C236196003#NICK#CDEF.\nI'll stop, so―――\nDon't, hate me."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582140"
+msgid "You, like me, right?\nThat's why,\nyou were nice to me, right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582212"
+msgid "Since you like me,\nit's fine to belong to me, right?\nWe can be together forever, right?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582344"
+msgid "Aren't those who act nice, those who don't\nact nice the selfish ones…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582416"
+msgid "I'm not selfish―――After all, I'm always,\nthinking… thinking about what's best,\nfor you, #C236196003#NICK#CDEF―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582732"
+msgid "―――?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "582924"
+msgid "Yeah… that's good.\nThat's what I want to do.\nBecause then, no one will get between us!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583216"
+msgid "Don't abandon me…\nDon't abandon me…\nDon't hate me…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583272"
+msgid "Please…\nPlease, I beg you…!\nDon't go, anywhere…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583336"
+msgid "I can't do that."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583492"
+msgid "I don't understand,\nI have no clue what you're saying,\n#C236196003#NICK#CDEF…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583656"
+msgid "Why would you say something so selfish?\nDo you, hate me…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583732"
+msgid "I don't understand… Not you, not what\nyou're saying… not what you want to do,\nnone of it―――."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "583988"
+msgid "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584056"
+msgid "You said that you love me.\nThat's the biggest error you've made."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584188"
+msgid "Ah, ahh… aha…\nAhaha, ha… ahh…\nAAH, aaAAAAAAAAH…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584448"
+msgid "There's, no one, else, to be together with,\nforever… Close together…\nNo bullies… No people to hurt me…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584700"
+msgid "And I'll only think of #C236196003#NICK#CDEF,\nforever, and ever…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "584776"
+msgid "Still, that's…\nNot, love…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "585028"
+msgid "That's why―――you don't like me, right…?\nYou hate… hate… hate me…\nStill…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "585192"
+msgid "You risked your life,\nfor me―――\nI'm, sorry―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "585776"
+msgid "…please, come, let me hold you…\nTightly, tightly…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "585844"
+msgid "So tightly, until you stop saying\nscary things…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "586184"
+msgid "No, the world is closing in…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "586392"
+msgid "…hee hee. You were so scary, proud,\nand showing off before.\nWhat are you afraid of, Senpai?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "586568"
+msgid "Don't worry.\nI'll take my time and teach you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "586712"
+msgid "The world is narrowing, shrinking…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "586800"
+msgid "…now there's no way out.\n#C236196003#FAMILY #GIVEN#CDEF's words failed to reach her―――"
+msgstr ""
+
+#. locationOrName
+msgctxt "658416"
+msgid "Rin Tohsaka"
+msgstr "Tohsaka Rin"
+
+#. locationOrName
+msgctxt "658428"
+msgid "Shinji Matou"
+msgstr "Matou Shinji"
+
+#. locationOrName
+msgctxt "658444"
+msgid "Sakura Matou"
+msgstr "Matou Sakura"
+
+#. locationOrName
+msgctxt "658460"
+msgid "Taiga Fujimura"
+msgstr "Fujimura Taiga"
+
+#. locationOrName
+msgctxt "658476"
+msgid "Aozaki Touko"
+msgstr ""
+
+#. locationOrName
+msgctxt "658492"
+msgid "Issei Ryuudou"
+msgstr "Ryuudou Issei"
+
+#. locationOrName
+msgctxt "658508"
+msgid "Father Kotomine"
+msgstr "Padre Kotomine"
+
+#. locationOrName
+msgctxt "658524"
+msgid "Male Student"
+msgstr "Aluno"
+
+#. locationOrName
+msgctxt "658540"
+msgid "Female Student"
+msgstr "Aluna"
+
+#. locationOrName
+msgctxt "658556"
+msgid "Young Man"
+msgstr "Rapaz"
+
+#. locationOrName,locationOrName2
+msgctxt "658568"
+msgid "Main gate"
+msgstr "Portão principal"
+
+#. locationOrName,locationOrName2
+msgctxt "658580"
+msgid "Schoolyard"
+msgstr "Pátio"
+
+#. locationOrName,locationOrName2
+msgctxt "658592"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "658612"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "658632"
+msgid "School Building 3F"
+msgstr "Escola - Andar 3"
+
+#. locationOrName,locationOrName2
+msgctxt "658652"
+msgid "Classroom 2-A"
+msgstr "Sala 2-A"
+
+#. locationOrName,locationOrName2
+msgctxt "658668"
+msgid "Infirmary"
+msgstr "Enfermaria"
+
+#. locationOrName,locationOrName2
+msgctxt "658680"
+msgid "School Building 1F"
+msgstr "Escola - Andar 1"
+
+#. locationOrName,locationOrName2
+msgctxt "658700"
+msgid "School Building 2F"
+msgstr "Escola - Andar 2"
+
+#. locationOrName,locationOrName2
+msgctxt "658720"
+msgid "1st & 2nd Year Classroom"
+msgstr "Salas do 1o e 2o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "658748"
+msgid "3rd Year Classroom"
+msgstr "Salas do 3o Ano"
+
+#. locationOrName,locationOrName2
+msgctxt "658768"
+msgid "Student Council Room"
+msgstr "Sala do Grêmio"
+
+#. locationOrName,locationOrName2
+msgctxt "658792"
+msgid "Janitor's Closet"
+msgstr "Depósito do Zelador"
+
+#. choice
+msgctxt "658812"
+msgid "Don't press."
+msgstr ""
+
+#. popupStd_line2
+msgctxt "658828"
+msgid "#TVAL02 Sm#CDEF."
+msgstr ""
+
+#. unk_op1659
+msgctxt "658848"
+msgid "　You cannot carry any more\n#C000246204#TITM0001#CDEF."
+msgstr "　Você não pode carregar mais\n#C000246204#TITM0001#CDEF."
+
+#. backlog,motion,text
+msgctxt "658904"
+msgid "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659008"
+msgid "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659144"
+msgid "I'm concerned about #C236196003Rin#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659188"
+msgid "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659328"
+msgid "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659448"
+msgid "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659548"
+msgid "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659740"
+msgid "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659804"
+msgid "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "659884"
+msgid "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660000"
+msgid "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660128"
+msgid "Even in cyberspace, you need proper rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660172"
+msgid "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660300"
+msgid "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660428"
+msgid "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660536"
+msgid "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660624"
+msgid "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660716"
+msgid "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660864"
+msgid "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "660948"
+msgid "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661080"
+msgid "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661180"
+msgid "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661340"
+msgid "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661468"
+msgid "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661560"
+msgid "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661692"
+msgid "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "661792"
+msgid "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662000"
+msgid "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662124"
+msgid "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662256"
+msgid "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662348"
+msgid "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662472"
+msgid "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662552"
+msgid "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662656"
+msgid "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "662744"
+msgid "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest."
+msgstr ""
+
+#. unk_op1650
+msgctxt "662864"
+msgid "You may now save your current game data\n            as #C000246204Clear Data#CDEF."
+msgstr "Agora você pode salvar seus dados\n         como #C000246204Clear Data#CDEF."
+
+#. unk_op1650
+msgctxt "662948"
+msgid "     You may use this data to carry\nover elements to the start of a new game."
+msgstr "     Você pode usar esses dados para levar\nelementos ao início de um novo jogo."
+
+#. unk_op1650
+msgctxt "663028"
+msgid "Please be careful to not overwrite\n  the data while you are saving."
+msgstr "Tome cuidado para não sobrescrever\n  os dados ao salvar."
+
+#. unk_op1653
+msgctxt "663096"
+msgid "Would you like to save your Clear Data?"
+msgstr "Deseja salvar seus Clear Data?"
+
+#. popupSaveBeforeQuit_line1
+msgctxt "663136"
+msgid "Are you sure you wish to exit"
+msgstr "Tem certeza de que deseja sair"
+
+#. popupSaveBeforeQuit_line2
+msgctxt "663168"
+msgid "without saving the Clear Data?"
+msgstr "sem salvar os Clear Data?"
+
+#. backlog,motion,text
+msgctxt "663200"
+msgid "This is the center of #C236196003Passionlip#CDEF's mind…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663260"
+msgid "A world filled with an anguish that no one\nunderstands, and a sense of hopelessness\nthat no one tries to see."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663372"
+msgid "#C236196003Passionlip#CDEF has a blank look on her face."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663432"
+msgid "Her passiveness has vanished,\nand now she's resolved to let no one pass―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663512"
+msgid "I sense her madness, to let no one who enters leave."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663568"
+msgid "…if you had stayed in that school…\nI was always watching you…\nI liked it that way, I was happy, and yet…"
+msgstr ""
+
+#. choice
+msgctxt "663680"
+msgid "Lip and I are enemies."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663704"
+msgid "Enemies… We're enemies……?\nWhat do you mean―that's…\nThat's a convenient excuse……!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663792"
+msgid "Lies…!\nIf that were true,\nthen why did you reject me so many times…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663864"
+msgid "What should I have done…? If I could have\nforgotten, everything would be fine… but an AI\nlike me has no \"forget\" function…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "663992"
+msgid "Are you saying there's something\nwrong with me…!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664044"
+msgid "Something wrong, huh?\nPraetor, it's her compassion.\nTell it to her straight."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664124"
+msgid "Obviously her body is one issue, but anyway…\nAnswer her, Master. It seems that she won't\nget it unless you say it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664240"
+msgid "Does this girl even see a reflection in mirrors?\nRegardless, you need to be clear, Darling!\nBe sincere when you flat out reject her!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664376"
+msgid "Something wrong, hm? Say it, #C236196003#FAMILY#CDEF.\nRight out of your own mouth, as if bidding her\nfarewell."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664488"
+msgid "\"Those claws damage whatever they touch.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664532"
+msgid "I can't comment on #C236196003Passionlip#CDEF's personality.\nLike anyone, she has good aspects and bad aspects."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664644"
+msgid "But there is this one thing."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664676"
+msgid "There's no doubt that all those claws\ncan do is hurt people.\nUnless she can take them off, I can't speak to her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664792"
+msgid "She was on the verge of tears,\nbut her face transforms into that\nof an expressionless Noh mask."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664888"
+msgid "I can no longer see any human-like\nemotion in #C236196003Passionlip#CDEF's eyes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "664972"
+msgid "#C236196003Lip#CDEF curiously peers at her own hands.\nShe speaks as if what she sees are normal arms."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665076"
+msgid "It reminds of the fable, \"The Emperor's New Clothes.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665132"
+msgid "That's what #C236196003Passionlip#CDEF was made to be;\nan #C000246204Alter Ego#CDEF made to only ever be rejected."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665248"
+msgid "…I see… That's right.\nBecause I'm an #C000246204Alter Ego#CDEF…\nBecause I'm one of #C236196003BB#CDEF's parts…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665364"
+msgid "You're tricking me with lies like\nthat, aren't you?\n…even though… I like you so much…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665456"
+msgid "Even though I like you so much,\nI can't go on living without you!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665524"
+msgid "There's no more avoiding fights.\nThere's nowhere for #C236196003Passionlip#CDEF to run.\nThe only thing left to do is settle this now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665660"
+msgid "So, you have love and hate flipped.\nI won't sneer at your earnestness. My love is\nin a form similar to yours, as well."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665780"
+msgid "Only cherishing things you like―――\nThat's nothing but a reflection of narcissism."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665868"
+msgid "To compel someone to serve you,\nyou exhaust them. You accept obligations to\nmake them obligated to you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "665972"
+msgid "If you find out that it doesn't turn out that\nway, you turn them into a mute pebble\nand keep them for yourself."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666084"
+msgid "I've had enough of all this \"I like you,\nI like you.\" Have you ever once put in any\neffort to make yourself likeable?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666204"
+msgid "―――Very well.\nAt last you've become human, it seems.\nI've been waiting for that hatred."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666296"
+msgid "Love is not a beautiful thing.\nIt's ugly, irrational, and involves pain."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666372"
+msgid "However―――Your love is one-sided.\nLove is something you nurture together,\nand it changes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666468"
+msgid "A love which desires only one's partner, a love\nwhich only begs to be desired, only achieves\nconsuming the life of one's companion."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666600"
+msgid "Taking away even the freedom of those who\ndistanced themselves from you is nothing short\nof an evil obsession."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666712"
+msgid "True love is about give-and-take. Just feeling\nisn't enough. The unselfish would say\nthat you're IN love, but not loving."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666836"
+msgid "And that's why what is born from within that\nbecomes a light, which anyone would\nfind difficult to alter."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "666944"
+msgid "Love and hate must be a fabric woven of both.\nWhat truth is there in saying there exists\nbeauty which births only beautiful things?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667076"
+msgid "I shall teach you that lesson.\nCome at me, #RUBS      Alter Ego#RUBElittle fraction#REND.\nI'll put an end to your suffering!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667204"
+msgid "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nBefore we settle this, I'll throw you\njust one question: is your love genuine?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667340"
+msgid "Your liking is still only on that level.\nGo milk those brea― I mean, dust yourself off\nand try again."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667444"
+msgid "…though, I guess that's the reason why I\nsympathize, or maybe, admire you. If you weren't\nafter my Darling, I might be cheering you on."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667584"
+msgid "Therefore, the king himself shall teach this:\nwhatever the endeavor, fundamentally, it's a\nbattle. Everything has assailants and victims."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667724"
+msgid "If you wish to achieve your lifelong dream,\nthen kill me, and make #C236196003#FAMILY#CDEF yours.\nThat's all your madness is capable of!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667864"
+msgid "But… Even if an AI wanted to die, they can't.\nThat's why…\nThat's why……"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "667940"
+msgid "Yes, that's the best way…!\nIf only you never existed… Everything would've\nbeen fine if you never existed…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668052"
+msgid "The first secret that makes up #C236196003Passionlip#CDEF:\nthe special, unique function bestowed only unto her―――"
+msgstr ""
+
+#. choice
+msgctxt "668172"
+msgid "10 nailed claws"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668188"
+msgid "Damn, I got it wrong…\nSure, those claws are one of #C236196003Lip#CDEF's defining features,\nbut they're no #C000246204SG#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668316"
+msgid "The feature of #C236196003Lip#CDEF's body that best represents her is\nher―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668396"
+msgid "Of course, this isn't the time to be doing this.\nI need to be going after her #C000246204SG#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668496"
+msgid "The skin touching my hand belongs to a maiden.\nAware that she doesn't like that,\nmaybe I was being intentionally rough with her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668628"
+msgid "Um, um… I feel embarrassed.\nI feel your breath on me, it's hot,\nand it hurts… mm…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668716"
+msgid "I can't do that.\nNow that I'm set on exposing her mind,\nI'm going to drive her right up against the wall."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668824"
+msgid "I recklessly insert my hand into her cleavage.\nMy fingertips touch a number of cubes."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "668912"
+msgid "Deep cleavage. An information coffin.\nA treasure box that will never open, its contents all rotten."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669012"
+msgid "#C000246204Breast Valley#CDEF.\nIt shows proof that she's no normal human――no normal maiden."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669108"
+msgid "Without even writhing around, #C236196003Passionlip#CDEF simply bears it."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669184"
+msgid "It hurts, don't…\nIt's embarrassing, I don't like it…\nAh, mm, ahh!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669252"
+msgid "Ah, d-don't―――DON'T―――!\nYou'll fall―――you're going to fall into\n#RUBS     me  #RUBEmy valley#REND at this rate, #C236196003#NICK#CDEF…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669400"
+msgid "That was close. #C236196003Lip#CDEF calling out to me brought me\nback to my senses. If she hadn't restrained me with her voice,\nI would've probably slipped into her #C000246204Breast Valley#CDEF\nand turned into a living lump of flesh."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669636"
+msgid "I slowly release my fingers."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669668"
+msgid "She slowly lifts up her weak, downcast eyes.\nMaybe she was biting her lip while bearing it,\nas it almost looks like she has lipstick on."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669808"
+msgid "You're stopping, aren't you…\nI'm glad…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669852"
+msgid "I get shivers from hearing the disparity\nbetween her words and her seemingly lonely voice."
+msgstr ""
+
+#. choice
+msgctxt "669944"
+msgid "Masochistic Constitution"
+msgstr ""
+
+#. choice
+msgctxt "669972"
+msgid "Desire to be restrained"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "669996"
+msgid "She sees herself as a monster,\nshe blocks herself off with her colossal claws―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670080"
+msgid "Is the reason why she never has any self-confidence\nand is so self-depreciating because\nshe wants to be locked away…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670200"
+msgid "Sure, she may give off a strong image of being restrained,\nbut that's not what she's about."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670292"
+msgid "My words become a blade that tears through #C236196003Lip#CDEF's mind."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670364"
+msgid "#C000246204Masochistic Constitution#CDEF.\nIt's an #C000246204SG#CDEF that makes her target irrational,\nbeckoning them to act sadistically towards #C236196003Passionlip#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670540"
+msgid "I also don't like, being alone, but―――\nStill, when someone, comes near,\nI get scared…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670632"
+msgid "I mean, when I'm touched… umm…\nMy body, starts, hurting…\n…starts, getting hot…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670716"
+msgid "…I feel sorry for her, but that's wrong.\n#C236196003Lip#CDEF is also at fault here."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670804"
+msgid "That's her third #C000246204SG#CDEF.\nThe nectar that causes one to lose their\nreason after being invited in by her #C000246204Masochistic Constitution#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "670964"
+msgid "Which is to say, her―――"
+msgstr ""
+
+#. choice
+msgctxt "670992"
+msgid "Hypersensitivity"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671012"
+msgid "Uhh, umm…\nI'm going to get to squashing you now, okay?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671068"
+msgid "…I messed up…\nLooks like I'm still not in my right state of mind…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671140"
+msgid "#C000246204Hypersensitivity#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671176"
+msgid "Even if they had no intention to,\nher highly-sensitive body means\nthey would end up hurting #C236196003Passionlip#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671296"
+msgid "With her hands, meant to touch things, as grotesque claws;\nwith skin as frail as light snowfall to the touch,\nit's difficult to socialize with others."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671448"
+msgid "Her hands are supposed to match the other's force,\nbut they flatten and crush anything and everything."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671552"
+msgid "That's everything about this #C000246204Alter Ego#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671608"
+msgid "She's none other than an incarnation of lust,\nsaying all those things to avert her eyes\nfrom her own sins―――!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671724"
+msgid "…she's wrong.\nThose claws aren't the only thing monster-like about her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671800"
+msgid "She crushes those who don't live up to her expectations.\nShe mercilessly makes anything she doesn't need disappear."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "671916"
+msgid "I like #C236196003#NICK#CDEF… That's really all\nthere is to it… I want you, to stay by me,\neven if only for a little while…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672044"
+msgid "So… I thought about getting rid of anyone\nwho got between us… That's all,\nwhat's wrong with that!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672148"
+msgid "You're saying that's selfish?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672180"
+msgid "…this is bad, we're going nowhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672220"
+msgid "There's no point in giving #C236196003Lip#CDEF half-baked arguments.\nI need to clearly and fully reject her…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672332"
+msgid "#C236196003Lip#CDEF talked about getting rid of everyone\nwho gets in her way―\"that's it.\""
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672424"
+msgid "Regardless of what kind of relationship it is,\nrelationships between people shape our personality.\n#C236196003Lip#CDEF, who doesn't understand that, can't relate with others."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672600"
+msgid "#C236196003Passionlip#CDEF is simply trying to be all alone.\nShe's an enemy."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672680"
+msgid "Ah, ah―――\nNo, you've got it wrong, I was lying,\nwhat I just said, was a lie…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672764"
+msgid "I won't do something, like kill you.\n…I can't, do something like that."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672836"
+msgid "I'll cherish you, cherish you…\nMy thoughts, along with the kind\n#C236196003#NICK#CDEF…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672928"
+msgid "I'll just squeeze you… tight,\nand put you deep into my breasts."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "672996"
+msgid "…this is bad, we're going nowhere…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673036"
+msgid "There's no point in giving #C236196003Lip#CDEF half-baked arguments.\nI need to clearly and fully reject her…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673148"
+msgid "NOO!\nIt hurts, it hurts, it hurts, it hurts!\nWhy are you saying that to me!?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673228"
+msgid "Our goal is to escape the Far Side.\nI have no intention of staying in the #C000246204Sakura Labyrinth#CDEF\nor inside #C236196003Lip#CDEF's mind any longer."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673384"
+msgid "You'd be safe if you stay here, and yet…\nI would be together with you,\nforever, and yet…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673476"
+msgid "Even though I love you, so much…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673512"
+msgid "#C236196003Lip#CDEF's mind is in shambles at this point.\nOne more hit, and her mind will probably collapse."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673620"
+msgid "…still, I need to deliver the final blow."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673664"
+msgid "The reason why is―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673688"
+msgid "It hurts… It, hurts…\nNot that, people deny me… It's that you,\nsaid that to me, which makes me, sad…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673792"
+msgid "Is it, true…?\nThis isn't love… and here I thought,\nfinally, I had understood―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673880"
+msgid "We know, everything about each other…\nThere's no longer, anything left\nto talk about…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "673968"
+msgid "Just think of me, as cute.\nThen there's no need,\nto think of anything else…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674048"
+msgid "I don't get it.\nI don't understand.\nEven though it hurts so much."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674116"
+msgid "When I look, at your pained face,\nI get sad, from the bottom of my heart―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674196"
+msgid "It makes no sense, to me.\nIt must be―――that AI, are made so that they\ncan't understand love―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674300"
+msgid "…I'm sorry, for causing you to put on\nthat face. I'm sorry, for saying such horrible\nthings to you."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674404"
+msgid "#C080080080Leaving behind lonely muttering,#CDEF #C236196003Passionlip#CDEF#C080080080 disappears.\nOr maybe, this illusion in the form of a girl disappears.#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674568"
+msgid "#C080080080Is she a creature that must not exist,\nor was there some answer to all this―――?#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674668"
+msgid "#C080080080I'll never know what that answer was.#CDEF"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674724"
+msgid "…no. I have no more need of hearing your\nvoice, #C236196003#NICK#CDEF… since I\nhave no idea what you're talking about."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674848"
+msgid "I like you, #C236196003#NICK#CDEF. I like you.\nI don't want, to do any more, bad things,\nto the #C236196003#NICK#CDEF I love…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "674976"
+msgid "The density of this space transforms."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675016"
+msgid "The muttered whimpers cease;\nI hear only the echo of her clattering claws."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675092"
+msgid "You don't need things like a voice, or a mind.\nWhat's not needed, I'll crush and throw away.\nSo long as there's still love left."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675224"
+msgid "That must be what my love is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675256"
+msgid "What I want to embrace with these hands is…\nWhat I want to hold tight and forever\nclose to me is…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675356"
+msgid "I yell out, \"don't do anything stupid,\"\nbut my voice doesn't reach #C236196003Passionlip#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675452"
+msgid "And I can't run.\nThis is the inside of #C236196003Lip#CDEF's mind.\nThere was never anywhere for me to run."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675560"
+msgid "Are you scared, of my love?\nAhh, I see. You must be afraid because\nyou don't know what it is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675656"
+msgid "From here on, forever, and ever.\nFor all eternity.\nUntil death divides the two apart―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675748"
+msgid "This is proof that #C236196003Lip#CDEF's mind has completely awakened."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675820"
+msgid "Though it looks like she has some spare energy,\nshe probably won't be able to fight anymore."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "675916"
+msgid "What will you do, Praetor?\nShe's an #C000246204Alter Ego#CDEF. Different from a human."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676004"
+msgid "…now that I think about it, this is tricky.\nIf you don't free her mind, we won't be able to\nleave this place. But, she IS an #C000246204Alter Ego#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676160"
+msgid "Okie dokie, it's punishment time! Again!\nHuh? This time, it's for an #C000246204Alter Ego#CDEF?\nNot a human?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676272"
+msgid "This is a good time to show your worth\nas a #[man][woman]#, isn't it, mongrel?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676352"
+msgid "Like you did with #C236196003Rin#CDEF and #C236196003Rani#CDEF,\nwill you lay her mind bare?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676444"
+msgid "Is it really okay to expose her mind,\nlike with humans?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676500"
+msgid "Will you scatter this flower or show it mercy?\nChoose as you see fit."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676572"
+msgid "…in any case, we won't be able to\nbreak out of #C236196003Lip#CDEF's mind at this rate."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676664"
+msgid "Even if I'm facing an #C000246204Alter Ego#CDEF, no,\nBECAUSE she's an #C000246204Alter Ego#CDEF,\nI have to completely incapacitate her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676800"
+msgid "#C236196003Passionlip#CDEF has totally isolated\nherself from the outside.\nI step towards her defenseless body."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "676912"
+msgid "I don't think she'll go swinging those claws around,\nbut it doesn't change how terrifying they are."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677012"
+msgid "While keeping an eye on #C236196003Lip#CDEF's brutal hands,\nI close the distance between us."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677108"
+msgid "Though an #C000246204Alter Ego#CDEF's mind may be more\ndangerous than a human's,\nI can't turn back now."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677212"
+msgid "It's time to finish this…!"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677240"
+msgid "This is the depths of her mind.\nEven within her Id, the core of her mental image,\n#C236196003Passionlip#CDEF is always crying."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677368"
+msgid "…you're scaring me. Even you, #C236196003#NICK#CDEF…\nYou're going to bully me, aren't you…\nYou're, mean…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677480"
+msgid "Though her slender body is very frail,\nher extremely soft-looking chest and\nthose brutal claws make for a strange presence."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677604"
+msgid "Her bobbing breasts naturally draw one's gaze."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677652"
+msgid "Now that it's come to this,\nall I can do is keep moving until the very end."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677728"
+msgid "An #C000246204Alter Ego#CDEF is different from #C236196003Rin#CDEF and #C236196003Rani#CDEF."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677824"
+msgid "Which means―――it's not that I have\nto unravel her mind, but rather,\ncompletely defeat her."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677920"
+msgid "I myself don't understand the reason why.\nI just feel, anything but that."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "677996"
+msgid "A recently born \"mind\" isn't something to expose,\nit's something to watch over―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678084"
+msgid "I'm… going to disappear, aren't I…?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678124"
+msgid "I don't understand the reason,\nwhy people were afraid of me…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678188"
+msgid "…I don't understand what \"love\" is.\nAll I know is what I really like, really hate,\nand pain…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678284"
+msgid "I don't want to… disappear…\nI want you, to tell me…\nBeing alone, in the end… scares me…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678380"
+msgid "#C236196003Passionlip#CDEF has lost her strength."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678432"
+msgid "If we don't strike her down for good now, she may recover.\nMore importantly, we won't be able to move forward―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678548"
+msgid "Don't show her any mercy, Praetor.\nThere must be retribution for a crime."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678624"
+msgid "Her crime was that she only saw her own terror\nand didn't consider it in others."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678708"
+msgid "Wild animals and people can't enter the same\ncage. No matter how attached an animal is to a\nperson, the slightest slip-up leads to death."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678848"
+msgid "Disregarding poetic justice is what makes\nyou great, Darling. But in this instance,\nthat's not good."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678952"
+msgid "I see, you won't expose her mind?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "678988"
+msgid "Even worse, an #C000246204Alter Ego#CDEF is an AI.\nFundamentally, they weren't created to be\ncapable of understand human emotion."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679120"
+msgid "An #C000246204Alter Ego#CDEF is an AI that was born\n\"in such a way.\" There will never come a time\nwhen they understand what love is."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679256"
+msgid "Then what will you do next?"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679284"
+msgid "Please bear in mind that she wants love, but has\nthe misfortune of being unable to attain it.\nThe just thing to do is to have this girl go."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679424"
+msgid "In the end, there's something,\nI still don't know."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679476"
+msgid "Ending with a lonesome murmur, #C236196003Passionlip#CDEF vanishes.\nOr perhaps, the illusion in the form\nof a young girl disappears."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679612"
+msgid "Maybe she was a forbidden existence,\nor maybe there was some solution to all this―――"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679700"
+msgid "But, her face looks just like #C236196003Sakura#CDEF's,\nand I wasn't able to personally do anything\nto help her despite how lonely she seems."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "679844"
+msgid "However, we have to keep in mind that\n#C236196003BB#CDEF is the mastermind here.\nI want to believe that the fate of her\nhunters isn't really that important."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680004"
+msgid "…I see… Even if you don't like me,\nyou'll still be nice to me, right…?\nThat's the paradox of… the mind of a human…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680124"
+msgid "This feeling of happiness, at least…\nis definitely my real heart."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680192"
+msgid "…I lose strength across my entire body."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680236"
+msgid "#C236196003#SVT#CDEF was defeated, and I used up all my magical energy.\nI can't even lift a single finger now…"
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680348"
+msgid "We'll never be apart again…\nPlease become a cube, through and through,\nin the palm of my hand."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680444"
+msgid "It's just that, it narrowed, extremely, is all."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680492"
+msgid "My limbs are tightly glued to my body.\nMy head, my torso, my back; everything\nhas joined into one."
+msgstr ""
+
+#. backlog,motion,text
+msgctxt "680592"
+msgid "I fell into an abyss where not a\nsingle ray of light shines."
+msgstr ""
+

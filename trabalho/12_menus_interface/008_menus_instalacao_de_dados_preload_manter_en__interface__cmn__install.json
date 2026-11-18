@@ -1,0 +1,72 @@
+{
+  "id": "menus/interface__cmn__install",
+  "po": "ptbr/menus/interface__cmn__install.po",
+  "grupo": "12_menus_interface",
+  "capitulo": "Menus e Interface",
+  "titulo": "Menus — Instalação de Dados (PRELOAD — manter EN)",
+  "origem": "interface/cmn/install.bin",
+  "utf8": true,
+  "preload_fixo": true,
+  "is_stub": false,
+  "nota": "PRELOAD.pak UTF-8 exato; não alterar tamanho",
+  "linhas_totais": 5,
+  "linhas_exclusivas": 5,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": 9,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "No Error.",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": 164,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "The installed game data has been damaged.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
+      "pt": ""
+    },
+    {
+      "id": 3,
+      "msgctxt": "2",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": 166,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "The installed game data has failed to load.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
+      "pt": ""
+    },
+    {
+      "id": 4,
+      "msgctxt": "3",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": 157,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "No memory stick has been detected.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
+      "pt": ""
+    },
+    {
+      "id": 5,
+      "msgctxt": "4",
+      "tipo": "",
+      "medida": null,
+      "max_bytes": 94,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Install has been aborted due to activation of Sleep Mode.\nCreation of install data has failed.",
+      "pt": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_tam_text1",
+  "po": "ptbr/sg/interface__sg__sg_tam_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [Tamamo-no-Mae (Caster)] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_tam_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 0,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Monopolizing Desire",
+      "pt": ""
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": null,
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Caster's first SG.\nIt can't be said that most people didn't expect this.\n\nIt may be the same type of SG as \"Confining Desire,\"\nbut it's nothing as dangerous as that.\nAs Caster's foremost priority is her Master's happiness,\nthe difference is that she cannot confine her Master.\n\n\"I want to have my lover all to myself.\n I want to have my lover to love me forever.\n So, I won't let this love lose out to any other woman.\"\n\nCaster's Monopolizing Desire is made of such a will.\n\"I'll kill both the cheat, and the cheater themselves☆\"\nis the metaphor she uses, but it's not like she'll\nactually put it to practice. I think. Hopefully.\n",
+      "pt": ""
+    }
+  ]
+}

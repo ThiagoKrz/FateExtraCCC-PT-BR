@@ -1,0 +1,939 @@
+# Textos dentro do executavel (EBOOT.BIN)
+# Fonte no jogo: PSP_GAME/SYSDIR/EBOOT.BIN
+# Deixe msgstr "" para manter o texto em ingles.
+# Nao altere as linhas msgctxt nem os codigos de controle (#CDEF, #RUBS, ...).
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. max 3 bytes
+msgctxt "0"
+msgid "Haku"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "1"
+msgid "白野"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "2"
+msgid "Zabiko"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "3"
+msgid "Saber"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "4"
+msgid "Archer"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "5"
+msgid "Lancer"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "6"
+msgid "Berserker"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "7"
+msgid "Assassin"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "8"
+msgid "Rider"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "9"
+msgid "Caster"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "10"
+msgid "Boss"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "11"
+msgid "Human"
+msgstr "Humano"
+
+#. max 5 bytes
+msgctxt "12"
+msgid "Effigy"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "13"
+msgid "Saber Effigy"
+msgstr "Efígie Saber"
+
+#. max 15 bytes
+msgctxt "14"
+msgid "Archer Effigy"
+msgstr "Efígie Archer"
+
+#. max 13 bytes
+msgctxt "15"
+msgid "Lancer Effigy"
+msgstr ""
+
+#. max 17 bytes
+msgctxt "16"
+msgid "Berserker Effigy"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "17"
+msgid "Assassin Effig"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "18"
+msgid "Rider Effigy"
+msgstr ""
+
+#. max 15 bytes
+msgctxt "19"
+msgid "Caster Effigy"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "20"
+msgid "Ball"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "21"
+msgid "Angel"
+msgstr "Anjo"
+
+#. max 7 bytes
+msgctxt "22"
+msgid "Cube"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "23"
+msgid "Viper"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "24"
+msgid "Fly"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "25"
+msgid "Horn"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "26"
+msgid "バイト"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "27"
+msgid "Shadow"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "28"
+msgid "Golem"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "29"
+msgid "Garuda"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "30"
+msgid "Nephilim"
+msgstr "Nefilim"
+
+#. max 13 bytes
+msgctxt "31"
+msgid "Moby Dick"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "32"
+msgid "Nightmare"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "33"
+msgid "Jabberwock"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "34"
+msgid "Master"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "35"
+msgid "Alter Ego"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "36"
+msgid "黒桜"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "37"
+msgid "Classless"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "38"
+msgid "Gilgamesh"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "39"
+msgid "Eater"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "40"
+msgid "Circle"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "41"
+msgid "Ogre"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "42"
+msgid "Bishop"
+msgstr ""
+
+#. max 15 bytes
+msgctxt "43"
+msgid "Shapeshifter"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "44"
+msgid "Kishinam"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "45"
+msgid "Hakuno  "
+msgstr ""
+
+#. max 7 bytes
+msgctxt "46"
+msgid "Kishinam"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "47"
+msgid "Hakunon "
+msgstr ""
+
+#. max 5 bytes
+msgctxt "48"
+msgid "???"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "49"
+msgid "未装備"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "50"
+msgid "boost_mp(%02d);"
+msgstr ""
+
+#. max 19 bytes
+msgctxt "51"
+msgid "0 1 2 3 4 5 6 7 8 9"
+msgstr ""
+
+#. max 21 bytes
+msgctxt "52"
+msgid "マスターのＭＰが%s上昇"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "53"
+msgid "校庭"
+msgstr ""
+
+#. max 12 bytes
+msgctxt "54"
+msgid "校舎 １Ｆ廊下"
+msgstr ""
+
+#. max 12 bytes
+msgctxt "55"
+msgid "校舎 ２Ｆ廊下"
+msgstr ""
+
+#. max 12 bytes
+msgctxt "56"
+msgid "校舎 ３Ｆ廊下"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "57"
+msgid "Storeroo"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "58"
+msgid "２－Ａ教室"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "59"
+msgid "保健室"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "60"
+msgid "Gard"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "61"
+msgid "Roof"
+msgstr ""
+
+#. max 12 bytes
+msgctxt "62"
+msgid "教室 １・２年"
+msgstr ""
+
+#. max 8 bytes
+msgctxt "63"
+msgid "教室 ３年"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "64"
+msgid "生徒会室"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "65"
+msgid "用具室"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "66"
+msgid "My Room"
+msgstr "Meu Quarto"
+
+#. max 5 bytes
+msgctxt "67"
+msgid "Librar"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "68"
+msgid "サクラ迷宮 １Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "69"
+msgid "サクラ迷宮 ２Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "70"
+msgid "サクラ迷宮 ３Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "71"
+msgid "サクラ迷宮 ４Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "72"
+msgid "サクラ迷宮 ５Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "73"
+msgid "サクラ迷宮 ６Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "74"
+msgid "サクラ迷宮 ７Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "75"
+msgid "サクラ迷宮 ８Ｆ"
+msgstr ""
+
+#. max 14 bytes
+msgctxt "76"
+msgid "サクラ迷宮 ９Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "77"
+msgid "サクラ迷宮 １０Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "78"
+msgid "サクラ迷宮 １１Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "79"
+msgid "サクラ迷宮 １２Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "80"
+msgid "サクラ迷宮 １３Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "81"
+msgid "サクラ迷宮 １４Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "82"
+msgid "サクラ迷宮 １５Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "83"
+msgid "サクラ迷宮 １６Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "84"
+msgid "サクラ迷宮 １７Ｆ"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "85"
+msgid "サクラ迷宮 １８Ｆ"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "86"
+msgid "犬空間"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "87"
+msgid "無垢心理領域"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "88"
+msgid "少女ノ深層"
+msgstr ""
+
+#. max 17 bytes
+msgctxt "89"
+msgid "逆行運河／原初黎明"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "90"
+msgid "サクラ迷宮 ２０Ｆ"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "91"
+msgid "Temp: Leveling Dungeon 2"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "92"
+msgid "Temp: Leveling Dungeon 3"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "93"
+msgid "Temp: Leveling Dungeon 4"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "94"
+msgid "Temp: Leveling Dungeon 5"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "95"
+msgid "Temp: Leveling Dungeon 6"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "96"
+msgid "Temp: Leveling Dungeon 7"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "97"
+msgid "Temp: Leveling Dungeon 8"
+msgstr ""
+
+#. max 26 bytes
+msgctxt "98"
+msgid "Temp: Leveling Dungeon 9"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "99"
+msgid "Temp: Leveling Dungeon 10"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "100"
+msgid "Temp: Leveling Dungeon 11"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "101"
+msgid "Temp: Leveling Dungeon 12"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "102"
+msgid "Temp: Leveling Dungeon 13"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "103"
+msgid "Temp: Leveling Dungeon 14"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "104"
+msgid "Temp: Leveling Dungeon 15"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "105"
+msgid "Temp: Leveling Dungeon 16"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "106"
+msgid "Temp: Leveling Dungeon 17"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "107"
+msgid "Temp: Leveling Dungeon 18"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "108"
+msgid "Temp: Leveling Dungeon 19"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "109"
+msgid "Temp: Leveling Dungeon 20"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "110"
+msgid "Temp: Leveling Dungeon 21"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "111"
+msgid "Temp: Leveling Dungeon 22"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "112"
+msgid "Temp: Leveling Dungeon 23"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "113"
+msgid "Temp: Leveling Dungeon 24"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "114"
+msgid "Temp: Leveling Dungeon 25"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "115"
+msgid "Temp: Leveling Dungeon 26"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "116"
+msgid "Temp: Leveling Dungeon 27"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "117"
+msgid "Temp: Leveling Dungeon 28"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "118"
+msgid "Temp: Leveling Dungeon 29"
+msgstr ""
+
+#. max 27 bytes
+msgctxt "119"
+msgid "Temp: Leveling Dungeon 30"
+msgstr ""
+
+#. max 16 bytes
+msgctxt "120"
+msgid "サクラ迷宮 １９Ｆ"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "121"
+msgid "Moon Cell Core"
+msgstr ""
+
+#. max 18 bytes
+msgctxt "122"
+msgid "%s %s[%s](%s)Lv.%2d"
+msgstr ""
+
+#. max 15 bytes
+msgctxt "123"
+msgid "サーヴァント: %s"
+msgstr ""
+
+#. max 23 bytes
+msgctxt "124"
+msgid "総プレイ時間%3d時間%2d分"
+msgstr ""
+
+#. max 12 bytes
+msgctxt "125"
+msgid "%s %s[%s](%s)"
+msgstr ""
+
+#. max 23 bytes
+msgctxt "126"
+msgid "総プレイ時間%3d時間%2d分"
+msgstr ""
+
+#. max 23 bytes
+msgctxt "127"
+msgid "総プレイ時間%3d時間%2d分"
+msgstr ""
+
+#. max 1 bytes
+msgctxt "128"
+msgid "男"
+msgstr ""
+
+#. max 1 bytes
+msgctxt "129"
+msgid "女"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "130"
+msgid "Saber"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "131"
+msgid "Archer"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "132"
+msgid "Caster"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "133"
+msgid "Gilgamesh"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "134"
+msgid "Elizabeth"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "135"
+msgid "%s %s"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "136"
+msgid "%s %s ★"
+msgstr ""
+
+#. max 1 bytes
+msgctxt "137"
+msgid "%s"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "138"
+msgid "s ★"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "139"
+msgid "School L"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "140"
+msgid "１章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "141"
+msgid "２章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "142"
+msgid "３章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "143"
+msgid "４章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "144"
+msgid "５章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "145"
+msgid "６章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "146"
+msgid "７章"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "147"
+msgid "幕間"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "148"
+msgid "Clear Data"
+msgstr ""
+
+#. max 6 bytes
+msgctxt "149"
+msgid "遠坂 凛"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "150"
+msgid "Rani"
+msgstr ""
+
+#. max 8 bytes
+msgctxt "151"
+msgid "間桐 慎二"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "152"
+msgid "Alice"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "153"
+msgid "Tamamo"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "154"
+msgid "Alice"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "155"
+msgid "Gatou"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "156"
+msgid "Julius"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "157"
+msgid "Leo"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "158"
+msgid "言峰神父"
+msgstr ""
+
+#. max 6 bytes
+msgctxt "159"
+msgid "間桐 桜"
+msgstr ""
+
+#. max 8 bytes
+msgctxt "160"
+msgid "藤村 大河"
+msgstr ""
+
+#. max 8 bytes
+msgctxt "161"
+msgid "柳洞 一成"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "162"
+msgid "男子生徒"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "163"
+msgid "女子生徒"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "164"
+msgid "???"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "165"
+msgid "サーヴァント"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "166"
+msgid "Saber"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "167"
+msgid "Archer"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "168"
+msgid "Caster"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "169"
+msgid "Lancer"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "170"
+msgid "Berserker"
+msgstr ""
+
+#. max 3 bytes
+msgctxt "171"
+msgid "BB"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "172"
+msgid "Meltlilith"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "173"
+msgid "Elizabeth"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "174"
+msgid "Kiara Sessyo"
+msgstr ""
+
+#. max 13 bytes
+msgctxt "175"
+msgid "Gilgamesh"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "176"
+msgid "Jinako"
+msgstr ""
+
+#. max 15 bytes
+msgctxt "177"
+msgid "Passionlip"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "178"
+msgid "Master"
+msgstr ""
+
+#. max 11 bytes
+msgctxt "179"
+msgid "Andersen"
+msgstr ""
+
+#. max 5 bytes
+msgctxt "180"
+msgid "Karna"
+msgstr ""
+
+#. max 9 bytes
+msgctxt "181"
+msgid "Gawain"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "182"
+msgid "Twice"
+msgstr ""
+
+#. max 7 bytes
+msgctxt "183"
+msgid "ミドチャ"
+msgstr ""
+
+#. max 17 bytes
+msgctxt "184"
+msgid "Newscaster"
+msgstr "Apresentador"
+
+#. max 13 bytes
+msgctxt "185"
+msgid "Rin's Archer"
+msgstr "Archer da Rin"
+
