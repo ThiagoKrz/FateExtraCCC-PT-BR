@@ -11,7 +11,7 @@
   "nota": "Largura fixa (.bin)",
   "linhas_totais": 2,
   "linhas_exclusivas": 2,
-  "traduzidas": 0,
+  "traduzidas": 2,
   "linhas": [
     {
       "id": 1,
@@ -22,18 +22,18 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Curse of Death",
-      "pt": ""
+      "pt": "Maldição da Morte"
     },
     {
       "id": 2,
       "msgctxt": "1",
       "tipo": "max 1999 bytes",
-      "medida": null,
+      "medida": "sg",
       "max_bytes": 1999,
       "comum": false,
       "repeticoes": 1,
       "en": "Jinako's third ess geee～.\n\nOh no     it's a save-preventing character!\n\nToo bad, your progress has been lost!\n\nAhh, but―――\n\n             ◆\n\n―――but\n\nif it's all just gonna to end someday,\nthen I decided I won't do anything.\n\nI thought, when it ends someday,\nI want to be smiling.\n\nWhich is the real me, anyway?\nWhich is the real, \"easy mode\"?\n",
-      "pt": ""
+      "pt": "O terceiro ésse-gêêê～ da Jinako.\n\nAi não     é uma personagem que impede o save!\n\nQue pena, seu progresso foi perdido!\n\nAah, mas―――\n\n             ◆\n\n―――mas\n\nse tudo vai acabar um dia mesmo,\nentão resolvi que não vou fazer nada.\n\nPensei que, quando acabar um dia,\nquero estar sorrindo.\n\nQual é a verdadeira eu, afinal?\nQual é o verdadeiro \"modo fácil\"?\n"
     }
   ]
 }

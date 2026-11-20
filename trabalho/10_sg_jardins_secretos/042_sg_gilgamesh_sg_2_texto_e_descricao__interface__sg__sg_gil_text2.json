@@ -11,7 +11,7 @@
   "nota": "Largura fixa (.bin)",
   "linhas_totais": 2,
   "linhas_exclusivas": 2,
-  "traduzidas": 0,
+  "traduzidas": 2,
   "linhas": [
     {
       "id": 1,
@@ -22,18 +22,18 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Chains of Heaven",
-      "pt": ""
+      "pt": "Correntes do Céu"
     },
     {
       "id": 2,
       "msgctxt": "1",
       "tipo": "max 1999 bytes",
-      "medida": null,
+      "medida": "sg",
       "max_bytes": 1999,
       "comum": false,
       "repeticoes": 1,
       "en": "That which symbolizes Gilgamesh's childhood.\nIt represents his battle with the friend that was his equal\nand their adventures.\n\n\n\nThe one and only tale in this entire world\nthats value will never change for all eternity.\n\n",
-      "pt": ""
+      "pt": "Aquilo que simboliza a infância de Gilgamesh.\nRepresenta sua batalha com o amigo que era seu igual\ne as aventuras dos dois.\n\n\n\nA única história em todo este mundo\ncujo valor jamais mudará por toda a eternidade.\n\n"
     }
   ]
 }

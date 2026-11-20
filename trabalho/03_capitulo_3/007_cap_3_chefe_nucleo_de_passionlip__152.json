@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 467,
   "linhas_exclusivas": 341,
-  "traduzidas": 42,
+  "traduzidas": 467,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -517,7 +517,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Activate the switch?",
-      "pt": ""
+      "pt": "Ativar o interruptor?"
     },
     {
       "id": 47,
@@ -528,7 +528,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Press.",
-      "pt": ""
+      "pt": "Pressionar."
     },
     {
       "id": 48,
@@ -539,7 +539,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "HP & MP fully restored.",
-      "pt": ""
+      "pt": "HP e MP totalmente restaurados."
     },
     {
       "id": 49,
@@ -550,7 +550,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Save?",
-      "pt": ""
+      "pt": "Salvar?"
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Retry battle?",
-      "pt": ""
+      "pt": "Tentar a batalha novamente?"
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Is there a checkpoint in that area?",
-      "pt": ""
+      "pt": "Será que há um checkpoint nessa área?"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now.",
-      "pt": ""
+      "pt": "#C236196003Sakura#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF agora."
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF.",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF está logo ali.\nVamos #C000246204seguir em frente#CDEF."
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Apocalypse Now!\nCome back soooooooon!",
-      "pt": ""
+      "pt": "Apocalipse Agora!\nVolte looooogo!"
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!",
-      "pt": ""
+      "pt": "Não vai querer voltar A PÉ, não é?\nQuer me fazer marchar à toa?\nProcure aquele #C000246204checkpoint#CDEF!"
     },
     {
       "id": 57,
@@ -638,7 +638,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest.",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 58,
@@ -671,7 +671,7 @@
       "comum": false,
       "repeticoes": 7,
       "en": "Try again?",
-      "pt": ""
+      "pt": "Tentar novamente?"
     },
     {
       "id": 61,
@@ -682,7 +682,7 @@
       "comum": false,
       "repeticoes": 20,
       "en": "…………………",
-      "pt": ""
+      "pt": "…………………"
     },
     {
       "id": 62,
@@ -693,7 +693,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…why did you come here?",
-      "pt": ""
+      "pt": "…por que você veio até aqui?"
     },
     {
       "id": 63,
@@ -704,7 +704,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't understand you…\nI was spoken to by you,\nI was saved so many times by you…",
-      "pt": ""
+      "pt": "Eu não entendo você…\nVocê veio falar comigo,\nvocê me salvou tantas vezes…"
     },
     {
       "id": 64,
@@ -715,7 +715,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But in the end, I was attacked by your Servant.\nDo you really… Do you really want to hurt\nme that badly…?",
-      "pt": ""
+      "pt": "Mas no fim, fui atacada pelo seu Servo.\nVocê quer mesmo… Quer mesmo me\nmachucar tanto assim…?"
     },
     {
       "id": 65,
@@ -726,7 +726,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…this is the end.\nPlease let me ask this:\nwhat do you think of me?",
-      "pt": ""
+      "pt": "…este é o fim.\nDeixe-me perguntar uma coisa:\no que você acha de mim?"
     },
     {
       "id": 66,
@@ -737,7 +737,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I hate Lip.",
-      "pt": ""
+      "pt": "Eu odeio a Lip."
     },
     {
       "id": 67,
@@ -748,7 +748,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I like Lip.",
-      "pt": ""
+      "pt": "Eu gosto da Lip."
     },
     {
       "id": 68,
@@ -759,7 +759,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hate… So, you hate me…\nThen why―\nWhy were you so nice to me…!?",
-      "pt": ""
+      "pt": "Odeia… Então você me odeia…\nPor que, então―\nPor que foi tão gentil comigo…!?"
     },
     {
       "id": 69,
@@ -770,7 +770,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I like… I like you.\nI like you a lot…\nSo, please tell me something.",
-      "pt": ""
+      "pt": "…Eu gosto… Eu gosto de você.\nGosto muito mesmo…\nEntão, por favor, me diga uma coisa."
     },
     {
       "id": 70,
@@ -781,7 +781,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What should I do to get you to like me back?",
-      "pt": ""
+      "pt": "O que eu faço para você gostar de mim também?"
     },
     {
       "id": 71,
@@ -792,7 +792,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…those claws hurt people.",
-      "pt": ""
+      "pt": "…essas garras machucam as pessoas."
     },
     {
       "id": 72,
@@ -803,7 +803,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "?\nWhat  are  you  talking  about?",
-      "pt": ""
+      "pt": "?\nDo  que  você  está  falando?"
     },
     {
       "id": 73,
@@ -814,7 +814,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's nothing weird about my hands.\nI'm normal. So why…?\nWhy would you tell such a lie?",
-      "pt": ""
+      "pt": "Não há nada de estranho nas minhas mãos.\nEu sou normal. Então por quê…?\nPor que contaria uma mentira dessas?"
     },
     {
       "id": 74,
@@ -825,7 +825,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Does she have a cognitive disorder?\nOr does she really see them so?",
-      "pt": ""
+      "pt": "Ela tem algum distúrbio cognitivo?\nOu realmente as enxerga desse jeito?"
     },
     {
       "id": 75,
@@ -836,7 +836,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She doesn't see her own lethal weapons.\nTo her only, those claws\nappear to be a normal girl's arms.",
-      "pt": ""
+      "pt": "Ela não vê suas próprias armas letais.\nSó para ela, aquelas garras parecem\nos braços de uma garota normal."
     },
     {
       "id": 76,
@@ -847,7 +847,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…forever aloof.",
-      "pt": ""
+      "pt": "…sempre distante."
     },
     {
       "id": 77,
@@ -858,7 +858,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her disruptive claws squirm.",
-      "pt": ""
+      "pt": "Suas garras perturbadoras se contorcem."
     },
     {
       "id": 78,
@@ -869,7 +869,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I approve.\n#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nYour love is genuine.",
-      "pt": ""
+      "pt": "Eu aprovo.\n#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nO seu amor é genuíno."
     },
     {
       "id": 79,
@@ -880,7 +880,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's nothing… weird about me…\nIf I don't have you…\nI can't keep on living… but…",
-      "pt": ""
+      "pt": "Não há nada… de estranho em mim…\nSe eu não tiver você…\nNão consigo continuar vivendo… mas…"
     },
     {
       "id": 80,
@@ -891,7 +891,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Please, die.\nPlease die now.\nBecome my cube, mine alone.",
-      "pt": ""
+      "pt": "Por favor, morra.\nMorra agora, por favor.\nVire o meu cubo, só meu."
     },
     {
       "id": 81,
@@ -902,7 +902,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Disappear… Disappear…\nNow, finally…\nYou'll be my prince, mine alone…",
-      "pt": ""
+      "pt": "Suma… Suma…\nAgora, enfim…\nVocê será meu príncipe, só meu…"
     },
     {
       "id": 82,
@@ -913,7 +913,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "!!??##%$$&'―――!?",
-      "pt": ""
+      "pt": "!!??##%$$&'―――!?"
     },
     {
       "id": 83,
@@ -924,7 +924,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Did, something, happen?\nAfter #C236196003Passionlip#CDEF lifted me, suddenly,\nmy vision, closed shut.",
-      "pt": ""
+      "pt": "Aconteceu, alguma, coisa?\nDepois que #C236196003Passionlip#CDEF me ergueu,\nde repente, minha visão, se fechou."
     },
     {
       "id": 84,
@@ -935,7 +935,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "No―――",
-      "pt": ""
+      "pt": "Não―――"
     },
     {
       "id": 85,
@@ -946,7 +946,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "I have vision.",
-      "pt": ""
+      "pt": "Consigo enxergar."
     },
     {
       "id": 86,
@@ -957,7 +957,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Beyond being cruel,\nbeyond hurting,\nbeyond scary\n―It's dreadful.",
-      "pt": ""
+      "pt": "Além de cruel,\nalém de doloroso, além de assustador\n―É pavoroso."
     },
     {
       "id": 87,
@@ -968,7 +968,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "I never knew such mortal suffering existed in this universe.",
-      "pt": ""
+      "pt": "Nunca soube que tal sofrimento mortal\nexistia neste universo."
     },
     {
       "id": 88,
@@ -979,7 +979,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "…it's alright, because, you're alive…\nI'll keep you like this in my cleavage,\nforever and ever.",
-      "pt": ""
+      "pt": "…tudo bem, porque, você está #[vivo][viva]#…\nVou guardar você assim, junto a mim,\npara todo o sempre."
     },
     {
       "id": 89,
@@ -990,7 +990,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Now we're together, forever…\nUntil I break, until the Moon disappears…\nUntil death do us part―――",
-      "pt": ""
+      "pt": "Agora estamos #[juntos][juntas]#, para sempre…\nAté eu quebrar, até a Lua desaparecer…\nAté que a morte nos separe―――"
     },
     {
       "id": 90,
@@ -1001,7 +1001,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "―――Those were the last words I ever heard.",
-      "pt": ""
+      "pt": "―――Essas foram as últimas palavras que ouvi."
     },
     {
       "id": 91,
@@ -1012,7 +1012,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Unable to move my limbs or my head in the slightest,",
-      "pt": ""
+      "pt": "Sem poder mover os membros nem a cabeça\nminimamente,"
     },
     {
       "id": 92,
@@ -1023,7 +1023,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "I, formerly #C236196003#FAMILY #GIVEN#CDEF,\nwas discarded into oblivion.",
-      "pt": ""
+      "pt": "Eu, que já fui #C236196003#FAMILY #GIVEN#CDEF,\nfui #[descartado][descartada]# no esquecimento."
     },
     {
       "id": 93,
@@ -1034,7 +1034,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah―――Ahh, ah―――\nHea-vy―――\nMy hands… are so, hea-vy―――",
-      "pt": ""
+      "pt": "Ah―――Ahh, ah―――\nPe-sadas―――\nMinhas mãos… estão tão, pe-sadas―――"
     },
     {
       "id": 94,
@@ -1045,7 +1045,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wh-y―――? Now I can't, stand…\nI can't, get up anymore…",
-      "pt": ""
+      "pt": "Por qu-ê―――?\nAgora não consigo, ficar de pé…\nNão consigo, mais me levantar…"
     },
     {
       "id": 95,
@@ -1056,7 +1056,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF's will to fight wanes.",
-      "pt": ""
+      "pt": "A vontade de lutar de #C236196003Passionlip#CDEF\ndiminui."
     },
     {
       "id": 96,
@@ -1067,7 +1067,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't sweat the little details!",
-      "pt": ""
+      "pt": "Não se prenda aos pequenos detalhes!"
     },
     {
       "id": 97,
@@ -1078,7 +1078,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If it has a maiden's mind, then whether\nit's an AI, a god, or a monster―\nit falls under the \"girl\" umbrella!",
-      "pt": ""
+      "pt": "Se tem mente de donzela, seja IA, deus\nou monstro―\ntudo entra na categoria de \"garota\"!"
     },
     {
       "id": 98,
@@ -1089,7 +1089,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "So I―――",
-      "pt": ""
+      "pt": "Então eu―――"
     },
     {
       "id": 99,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Use Lip's SG to corner her.",
-      "pt": ""
+      "pt": "Usar o SG da Lip para encurralá-la."
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "………I can't do it.",
-      "pt": ""
+      "pt": "………Não consigo fazer isso."
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "………I can't do it.#C246168255薗#CDEF",
-      "pt": ""
+      "pt": "………Não consigo fazer isso.#C246168255薗#CDEF"
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I can't do it.",
-      "pt": ""
+      "pt": "…Não consigo fazer isso."
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't understand… I'm, scared.\nI was, a normal girl.",
-      "pt": ""
+      "pt": "Eu não entendo… Estou, com medo.\nEu era, uma garota normal."
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…but, she's still one of #C236196003BB#CDEF's parts.",
-      "pt": ""
+      "pt": "…mas ela ainda é uma das partes da #C236196003BB#CDEF."
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…AI don't change.\n#C236196003Passionlip#CDEF will forever follow this subroutine.\nThus―――",
-      "pt": ""
+      "pt": "…IAs não mudam.\n#C236196003Passionlip#CDEF seguirá para sempre\nesta sub-rotina. Logo―――"
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "End this now.\nThis life should have never been.",
-      "pt": ""
+      "pt": "Ponha um fim nisso agora.\nEssa vida nunca deveria ter existido."
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I'm know I'm nagging,\nbut let me warn you:",
-      "pt": ""
+      "pt": "…Sei que estou pegando no pé,\nmas deixe-me avisá-#[lo][la]#:"
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Thinking she \"longs for others\" was really\na fatal bug. That's all there is to it.",
-      "pt": ""
+      "pt": "Achar que ela \"anseia pelos outros\" foi só\num erro fatal. Não passa disso."
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Darling… don't.",
-      "pt": ""
+      "pt": "#[Querido][Querida]#… não."
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Will you slay this monster or not?",
-      "pt": ""
+      "pt": "Você vai abater este monstro ou não?"
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…finish her.",
-      "pt": ""
+      "pt": "…acabar com ela."
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…don't finish her.",
-      "pt": ""
+      "pt": "…não acabar com ela."
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…don't finish her.#C246168255薗#CDEF",
-      "pt": ""
+      "pt": "…não acabar com ela.#C246168255薗#CDEF"
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I, figured…\nI'm sorry…\nI hurt you, a lot…",
-      "pt": ""
+      "pt": "…Eu, imaginei…\nMe desculpe…\nEu machuquei você, muito…"
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I didn't, mean to…\nAt least… please believe me, on that…\nAhh, but―――",
-      "pt": ""
+      "pt": "…Não foi, por mal…\nPelo menos… acredite nisso, por favor…\nAhh, mas―――"
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I wonder if,\nanything about me,\nwas cute…",
-      "pt": ""
+      "pt": "Será que,\nalguma coisa em mim,\nera fofa…"
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll never know what it was.",
-      "pt": ""
+      "pt": "Eu nunca vou saber o que era."
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Um… are you,\ngoing to forgive, me?",
-      "pt": ""
+      "pt": "Hum… você vai,\nme, perdoar?"
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't properly explain why I want to help her.",
-      "pt": ""
+      "pt": "Não sei explicar direito por que quero\najudá-la."
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I know very well how naive I am.",
-      "pt": ""
+      "pt": "Sei muito bem o quanto sou #[ingênuo][ingênua]#."
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I… still don't get it at all, but…\nThank you… very much.",
-      "pt": ""
+      "pt": "Eu… ainda não entendo nada, mas…\nMuito… obrigada."
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I won't get in your way anymore.\nPlease, live on…",
-      "pt": ""
+      "pt": "…Não vou mais atrapalhar você.\nPor favor, continue #[vivo][viva]#…"
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I can't be going easy on her here.",
-      "pt": ""
+      "pt": "…Não posso pegar leve com ela aqui."
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……… aa……………\nAAA, AA―――",
-      "pt": ""
+      "pt": "……… aa……………\nAAA, AA―――"
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "AA…… AAA……\nAAAAaaAAAAA!",
-      "pt": ""
+      "pt": "AA…… AAA……\nAAAAaaAAAAA!"
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I resist the urge of my legs to pedal back,\nand take #C236196003Lip#CDEF's wailing head-on.",
-      "pt": ""
+      "pt": "Resisto ao impulso de recuar e encaro de\nfrente o pranto de #C236196003Lip#CDEF."
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…………aa…………\nAa, aa………………\nGuh, uh……………………",
-      "pt": ""
+      "pt": "…………aa…………\nAa, aa………………\nGuh, uh……………………"
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her mumbled cries echo.",
-      "pt": ""
+      "pt": "Seus choramingos abafados ecoam."
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF is on the floor, exhausted.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF está no chão, exausta."
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I wonder if AI sweat, too.\nI feel like her skin, noticeably moist,\nis an insult to this lively, defenseless young girl…",
-      "pt": ""
+      "pt": "Será que IAs também suam?\nEssa pele visivelmente úmida parece um\ninsulto a uma garota tão vivaz e indefesa…"
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She wasn't incorporated into #C236196003BB#CDEF,\nshe's a part of #C236196003BB#CDEF.",
-      "pt": ""
+      "pt": "Ela não foi absorvida por #C236196003BB#CDEF,\nela é uma parte da própria #C236196003BB#CDEF."
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…first, let's identify #C236196003Lip#CDEF's #C000246204SG#CDEF.",
-      "pt": ""
+      "pt": "…primeiro, vamos identificar o #C000246204SG#CDEF\nde #C236196003Lip#CDEF."
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "Breast Valley",
-      "pt": ""
+      "pt": "Vale dos Seios"
     },
     {
       "id": 134,
@@ -1485,7 +1485,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Long hair",
-      "pt": ""
+      "pt": "Cabelo longo"
     },
     {
       "id": 135,
@@ -1496,7 +1496,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're wrong… I'm normal…\nNormal, see…\nThere's nothing strange about me…!",
-      "pt": ""
+      "pt": "Está #[errado][errada]#… Eu sou normal…\nNormal, viu…\nNão há nada de estranho em mim…!"
     },
     {
       "id": 136,
@@ -1507,7 +1507,7 @@
       "comum": false,
       "repeticoes": 20,
       "en": "……!",
-      "pt": ""
+      "pt": "……!"
     },
     {
       "id": 137,
@@ -1518,7 +1518,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…phah… ah… ahh…\nPlease, stop…!",
-      "pt": ""
+      "pt": "…hã… ah… ahh…\nPor favor, pare…!"
     },
     {
       "id": 138,
@@ -1529,7 +1529,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No, why… are you touching me like that,\nnow of all times…?",
-      "pt": ""
+      "pt": "Não, por que… está me tocando assim,\njusto agora…?"
     },
     {
       "id": 139,
@@ -1540,7 +1540,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm… scared…",
-      "pt": ""
+      "pt": "Estou… com medo…"
     },
     {
       "id": 140,
@@ -1551,7 +1551,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF sobs a little, shaking her head in refusal.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF soluça baixinho,\nbalançando a cabeça em recusa."
     },
     {
       "id": 141,
@@ -1562,7 +1562,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh―――Kyaaaaa!",
-      "pt": ""
+      "pt": "Hã―――Kyaaaaa!"
     },
     {
       "id": 142,
@@ -1573,7 +1573,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Phah, ah, ahh…!\nI-it hurts, it hurts…!\nStop……!",
-      "pt": ""
+      "pt": "Hã, ah, ahh…!\nD-dói, está doendo…!\nPare……!"
     },
     {
       "id": 143,
@@ -1584,7 +1584,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Clutching her chest, #C236196003Passionlip#CDEF screams out.",
-      "pt": ""
+      "pt": "Segurando o peito, #C236196003Passionlip#CDEF\nsolta um grito."
     },
     {
       "id": 144,
@@ -1595,7 +1595,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't, don't… #C236196003#NICK#CDEF…\n…don't touch me………\n…………W-wait―――",
-      "pt": ""
+      "pt": "Não, não… #C236196003#NICK#CDEF…\n…não toque em mim………\n…………E-espere―――"
     },
     {
       "id": 145,
@@ -1606,7 +1606,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You can touch me,\nso be… gentle…",
-      "pt": ""
+      "pt": "Pode me tocar,\nentão seja… gentil…"
     },
     {
       "id": 146,
@@ -1617,7 +1617,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Disregarding her feeble voice, I peer into her cleavage.",
-      "pt": ""
+      "pt": "Ignorando sua voz fraca, espio\npor seu decote."
     },
     {
       "id": 147,
@@ -1628,7 +1628,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That makes #C236196003Passionlip#CDEF blush and widen her damp eyes.\nShe may actually want to cover her face with her hands.",
-      "pt": ""
+      "pt": "Isso faz #C236196003Passionlip#CDEF corar e arregalar\nos olhos marejados. Talvez ela até queira\ncobrir o rosto com as mãos."
     },
     {
       "id": 148,
@@ -1639,7 +1639,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…when you've had enough…\nplease, let go―――",
-      "pt": ""
+      "pt": "…quando já estiver #[satisfeito][satisfeita]#…\npor favor, me solte―――"
     },
     {
       "id": 149,
@@ -1650,7 +1650,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "S-so mean…\n…I'm normal…",
-      "pt": ""
+      "pt": "Q-que maldade…\n…Eu sou normal…"
     },
     {
       "id": 150,
@@ -1661,7 +1661,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm normal…\nMy chest aches… haaa, ah…\nPlease let go!",
-      "pt": ""
+      "pt": "Eu sou normal…\nMeu peito dói… haaa, ah…\nPor favor, me solte!"
     },
     {
       "id": 151,
@@ -1672,7 +1672,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hearing her screams, my composure falls apart.",
-      "pt": ""
+      "pt": "Ao ouvir seus gritos, minha compostura\ndesmorona."
     },
     {
       "id": 152,
@@ -1683,7 +1683,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I want to see more.\nI want to hear more.\nI want to divulge more.",
-      "pt": ""
+      "pt": "Quero ver mais.\nQuero ouvir mais.\nQuero expor tudo ainda mais."
     },
     {
       "id": 153,
@@ -1694,7 +1694,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Driven by these urges, I dip my creeping fingers\ndeeper into her cleavage,\nas if peeking into her entire body―――",
-      "pt": ""
+      "pt": "Movid#[o][a]# por esses impulsos, aprofundo\nmeus dedos por sua abertura,\ncomo se espiasse seu corpo inteiro―――"
     },
     {
       "id": 154,
@@ -1705,7 +1705,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――!!!!!",
-      "pt": ""
+      "pt": "―――!!!!!"
     },
     {
       "id": 155,
@@ -1716,7 +1716,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Uuuh, *sniff*… *sob*…\n…even after I asked… you to please stop…",
-      "pt": ""
+      "pt": "Uuuh, *snif*… *soluço*…\n…mesmo depois de eu pedir… para parar…"
     },
     {
       "id": 156,
@@ -1727,7 +1727,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My fingers had wrapped around #C236196003Passionlip#CDEF's breasts and dug in.",
-      "pt": ""
+      "pt": "Meus dedos envolveram o busto de\n#C236196003Passionlip#CDEF e se firmaram."
     },
     {
       "id": 157,
@@ -1738,7 +1738,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Despite repeating words of refusal as if we were lovers,\nshe doesn't make a single move to resist.\nShe doesn't stir in the slightest.",
-      "pt": ""
+      "pt": "Apesar de repetir recusas como se fôssemos\namantes, ela não faz menção de resistir.\nNão se move um centímetro."
     },
     {
       "id": 158,
@@ -1749,7 +1749,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I realize it again.\nShe's a seductive flirt.\nHer words say no, but her body says yes.",
-      "pt": ""
+      "pt": "…Percebo isso outra vez.\nEla provoca de propósito.\nSua boca diz não, mas o corpo diz sim."
     },
     {
       "id": 159,
@@ -1760,7 +1760,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is her second #C000246204SG#CDEF.\nIt's called―――",
-      "pt": ""
+      "pt": "Este é o segundo #C000246204SG#CDEF dela.\nChama-se―――"
     },
     {
       "id": 160,
@@ -1771,7 +1771,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…umm… That's not it at all…\nIf anything, uh… I would want to lock\n#C236196003#NICK#CDEF away in a box…",
-      "pt": ""
+      "pt": "…hum… Não é nada disso…\nSe muito, ahn… eu é que queria trancar\n#C236196003#NICK#CDEF dentro de uma caixa…"
     },
     {
       "id": 161,
@@ -1782,7 +1782,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gah…! Damn, I was wrong…!",
-      "pt": ""
+      "pt": "Droga…! Errei feio…!"
     },
     {
       "id": 162,
@@ -1793,7 +1793,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her second #C000246204SG#CDEF is―――",
-      "pt": ""
+      "pt": "O segundo #C000246204SG#CDEF dela é―――"
     },
     {
       "id": 163,
@@ -1804,7 +1804,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh…?\nW-what, why―――\nMy, body, hurts…!",
-      "pt": ""
+      "pt": "Hã…?\nO-o quê, por quê―――\nMeu, corpo, dói…!"
     },
     {
       "id": 164,
@@ -1815,7 +1815,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This may be her way of \"monopolizing someone's interest.\"",
-      "pt": ""
+      "pt": "Talvez seja o jeito dela de \"monopolizar\no interesse de alguém.\""
     },
     {
       "id": 165,
@@ -1826,7 +1826,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Y-you're wrong… wrong…!\nI don't like being bullied…\nI think.",
-      "pt": ""
+      "pt": "V-você está #[errado][errada]#… #[errado][errada]#…!\nEu não gosto de ser maltratada…\nEu acho."
     },
     {
       "id": 166,
@@ -1837,7 +1837,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I start feeling… weird…\nI'm afraid, of being bullied…\nIt's not my fault…",
-      "pt": ""
+      "pt": "Começo a me sentir… estranha…\nTenho medo, de ser maltratada…\nNão é culpa minha…"
     },
     {
       "id": 167,
@@ -1848,7 +1848,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm sure everyone is a bully…\nThey get all excited about it…\nI… I don't, like it…",
-      "pt": ""
+      "pt": "Todo mundo deve ser mau assim…\nFicam todos animados com isso…\nEu… eu não, gosto…"
     },
     {
       "id": 168,
@@ -1859,7 +1859,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's not her fault that others get excited over her…?",
-      "pt": ""
+      "pt": "Não é culpa dela que os outros fiquem\nanimados por causa dela…?"
     },
     {
       "id": 169,
@@ -1870,7 +1870,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Squishy bounciness",
-      "pt": ""
+      "pt": "Maciez saltitante"
     },
     {
       "id": 170,
@@ -1881,7 +1881,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Squishy… bounciness…?",
-      "pt": ""
+      "pt": "Maciez… saltitante…?"
     },
     {
       "id": 171,
@@ -1892,7 +1892,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her third #C000246204SG#CDEF is her―――",
-      "pt": ""
+      "pt": "O terceiro #C000246204SG#CDEF dela é a―――"
     },
     {
       "id": 172,
@@ -1903,7 +1903,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah, mm―――!\nSto, p…!\nMy chest, is, bursting…!",
-      "pt": ""
+      "pt": "Ah, mm―――!\nPa, re…!\nMeu peito, vai, explodir…!"
     },
     {
       "id": 173,
@@ -1914,7 +1914,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My piercing words strip down #C236196003Passionlip#CDEF's mind.",
-      "pt": ""
+      "pt": "Minhas palavras cortantes despem a mente\nde #C236196003Passionlip#CDEF."
     },
     {
       "id": 174,
@@ -1925,7 +1925,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her world is fragile. Others are evil.\nShe's normal. She's not at fault.",
-      "pt": ""
+      "pt": "O mundo dela é frágil. Os outros são maus.\nEla é normal. Ela não tem culpa."
     },
     {
       "id": 175,
@@ -1936,7 +1936,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's, mean, so mean…\nI'm sure you, #C236196003#NICK#CDEF,\nwould become my prince for me…",
-      "pt": ""
+      "pt": "Isso é, maldade, muita maldade…\nTinha certeza de que você, #C236196003#NICK#CDEF,\nia virar meu príncipe para mim…"
     },
     {
       "id": 176,
@@ -1947,7 +1947,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I thought you didn't, hate me, like that…\nYou wouldn't… abandon me―――!",
-      "pt": ""
+      "pt": "Achei que você não, me odiasse, assim…\nVocê não ia… me abandonar―――!"
     },
     {
       "id": 177,
@@ -1958,7 +1958,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why are you looking at me like that!?\nI'm not a monster. I'm a normal girl―――",
-      "pt": ""
+      "pt": "Por que está me olhando desse jeito!?\nNão sou um monstro.\nSou uma garota normal―――"
     },
     {
       "id": 178,
@@ -1969,7 +1969,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "All I wanted was to become a normal girl…!",
-      "pt": ""
+      "pt": "Tudo o que eu queria era me tornar\numa garota normal…!"
     },
     {
       "id": 179,
@@ -1980,7 +1980,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah… ahh, ahhHh…! Stop, no, not that,\nI don't want to hear that…!!",
-      "pt": ""
+      "pt": "Ah… ahh, ahhHh…! Pare, não, isso não,\neu não quero ouvir isso…!!"
     },
     {
       "id": 180,
@@ -1991,7 +1991,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm normal. Normal!\nI don't have, monster claws…!\nNothing's weird about my hands…!",
-      "pt": ""
+      "pt": "Eu sou normal. Normal!\nEu não tenho, garras de monstro…!\nNão há nada de estranho nas minhas mãos…!"
     },
     {
       "id": 181,
@@ -2002,7 +2002,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's hard to call a train of thought like that \"human.\"",
-      "pt": ""
+      "pt": "Fica difícil chamar uma linha de pensamento\ndessas de \"humana\"."
     },
     {
       "id": 182,
@@ -2013,7 +2013,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I… I…\n…I may be clumsy, indecisive,\nand not so smart, but―――",
-      "pt": ""
+      "pt": "Eu… eu…\n…posso ser desajeitada, indecisa,\ne não muito esperta, mas―――"
     },
     {
       "id": 183,
@@ -2024,7 +2024,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hy… nng!\nT-too, loud… Ugh, your voice,\nyour voice… is tearing my skin apart―――",
-      "pt": ""
+      "pt": "Ai… nng!\nA-alto demais… Ugh, sua voz,\nsua voz… está rasgando minha pele―――"
     },
     {
       "id": 184,
@@ -2035,7 +2035,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't tolerate such thinking.",
-      "pt": ""
+      "pt": "Não posso tolerar esse tipo de pensamento."
     },
     {
       "id": 185,
@@ -2046,7 +2046,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I need… no, humans need friends.",
-      "pt": ""
+      "pt": "Eu preciso… não, humanos precisam\nde amigos."
     },
     {
       "id": 186,
@@ -2057,7 +2057,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll stop if you tell me to, #C236196003#NICK#CDEF.\nI'll stop, so―――\nDon't, hate me.",
-      "pt": ""
+      "pt": "Eu paro se você mandar, #C236196003#NICK#CDEF.\nEu paro, então―――\nNão, me odeie."
     },
     {
       "id": 187,
@@ -2068,7 +2068,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You, like me, right?\nThat's why,\nyou were nice to me, right?",
-      "pt": ""
+      "pt": "Você, gosta de mim, né?\nFoi por isso,\nque você foi gentil comigo, né?"
     },
     {
       "id": 188,
@@ -2079,7 +2079,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Since you like me,\nit's fine to belong to me, right?\nWe can be together forever, right?",
-      "pt": ""
+      "pt": "Já que gosta de mim,\ntudo bem pertencer a mim, né?\nPodemos ficar #[juntos][juntas]# para sempre, né?"
     },
     {
       "id": 189,
@@ -2090,7 +2090,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Aren't those who act nice, those who don't\nact nice the selfish ones…?",
-      "pt": ""
+      "pt": "Não são os que fingem gentileza, e os que\nnão são gentis, os verdadeiros egoístas…?"
     },
     {
       "id": 190,
@@ -2101,7 +2101,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm not selfish―――After all, I'm always,\nthinking… thinking about what's best,\nfor you, #C236196003#NICK#CDEF―――",
-      "pt": ""
+      "pt": "Não sou egoísta―――Afinal, estou sempre\npensando… pensando no que é melhor\npara você, #C236196003#NICK#CDEF―――"
     },
     {
       "id": 191,
@@ -2112,7 +2112,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "―――?",
-      "pt": ""
+      "pt": "―――?"
     },
     {
       "id": 192,
@@ -2123,7 +2123,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yeah… that's good.\nThat's what I want to do.\nBecause then, no one will get between us!",
-      "pt": ""
+      "pt": "Sim… isso é bom.\nÉ isso que eu quero fazer.\nPorque assim, ninguém fica entre nós!"
     },
     {
       "id": 193,
@@ -2134,7 +2134,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't abandon me…\nDon't abandon me…\nDon't hate me…!",
-      "pt": ""
+      "pt": "Não me abandone…\nNão me abandone…\nNão me odeie…!"
     },
     {
       "id": 194,
@@ -2145,7 +2145,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Please…\nPlease, I beg you…!\nDon't go, anywhere…!",
-      "pt": ""
+      "pt": "Por favor…\nPor favor, eu imploro…!\nNão vá, a lugar nenhum…!"
     },
     {
       "id": 195,
@@ -2156,7 +2156,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't do that.",
-      "pt": ""
+      "pt": "Não posso fazer isso."
     },
     {
       "id": 196,
@@ -2167,7 +2167,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't understand,\nI have no clue what you're saying,\n#C236196003#NICK#CDEF…!",
-      "pt": ""
+      "pt": "Não entendo,\nnão faço ideia do que você está dizendo,\n#C236196003#NICK#CDEF…!"
     },
     {
       "id": 197,
@@ -2178,7 +2178,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why would you say something so selfish?\nDo you, hate me…?",
-      "pt": ""
+      "pt": "Por que diria uma coisa tão egoísta?\nVocê, me odeia…?"
     },
     {
       "id": 198,
@@ -2189,7 +2189,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't understand… Not you, not what\nyou're saying… not what you want to do,\nnone of it―――.",
-      "pt": ""
+      "pt": "Não entendo… Nem você, nem o que\nestá dizendo… nem o que quer fazer,\nnada disso―――."
     },
     {
       "id": 199,
@@ -2200,7 +2200,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.",
-      "pt": ""
+      "pt": "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF."
     },
     {
       "id": 200,
@@ -2211,7 +2211,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You said that you love me.\nThat's the biggest error you've made.",
-      "pt": ""
+      "pt": "Você disse que me ama.\nEsse foi o maior erro que cometeu."
     },
     {
       "id": 201,
@@ -2222,7 +2222,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah, ahh… aha…\nAhaha, ha… ahh…\nAAH, aaAAAAAAAAH…!",
-      "pt": ""
+      "pt": "Ah, ahh… aha…\nAhaha, ha… ahh…\nAAH, aaAAAAAAAAH…!"
     },
     {
       "id": 202,
@@ -2233,7 +2233,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's, no one, else, to be together with,\nforever… Close together…\nNo bullies… No people to hurt me…",
-      "pt": ""
+      "pt": "Não há, mais ninguém, para ficar junto,\npara sempre… Bem juntinhos…\nSem malvados… Sem ninguém para me ferir…"
     },
     {
       "id": 203,
@@ -2244,7 +2244,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And I'll only think of #C236196003#NICK#CDEF,\nforever, and ever…",
-      "pt": ""
+      "pt": "E eu só vou pensar em #C236196003#NICK#CDEF,\npara todo, todo o sempre…"
     },
     {
       "id": 204,
@@ -2255,7 +2255,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Still, that's…\nNot, love…?",
-      "pt": ""
+      "pt": "Mesmo assim, isso…\nnão é, amor…?"
     },
     {
       "id": 205,
@@ -2266,7 +2266,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's why―――you don't like me, right…?\nYou hate… hate… hate me…\nStill…",
-      "pt": ""
+      "pt": "É por isso―――você não gosta de mim, né…?\nVocê me odeia… odeia… odeia…\nMesmo assim…"
     },
     {
       "id": 206,
@@ -2277,7 +2277,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You risked your life,\nfor me―――\nI'm, sorry―――",
-      "pt": ""
+      "pt": "Você arriscou a vida,\npor mim―――\nMe, desculpe―――"
     },
     {
       "id": 207,
@@ -2288,7 +2288,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…please, come, let me hold you…\nTightly, tightly…",
-      "pt": ""
+      "pt": "…por favor, venha, deixe eu abraçar você…\nBem forte, bem forte…"
     },
     {
       "id": 208,
@@ -2299,7 +2299,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So tightly, until you stop saying\nscary things…!",
-      "pt": ""
+      "pt": "Tão forte, até você parar de dizer\ncoisas assustadoras…!"
     },
     {
       "id": 209,
@@ -2310,7 +2310,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No, the world is closing in…!?",
-      "pt": ""
+      "pt": "Não, o mundo está se fechando…!?"
     },
     {
       "id": 210,
@@ -2321,7 +2321,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…hee hee. You were so scary, proud,\nand showing off before.\nWhat are you afraid of, Senpai?",
-      "pt": ""
+      "pt": "…hi hi. Estava tão #[assustador][assustadora]#, #[orgulhoso][orgulhosa]#\ne se gabando antes. Do que tem medo, Senpai?"
     },
     {
       "id": 211,
@@ -2332,7 +2332,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't worry.\nI'll take my time and teach you.",
-      "pt": ""
+      "pt": "Não se preocupe.\nVou ensinar com calma, no meu tempo."
     },
     {
       "id": 212,
@@ -2343,7 +2343,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The world is narrowing, shrinking…",
-      "pt": ""
+      "pt": "O mundo está se estreitando, encolhendo…"
     },
     {
       "id": 213,
@@ -2354,7 +2354,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "…now there's no way out.\n#C236196003#FAMILY #GIVEN#CDEF's words failed to reach her―――",
-      "pt": ""
+      "pt": "…não há mais saída. As palavras de #C236196003#FAMILY\n#GIVEN#CDEF não a alcançaram―――"
     },
     {
       "id": 214,
@@ -2618,7 +2618,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't press.",
-      "pt": ""
+      "pt": "Não pressionar."
     },
     {
       "id": 238,
@@ -2651,7 +2651,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base.",
-      "pt": ""
+      "pt": "Após abrir um atalho do #C000246204checkpoint#CDEF\nao prédio antigo, volte à base."
     },
     {
       "id": 241,
@@ -2662,7 +2662,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF, parece que acumulou muita\nfadiga. Recomendo que retorne\npor ora para descansar."
     },
     {
       "id": 242,
@@ -2673,7 +2673,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I'm concerned about #C236196003Rin#CDEF.",
-      "pt": ""
+      "pt": "Estou preocupad#[o][a]# com a #C236196003Rin#CDEF."
     },
     {
       "id": 243,
@@ -2684,7 +2684,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF.",
-      "pt": ""
+      "pt": "Explorar o Labirinto ajuda, mas preciso\n#C000246204voltar ao prédio antigo#CDEF e falar rápido\ncom #C236196003Kiara#CDEF."
     },
     {
       "id": 244,
@@ -2695,7 +2695,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation.",
-      "pt": ""
+      "pt": "Obtive o primeiro #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e organizar\na situação."
     },
     {
       "id": 245,
@@ -2706,7 +2706,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along.",
-      "pt": ""
+      "pt": "Primeiro, vamos ativar o #C000246204checkpoint#CDEF.\nIsso vai agilizar a nossa busca."
     },
     {
       "id": 246,
@@ -2717,7 +2717,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us.",
-      "pt": ""
+      "pt": "Sofremos mais dano contra a #C236196003Lancer#CDEF\ndo que eu previa. Melhor voltar ao prédio\nantigo; por sorte há um #C000246204checkpoint#CDEF perto."
     },
     {
       "id": 247,
@@ -2728,7 +2728,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!",
-      "pt": ""
+      "pt": "O que houve, Maestro?\nVamos #C000246204seguir em frente#CDEF!"
     },
     {
       "id": 248,
@@ -2739,7 +2739,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF.",
-      "pt": ""
+      "pt": "Não se preocupe. Vou proteger você,\n#[Querido][Querida]#. Siga em #C000246204frente#CDEF."
     },
     {
       "id": 249,
@@ -2750,7 +2750,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?",
-      "pt": ""
+      "pt": "Não me diga que ficou com medo?\nMesmo você sabe que parar\naqui é inadmissível, não sabe?"
     },
     {
       "id": 250,
@@ -2761,7 +2761,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF. Após ativar o #C000246204checkpoint#CDEF,\ndescanse um pouco em seu\nquarto particular."
     },
     {
       "id": 251,
@@ -2772,7 +2772,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Even in cyberspace, you need proper rest.",
-      "pt": ""
+      "pt": "Mesmo no ciberespaço, você precisa\ndescansar direito."
     },
     {
       "id": 252,
@@ -2783,7 +2783,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF.",
-      "pt": ""
+      "pt": "Ative o #C000246204checkpoint#CDEF e use-o\npara voltar aqui.\nDeve estar exaust#[o][a]#, #C236196003#NICK#CDEF."
     },
     {
       "id": 253,
@@ -2794,7 +2794,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF.",
-      "pt": ""
+      "pt": "#[Sr.][Srta.]##C236196003 #NICK#CDEF, volte à base agora.\nDiscutiremos o plano\nna #C000246204Sala do Grêmio#CDEF."
     },
     {
       "id": 254,
@@ -2805,7 +2805,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!",
-      "pt": ""
+      "pt": "#C236196003#GIVEN#CDEF, por favor, volte.\nVocê acumulou muita fadiga;\ncontinuar será perigoso!"
     },
     {
       "id": 255,
@@ -2816,7 +2816,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission.",
-      "pt": ""
+      "pt": "A preocupação da #C236196003Sakura#CDEF fica clara\naté pela transmissão."
     },
     {
       "id": 256,
@@ -2827,7 +2827,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF.",
-      "pt": ""
+      "pt": "Ela tem razão, melhor voltarmos\nao #C000246204Prédio Antigo da Escola#CDEF."
     },
     {
       "id": 257,
@@ -2838,7 +2838,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF. Vamos voltar por ora\nao #C000246204Prédio Antigo da Escola#CDEF\ne retornar depois de nos recuperarmos."
     },
     {
       "id": 258,
@@ -2849,7 +2849,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest.",
-      "pt": ""
+      "pt": "Pegamos o #C000246204SG#CDEF.\nMissão cumprida.\nVamos voltar e descansar."
     },
     {
       "id": 259,
@@ -2860,7 +2860,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now.",
-      "pt": ""
+      "pt": "Onde vai? Já garantimos o #C000246204SG#CDEF.\nNão há mais urgência alguma.\nDe volta ao #C000246204Meu Quarto#CDEF, agora."
     },
     {
       "id": 260,
@@ -2871,7 +2871,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?",
-      "pt": ""
+      "pt": "Hummm? Onde vai, #C236196003#FAMILY\n#GIVEN#CDEF? Para onde está indo,\nme deixando para trás?"
     },
     {
       "id": 261,
@@ -2882,7 +2882,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back.",
-      "pt": ""
+      "pt": "Pensei por um segundo em deixar #C236196003Gatou#CDEF\ne ir embora, mas minha consciência não\nme deixaria em paz. Vamos voltar."
     },
     {
       "id": 262,
@@ -2893,7 +2893,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated.",
-      "pt": ""
+      "pt": "Espere, Maestro. Antes de voltarmos,\nconvém ativar o #C000246204checkpoint#CDEF\npara facilitar daqui em diante."
     },
     {
       "id": 263,
@@ -2904,7 +2904,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…",
-      "pt": ""
+      "pt": "#[Mestre][Mestra]#, procuremos o #C000246204checkpoint#CDEF.\nDeve estar por aqui em algum lugar…"
     },
     {
       "id": 264,
@@ -2915,7 +2915,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty.",
-      "pt": ""
+      "pt": "Não precisamos voltar tudo a pé.\nCom o #C000246204checkpoint#CDEF chegamos num\npiscar ao prédio antigo. Bem prático."
     },
     {
       "id": 265,
@@ -2926,7 +2926,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…",
-      "pt": ""
+      "pt": "M-meu estômago chegou no limite…\nQuero voltar logo ao #C000246204Meu Quarto#CDEF e descansar…"
     },
     {
       "id": 266,
@@ -2937,7 +2937,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it.",
-      "pt": ""
+      "pt": "Antes de ir ao próximo andar,\n#C000246204voltemos à Sala do Grêmio#CDEF para entregar\nos dados que #C236196003Archer Verde#CDEF nos confiou."
     },
     {
       "id": 267,
@@ -2948,7 +2948,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!",
-      "pt": ""
+      "pt": "Hã? Ainda no #C000246204Labirinto de Sakura#CDEF?\nNão tem nada para fazer aí.\nTrate de voltar logo pra cá!"
     },
     {
       "id": 268,
@@ -2959,7 +2959,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room.",
-      "pt": ""
+      "pt": "Falamos do próximo passo amanhã,\nentão #C000246204volte e vá descansar#CDEF.\nDepois, passe na Sala do Grêmio."
     },
     {
       "id": 269,
@@ -2970,7 +2970,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!",
-      "pt": ""
+      "pt": "Corremos contra o tempo.\nTemos que ir rápido ao\n#C000246204Núcleo do Moon Cell#CDEF――!"
     },
     {
       "id": 270,
@@ -2981,7 +2981,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!",
-      "pt": ""
+      "pt": "Não posso desperdiçar as esperanças\ndo #C236196003Shinji#CDEF. Vamos alcançar\na #C236196003Meltlilith#CDEF!"
     },
     {
       "id": 271,
@@ -2992,7 +2992,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath.",
-      "pt": ""
+      "pt": "Maestro, já me cansei.\nVoltemos ao Meu Quarto para um bom banho."
     },
     {
       "id": 272,
@@ -3003,7 +3003,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room.",
-      "pt": ""
+      "pt": "Sei como se sente, mas saber a hora\nde descansar também faz parte da luta.\nVamos voltar ao Meu Quarto."
     },
     {
       "id": 273,
@@ -3014,7 +3014,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength.",
-      "pt": ""
+      "pt": "#[Querido][Querida]#, agora é hora de descansar.\nVamos voltar para o nosso quarto\ne recuperar as forças."
     },
     {
       "id": 274,
@@ -3025,7 +3025,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest.",
-      "pt": ""
+      "pt": "Que #[homem][mulher]# impaciente. A vida não\nse resume a labutar, sabia?\nNa hora de descansar, descanse."
     },
     {
       "id": 275,
@@ -3102,7 +3102,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is the center of #C236196003Passionlip#CDEF's mind…",
-      "pt": ""
+      "pt": "Este é o centro da mente de #C236196003Passionlip#CDEF…"
     },
     {
       "id": 282,
@@ -3113,7 +3113,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A world filled with an anguish that no one\nunderstands, and a sense of hopelessness\nthat no one tries to see.",
-      "pt": ""
+      "pt": "Um mundo cheio de uma angústia que ninguém\ncompreende e de uma desesperança que\nninguém tenta enxergar."
     },
     {
       "id": 283,
@@ -3124,7 +3124,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF has a blank look on her face.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF tem uma expressão vazia\nno rosto."
     },
     {
       "id": 284,
@@ -3135,7 +3135,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her passiveness has vanished,\nand now she's resolved to let no one pass―――",
-      "pt": ""
+      "pt": "Sua passividade desapareceu,\ne agora está decidida a não deixar ninguém\npassar―――"
     },
     {
       "id": 285,
@@ -3146,7 +3146,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I sense her madness, to let no one who enters leave.",
-      "pt": ""
+      "pt": "Sinto sua loucura de não deixar sair\nninguém que entre aqui."
     },
     {
       "id": 286,
@@ -3157,7 +3157,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…if you had stayed in that school…\nI was always watching you…\nI liked it that way, I was happy, and yet…",
-      "pt": ""
+      "pt": "…se tivesse ficado naquela escola…\nEu sempre observava você…\nEu gostava daquilo, era feliz, mas…"
     },
     {
       "id": 287,
@@ -3168,7 +3168,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Lip and I are enemies.",
-      "pt": ""
+      "pt": "A Lip e eu somos #[inimigos][inimigas]#."
     },
     {
       "id": 288,
@@ -3179,7 +3179,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Enemies… We're enemies……?\nWhat do you mean―that's…\nThat's a convenient excuse……!",
-      "pt": ""
+      "pt": "Inimigos… Somos #[inimigos][inimigas]#……?\nComo assim―isso é…\nÉ uma desculpa conveniente……!"
     },
     {
       "id": 289,
@@ -3190,7 +3190,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Lies…!\nIf that were true,\nthen why did you reject me so many times…!?",
-      "pt": ""
+      "pt": "Mentira…!\nSe fosse verdade,\npor que me rejeitou tantas vezes…!?"
     },
     {
       "id": 290,
@@ -3201,7 +3201,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What should I have done…? If I could have\nforgotten, everything would be fine… but an AI\nlike me has no \"forget\" function…",
-      "pt": ""
+      "pt": "O que eu devia ter feito…? Se eu pudesse\nesquecer, tudo ficaria bem… mas uma IA\ncomo eu não tem função de \"esquecer\"…"
     },
     {
       "id": 291,
@@ -3212,7 +3212,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Are you saying there's something\nwrong with me…!?",
-      "pt": ""
+      "pt": "Está dizendo que há algo\nde errado comigo…!?"
     },
     {
       "id": 292,
@@ -3223,7 +3223,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Something wrong, huh?\nPraetor, it's her compassion.\nTell it to her straight.",
-      "pt": ""
+      "pt": "Algo de errado, hein?\nMaestro, é a compaixão dela.\nDiga a ela sem rodeios."
     },
     {
       "id": 293,
@@ -3234,7 +3234,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Obviously her body is one issue, but anyway…\nAnswer her, Master. It seems that she won't\nget it unless you say it.",
-      "pt": ""
+      "pt": "Obviamente o corpo dela é um problema, mas\nenfim… Responda, #[Mestre][Mestra]#.\nEla não vai entender se não disser."
     },
     {
       "id": 294,
@@ -3245,7 +3245,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Does this girl even see a reflection in mirrors?\nRegardless, you need to be clear, Darling!\nBe sincere when you flat out reject her!",
-      "pt": ""
+      "pt": "Será que ela ao menos vê reflexo no espelho?\nSeja como for, fale claro, #[Querido][Querida]#!\nSeja #[sincero][sincera]# ao rejeitá-la de vez!"
     },
     {
       "id": 295,
@@ -3256,7 +3256,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Something wrong, hm? Say it, #C236196003#FAMILY#CDEF.\nRight out of your own mouth, as if bidding her\nfarewell.",
-      "pt": ""
+      "pt": "Algo de errado, hum? Diga, #C236196003#FAMILY#CDEF.\nCom suas próprias palavras, como quem se\ndespede dela."
     },
     {
       "id": 296,
@@ -3267,7 +3267,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"Those claws damage whatever they touch.\"",
-      "pt": ""
+      "pt": "\"Essas garras ferem tudo o que tocam.\""
     },
     {
       "id": 297,
@@ -3278,7 +3278,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't comment on #C236196003Passionlip#CDEF's personality.\nLike anyone, she has good aspects and bad aspects.",
-      "pt": ""
+      "pt": "Não posso julgar a personalidade de #C236196003Passionlip#CDEF.\nComo qualquer um, ela tem lados bons e ruins."
     },
     {
       "id": 298,
@@ -3289,7 +3289,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But there is this one thing.",
-      "pt": ""
+      "pt": "Mas há uma questão."
     },
     {
       "id": 299,
@@ -3300,7 +3300,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's no doubt that all those claws\ncan do is hurt people.\nUnless she can take them off, I can't speak to her.",
-      "pt": ""
+      "pt": "Não há dúvida de que essas garras só servem\npara ferir pessoas. Sem tirá-las, não dá\npara conversar com ela."
     },
     {
       "id": 300,
@@ -3311,7 +3311,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She was on the verge of tears,\nbut her face transforms into that\nof an expressionless Noh mask.",
-      "pt": ""
+      "pt": "Ela estava prestes a chorar,\nmas seu rosto se transforma no de uma\nmáscara Noh sem expressão."
     },
     {
       "id": 301,
@@ -3322,7 +3322,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can no longer see any human-like\nemotion in #C236196003Passionlip#CDEF's eyes.",
-      "pt": ""
+      "pt": "Já não vejo nenhuma emoção humana\nnos olhos de #C236196003Passionlip#CDEF."
     },
     {
       "id": 302,
@@ -3333,7 +3333,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Lip#CDEF curiously peers at her own hands.\nShe speaks as if what she sees are normal arms.",
-      "pt": ""
+      "pt": "#C236196003Lip#CDEF olha intrigada para as próprias mãos.\nFala como se visse braços normais."
     },
     {
       "id": 303,
@@ -3344,7 +3344,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It reminds of the fable, \"The Emperor's New Clothes.\"",
-      "pt": ""
+      "pt": "Lembra a fábula \"A Roupa Nova do Rei\"."
     },
     {
       "id": 304,
@@ -3355,7 +3355,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's what #C236196003Passionlip#CDEF was made to be;\nan #C000246204Alter Ego#CDEF made to only ever be rejected.",
-      "pt": ""
+      "pt": "Foi para isso que #C236196003Passionlip#CDEF foi feita;\numa #C000246204Alter Ego#CDEF criada só para ser rejeitada."
     },
     {
       "id": 305,
@@ -3366,7 +3366,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I see… That's right.\nBecause I'm an #C000246204Alter Ego#CDEF…\nBecause I'm one of #C236196003BB#CDEF's parts…",
-      "pt": ""
+      "pt": "…Entendi… É verdade.\nPorque eu sou uma #C000246204Alter Ego#CDEF…\nPorque sou uma das partes da #C236196003BB#CDEF…"
     },
     {
       "id": 306,
@@ -3377,7 +3377,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're tricking me with lies like\nthat, aren't you?\n…even though… I like you so much…",
-      "pt": ""
+      "pt": "Está me enganando com mentiras assim,\nnão está?\n…mesmo eu… gostando tanto de você…"
     },
     {
       "id": 307,
@@ -3388,7 +3388,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even though I like you so much,\nI can't go on living without you!",
-      "pt": ""
+      "pt": "Mesmo gostando tanto de você,\neu não consigo viver sem você!"
     },
     {
       "id": 308,
@@ -3399,7 +3399,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's no more avoiding fights.\nThere's nowhere for #C236196003Passionlip#CDEF to run.\nThe only thing left to do is settle this now.",
-      "pt": ""
+      "pt": "Não há mais como evitar a luta.\nNão há para onde #C236196003Passionlip#CDEF fugir.\nSó resta resolver isso agora."
     },
     {
       "id": 309,
@@ -3410,7 +3410,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So, you have love and hate flipped.\nI won't sneer at your earnestness. My love is\nin a form similar to yours, as well.",
-      "pt": ""
+      "pt": "Então você inverteu amor e ódio.\nNão zombarei de tua sinceridade. Meu amor\ntambém assume uma forma parecida com a tua."
     },
     {
       "id": 310,
@@ -3421,7 +3421,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Only cherishing things you like―――\nThat's nothing but a reflection of narcissism.",
-      "pt": ""
+      "pt": "Zelar apenas pelo que se gosta―――\nIsso não passa de um reflexo de narcisismo."
     },
     {
       "id": 311,
@@ -3432,7 +3432,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "To compel someone to serve you,\nyou exhaust them. You accept obligations to\nmake them obligated to you.",
-      "pt": ""
+      "pt": "Para forçar alguém a servi-la, você o\nesgota. Aceita obrigações só para torná-lo\nem dívida com você."
     },
     {
       "id": 312,
@@ -3443,7 +3443,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If you find out that it doesn't turn out that\nway, you turn them into a mute pebble\nand keep them for yourself.",
-      "pt": ""
+      "pt": "E quando vê que não sai do seu jeito,\ntransforma a pessoa num seixo mudo\ne a guarda só para você."
     },
     {
       "id": 313,
@@ -3454,7 +3454,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've had enough of all this \"I like you,\nI like you.\" Have you ever once put in any\neffort to make yourself likeable?",
-      "pt": ""
+      "pt": "Já chega desse \"eu gosto de você\".\nAlguma vez se esforçou ao menos para\nser alguém de quem se possa gostar?"
     },
     {
       "id": 314,
@@ -3465,7 +3465,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――Very well.\nAt last you've become human, it seems.\nI've been waiting for that hatred.",
-      "pt": ""
+      "pt": "―――Muito bem.\nParece que enfim te tornaste humana.\nEu esperava por esse ódio."
     },
     {
       "id": 315,
@@ -3476,7 +3476,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Love is not a beautiful thing.\nIt's ugly, irrational, and involves pain.",
-      "pt": ""
+      "pt": "O amor não é algo belo.\nÉ feio, irracional e traz dor."
     },
     {
       "id": 316,
@@ -3487,7 +3487,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "However―――Your love is one-sided.\nLove is something you nurture together,\nand it changes.",
-      "pt": ""
+      "pt": "Contudo―――O teu amor é unilateral.\nO amor é algo que se cultiva em conjunto,\ne que se transforma."
     },
     {
       "id": 317,
@@ -3498,7 +3498,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A love which desires only one's partner, a love\nwhich only begs to be desired, only achieves\nconsuming the life of one's companion.",
-      "pt": ""
+      "pt": "Um amor que só deseja o outro, que só\nimplora ser desejado, não faz nada além de\nconsumir a vida do companheiro."
     },
     {
       "id": 318,
@@ -3509,7 +3509,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Taking away even the freedom of those who\ndistanced themselves from you is nothing short\nof an evil obsession.",
-      "pt": ""
+      "pt": "Tirar até a liberdade de quem se afastou\nde você não passa de uma obsessão maligna."
     },
     {
       "id": 319,
@@ -3520,7 +3520,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "True love is about give-and-take. Just feeling\nisn't enough. The unselfish would say\nthat you're IN love, but not loving.",
-      "pt": ""
+      "pt": "Amor verdadeiro é troca. Só sentir não basta.\nQuem não é egoísta diria que você está\napaixonada, mas não amando."
     },
     {
       "id": 320,
@@ -3531,7 +3531,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And that's why what is born from within that\nbecomes a light, which anyone would\nfind difficult to alter.",
-      "pt": ""
+      "pt": "E é por isso que o que nasce daí\nse torna uma luz que qualquer um\ntem dificuldade para alterar."
     },
     {
       "id": 321,
@@ -3542,7 +3542,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Love and hate must be a fabric woven of both.\nWhat truth is there in saying there exists\nbeauty which births only beautiful things?",
-      "pt": ""
+      "pt": "Amor e ódio devem tecer o mesmo pano.\nQue verdade há em dizer que existe beleza\nque gera apenas coisas belas?"
     },
     {
       "id": 322,
@@ -3553,7 +3553,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I shall teach you that lesson.\nCome at me, #RUBS      Alter Ego#RUBElittle fraction#REND.\nI'll put an end to your suffering!",
-      "pt": ""
+      "pt": "Vou lhe ensinar essa lição.\nVenha, #RUBS      Alter Ego#RUBEpequena fração#REND.\nVou pôr um fim ao seu sofrimento!"
     },
     {
       "id": 323,
@@ -3564,7 +3564,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nBefore we settle this, I'll throw you\njust one question: is your love genuine?",
-      "pt": ""
+      "pt": "#C000246204Alter Ego#CDEF, #C236196003Passionlip#CDEF.\nAntes de decidirmos isso, faço uma única\npergunta: o teu amor é genuíno?"
     },
     {
       "id": 324,
@@ -3575,7 +3575,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Your liking is still only on that level.\nGo milk those brea― I mean, dust yourself off\nand try again.",
-      "pt": ""
+      "pt": "Seu \"gostar\" ainda é só desse nível.\nVá ordenhar esses pei― digo, sacuda\na poeira e tente de novo."
     },
     {
       "id": 325,
@@ -3586,7 +3586,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…though, I guess that's the reason why I\nsympathize, or maybe, admire you. If you weren't\nafter my Darling, I might be cheering you on.",
-      "pt": ""
+      "pt": "…embora talvez seja por isso que eu sinta\npena, ou admiração. Se não estivesse atrás\nd#[o meu Querido][a minha Querida]#, até torceria."
     },
     {
       "id": 326,
@@ -3597,7 +3597,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Therefore, the king himself shall teach this:\nwhatever the endeavor, fundamentally, it's a\nbattle. Everything has assailants and victims.",
-      "pt": ""
+      "pt": "Portanto, o próprio rei ensinará:\nqualquer empreitada é, em essência, uma\nbatalha. Tudo tem agressores e vítimas."
     },
     {
       "id": 327,
@@ -3608,7 +3608,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If you wish to achieve your lifelong dream,\nthen kill me, and make #C236196003#FAMILY#CDEF yours.\nThat's all your madness is capable of!",
-      "pt": ""
+      "pt": "Se deseja realizar seu maior sonho,\nentão me vença e faça #C236196003#FAMILY#CDEF ser #[seu][sua]#.\nÉ só disso que sua loucura é capaz!"
     },
     {
       "id": 328,
@@ -3619,7 +3619,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But… Even if an AI wanted to die, they can't.\nThat's why…\nThat's why……",
-      "pt": ""
+      "pt": "Mas… Mesmo que uma IA queira morrer,\nela não consegue. Por isso…\nPor isso……"
     },
     {
       "id": 329,
@@ -3630,7 +3630,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes, that's the best way…!\nIf only you never existed… Everything would've\nbeen fine if you never existed…!",
-      "pt": ""
+      "pt": "Sim, esse é o melhor jeito…!\nSe você nunca tivesse existido… Tudo teria\ndado certo se você nunca tivesse existido…!"
     },
     {
       "id": 330,
@@ -3641,7 +3641,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The first secret that makes up #C236196003Passionlip#CDEF:\nthe special, unique function bestowed only unto her―――",
-      "pt": ""
+      "pt": "O primeiro segredo que compõe #C236196003Passionlip#CDEF:\na função especial e única concedida\napenas a ela―――"
     },
     {
       "id": 331,
@@ -3652,7 +3652,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "10 nailed claws",
-      "pt": ""
+      "pt": "Garras de 10 unhas"
     },
     {
       "id": 332,
@@ -3663,7 +3663,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Damn, I got it wrong…\nSure, those claws are one of #C236196003Lip#CDEF's defining features,\nbut they're no #C000246204SG#CDEF.",
-      "pt": ""
+      "pt": "Droga, errei…\nEssas garras são mesmo uma marca da\n#C236196003Lip#CDEF, mas não são um #C000246204SG#CDEF."
     },
     {
       "id": 333,
@@ -3674,7 +3674,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The feature of #C236196003Lip#CDEF's body that best represents her is\nher―――",
-      "pt": ""
+      "pt": "O traço do corpo de #C236196003Lip#CDEF que mais a\nrepresenta é―――"
     },
     {
       "id": 334,
@@ -3685,7 +3685,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Of course, this isn't the time to be doing this.\nI need to be going after her #C000246204SG#CDEF.",
-      "pt": ""
+      "pt": "Claro, não é hora de fazer isso.\nPreciso ir atrás do #C000246204SG#CDEF dela."
     },
     {
       "id": 335,
@@ -3696,7 +3696,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The skin touching my hand belongs to a maiden.\nAware that she doesn't like that,\nmaybe I was being intentionally rough with her.",
-      "pt": ""
+      "pt": "A pele sob minha mão é de uma donzela.\nSabendo que ela não gosta disso, talvez eu\nestivesse sendo #[bruto][bruta]# de propósito."
     },
     {
       "id": 336,
@@ -3707,7 +3707,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Um, um… I feel embarrassed.\nI feel your breath on me, it's hot,\nand it hurts… mm…",
-      "pt": ""
+      "pt": "Hum, hum… Estou com vergonha.\nSinto sua respiração em mim, é quente,\ne dói… mm…"
     },
     {
       "id": 337,
@@ -3718,7 +3718,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't do that.\nNow that I'm set on exposing her mind,\nI'm going to drive her right up against the wall.",
-      "pt": ""
+      "pt": "Não posso fazer isso.\nJá que decidi expor sua mente, vou\nencurralá-la contra a parede."
     },
     {
       "id": 338,
@@ -3729,7 +3729,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I recklessly insert my hand into her cleavage.\nMy fingertips touch a number of cubes.",
-      "pt": ""
+      "pt": "Enfio a mão sem hesitar em seu decote.\nMeus dedos tocam vários cubos."
     },
     {
       "id": 339,
@@ -3740,7 +3740,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Deep cleavage. An information coffin.\nA treasure box that will never open, its contents all rotten.",
-      "pt": ""
+      "pt": "Um decote fundo. Um caixão de informações.\nUm baú que nunca abrirá, de conteúdo podre."
     },
     {
       "id": 340,
@@ -3751,7 +3751,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Breast Valley#CDEF.\nIt shows proof that she's no normal human――no normal maiden.",
-      "pt": ""
+      "pt": "#C000246204Vale dos Seios#CDEF.\nA prova de que ela não é humana normal――\nnem uma donzela normal."
     },
     {
       "id": 341,
@@ -3762,7 +3762,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Without even writhing around, #C236196003Passionlip#CDEF simply bears it.",
-      "pt": ""
+      "pt": "Sem sequer se debater, #C236196003Passionlip#CDEF apenas\nsuporta em silêncio."
     },
     {
       "id": 342,
@@ -3773,7 +3773,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It hurts, don't…\nIt's embarrassing, I don't like it…\nAh, mm, ahh!",
-      "pt": ""
+      "pt": "Dói, não faça isso…\nÉ constrangedor, não gosto…\nAh, mm, ahh!"
     },
     {
       "id": 343,
@@ -3784,7 +3784,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah, d-don't―――DON'T―――!\nYou'll fall―――you're going to fall into\n#RUBS     me  #RUBEmy valley#REND at this rate, #C236196003#NICK#CDEF…!",
-      "pt": ""
+      "pt": "Ah, n-não―――Não―――!\nVai cair―――você vai cair em\n#RUBS     mim #RUBEmeu vale#REND desse jeito, #C236196003#NICK#CDEF…!"
     },
     {
       "id": 344,
@@ -3795,7 +3795,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That was close. #C236196003Lip#CDEF calling out to me brought me\nback to my senses. If she hadn't restrained me with her voice,\nI would've probably slipped into her #C000246204Breast Valley#CDEF\nand turned into a living lump of flesh.",
-      "pt": ""
+      "pt": "Por pouco. O grito de #C236196003Lip#CDEF me despertou.\nSem sua voz para me conter, eu teria caído\nno #C000246204Vale dos Seios#CDEF e virado massa viva."
     },
     {
       "id": 345,
@@ -3806,7 +3806,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I slowly release my fingers.",
-      "pt": ""
+      "pt": "Solto meus dedos devagar."
     },
     {
       "id": 346,
@@ -3817,7 +3817,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She slowly lifts up her weak, downcast eyes.\nMaybe she was biting her lip while bearing it,\nas it almost looks like she has lipstick on.",
-      "pt": ""
+      "pt": "Ela ergue devagar os olhos baixos e fracos.\nDeve ter mordido os lábios para aguentar,\npois quase parece usar batom."
     },
     {
       "id": 347,
@@ -3828,7 +3828,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're stopping, aren't you…\nI'm glad…",
-      "pt": ""
+      "pt": "Você vai parar, não vai…\nQue bom…"
     },
     {
       "id": 348,
@@ -3839,7 +3839,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I get shivers from hearing the disparity\nbetween her words and her seemingly lonely voice.",
-      "pt": ""
+      "pt": "Sinto um calafrio ao ouvir o contraste entre\nsuas palavras e sua voz tão solitária."
     },
     {
       "id": 349,
@@ -3850,7 +3850,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Masochistic Constitution",
-      "pt": ""
+      "pt": "Constituição Masoquista"
     },
     {
       "id": 350,
@@ -3861,7 +3861,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Desire to be restrained",
-      "pt": ""
+      "pt": "Desejo de ser contida"
     },
     {
       "id": 351,
@@ -3872,7 +3872,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She sees herself as a monster,\nshe blocks herself off with her colossal claws―――",
-      "pt": ""
+      "pt": "Ela se vê como um monstro,\nse isola atrás das garras colossais―――"
     },
     {
       "id": 352,
@@ -3883,7 +3883,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is the reason why she never has any self-confidence\nand is so self-depreciating because\nshe wants to be locked away…?",
-      "pt": ""
+      "pt": "Será que ela não tem confiança nenhuma e se\ndeprecia tanto porque deseja ser\ntrancafiada…?"
     },
     {
       "id": 353,
@@ -3894,7 +3894,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Sure, she may give off a strong image of being restrained,\nbut that's not what she's about.",
-      "pt": ""
+      "pt": "Certo, ela passa mesmo uma imagem de\nrepressão, mas não é disso que se trata."
     },
     {
       "id": 354,
@@ -3905,7 +3905,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My words become a blade that tears through #C236196003Lip#CDEF's mind.",
-      "pt": ""
+      "pt": "Minhas palavras viram uma lâmina que corta\na mente de #C236196003Lip#CDEF."
     },
     {
       "id": 355,
@@ -3916,7 +3916,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Masochistic Constitution#CDEF.\nIt's an #C000246204SG#CDEF that makes her target irrational,\nbeckoning them to act sadistically towards #C236196003Passionlip#CDEF.",
-      "pt": ""
+      "pt": "#C000246204Constituição Masoquista#CDEF.\nUm #C000246204SG#CDEF que faz o alvo perder a razão,\nincitando sadismo contra #C236196003Passionlip#CDEF."
     },
     {
       "id": 356,
@@ -3927,7 +3927,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I also don't like, being alone, but―――\nStill, when someone, comes near,\nI get scared…",
-      "pt": ""
+      "pt": "Eu também não gosto, de ficar só, mas―――\nAinda assim, quando alguém, se aproxima,\neu fico com medo…"
     },
     {
       "id": 357,
@@ -3938,7 +3938,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I mean, when I'm touched… umm…\nMy body, starts, hurting…\n…starts, getting hot…",
-      "pt": ""
+      "pt": "É que, quando me tocam… hum…\nMeu corpo, começa, a doer…\n…começa, a esquentar…"
     },
     {
       "id": 358,
@@ -3949,7 +3949,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I feel sorry for her, but that's wrong.\n#C236196003Lip#CDEF is also at fault here.",
-      "pt": ""
+      "pt": "…Sinto pena dela, mas isso está errado.\n#C236196003Lip#CDEF também tem culpa nisso."
     },
     {
       "id": 359,
@@ -3960,7 +3960,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's her third #C000246204SG#CDEF.\nThe nectar that causes one to lose their\nreason after being invited in by her #C000246204Masochistic Constitution#CDEF.",
-      "pt": ""
+      "pt": "Esse é o terceiro #C000246204SG#CDEF dela.\nO néctar que tira a razão de quem foi\natraído pela #C000246204Constituição Masoquista#CDEF."
     },
     {
       "id": 360,
@@ -3971,7 +3971,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Which is to say, her―――",
-      "pt": ""
+      "pt": "Ou seja, a sua―――"
     },
     {
       "id": 361,
@@ -3982,7 +3982,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Hypersensitivity",
-      "pt": ""
+      "pt": "Hipersensibilidade"
     },
     {
       "id": 362,
@@ -3993,7 +3993,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Uhh, umm…\nI'm going to get to squashing you now, okay?",
-      "pt": ""
+      "pt": "Ahn, hum…\nEu vou esmagar você agora, está bem?"
     },
     {
       "id": 363,
@@ -4004,7 +4004,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I messed up…\nLooks like I'm still not in my right state of mind…",
-      "pt": ""
+      "pt": "…Fiz bobagem…\nParece que ainda não estou no meu juízo\nperfeito…"
     },
     {
       "id": 364,
@@ -4015,7 +4015,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Hypersensitivity#CDEF.",
-      "pt": ""
+      "pt": "#C000246204Hipersensibilidade#CDEF."
     },
     {
       "id": 365,
@@ -4026,7 +4026,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if they had no intention to,\nher highly-sensitive body means\nthey would end up hurting #C236196003Passionlip#CDEF.",
-      "pt": ""
+      "pt": "Mesmo sem intenção, seu corpo sensível\ndemais faz qualquer um acabar machucando\n#C236196003Passionlip#CDEF."
     },
     {
       "id": 366,
@@ -4037,7 +4037,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "With her hands, meant to touch things, as grotesque claws;\nwith skin as frail as light snowfall to the touch,\nit's difficult to socialize with others.",
-      "pt": ""
+      "pt": "Com mãos feitas para tocar virando garras\ngrotescas e pele frágil como neve ao toque,\né difícil conviver com os outros."
     },
     {
       "id": 367,
@@ -4048,7 +4048,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her hands are supposed to match the other's force,\nbut they flatten and crush anything and everything.",
-      "pt": ""
+      "pt": "Suas mãos deveriam corresponder à força\nalheia, mas esmagam e destroem tudo."
     },
     {
       "id": 368,
@@ -4059,7 +4059,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's everything about this #C000246204Alter Ego#CDEF.",
-      "pt": ""
+      "pt": "Isso resume tudo sobre esta #C000246204Alter Ego#CDEF."
     },
     {
       "id": 369,
@@ -4070,7 +4070,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She's none other than an incarnation of lust,\nsaying all those things to avert her eyes\nfrom her own sins―――!",
-      "pt": ""
+      "pt": "Ela nada mais é que a encarnação da\nluxúria, falando assim só para desviar\nos olhos dos próprios pecados―――!"
     },
     {
       "id": 370,
@@ -4081,7 +4081,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…she's wrong.\nThose claws aren't the only thing monster-like about her.",
-      "pt": ""
+      "pt": "…ela está errada.\nEssas garras não são a única coisa\nmonstruosa nela."
     },
     {
       "id": 371,
@@ -4092,7 +4092,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She crushes those who don't live up to her expectations.\nShe mercilessly makes anything she doesn't need disappear.",
-      "pt": ""
+      "pt": "Ela esmaga quem não atende às suas\nexpectativas e faz sumir sem piedade\no que não lhe serve."
     },
     {
       "id": 372,
@@ -4103,7 +4103,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I like #C236196003#NICK#CDEF… That's really all\nthere is to it… I want you, to stay by me,\neven if only for a little while…",
-      "pt": ""
+      "pt": "Eu gosto de #C236196003#NICK#CDEF… É só isso,\nde verdade… Quero que fique comigo,\nnem que seja só por um instante…"
     },
     {
       "id": 373,
@@ -4114,7 +4114,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So… I thought about getting rid of anyone\nwho got between us… That's all,\nwhat's wrong with that!?",
-      "pt": ""
+      "pt": "Então… pensei em dar fim a quem\nficasse entre nós… Só isso,\no que há de errado nisso!?"
     },
     {
       "id": 374,
@@ -4125,7 +4125,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're saying that's selfish?",
-      "pt": ""
+      "pt": "Está dizendo que isso é egoísmo?"
     },
     {
       "id": 375,
@@ -4136,7 +4136,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…this is bad, we're going nowhere…",
-      "pt": ""
+      "pt": "…que droga, não vamos a lugar nenhum…"
     },
     {
       "id": 376,
@@ -4147,7 +4147,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's no point in giving #C236196003Lip#CDEF half-baked arguments.\nI need to clearly and fully reject her…!",
-      "pt": ""
+      "pt": "Não adianta dar argumentos pela metade\na #C236196003Lip#CDEF. Preciso rejeitá-la de forma\nclara e definitiva…!"
     },
     {
       "id": 377,
@@ -4158,7 +4158,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Lip#CDEF talked about getting rid of everyone\nwho gets in her way―\"that's it.\"",
-      "pt": ""
+      "pt": "#C236196003Lip#CDEF falou em eliminar todo mundo\nque fica no caminho―\"só isso.\""
     },
     {
       "id": 378,
@@ -4169,7 +4169,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Regardless of what kind of relationship it is,\nrelationships between people shape our personality.\n#C236196003Lip#CDEF, who doesn't understand that, can't relate with others.",
-      "pt": ""
+      "pt": "Seja qual for o vínculo, as relações entre\npessoas moldam quem somos. #C236196003Lip#CDEF, sem\nentender isso, não consegue se relacionar."
     },
     {
       "id": 379,
@@ -4180,7 +4180,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF is simply trying to be all alone.\nShe's an enemy.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF só está tentando ficar\nsozinha. Ela é uma inimiga."
     },
     {
       "id": 380,
@@ -4191,7 +4191,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah, ah―――\nNo, you've got it wrong, I was lying,\nwhat I just said, was a lie…!",
-      "pt": ""
+      "pt": "Ah, ah―――\nNão, você entendeu errado, eu menti,\no que eu acabei de dizer, era mentira…!"
     },
     {
       "id": 381,
@@ -4202,7 +4202,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't do something, like kill you.\n…I can't, do something like that.",
-      "pt": ""
+      "pt": "Eu não vou fazer algo, como matar você.\n…Não consigo, fazer uma coisa dessas."
     },
     {
       "id": 382,
@@ -4213,7 +4213,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll cherish you, cherish you…\nMy thoughts, along with the kind\n#C236196003#NICK#CDEF…",
-      "pt": ""
+      "pt": "Vou cuidar de você, cuidar muito…\nMeus pensamentos, junto d#[o][a]# gentil\n#C236196003#NICK#CDEF…"
     },
     {
       "id": 383,
@@ -4224,7 +4224,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll just squeeze you… tight,\nand put you deep into my breasts.",
-      "pt": ""
+      "pt": "Só vou abraçar você… bem forte,\ne guardar bem fundo junto ao meu peito."
     },
     {
       "id": 384,
@@ -4235,7 +4235,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…this is bad, we're going nowhere…",
-      "pt": ""
+      "pt": "…que droga, não vamos a lugar nenhum…"
     },
     {
       "id": 385,
@@ -4246,7 +4246,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's no point in giving #C236196003Lip#CDEF half-baked arguments.\nI need to clearly and fully reject her…!",
-      "pt": ""
+      "pt": "Não adianta dar argumentos pela metade\na #C236196003Lip#CDEF. Preciso rejeitá-la de forma\nclara e definitiva…!"
     },
     {
       "id": 386,
@@ -4257,7 +4257,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "NOO!\nIt hurts, it hurts, it hurts, it hurts!\nWhy are you saying that to me!?",
-      "pt": ""
+      "pt": "Não!\nDói, dói, dói, dói muito!\nPor que está dizendo isso para mim!?"
     },
     {
       "id": 387,
@@ -4268,7 +4268,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Our goal is to escape the Far Side.\nI have no intention of staying in the #C000246204Sakura Labyrinth#CDEF\nor inside #C236196003Lip#CDEF's mind any longer.",
-      "pt": ""
+      "pt": "Nosso objetivo é escapar do Far Side.\nNão pretendo ficar no #C000246204Labirinto de Sakura#CDEF\nnem na mente de #C236196003Lip#CDEF por mais tempo."
     },
     {
       "id": 388,
@@ -4279,7 +4279,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You'd be safe if you stay here, and yet…\nI would be together with you,\nforever, and yet…",
-      "pt": ""
+      "pt": "Você estaria #[seguro][segura]# aqui, e ainda…\nEu ficaria junto de você,\npara sempre, e ainda assim…"
     },
     {
       "id": 389,
@@ -4290,7 +4290,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even though I love you, so much…",
-      "pt": ""
+      "pt": "Mesmo eu amando você, tanto assim…"
     },
     {
       "id": 390,
@@ -4301,7 +4301,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Lip#CDEF's mind is in shambles at this point.\nOne more hit, and her mind will probably collapse.",
-      "pt": ""
+      "pt": "A mente de #C236196003Lip#CDEF está em frangalhos.\nMais um golpe e ela provavelmente vai\ndesmoronar."
     },
     {
       "id": 391,
@@ -4312,7 +4312,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…still, I need to deliver the final blow.",
-      "pt": ""
+      "pt": "…ainda assim, preciso dar o golpe final."
     },
     {
       "id": 392,
@@ -4323,7 +4323,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "The reason why is―――",
-      "pt": ""
+      "pt": "O motivo é―――"
     },
     {
       "id": 393,
@@ -4334,7 +4334,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It hurts… It, hurts…\nNot that, people deny me… It's that you,\nsaid that to me, which makes me, sad…",
-      "pt": ""
+      "pt": "Dói… Isso, dói…\nNão é que me neguem… É você ter me dito\nisso que me deixa, tão triste…"
     },
     {
       "id": 394,
@@ -4345,7 +4345,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is it, true…?\nThis isn't love… and here I thought,\nfinally, I had understood―――",
-      "pt": ""
+      "pt": "É, verdade…?\nIsso não é amor… e eu que pensei que,\nenfim, tinha entendido―――"
     },
     {
       "id": 395,
@@ -4356,7 +4356,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We know, everything about each other…\nThere's no longer, anything left\nto talk about…",
-      "pt": ""
+      "pt": "Nós sabemos, tudo #[um do outro][uma da outra]#…\nJá não resta, mais nada\nsobre o que conversar…"
     },
     {
       "id": 396,
@@ -4367,7 +4367,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Just think of me, as cute.\nThen there's no need,\nto think of anything else…",
-      "pt": ""
+      "pt": "Apenas me ache, fofa.\nAí não precisa,\npensar em mais nada…"
     },
     {
       "id": 397,
@@ -4378,7 +4378,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't get it.\nI don't understand.\nEven though it hurts so much.",
-      "pt": ""
+      "pt": "Eu não entendo.\nNão consigo entender.\nMesmo doendo tanto assim."
     },
     {
       "id": 398,
@@ -4389,7 +4389,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "When I look, at your pained face,\nI get sad, from the bottom of my heart―――",
-      "pt": ""
+      "pt": "Quando olho, para sua expressão de dor,\nfico triste, do fundo do coração―――"
     },
     {
       "id": 399,
@@ -4400,7 +4400,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It makes no sense, to me.\nIt must be―――that AI, are made so that they\ncan't understand love―――",
-      "pt": ""
+      "pt": "Não faz sentido, para mim.\nDeve ser―――que IAs, são feitas para não\nconseguirem entender o amor―――"
     },
     {
       "id": 400,
@@ -4411,7 +4411,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I'm sorry, for causing you to put on\nthat face. I'm sorry, for saying such horrible\nthings to you.",
-      "pt": ""
+      "pt": "…Desculpe, por fazer você ficar com essa\ncara. Desculpe, por dizer coisas tão\nhorríveis para você."
     },
     {
       "id": 401,
@@ -4422,7 +4422,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Leaving behind lonely muttering,#CDEF #C236196003Passionlip#CDEF#C080080080 disappears.\nOr maybe, this illusion in the form of a girl disappears.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Deixando um murmúrio solitário,#CDEF #C236196003Passionlip#CDEF#C080080080\nsome. Ou talvez essa ilusão em forma de\ngarota desapareça.#CDEF"
     },
     {
       "id": 402,
@@ -4433,7 +4433,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Is she a creature that must not exist,\nor was there some answer to all this―――?#CDEF",
-      "pt": ""
+      "pt": "#C080080080Ela é um ser que não deveria existir,\nou havia uma resposta para tudo isso―――?#CDEF"
     },
     {
       "id": 403,
@@ -4444,7 +4444,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080I'll never know what that answer was.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Nunca saberei qual era essa resposta.#CDEF"
     },
     {
       "id": 404,
@@ -4455,7 +4455,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…no. I have no more need of hearing your\nvoice, #C236196003#NICK#CDEF… since I\nhave no idea what you're talking about.",
-      "pt": ""
+      "pt": "…não. Não preciso mais ouvir a sua\nvoz, #C236196003#NICK#CDEF… já que não faço\nideia do que está falando."
     },
     {
       "id": 405,
@@ -4466,7 +4466,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I like you, #C236196003#NICK#CDEF. I like you.\nI don't want, to do any more, bad things,\nto the #C236196003#NICK#CDEF I love…",
-      "pt": ""
+      "pt": "Eu gosto de você, #C236196003#NICK#CDEF. Gosto.\nNão quero, fazer mais, coisas ruins\ncom #[o][a]# #C236196003#NICK#CDEF que eu amo…"
     },
     {
       "id": 406,
@@ -4477,7 +4477,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The density of this space transforms.",
-      "pt": ""
+      "pt": "A densidade deste espaço se transforma."
     },
     {
       "id": 407,
@@ -4488,7 +4488,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The muttered whimpers cease;\nI hear only the echo of her clattering claws.",
-      "pt": ""
+      "pt": "Os gemidos cessam;\nsó ouço o eco metálico de suas garras."
     },
     {
       "id": 408,
@@ -4499,7 +4499,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You don't need things like a voice, or a mind.\nWhat's not needed, I'll crush and throw away.\nSo long as there's still love left.",
-      "pt": ""
+      "pt": "Você não precisa de voz nem de mente.\nO que não presta, eu esmago e jogo fora.\nDesde que ainda reste amor."
     },
     {
       "id": 409,
@@ -4510,7 +4510,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That must be what my love is.",
-      "pt": ""
+      "pt": "É isso que deve ser o meu amor."
     },
     {
       "id": 410,
@@ -4521,7 +4521,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What I want to embrace with these hands is…\nWhat I want to hold tight and forever\nclose to me is…",
-      "pt": ""
+      "pt": "O que eu quero abraçar com estas mãos é…\nO que eu quero apertar forte e manter\npara sempre perto de mim é…"
     },
     {
       "id": 411,
@@ -4532,7 +4532,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I yell out, \"don't do anything stupid,\"\nbut my voice doesn't reach #C236196003Passionlip#CDEF.",
-      "pt": ""
+      "pt": "Grito \"não faça nenhuma besteira\",\nmas minha voz não alcança #C236196003Passionlip#CDEF."
     },
     {
       "id": 412,
@@ -4543,7 +4543,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And I can't run.\nThis is the inside of #C236196003Lip#CDEF's mind.\nThere was never anywhere for me to run.",
-      "pt": ""
+      "pt": "E não dá para fugir.\nEstamos dentro da mente de #C236196003Lip#CDEF.\nNunca houve para onde correr."
     },
     {
       "id": 413,
@@ -4554,7 +4554,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Are you scared, of my love?\nAhh, I see. You must be afraid because\nyou don't know what it is.",
-      "pt": ""
+      "pt": "Está com medo, do meu amor?\nAh, entendi. Deve estar com medo porque\nnão sabe o que ele é."
     },
     {
       "id": 414,
@@ -4565,7 +4565,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "From here on, forever, and ever.\nFor all eternity.\nUntil death divides the two apart―――",
-      "pt": ""
+      "pt": "Daqui em diante, para todo o sempre.\nPor toda a eternidade.\nAté que a morte nos separe―――"
     },
     {
       "id": 415,
@@ -4576,7 +4576,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is proof that #C236196003Lip#CDEF's mind has completely awakened.",
-      "pt": ""
+      "pt": "Esta é a prova de que a mente de #C236196003Lip#CDEF\ndespertou por completo."
     },
     {
       "id": 416,
@@ -4587,7 +4587,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Though it looks like she has some spare energy,\nshe probably won't be able to fight anymore.",
-      "pt": ""
+      "pt": "Embora pareça ter alguma energia de sobra,\nela provavelmente não consegue mais lutar."
     },
     {
       "id": 417,
@@ -4598,7 +4598,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What will you do, Praetor?\nShe's an #C000246204Alter Ego#CDEF. Different from a human.",
-      "pt": ""
+      "pt": "O que fará, Maestro?\nEla é uma #C000246204Alter Ego#CDEF. Diferente de um humano."
     },
     {
       "id": 418,
@@ -4609,7 +4609,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…now that I think about it, this is tricky.\nIf you don't free her mind, we won't be able to\nleave this place. But, she IS an #C000246204Alter Ego#CDEF.",
-      "pt": ""
+      "pt": "…pensando bem, isso é complicado.\nSem libertar a mente dela, não sairemos\ndaqui. Mas ela É uma #C000246204Alter Ego#CDEF."
     },
     {
       "id": 419,
@@ -4620,7 +4620,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Okie dokie, it's punishment time! Again!\nHuh? This time, it's for an #C000246204Alter Ego#CDEF?\nNot a human?",
-      "pt": ""
+      "pt": "Certo, então, hora da punição! De novo!\nUé? Desta vez é com uma #C000246204Alter Ego#CDEF?\nNão é uma humana?"
     },
     {
       "id": 420,
@@ -4631,7 +4631,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is a good time to show your worth\nas a #[man][woman]#, isn't it, mongrel?",
-      "pt": ""
+      "pt": "Boa hora para mostrar teu valor\ncomo #[homem][mulher]#, não é, #[mestiço][mestiça]#?"
     },
     {
       "id": 421,
@@ -4642,7 +4642,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Like you did with #C236196003Rin#CDEF and #C236196003Rani#CDEF,\nwill you lay her mind bare?",
-      "pt": ""
+      "pt": "Como fez com #C236196003Rin#CDEF e #C236196003Rani#CDEF,\nvai expor a mente dela?"
     },
     {
       "id": 422,
@@ -4653,7 +4653,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is it really okay to expose her mind,\nlike with humans?",
-      "pt": ""
+      "pt": "Tudo bem mesmo expor a mente dela,\ncomo fazemos com humanos?"
     },
     {
       "id": 423,
@@ -4664,7 +4664,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Will you scatter this flower or show it mercy?\nChoose as you see fit.",
-      "pt": ""
+      "pt": "Vai despedaçar esta flor ou ter piedade?\nEscolha como achar melhor."
     },
     {
       "id": 424,
@@ -4675,7 +4675,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…in any case, we won't be able to\nbreak out of #C236196003Lip#CDEF's mind at this rate.",
-      "pt": ""
+      "pt": "…de qualquer modo, não vamos conseguir\nsair da mente de #C236196003Lip#CDEF assim."
     },
     {
       "id": 425,
@@ -4686,7 +4686,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if I'm facing an #C000246204Alter Ego#CDEF, no,\nBECAUSE she's an #C000246204Alter Ego#CDEF,\nI have to completely incapacitate her.",
-      "pt": ""
+      "pt": "Mesmo diante de uma #C000246204Alter Ego#CDEF, não,\nJUSTAMENTE por ser uma #C000246204Alter Ego#CDEF,\ntenho de incapacitá-la por completo."
     },
     {
       "id": 426,
@@ -4697,7 +4697,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF has totally isolated\nherself from the outside.\nI step towards her defenseless body.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF se isolou por completo\ndo mundo externo. Dou um passo rumo ao seu\ncorpo indefeso."
     },
     {
       "id": 427,
@@ -4708,7 +4708,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't think she'll go swinging those claws around,\nbut it doesn't change how terrifying they are.",
-      "pt": ""
+      "pt": "Não acho que ela vá sair agitando aquelas\ngarras, mas não deixam de ser assustadoras."
     },
     {
       "id": 428,
@@ -4719,7 +4719,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "While keeping an eye on #C236196003Lip#CDEF's brutal hands,\nI close the distance between us.",
-      "pt": ""
+      "pt": "Mantendo os olhos nas mãos brutais de\n#C236196003Lip#CDEF, diminuo a distância entre nós."
     },
     {
       "id": 429,
@@ -4730,7 +4730,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Though an #C000246204Alter Ego#CDEF's mind may be more\ndangerous than a human's,\nI can't turn back now.",
-      "pt": ""
+      "pt": "Embora a mente de uma #C000246204Alter Ego#CDEF seja\nmais perigosa que a de um humano,\nnão posso recuar agora."
     },
     {
       "id": 430,
@@ -4741,7 +4741,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's time to finish this…!",
-      "pt": ""
+      "pt": "Hora de acabar com isso…!"
     },
     {
       "id": 431,
@@ -4752,7 +4752,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is the depths of her mind.\nEven within her Id, the core of her mental image,\n#C236196003Passionlip#CDEF is always crying.",
-      "pt": ""
+      "pt": "Estas são as profundezas de sua mente.\nMesmo em seu Id, o núcleo de sua imagem\nmental, #C236196003Passionlip#CDEF vive chorando."
     },
     {
       "id": 432,
@@ -4763,7 +4763,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…you're scaring me. Even you, #C236196003#NICK#CDEF…\nYou're going to bully me, aren't you…\nYou're, mean…",
-      "pt": ""
+      "pt": "…está me assustando. Até você, #C236196003#NICK#CDEF…\nVai me maltratar também, não vai…\nVocê é, #[mau][má]#…"
     },
     {
       "id": 433,
@@ -4774,7 +4774,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Though her slender body is very frail,\nher extremely soft-looking chest and\nthose brutal claws make for a strange presence.",
-      "pt": ""
+      "pt": "Embora seu corpo esguio seja muito frágil,\no busto macio e aquelas garras brutais\ncriam uma presença estranha."
     },
     {
       "id": 434,
@@ -4785,7 +4785,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her bobbing breasts naturally draw one's gaze.",
-      "pt": ""
+      "pt": "Seus seios balançando atraem o olhar\nnaturalmente."
     },
     {
       "id": 435,
@@ -4796,7 +4796,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Now that it's come to this,\nall I can do is keep moving until the very end.",
-      "pt": ""
+      "pt": "Agora que chegou a este ponto,\nsó me resta seguir em frente até o fim."
     },
     {
       "id": 436,
@@ -4807,7 +4807,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "An #C000246204Alter Ego#CDEF is different from #C236196003Rin#CDEF and #C236196003Rani#CDEF.",
-      "pt": ""
+      "pt": "Uma #C000246204Alter Ego#CDEF é diferente de #C236196003Rin#CDEF\ne #C236196003Rani#CDEF."
     },
     {
       "id": 437,
@@ -4818,7 +4818,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Which means―――it's not that I have\nto unravel her mind, but rather,\ncompletely defeat her.",
-      "pt": ""
+      "pt": "Ou seja―――não preciso\ndesvendar a mente dela, e sim,\nderrotá-la por completo."
     },
     {
       "id": 438,
@@ -4829,7 +4829,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I myself don't understand the reason why.\nI just feel, anything but that.",
-      "pt": ""
+      "pt": "Nem eu #[mesmo][mesma]# entendo o motivo.\nSó sinto que, isso não."
     },
     {
       "id": 439,
@@ -4840,7 +4840,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A recently born \"mind\" isn't something to expose,\nit's something to watch over―――",
-      "pt": ""
+      "pt": "Uma \"mente\" recém-nascida não é algo para\nexpor, e sim algo para zelar―――"
     },
     {
       "id": 440,
@@ -4851,7 +4851,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm… going to disappear, aren't I…?",
-      "pt": ""
+      "pt": "Eu… vou desaparecer, não vou…?"
     },
     {
       "id": 441,
@@ -4862,7 +4862,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't understand the reason,\nwhy people were afraid of me…",
-      "pt": ""
+      "pt": "Eu não entendo o motivo,\nde as pessoas terem medo de mim…"
     },
     {
       "id": 442,
@@ -4873,7 +4873,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I don't understand what \"love\" is.\nAll I know is what I really like, really hate,\nand pain…",
-      "pt": ""
+      "pt": "…Não entendo o que é \"amor\".\nSó conheço o que gosto muito, o que odeio\nmuito, e a dor…"
     },
     {
       "id": 443,
@@ -4884,7 +4884,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't want to… disappear…\nI want you, to tell me…\nBeing alone, in the end… scares me…",
-      "pt": ""
+      "pt": "Não quero… desaparecer…\nQuero que você, me diga…\nFicar sozinha, no fim… me dá medo…"
     },
     {
       "id": 444,
@@ -4895,7 +4895,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Passionlip#CDEF has lost her strength.",
-      "pt": ""
+      "pt": "#C236196003Passionlip#CDEF perdeu suas forças."
     },
     {
       "id": 445,
@@ -4906,7 +4906,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If we don't strike her down for good now, she may recover.\nMore importantly, we won't be able to move forward―――",
-      "pt": ""
+      "pt": "Se não dermos o golpe final agora, ela pode\nse recuperar. E o pior: não conseguiremos\navançar―――"
     },
     {
       "id": 446,
@@ -4917,7 +4917,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't show her any mercy, Praetor.\nThere must be retribution for a crime.",
-      "pt": ""
+      "pt": "Não tenhas piedade, Maestro.\nUm crime exige retribuição."
     },
     {
       "id": 447,
@@ -4928,7 +4928,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her crime was that she only saw her own terror\nand didn't consider it in others.",
-      "pt": ""
+      "pt": "O crime dela foi enxergar apenas o próprio\nmedo e ignorar o dos outros."
     },
     {
       "id": 448,
@@ -4939,7 +4939,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wild animals and people can't enter the same\ncage. No matter how attached an animal is to a\nperson, the slightest slip-up leads to death.",
-      "pt": ""
+      "pt": "Feras e pessoas não cabem na mesma jaula.\nPor mais apegado que o animal seja, o menor\ndescuido leva à morte."
     },
     {
       "id": 449,
@@ -4950,7 +4950,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Disregarding poetic justice is what makes\nyou great, Darling. But in this instance,\nthat's not good.",
-      "pt": ""
+      "pt": "Ignorar a justiça poética é o que faz você\nser assim, #[Querido][Querida]#. Mas, desta vez,\nnão funciona."
     },
     {
       "id": 450,
@@ -4961,7 +4961,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I see, you won't expose her mind?",
-      "pt": ""
+      "pt": "Entendi, não vai expor a mente dela?"
     },
     {
       "id": 451,
@@ -4972,7 +4972,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even worse, an #C000246204Alter Ego#CDEF is an AI.\nFundamentally, they weren't created to be\ncapable of understand human emotion.",
-      "pt": ""
+      "pt": "Pior ainda, uma #C000246204Alter Ego#CDEF é uma IA.\nEm essência, elas não foram criadas para\ncompreender emoções humanas."
     },
     {
       "id": 452,
@@ -4983,7 +4983,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "An #C000246204Alter Ego#CDEF is an AI that was born\n\"in such a way.\" There will never come a time\nwhen they understand what love is.",
-      "pt": ""
+      "pt": "Uma #C000246204Alter Ego#CDEF é uma IA que nasceu\n\"desse jeito\". Nunca chegará o momento\nem que entenda o que é o amor."
     },
     {
       "id": 453,
@@ -4994,7 +4994,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Then what will you do next?",
-      "pt": ""
+      "pt": "E o que fará agora?"
     },
     {
       "id": 454,
@@ -5005,7 +5005,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Please bear in mind that she wants love, but has\nthe misfortune of being unable to attain it.\nThe just thing to do is to have this girl go.",
-      "pt": ""
+      "pt": "Lembre-se de que ela deseja o amor, mas tem\na desgraça de não poder alcançá-lo.\nO justo a fazer é deixá-la partir."
     },
     {
       "id": 455,
@@ -5016,7 +5016,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "In the end, there's something,\nI still don't know.",
-      "pt": ""
+      "pt": "No fim, há algo,\nque eu ainda não sei."
     },
     {
       "id": 456,
@@ -5027,7 +5027,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ending with a lonesome murmur, #C236196003Passionlip#CDEF vanishes.\nOr perhaps, the illusion in the form\nof a young girl disappears.",
-      "pt": ""
+      "pt": "Com um murmúrio solitário, #C236196003Passionlip#CDEF\ndesaparece. Ou talvez a ilusão em forma\nde garota se desfaça."
     },
     {
       "id": 457,
@@ -5038,7 +5038,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Maybe she was a forbidden existence,\nor maybe there was some solution to all this―――",
-      "pt": ""
+      "pt": "Talvez fosse uma existência proibida,\nou talvez houvesse alguma solução―――"
     },
     {
       "id": 458,
@@ -5049,7 +5049,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But, her face looks just like #C236196003Sakura#CDEF's,\nand I wasn't able to personally do anything\nto help her despite how lonely she seems.",
-      "pt": ""
+      "pt": "Mas seu rosto é idêntico ao de #C236196003Sakura#CDEF,\ne não pude fazer nada para ajudá-la,\napesar de parecer tão solitária."
     },
     {
       "id": 459,
@@ -5060,7 +5060,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "However, we have to keep in mind that\n#C236196003BB#CDEF is the mastermind here.\nI want to believe that the fate of her\nhunters isn't really that important.",
-      "pt": ""
+      "pt": "Porém, é preciso lembrar que #C236196003BB#CDEF é a mente\npor trás disso. Quero crer que o destino de\nsuas caçadoras não importe tanto assim."
     },
     {
       "id": 460,
@@ -5071,7 +5071,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I see… Even if you don't like me,\nyou'll still be nice to me, right…?\nThat's the paradox of… the mind of a human…",
-      "pt": ""
+      "pt": "…Entendi… Mesmo sem gostar de mim,\nainda vai ser gentil comigo, né…?\nEsse é o paradoxo… da mente humana…"
     },
     {
       "id": 461,
@@ -5082,7 +5082,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This feeling of happiness, at least…\nis definitely my real heart.",
-      "pt": ""
+      "pt": "Essa sensação de felicidade, ao menos…\né, sem dúvida, meu verdadeiro coração."
     },
     {
       "id": 462,
@@ -5093,7 +5093,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I lose strength across my entire body.",
-      "pt": ""
+      "pt": "…Perco as forças em todo o meu corpo."
     },
     {
       "id": 463,
@@ -5104,7 +5104,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#SVT#CDEF was defeated, and I used up all my magical energy.\nI can't even lift a single finger now…",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF caiu e minha energia mágica acabou.\nJá não consigo erguer um único dedo…"
     },
     {
       "id": 464,
@@ -5115,7 +5115,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We'll never be apart again…\nPlease become a cube, through and through,\nin the palm of my hand.",
-      "pt": ""
+      "pt": "Nunca mais vamos nos separar…\nTorne-se um cubo por inteiro,\nna palma da minha mão."
     },
     {
       "id": 465,
@@ -5126,7 +5126,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "It's just that, it narrowed, extremely, is all.",
-      "pt": ""
+      "pt": "É só que, se estreitou, ao extremo, só isso."
     },
     {
       "id": 466,
@@ -5137,7 +5137,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "My limbs are tightly glued to my body.\nMy head, my torso, my back; everything\nhas joined into one.",
-      "pt": ""
+      "pt": "Meus membros colaram com força ao corpo.\nCabeça, tronco, costas; tudo se fundiu\nem uma coisa só."
     },
     {
       "id": 467,
@@ -5148,7 +5148,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "I fell into an abyss where not a\nsingle ray of light shines.",
-      "pt": ""
+      "pt": "Caí em um abismo onde nenhum\nraio de luz consegue brilhar."
     }
   ]
 }

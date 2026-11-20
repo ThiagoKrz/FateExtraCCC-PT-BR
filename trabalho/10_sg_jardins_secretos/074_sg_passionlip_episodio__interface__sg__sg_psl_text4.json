@@ -11,7 +11,7 @@
   "nota": "Largura fixa (.bin)",
   "linhas_totais": 2,
   "linhas_exclusivas": 2,
-  "traduzidas": 0,
+  "traduzidas": 2,
   "linhas": [
     {
       "id": 1,
@@ -22,13 +22,13 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Passionlip's Episode",
-      "pt": ""
+      "pt": "Episódio da Passionlip"
     },
     {
       "id": 2,
       "msgctxt": "1",
       "tipo": "max 1999 bytes",
-      "medida": null,
+      "medida": "sg",
       "max_bytes": 1999,
       "comum": false,
       "repeticoes": 11,

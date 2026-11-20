@@ -11,7 +11,7 @@
   "nota": "Largura fixa (.bin)",
   "linhas_totais": 2,
   "linhas_exclusivas": 2,
-  "traduzidas": 0,
+  "traduzidas": 2,
   "linhas": [
     {
       "id": 1,
@@ -22,18 +22,18 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Philanthropy",
-      "pt": ""
+      "pt": "Filantropia"
     },
     {
       "id": 2,
       "msgctxt": "1",
       "tipo": "max 1999 bytes",
-      "medida": null,
+      "medida": "sg",
       "max_bytes": 1999,
       "comum": false,
       "repeticoes": 1,
       "en": "Kiara Sessyoin's SG.\nKiara's ideal of wishing for all humans to love equally\nwithout being held down by prejudice.\n\nNaturally, this includes the denial of conflict\nin both religious teachings and ideology.\nConflict between those of differing religious views\nand the like would be the absolute most disgraceful to her.\n\nIt's likely because this ideal of hers was too strong that\nher Servant, Andersen, ended up with no means of attack.\n",
-      "pt": ""
+      "pt": "O SG de Sessyoin Kiara.\nO ideal de Kiara de desejar que todos os humanos\namem igualmente, sem o peso de preconceitos.\n\nNaturalmente, isso inclui negar conflitos tanto\nnas doutrinas religiosas quanto nas ideologias.\nEmbate entre visões religiosas distintas e afins\nseria para ela o que há de mais vergonhoso.\n\nÉ provável que, por esse ideal ser forte demais,\nseu Servo, Andersen, tenha ficado sem meio de ataque.\n"
     }
   ]
 }

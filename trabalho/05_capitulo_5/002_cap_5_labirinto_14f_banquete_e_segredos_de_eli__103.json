@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 497,
   "linhas_exclusivas": 364,
-  "traduzidas": 42,
+  "traduzidas": 497,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -517,7 +517,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Activate the switch?",
-      "pt": ""
+      "pt": "Ativar o interruptor?"
     },
     {
       "id": 47,
@@ -528,7 +528,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Press.",
-      "pt": ""
+      "pt": "Pressionar."
     },
     {
       "id": 48,
@@ -539,7 +539,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "HP & MP fully restored.",
-      "pt": ""
+      "pt": "HP e MP totalmente restaurados."
     },
     {
       "id": 49,
@@ -550,7 +550,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Save?",
-      "pt": ""
+      "pt": "Salvar?"
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Retry battle?",
-      "pt": ""
+      "pt": "Tentar a batalha novamente?"
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Is there a checkpoint in that area?",
-      "pt": ""
+      "pt": "Será que há um checkpoint nessa área?"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now.",
-      "pt": ""
+      "pt": "#C236196003Sakura#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF agora."
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF.",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF está logo ali.\nVamos #C000246204seguir em frente#CDEF."
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Apocalypse Now!\nCome back soooooooon!",
-      "pt": ""
+      "pt": "Apocalipse Agora!\nVolte looooogo!"
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!",
-      "pt": ""
+      "pt": "Não vai querer voltar A PÉ, não é?\nQuer me fazer marchar à toa?\nProcure aquele #C000246204checkpoint#CDEF!"
     },
     {
       "id": 57,
@@ -638,7 +638,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest.",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 58,
@@ -671,7 +671,7 @@
       "comum": false,
       "repeticoes": 19,
       "en": "Checkpoint unlocked.",
-      "pt": ""
+      "pt": "Checkpoint desbloqueado."
     },
     {
       "id": 61,
@@ -682,7 +682,7 @@
       "comum": true,
       "repeticoes": 37,
       "en": "Stay here.",
-      "pt": ""
+      "pt": "Ficar aqui."
     },
     {
       "id": 62,
@@ -693,7 +693,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "!rmap>#00000000",
-      "pt": ""
+      "pt": "!rmap>#00000000"
     },
     {
       "id": 63,
@@ -704,7 +704,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's―――\nI-it was YOUR fault for spacing out!\nYou even had your #C000246204SG#CDEF taken…",
-      "pt": ""
+      "pt": "Isso―――\nA-a culpa foi SUA por ficar boiando!\nAté o seu #C000246204SG#CDEF foi roubado…"
     },
     {
       "id": 64,
@@ -715,7 +715,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "While #C236196003Elizabeth#CDEF pumps her fists excitedly,\n#C236196003Shinji#CDEF shakes his head in disbelief.",
-      "pt": ""
+      "pt": "Enquanto #C236196003Elizabeth#CDEF ergue os punhos animada,\n#C236196003Shinji#CDEF balança a cabeça, incrédulo."
     },
     {
       "id": 65,
@@ -726,7 +726,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "His eyes turn to the table draped in a white cloth.",
-      "pt": ""
+      "pt": "Seus olhos se voltam para a mesa coberta\npor uma toalha branca."
     },
     {
       "id": 66,
@@ -737,7 +737,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…so, the amazing strategy you came up with\nis this food?",
-      "pt": ""
+      "pt": "…então, a estratégia genial que você bolou\né essa comida?"
     },
     {
       "id": 67,
@@ -748,7 +748,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But, I guess……\nHmm………",
-      "pt": ""
+      "pt": "Mas, acho que……\nHmm………"
     },
     {
       "id": 68,
@@ -759,7 +759,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Oh? Interested in my sample, are we?\nWell, I didn't make it for you.",
-      "pt": ""
+      "pt": "Oh? Interessado na minha amostra, é?\nBom, não fiz para você."
     },
     {
       "id": 69,
@@ -770,7 +770,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "EAT. UP.\nI'll make roasted mince meat out of you\notherwise!",
-      "pt": ""
+      "pt": "COMA. TUDO.\nSenão eu faço carne moída assada de você!"
     },
     {
       "id": 70,
@@ -781,7 +781,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Shinji#CDEF takes a fork in hand and faces the meal.",
-      "pt": ""
+      "pt": "#C236196003Shinji#CDEF pega um garfo e encara a refeição."
     },
     {
       "id": 71,
@@ -792,7 +792,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "*gulp*――!",
-      "pt": ""
+      "pt": "*glup*――!"
     },
     {
       "id": 72,
@@ -803,7 +803,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "BLARGHHHHHHHH!!!",
-      "pt": ""
+      "pt": "BLARGHHHHHHHH!!!"
     },
     {
       "id": 73,
@@ -814,7 +814,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Waaaahhh!!!?",
-      "pt": ""
+      "pt": "Uaaaahhh!!!?"
     },
     {
       "id": 74,
@@ -825,7 +825,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Whaaa!?",
-      "pt": ""
+      "pt": "Quêêê!?"
     },
     {
       "id": 75,
@@ -836,7 +836,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Shinji#CDEF―is #C236196003Shinji#CDEF alright!!!?",
-      "pt": ""
+      "pt": "#C236196003Shinji#CDEF―o #C236196003Shinji#CDEF está bem!!!?"
     },
     {
       "id": 76,
@@ -847,7 +847,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This'll blow #C236196003#GIVEN#CDEF's stomach sky-high\nbefore Charm kicks in―――",
-      "pt": ""
+      "pt": "Isso vai mandar o estômago de #C236196003#GIVEN#CDEF pelos\nares antes que o Encanto faça efeito―――"
     },
     {
       "id": 77,
@@ -858,7 +858,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No, they've come to us.\nHurry and fix yourself up.\nIt's basic manners.",
-      "pt": ""
+      "pt": "Não, eles vieram até nós.\nAnda logo e se recomponha.\nÉ o básico da etiqueta."
     },
     {
       "id": 78,
@@ -869,7 +869,7 @@
       "comum": true,
       "repeticoes": 29,
       "en": "………………",
-      "pt": ""
+      "pt": "………………"
     },
     {
       "id": 79,
@@ -880,7 +880,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Come now, first is the morning table.\nFollow me.",
-      "pt": ""
+      "pt": "Venham, primeiro é a mesa da manhã.\nSigam-me."
     },
     {
       "id": 80,
@@ -891,7 +891,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Welcome to the first table: morning.",
-      "pt": ""
+      "pt": "Bem-#[vindo][vinda]# à primeira mesa: manhã."
     },
     {
       "id": 81,
@@ -902,7 +902,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ermm, is this… spaghetti?",
-      "pt": ""
+      "pt": "Humm, isso é… espaguete?"
     },
     {
       "id": 82,
@@ -913,7 +913,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "In any case, the hell tour is taking off.\nFocus, Master.\nRemember #C236196003Rin Tohsaka#CDEF's advice.",
-      "pt": ""
+      "pt": "Enfim, a excursão infernal vai começar.\nConcentre-se, #[Mestre][Mestra]#.\nLembre-se do conselho de #C236196003Tohsaka Rin#CDEF."
     },
     {
       "id": 83,
@@ -924,7 +924,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Elizabeth, we know what you're scheming!",
-      "pt": ""
+      "pt": "Elizabeth, já sabemos do seu plano!"
     },
     {
       "id": 84,
@@ -935,7 +935,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Eating that won't end well, will it!?",
-      "pt": ""
+      "pt": "Comer isso não vai acabar bem, né!?"
     },
     {
       "id": 85,
@@ -946,7 +946,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh…? Wha―no way!",
-      "pt": ""
+      "pt": "Hã…? O q―impossível!"
     },
     {
       "id": 86,
@@ -957,7 +957,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "………*sigh*.",
-      "pt": ""
+      "pt": "………Ah."
     },
     {
       "id": 87,
@@ -968,7 +968,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm breaking off your lifeline.",
-      "pt": ""
+      "pt": "Vou cortar a sua linha de vida."
     },
     {
       "id": 88,
@@ -979,7 +979,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Sorry, I'M SORRY! Anything but that!",
-      "pt": ""
+      "pt": "Desculpa, DESCULPA! Tudo menos isso!"
     },
     {
       "id": 89,
@@ -990,7 +990,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "STOPPP! You think my Darling is going to be\nfed on some other woman's cooking!?\nI. SHALL. EAT.",
-      "pt": ""
+      "pt": "PAREMMM! Acham que #[meu Querido][minha Querida]#\nvai comer a comida de outra mulher!?\nEU. VOU. COMER."
     },
     {
       "id": 90,
@@ -1001,7 +1001,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gah, that's…",
-      "pt": ""
+      "pt": "Argh, isso é…"
     },
     {
       "id": 91,
@@ -1012,7 +1012,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This time, #C236196003Elizabeth#CDEF snaps her finger at me.",
-      "pt": ""
+      "pt": "Desta vez, #C236196003Elizabeth#CDEF estala os dedos\npara mim."
     },
     {
       "id": 92,
@@ -1023,7 +1023,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I guess… I have to eat…",
-      "pt": ""
+      "pt": "Acho que… tenho que comer…"
     },
     {
       "id": 93,
@@ -1034,7 +1034,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This should be fine. It looks alright.\nDoesn't smell off. Maybe #C236196003Shinji#CDEF just has bad taste.",
-      "pt": ""
+      "pt": "Deve estar tudo bem. Parece normal.\nNão cheira mal. Talvez #C236196003Shinji#CDEF só tenha\nmau gosto."
     },
     {
       "id": 94,
@@ -1045,7 +1045,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's fine… it's fine…",
-      "pt": ""
+      "pt": "Tudo bem… tudo bem…"
     },
     {
       "id": 95,
@@ -1056,7 +1056,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――――!!!!!!",
-      "pt": ""
+      "pt": "――――――!!!!!!"
     },
     {
       "id": 96,
@@ -1067,7 +1067,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It just tasted like chaos.",
-      "pt": ""
+      "pt": "Só tinha gosto de caos."
     },
     {
       "id": 97,
@@ -1078,7 +1078,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll be blunt.",
-      "pt": ""
+      "pt": "Vou ser #[direto][direta]#."
     },
     {
       "id": 98,
@@ -1089,7 +1089,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wh… what did you say…!?",
-      "pt": ""
+      "pt": "O… o que você disse…!?"
     },
     {
       "id": 99,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah―Hey! Wait up!",
-      "pt": ""
+      "pt": "Ah―Ei! Espere aí!"
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ta-da!\nEnjoy this special stew I painstakingly,\nslowly simmered.",
-      "pt": ""
+      "pt": "Tcharam!\nAprecie este ensopado especial que\ncozinhei com todo cuidado, em fogo bem baixo."
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I call it:\n\"Bon Voyage to the Blood Red Sea\"!",
-      "pt": ""
+      "pt": "Eu o chamo de:\n\"Boa Viagem ao Mar Vermelho de Sangue\"!"
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's a crimson stew served in this deep bowl.",
-      "pt": ""
+      "pt": "Há um ensopado carmesim servido nesta\ntigela funda."
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "As usual, it looks fine…\nbut that no longer offers me any solace.",
-      "pt": ""
+      "pt": "Como sempre, parece normal…\nmas isso já não me traz alívio nenhum."
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hmmmm, how soooo?\nThat's just how it came. Yep.",
-      "pt": ""
+      "pt": "Hmmmm, como assiiiim?\nFoi só como ficou. É isso."
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "…………!",
-      "pt": ""
+      "pt": "…………!"
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Suddenly, our eyes meet.",
-      "pt": ""
+      "pt": "De repente, nossos olhares se cruzam."
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF grips the hem of her skirt,\nlooking like she's about to cry.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF segura a barra da saia,\ncom cara de quem vai chorar."
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No! No, no! I don't want it to get thrown away!\nDo that, and I PROMISE I won't open that door!",
-      "pt": ""
+      "pt": "Não! Não, não! Não quero que joguem fora!\nFaça isso e eu PROMETO que não abro a porta!"
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 20,
       "en": "…………………",
-      "pt": ""
+      "pt": "…………………"
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She said that she \"painstakingly, slowly simmered\" this stew.",
-      "pt": ""
+      "pt": "Ela disse que cozinhou este ensopado\n\"com todo cuidado, em fogo bem baixo\"."
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…#[piggy][squirrely]#?",
-      "pt": ""
+      "pt": "…#[porquinho][esquilinho]#?"
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "――――――!!!",
-      "pt": ""
+      "pt": "――――――!!!"
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Awful.",
-      "pt": ""
+      "pt": "Horrível."
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-is it…!?",
-      "pt": ""
+      "pt": "S-sério…!?"
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…………hang in there, Shinji-boy.",
-      "pt": ""
+      "pt": "…………força aí, Shinji-kun."
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I know. But it paid off.",
-      "pt": ""
+      "pt": "Eu sei. Mas valeu a pena."
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The final round is about to start――",
-      "pt": ""
+      "pt": "A rodada final está prestes a começar――"
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The night table.\nAs I imagined, the table is\ncrammed with an exorbitant amount of food.",
-      "pt": ""
+      "pt": "A mesa da noite.\nComo eu imaginava, a mesa está\nentupida de comida em quantidade absurda."
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…sure, we can easily open that door if we use\nthe unarmed Shinji-boy.",
-      "pt": ""
+      "pt": "…claro, podemos abrir a porta fácil se\nusarmos o Shinji-kun desarmado."
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But as a Servant, I can't idly watch by as my\nMaster's stomach gets destroyed.",
-      "pt": ""
+      "pt": "Mas como Servo, não posso ficar parado vendo\no estômago #[do meu Mestre][da minha Mestra]#\nser destruído."
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#SVT#CDEF…\nThanks. Your sympathy helps steady my nerves.",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF…\n#[Obrigado][Obrigada]#. Sua solidariedade\nacalma meus nervos."
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This food was prepared by #C236196003Elizabeth#CDEF for #C236196003#FAMILY\n#GIVEN#CDEF.",
-      "pt": ""
+      "pt": "Esta comida foi feita por #C236196003Elizabeth#CDEF para\n#C236196003#FAMILY #GIVEN#CDEF."
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This food was prepared by #C236196003Elizabeth#CDEF for #C236196003#FAMILY\n#GIVEN#CDEF.",
-      "pt": ""
+      "pt": "Esta comida foi feita por #C236196003Elizabeth#CDEF para\n#C236196003#FAMILY #GIVEN#CDEF."
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "F-f-f-for REALLLL!!??\nThere it is! The marriage proposal!\nI'm holding you to it!",
-      "pt": ""
+      "pt": "É-é-é-é SÉRIOOO!!??\nAí está! O pedido de casamento!\nVou cobrar sua palavra!"
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――A-alright. Here I go.",
-      "pt": ""
+      "pt": "―――T-tudo bem. Lá vou eu."
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I glance at #C236196003Elizabeth#CDEF, who's staring at me\nintently and paying no heed to #C236196003#SVT#CDEF's uproar.",
-      "pt": ""
+      "pt": "Olho para #C236196003Elizabeth#CDEF, que me encara\nfixamente sem dar atenção ao alvoroço\nde #C236196003#SVT#CDEF."
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes… Help yourself.",
-      "pt": ""
+      "pt": "Sim… Sirva-se."
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey! That single bite did a ton of\ndamage to you!\nAre you really going to be alright?",
-      "pt": ""
+      "pt": "Ei! Só essa mordida já causou um dano\nenorme em você!\nTem certeza de que vai ficar bem?"
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why is it so… so red…?\nPut a little green in it or something!\nThat's what I would do!",
-      "pt": ""
+      "pt": "Por que é tão… tão vermelho…?\nPõe um pouco de verde nisso ou algo assim!\nÉ o que eu faria!"
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "YOU'RE too calm, #C236196003Rani#CDEF!\nPlease stop #[him][her]#!\nI can't bear to watch this…!",
-      "pt": ""
+      "pt": "Você está calma demais, #C236196003Rani#CDEF!\nPor favor, impeça-#[o][a]#!\nNão aguento olhar para isso…!"
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That was a really fun idea.",
-      "pt": ""
+      "pt": "Foi uma ideia muito divertida."
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"Want to try it then?\"",
-      "pt": ""
+      "pt": "\"Quer provar, então?\""
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[Yep][Mhm]#, I want some.\nBut my belly is filled with enough chaos\nas it is, so―――",
-      "pt": ""
+      "pt": "#[Quero][Aham]#, eu quero um pouco.\nMas minha barriga já está cheia de caos\npor enquanto, então―――"
     },
     {
       "id": 134,
@@ -1485,7 +1485,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"No worries. My curry is excellent.\"",
-      "pt": ""
+      "pt": "\"Sem problemas. Meu curry é excelente.\""
     },
     {
       "id": 135,
@@ -1496,7 +1496,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Within my wandering mind,#CDEF\n#C236196003Julius#CDEF#C080080080 and #CDEF#C236196003Leo#CDEF#C080080080 present curry to me while smiling.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Em meio à minha mente errante,#CDEF\n#C236196003Julius#CDEF#C080080080 e #CDEF#C236196003Leo#CDEF#C080080080 me servem curry\nsorrindo.#CDEF"
     },
     {
       "id": 136,
@@ -1507,7 +1507,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Master! Get a grip on yourself!",
-      "pt": ""
+      "pt": "#[Mestre][Mestra]#! Recobre a consciência!"
     },
     {
       "id": 137,
@@ -1518,7 +1518,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Darling! Please come back to us!",
-      "pt": ""
+      "pt": "#[Querido][Querida]#! Por favor, volte para nós!"
     },
     {
       "id": 138,
@@ -1529,7 +1529,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――Oh.",
-      "pt": ""
+      "pt": "――――Ah."
     },
     {
       "id": 139,
@@ -1540,7 +1540,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Woah! You ate it all!\nAnd the doors are fully open!",
-      "pt": ""
+      "pt": "Uau! Você comeu tudo!\nE as portas se abriram por completo!"
     },
     {
       "id": 140,
@@ -1551,7 +1551,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "………how did you find the taste?",
-      "pt": ""
+      "pt": "………o que achou do sabor?"
     },
     {
       "id": 141,
@@ -1562,7 +1562,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is what I have to say―――",
-      "pt": ""
+      "pt": "Isto é o que tenho a dizer―――"
     },
     {
       "id": 142,
@@ -1573,7 +1573,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It was very delicious.",
-      "pt": ""
+      "pt": "Estava muito delicioso."
     },
     {
       "id": 143,
@@ -1584,7 +1584,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I hastily add:\n\"The food you made for me satisfied my heart\nalong with my stomach.\"",
-      "pt": ""
+      "pt": "Acrescento às pressas:\n\"A comida que fez para mim satisfez meu\ncoração junto com meu estômago.\""
     },
     {
       "id": 144,
@@ -1595,7 +1595,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That said―――I know perfectly well how much\nshe toiled to prepare all this food for me.",
-      "pt": ""
+      "pt": "Dito isso―――sei perfeitamente o quanto\nela se esforçou para preparar tudo isso."
     },
     {
       "id": 145,
@@ -1606,7 +1606,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"It tasted bad. Thank you,\" I tell her.",
-      "pt": ""
+      "pt": "\"Estava ruim. #[Obrigado][Obrigada]#\", digo a ela."
     },
     {
       "id": 146,
@@ -1617,7 +1617,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "――――――!!!",
-      "pt": ""
+      "pt": "――――――!!!"
     },
     {
       "id": 147,
@@ -1628,7 +1628,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So he ran?\nNo matter. The end is nigh anyway.",
-      "pt": ""
+      "pt": "Então ele fugiu?\nNão importa. O fim está próximo mesmo."
     },
     {
       "id": 148,
@@ -1639,7 +1639,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF absentmindedly watches her own body deteriorate.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF observa distraída o próprio corpo\nse deteriorar."
     },
     {
       "id": 149,
@@ -1650,7 +1650,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Livestock, other nobles, they'd all praise me.\nWell, I did hang anyone who didn't, but――",
-      "pt": ""
+      "pt": "Gado, outros nobres, todos me elogiavam.\nBom, eu enforcava quem não elogiasse, mas――"
     },
     {
       "id": 150,
@@ -1661,7 +1661,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Really stunning work today, #C236196003#NICK#CDEF.\nI kind of feel full myself…",
-      "pt": ""
+      "pt": "Trabalho incrível hoje, #C236196003#NICK#CDEF.\nAté eu me sinto meio cheia…"
     },
     {
       "id": 151,
@@ -1925,7 +1925,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't press.",
-      "pt": ""
+      "pt": "Não pressionar."
     },
     {
       "id": 175,
@@ -1958,7 +1958,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base.",
-      "pt": ""
+      "pt": "Após abrir um atalho do #C000246204checkpoint#CDEF\nao prédio antigo, volte à base."
     },
     {
       "id": 178,
@@ -1969,7 +1969,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF, parece que acumulou muita\nfadiga. Recomendo que retorne\npor ora para descansar."
     },
     {
       "id": 179,
@@ -1980,7 +1980,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I'm concerned about #C236196003Rin#CDEF.",
-      "pt": ""
+      "pt": "Estou preocupad#[o][a]# com a #C236196003Rin#CDEF."
     },
     {
       "id": 180,
@@ -1991,7 +1991,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF.",
-      "pt": ""
+      "pt": "Explorar o Labirinto ajuda, mas preciso\n#C000246204voltar ao prédio antigo#CDEF e falar rápido\ncom #C236196003Kiara#CDEF."
     },
     {
       "id": 181,
@@ -2002,7 +2002,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation.",
-      "pt": ""
+      "pt": "Obtive o primeiro #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e organizar\na situação."
     },
     {
       "id": 182,
@@ -2013,7 +2013,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along.",
-      "pt": ""
+      "pt": "Primeiro, vamos ativar o #C000246204checkpoint#CDEF.\nIsso vai agilizar a nossa busca."
     },
     {
       "id": 183,
@@ -2024,7 +2024,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us.",
-      "pt": ""
+      "pt": "Sofremos mais dano contra a #C236196003Lancer#CDEF\ndo que eu previa. Melhor voltar ao prédio\nantigo; por sorte há um #C000246204checkpoint#CDEF perto."
     },
     {
       "id": 184,
@@ -2035,7 +2035,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!",
-      "pt": ""
+      "pt": "O que houve, Maestro?\nVamos #C000246204seguir em frente#CDEF!"
     },
     {
       "id": 185,
@@ -2046,7 +2046,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF.",
-      "pt": ""
+      "pt": "Não se preocupe. Vou proteger você,\n#[Querido][Querida]#. Siga em #C000246204frente#CDEF."
     },
     {
       "id": 186,
@@ -2057,7 +2057,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?",
-      "pt": ""
+      "pt": "Não me diga que ficou com medo?\nMesmo você sabe que parar\naqui é inadmissível, não sabe?"
     },
     {
       "id": 187,
@@ -2068,7 +2068,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF. Após ativar o #C000246204checkpoint#CDEF,\ndescanse um pouco em seu\nquarto particular."
     },
     {
       "id": 188,
@@ -2079,7 +2079,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Even in cyberspace, you need proper rest.",
-      "pt": ""
+      "pt": "Mesmo no ciberespaço, você precisa\ndescansar direito."
     },
     {
       "id": 189,
@@ -2090,7 +2090,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF.",
-      "pt": ""
+      "pt": "Ative o #C000246204checkpoint#CDEF e use-o\npara voltar aqui.\nDeve estar exaust#[o][a]#, #C236196003#NICK#CDEF."
     },
     {
       "id": 190,
@@ -2101,7 +2101,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF.",
-      "pt": ""
+      "pt": "#[Sr.][Srta.]##C236196003 #NICK#CDEF, volte à base agora.\nDiscutiremos o plano\nna #C000246204Sala do Grêmio#CDEF."
     },
     {
       "id": 191,
@@ -2112,7 +2112,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!",
-      "pt": ""
+      "pt": "#C236196003#GIVEN#CDEF, por favor, volte.\nVocê acumulou muita fadiga;\ncontinuar será perigoso!"
     },
     {
       "id": 192,
@@ -2123,7 +2123,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission.",
-      "pt": ""
+      "pt": "A preocupação da #C236196003Sakura#CDEF fica clara\naté pela transmissão."
     },
     {
       "id": 193,
@@ -2134,7 +2134,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF.",
-      "pt": ""
+      "pt": "Ela tem razão, melhor voltarmos\nao #C000246204Prédio Antigo da Escola#CDEF."
     },
     {
       "id": 194,
@@ -2145,7 +2145,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF. Vamos voltar por ora\nao #C000246204Prédio Antigo da Escola#CDEF\ne retornar depois de nos recuperarmos."
     },
     {
       "id": 195,
@@ -2156,7 +2156,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest.",
-      "pt": ""
+      "pt": "Pegamos o #C000246204SG#CDEF.\nMissão cumprida.\nVamos voltar e descansar."
     },
     {
       "id": 196,
@@ -2167,7 +2167,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now.",
-      "pt": ""
+      "pt": "Onde vai? Já garantimos o #C000246204SG#CDEF.\nNão há mais urgência alguma.\nDe volta ao #C000246204Meu Quarto#CDEF, agora."
     },
     {
       "id": 197,
@@ -2178,7 +2178,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?",
-      "pt": ""
+      "pt": "Hummm? Onde vai, #C236196003#FAMILY\n#GIVEN#CDEF? Para onde está indo,\nme deixando para trás?"
     },
     {
       "id": 198,
@@ -2189,7 +2189,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back.",
-      "pt": ""
+      "pt": "Pensei por um segundo em deixar #C236196003Gatou#CDEF\ne ir embora, mas minha consciência não\nme deixaria em paz. Vamos voltar."
     },
     {
       "id": 199,
@@ -2200,7 +2200,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated.",
-      "pt": ""
+      "pt": "Espere, Maestro. Antes de voltarmos,\nconvém ativar o #C000246204checkpoint#CDEF\npara facilitar daqui em diante."
     },
     {
       "id": 200,
@@ -2211,7 +2211,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…",
-      "pt": ""
+      "pt": "#[Mestre][Mestra]#, procuremos o #C000246204checkpoint#CDEF.\nDeve estar por aqui em algum lugar…"
     },
     {
       "id": 201,
@@ -2222,7 +2222,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty.",
-      "pt": ""
+      "pt": "Não precisamos voltar tudo a pé.\nCom o #C000246204checkpoint#CDEF chegamos num\npiscar ao prédio antigo. Bem prático."
     },
     {
       "id": 202,
@@ -2233,7 +2233,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…",
-      "pt": ""
+      "pt": "M-meu estômago chegou no limite…\nQuero voltar logo ao #C000246204Meu Quarto#CDEF e descansar…"
     },
     {
       "id": 203,
@@ -2244,7 +2244,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it.",
-      "pt": ""
+      "pt": "Antes de ir ao próximo andar,\n#C000246204voltemos à Sala do Grêmio#CDEF para entregar\nos dados que #C236196003Archer Verde#CDEF nos confiou."
     },
     {
       "id": 204,
@@ -2255,7 +2255,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!",
-      "pt": ""
+      "pt": "Hã? Ainda no #C000246204Labirinto de Sakura#CDEF?\nNão tem nada para fazer aí.\nTrate de voltar logo pra cá!"
     },
     {
       "id": 205,
@@ -2266,7 +2266,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room.",
-      "pt": ""
+      "pt": "Falamos do próximo passo amanhã,\nentão #C000246204volte e vá descansar#CDEF.\nDepois, passe na Sala do Grêmio."
     },
     {
       "id": 206,
@@ -2277,7 +2277,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!",
-      "pt": ""
+      "pt": "Corremos contra o tempo.\nTemos que ir rápido ao\n#C000246204Núcleo do Moon Cell#CDEF――!"
     },
     {
       "id": 207,
@@ -2288,7 +2288,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!",
-      "pt": ""
+      "pt": "Não posso desperdiçar as esperanças\ndo #C236196003Shinji#CDEF. Vamos alcançar\na #C236196003Meltlilith#CDEF!"
     },
     {
       "id": 208,
@@ -2299,7 +2299,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath.",
-      "pt": ""
+      "pt": "Maestro, já me cansei.\nVoltemos ao Meu Quarto para um bom banho."
     },
     {
       "id": 209,
@@ -2310,7 +2310,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room.",
-      "pt": ""
+      "pt": "Sei como se sente, mas saber a hora\nde descansar também faz parte da luta.\nVamos voltar ao Meu Quarto."
     },
     {
       "id": 210,
@@ -2321,7 +2321,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength.",
-      "pt": ""
+      "pt": "#[Querido][Querida]#, agora é hora de descansar.\nVamos voltar para o nosso quarto\ne recuperar as forças."
     },
     {
       "id": 211,
@@ -2332,7 +2332,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest.",
-      "pt": ""
+      "pt": "Que #[homem][mulher]# impaciente. A vida não\nse resume a labutar, sabia?\nNa hora de descansar, descanse."
     },
     {
       "id": 212,
@@ -2409,7 +2409,7 @@
       "comum": false,
       "repeticoes": 20,
       "en": "Return to the old school?",
-      "pt": ""
+      "pt": "Voltar ao prédio antigo?"
     },
     {
       "id": 219,
@@ -2420,7 +2420,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Have yourself a small shock to kick things off.\nIf we went straight to the main course, you'd be\nliable to get overwhelmed and keel over.",
-      "pt": ""
+      "pt": "Leve um pequeno choque para abrir os\ntrabalhos. Se fôssemos direto ao prato\nprincipal, você poderia desabar de vez."
     },
     {
       "id": 220,
@@ -2431,7 +2431,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's a table draped in a blindingly pure white cloth.\nAs if it were stained with a single drop of blood―――\nsome sort of red food is placed on top of it.",
-      "pt": ""
+      "pt": "Há uma mesa coberta por um pano branco\ncegante. Como manchada por uma única gota\nde sangue―――há uma comida vermelha ali."
     },
     {
       "id": 221,
@@ -2442,7 +2442,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Precisely: ostrich bolognese!\nI even handled skewering the ostrich dead\nmyself!",
-      "pt": ""
+      "pt": "Exato: bolonhesa de avestruz!\nEu mesma tratei de espetar o avestruz\naté a morte!"
     },
     {
       "id": 222,
@@ -2453,7 +2453,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "………this hits hard. And in various ways.\nTruth be told, I glossed it over at first and\nfigured it was soup or something.",
-      "pt": ""
+      "pt": "………isso pega pesado. De várias formas.\nPara ser #[sincero][sincera]#, relevei no início e\nachei que fosse sopa ou algo do tipo."
     },
     {
       "id": 223,
@@ -2464,7 +2464,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "THIS is the kind of stuff nobles chow down on…!?",
-      "pt": ""
+      "pt": "É ESSE tipo de coisa que os nobres comem…!?"
     },
     {
       "id": 224,
@@ -2475,7 +2475,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hmph. It doesn't look so bad. While it may\nbe heavy on the red, I would say it looks\nwell-plated.",
-      "pt": ""
+      "pt": "Hunf. Não parece tão ruim. Embora carregue\nno vermelho, eu diria que está bem\napresentado."
     },
     {
       "id": 225,
@@ -2486,7 +2486,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm interested in my rival's cooking…\nBut still, don't fail to heed #C236196003Rin#CDEF's advice,\nMaster.",
-      "pt": ""
+      "pt": "Tenho interesse na cozinha da minha rival…\nMas ainda assim, siga o conselho\nde #C236196003Rin#CDEF, Maestro."
     },
     {
       "id": 226,
@@ -2497,7 +2497,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Surprisingly upfront about it, isn't she? Yeah,\nwell, there's an issue with the color. Being\nflat red doesn't do our appetites any justice.",
-      "pt": ""
+      "pt": "Surpreendentemente franca, não é? É,\nbom, tem um problema na cor. Esse vermelho\nchapado não abre o apetite de ninguém."
     },
     {
       "id": 227,
@@ -2508,7 +2508,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Grr… She's astoundingly, plainly vain about it,\nisn't she? The only word she knows is\n\"sanguine,\" and it shows!",
-      "pt": ""
+      "pt": "Grr… Ela é espantosamente vaidosa com\nisso, não é? A única palavra que conhece é\n\"sanguíneo\", e dá para notar!"
     },
     {
       "id": 228,
@@ -2519,7 +2519,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But there's bad news for her! We see through\nthis entire ploy. Now, Darling! Please give her\na piece of your mind!",
-      "pt": ""
+      "pt": "Mas tenho más notícias para ela! Sacamos\nessa armação toda. Agora, #[Querido][Querida]#!\nDê a ela uma lição!"
     },
     {
       "id": 229,
@@ -2530,7 +2530,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's far too heavy on the spices, but it may\njust pass as a delicacy.\nSo, what will you do?",
-      "pt": ""
+      "pt": "Tem tempero demais, mas talvez até passe\ncomo iguaria.\nE então, o que vai fazer?"
     },
     {
       "id": 230,
@@ -2541,7 +2541,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Will you submit and be done in by this dish?\nOr will you preserve your humanity and\nreject it? Choose whichever you fancy.",
-      "pt": ""
+      "pt": "Vai ceder e sucumbir a este prato?\nOu vai preservar sua humanidade e\nrejeitá-lo? Escolha o que preferir."
     },
     {
       "id": 231,
@@ -2552,7 +2552,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's right. Regardless of what's on the menu,\nthere's no need to eat it.",
-      "pt": ""
+      "pt": "Isso mesmo. Não importa o que há no menu,\nnão há necessidade de comer."
     },
     {
       "id": 232,
@@ -2563,7 +2563,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "WHY!? There was nothing in my perfectly crafted\ninvitation or humble demeanor that should've\ngiven me away!",
-      "pt": ""
+      "pt": "Por quê!? Não havia nada no meu convite\nperfeito nem na minha postura humilde\nque pudesse me entregar!"
     },
     {
       "id": 233,
@@ -2574,7 +2574,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Every detail was a dead giveaway.\nWe outed her from the moment we read that invitation.",
-      "pt": ""
+      "pt": "Cada detalhe era óbvio demais.\nDescobrimos tudo no instante em que\nlemos aquele convite."
     },
     {
       "id": 234,
@@ -2585,7 +2585,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Anyway, even #C236196003#FAMILY #GIVEN#CDEF isn't so\nmuch of a pushover as to fall for this―――!!",
-      "pt": ""
+      "pt": "Enfim, nem #C236196003#FAMILY #GIVEN#CDEF é\n#[bobo][boba]# a ponto de cair nisso―――!!"
     },
     {
       "id": 235,
@@ -2596,7 +2596,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Every detail was a dead giveaway.\nAnd as for that surveillance footage…\nI can't be bothered to mention it, nevermind.",
-      "pt": ""
+      "pt": "Cada detalhe era óbvio demais.\nE quanto à filmagem de vigilância…\nNem vale a pena mencionar, deixa para lá."
     },
     {
       "id": 236,
@@ -2607,7 +2607,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Anyway, even #C236196003#FAMILY #GIVEN#CDEF isn't so\nmuch of a pushover as to fall for this―――!!",
-      "pt": ""
+      "pt": "Enfim, nem #C236196003#FAMILY #GIVEN#CDEF é\n#[bobo][boba]# a ponto de cair nisso―――!!"
     },
     {
       "id": 237,
@@ -2618,7 +2618,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gah… If the cat's out of the bag then so be it.\nStill, you have no right to refuse.\nTHIS is why!",
-      "pt": ""
+      "pt": "Argh… Se já descobriram, que seja.\nAinda assim, você não tem o direito de\nrecusar. É POR ISSO!"
     },
     {
       "id": 238,
@@ -2629,7 +2629,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There, behind #C236196003Elizabeth#CDEF.",
-      "pt": ""
+      "pt": "Lá, atrás de #C236196003Elizabeth#CDEF."
     },
     {
       "id": 239,
@@ -2640,7 +2640,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A sturdy door, one that I've seen at some\npoint on another floor, blocks the path.",
-      "pt": ""
+      "pt": "Uma porta robusta, que já vi em algum\nmomento em outro andar, bloqueia o caminho."
     },
     {
       "id": 240,
@@ -2651,7 +2651,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why would I ever forget about this pesky door?\nNo, how could I ever forget?",
-      "pt": ""
+      "pt": "Como eu esqueceria dessa porta irritante?\nNão, como poderia esquecer?"
     },
     {
       "id": 241,
@@ -2662,7 +2662,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That door―――It's the mortifying artificial\nNoble Phantasm that \"commando\" #C236196003Rani#CDEF crafted:\nThe#C000246204 Fully Automatic, Strip-Style OpenLock (Patent pending)#CDEF!!",
-      "pt": ""
+      "pt": "Aquela porta―――É o Fantasma Nobre artificial\nda #C236196003Rani#CDEF \"sem calcinha\": o#C000246204 OpenLock Strip\nAutomático (Patente pendente)#CDEF!!"
     },
     {
       "id": 242,
@@ -2673,7 +2673,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's been modded, so there's no more stripping\ninvolved… It's an automatic eat-it-all-style\nOpenLock. *bleh*",
-      "pt": ""
+      "pt": "Foi modificado, então nada de tirar roupa…\nÉ um OpenLock automático modelo coma-tudo.\n*eca*"
     },
     {
       "id": 243,
@@ -2684,7 +2684,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yep. Which means you can't proceed\nuntil you finish the whole plate.",
-      "pt": ""
+      "pt": "É. Ou seja, vocês não podem prosseguir\naté limpar o prato inteiro."
     },
     {
       "id": 244,
@@ -2695,7 +2695,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So eat up. Eat quick. Clean that plate\nof my assorted cooking until it's clean…\nIt's the only choice you have, #ROFS0002#RUBSdarling#RUBEpiggy#REND!",
-      "pt": ""
+      "pt": "Então coma. Coma logo. Limpe esse prato\ncom meu sortido até brilhar…\nÉ sua única escolha, #ROFS0002#RUBSquerido#RUBEporquinho#REND!"
     },
     {
       "id": 245,
@@ -2706,7 +2706,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So eat up. Eat quick. Clean that plate\nof my assorted cooking until it's clean…\nIt's the only choice you have, #RUBS    honey#RUBEsquirrely#REND!",
-      "pt": ""
+      "pt": "Então coma. Coma logo. Limpe esse prato\ncom meu sortido até brilhar…\nÉ sua única escolha, #RUBS  querida#RUBEsquilinho#REND!"
     },
     {
       "id": 246,
@@ -2717,7 +2717,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hold, #C236196003Lancer#CDEF. Would it still count if I partook?\nI would think it makes no difference,\nso long as the plate is cleaned.",
-      "pt": ""
+      "pt": "Espere, #C236196003Lancer#CDEF. Contaria se eu comesse?\nImagino que não faça diferença,\ndesde que o prato fique limpo."
     },
     {
       "id": 247,
@@ -2728,7 +2728,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Being a food taster is a Servant's job.\nI'll eat instead of my Master.\nIt's all the same in the end, no?",
-      "pt": ""
+      "pt": "Ser provador é tarefa de Servo.\nEu como no lugar #[do meu Mestre][da minha Mestra]#.\nDá no mesmo no fim das contas, não?"
     },
     {
       "id": 248,
@@ -2739,7 +2739,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wait. If eating it all suffices, then it should\nmatter not if I'm the one who eats, yes? I have\na useful food tasting Noble Phantasm.",
-      "pt": ""
+      "pt": "Espere. Se basta comer tudo, não deve\nimportar se eu comer, certo? Tenho um\nFantasma Nobre útil para provar comida."
     },
     {
       "id": 249,
@@ -2750,7 +2750,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Sorry to say, but I saw that one coming…",
-      "pt": ""
+      "pt": "Sinto dizer, mas eu já previa essa…"
     },
     {
       "id": 250,
@@ -2761,7 +2761,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That food data can't be #RUBS  deleted#RUBEdigested#REND unless it's\n#C236196003#GIVEN#CDEF who does it―it's user-restricted.\nIt won't work on some other schmuck.",
-      "pt": ""
+      "pt": "Esses dados de comida não são #RUBS apagados#RUBEdigeridos#REND\na menos que #C236196003#GIVEN#CDEF coma―há restrição.\nNão funciona com qualquer Zé Ninguém."
     },
     {
       "id": 251,
@@ -2772,7 +2772,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My word…! You knave!\nYou were doing more than merely\nstanding there looking all pale…!",
-      "pt": ""
+      "pt": "Ora, veja só…! Seu patife!\nEstava fazendo mais do que só ficar aí\nparado com essa cara pálida…!"
     },
     {
       "id": 252,
@@ -2783,7 +2783,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…got it. I took you for a clever guy when it\ncame to things that don't matter, but I'll give\nyou props this time. And in your state, too.",
-      "pt": ""
+      "pt": "…entendi. Achava que era esperto só para\nbesteira, mas dessa vez tiro o chapéu.\nAinda mais nesse estado."
     },
     {
       "id": 253,
@@ -2794,7 +2794,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ughhh. Bravo―to seaweed!?\nI'm ashamed to say that I'll be unable\nto help you, #RUBS  Master#RUBEDarling#REND… *sob, sob, sob*",
-      "pt": ""
+      "pt": "Uuuugh. Palmas―para uma alga!?\nQue vergonha não poder ajudar você,\n#RUBS  #[Mestre][Mestra]##RUBE#[Querido][Querida]##REND… *snif, snif*"
     },
     {
       "id": 254,
@@ -2805,7 +2805,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Impudent little seaweed…\nYou seem to have a knack for the little details.",
-      "pt": ""
+      "pt": "Alga insolente…\nAté que tem jeito para os detalhes."
     },
     {
       "id": 255,
@@ -2816,7 +2816,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Not bad. You ARE my attendant, shit as you are.\nNo stalling, #[piggy][squirrely]#. Ready yourself and get\nto eating. It'll feel like flying to heaven.",
-      "pt": ""
+      "pt": "Nada mal. É mesmo meu criado, por pior\nque seja. Sem enrolar, #[porquinho][esquilinho]#.\nPrepare-se e coma. Vai parecer o paraíso."
     },
     {
       "id": 256,
@@ -2827,7 +2827,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I try to think about how I can escape\nher fingertip's command, escape from everyone's gaze―\nbut nothing comes to me.",
-      "pt": ""
+      "pt": "Tento pensar em como fugir da ordem do seu\ndedo, fugir do olhar de todos―\nmas nada me vem à mente."
     },
     {
       "id": 257,
@@ -2838,7 +2838,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I sit at the table, nervous.\nBefore me is a red mass―――Ostrich bolognese.",
-      "pt": ""
+      "pt": "Sento-me à mesa, #[nervoso][nervosa]#.\nDiante de mim há uma massa vermelha―――\nBolonhesa de avestruz."
     },
     {
       "id": 258,
@@ -2849,7 +2849,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This should be fine. It looks alright.\nDoesn't smell off.",
-      "pt": ""
+      "pt": "Deve estar tudo bem. Parece normal.\nNão cheira mal."
     },
     {
       "id": 259,
@@ -2860,7 +2860,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[H-he][Sh-she]# went into a tailspin!?",
-      "pt": ""
+      "pt": "#[E-ele][E-ela]# entrou em parafuso!?"
     },
     {
       "id": 260,
@@ -2871,7 +2871,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-I didn't expect it to be THIS bad…\nPull yourself together, #RUBS  Master#RUBEPraetor#REND!\nDon't leave me in this world all alone…!",
-      "pt": ""
+      "pt": "N-não achei que fosse tão ruim assim…\nAguente firme, #RUBS  #[Mestre][Mestra]##RUBEMaestro#REND!\nNão me deixe sozinha neste mundo…!"
     },
     {
       "id": 261,
@@ -2882,7 +2882,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're pushing it, hey!\nSpit it out, spit it out now! Hold on, I'll go\nget water―――shit! We're in the Labyrinth!!",
-      "pt": ""
+      "pt": "Você está forçando a barra, ei!\nCospe, cospe logo! Calma, vou pegar água―――\ndroga! Estamos no Labirinto!!"
     },
     {
       "id": 262,
@@ -2893,7 +2893,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey, are you alright!?\nThis screen isn't doing any favors for her\nimage as a lady…!",
-      "pt": ""
+      "pt": "Ei, você está bem!?\nEssa cena não faz nenhum favor à imagem\ndela de dama…!"
     },
     {
       "id": 263,
@@ -2904,7 +2904,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Stop, stop the cameras! No filming allowed!",
-      "pt": ""
+      "pt": "Parem, parem as câmeras! Proibido filmar!"
     },
     {
       "id": 264,
@@ -2915,7 +2915,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Kyaaaaa! Darlinggggg!? Shooting rockets\nout of your mouth and spinning thrice\nbackwards―you're hardly human anymore!!!",
-      "pt": ""
+      "pt": "Kyaaaaa! #[Querido][Querida]#!? Soltar foguetes\npela boca e dar três mortais para trás―\nvocê mal parece #[humano][humana]# agora!!!"
     },
     {
       "id": 265,
@@ -2926,7 +2926,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "D-damn you, #C236196003lizard woman#CDEF!\nAs bad as I am at cooking, something THIS awful\nwouldn't happen from MY food!",
-      "pt": ""
+      "pt": "M-maldita, #C236196003mulher lagarto#CDEF!\nPor pior que eu seja na cozinha, a minha\ncomida nunca faria algo tão horrível!"
     },
     {
       "id": 266,
@@ -2937,7 +2937,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A massive amount of ether was expelled the\nmoment #[he][she]# ate it…!?",
-      "pt": ""
+      "pt": "Uma massa imensa de éter foi expelida\nno instante em que #[ele][ela]# comeu…!?"
     },
     {
       "id": 267,
@@ -2948,7 +2948,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even the propellants for my #RUBS       vimana   #RUBEgolden sailboat#REND\ndon't compare! Is this humanity's oldest―no,\nnewest invention: death-by-blast cooking!?",
-      "pt": ""
+      "pt": "Nem o propulsor do meu #RUBS       vimana   #RUBEveleiro dourado#REND\nse compara! É esta a invenção mortal:\nculinária por explosão!?"
     },
     {
       "id": 268,
@@ -2959,7 +2959,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "W-we have to act!\n#[His][Her]# vitals are dropping at an impossible rate!\n#[He][She]#'s going down at mach speed!",
-      "pt": ""
+      "pt": "P-precisamos agir!\nOs sinais vitais #[dele][dela]# caem sem parar!\n#[Ele][Ela]# está caindo em velocidade Mach!"
     },
     {
       "id": 269,
@@ -2970,7 +2970,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There is… no poison. Which means a\ndouble-attack occurs on one's palate AND mind\ndue to the purely \"horrible flavor.\"",
-      "pt": ""
+      "pt": "Não há… veneno. Logo, ocorre um ataque\nduplo ao paladar E à mente causado apenas\npelo \"sabor horrível\"."
     },
     {
       "id": 270,
@@ -2981,7 +2981,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You have to be joking! All this damage, ONLY\nfrom the awful taste!?\n#C236196003Elizabeth#CDEF… You're one scary girl…!!",
-      "pt": ""
+      "pt": "Só pode ser piada! Todo esse dano SÓ\npelo gosto horrível!?\n#C236196003Elizabeth#CDEF… Você é assustadora…!!"
     },
     {
       "id": 271,
@@ -2992,7 +2992,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The flavor was epic.\nIt wasn't anything simple,\nlike being entirely sweet or entirely spicy.",
-      "pt": ""
+      "pt": "O sabor foi épico.\nNão era nada simples,\ncomo ser só doce ou só apimentado."
     },
     {
       "id": 272,
@@ -3003,7 +3003,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My stomach won't stop churning, sweat won't stop dripping―\nMy entire body is rejecting this foreign substance.",
-      "pt": ""
+      "pt": "Meu estômago não para de revirar, o suor\nnão para de escorrer―meu corpo todo\nrejeita essa substância estranha."
     },
     {
       "id": 273,
@@ -3014,7 +3014,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But I mustn't give in. I mustn't vomit.\nIf I yield to the surging urge,\nour path will forever be closed…!",
-      "pt": ""
+      "pt": "Mas não posso ceder. Não posso vomitar.\nSe eu ceder a esse ímpeto avassalador,\nnosso caminho se fechará para sempre…!"
     },
     {
       "id": 274,
@@ -3025,7 +3025,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――Teary eyed, I somehow manage to cram it\nall down into my stomach.",
-      "pt": ""
+      "pt": "―――Com os olhos marejados, dou um jeito\nde empurrar tudo goela abaixo."
     },
     {
       "id": 275,
@@ -3036,7 +3036,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "S-so how was it? What did you think?\nThose are tears of joy, right? Right?",
-      "pt": ""
+      "pt": "E-e aí, como foi? O que achou?\nSão lágrimas de alegria, né? Né?"
     },
     {
       "id": 276,
@@ -3047,7 +3047,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――It's terrible.\nIt's not a question of whether it tastes good or bad.\nThis has reached the realm of mass destruction.\nTerrorism, basically.",
-      "pt": ""
+      "pt": "―――É terrível. Não é questão de ser bom\nou ruim. Isto atingiu o nível de destruição\nem massa. Terrorismo, basicamente."
     },
     {
       "id": 277,
@@ -3058,7 +3058,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "For example―――well, I can't think of an example,\nbut if I HAD to come up with one―――\nit's like licking a candy, and tasting turpentine… times 1,000.\nNo, that still might be understating it.",
-      "pt": ""
+      "pt": "Por exemplo―――bom, não acho exemplo,\nmas se TIVESSE que dar um―――é como lamber\num doce com gosto de aguarrás… vezes mil."
     },
     {
       "id": 278,
@@ -3069,7 +3069,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "See how my #RUBS  Master#RUBEPraetor#REND splendidly finished it all!?\nOpen that door. Then you can taste the\nsame agony―upon your flesh!",
-      "pt": ""
+      "pt": "Viu como #[meu][minha]# #RUBS  #[Mestre][Mestra]##RUBEMaestro#REND comeu tudo\ncom louvor!? Abra a porta. Então provará\na mesma agonia―na própria carne!"
     },
     {
       "id": 279,
@@ -3080,7 +3080,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Good job, Master. Alright, #C236196003Elizabeth#CDEF.\nOpen the door. Personally, I want to get\nstarted on our payback.",
-      "pt": ""
+      "pt": "Bom trabalho, #[Mestre][Mestra]#. Certo, #C236196003Elizabeth#CDEF.\nAbra a porta. Pessoalmente, quero logo\ncomeçar a nossa revanche."
     },
     {
       "id": 280,
@@ -3091,7 +3091,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We'll indulge in this farce no longer! Will you\nhurry and open that door behind you? Or at\nleast go take some cooking classes, please!",
-      "pt": ""
+      "pt": "Chega dessa farsa! Vai abrir logo essa\nporta atrás de você? Ou ao menos faça\num curso de culinária, por favor!"
     },
     {
       "id": 281,
@@ -3102,7 +3102,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…you finished it all, to the point that your\neyes are bulging like a dead fish.\nThat was admirable…",
-      "pt": ""
+      "pt": "…você comeu tudo, a ponto de os olhos\nsaltarem como peixe morto.\nIsso foi admirável…"
     },
     {
       "id": 282,
@@ -3113,7 +3113,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#FAMILY#CDEF. I'll say it just this once:\nyou exhibited a caliber suitable to being\nmy Master. Rest in peace.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF. Direi apenas esta vez:\nvocê exibiu o calibre digno de ser\n#[meu Mestre][minha Mestra]#. Descanse em paz."
     },
     {
       "id": 283,
@@ -3124,7 +3124,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――That's done with.\nNow, open the door, #C236196003Elizabeth#CDEF.\nThis banquet has only just begun, hasn't it?",
-      "pt": ""
+      "pt": "―――Resolvido.\nAgora, abra a porta, #C236196003Elizabeth#CDEF.\nEsse banquete mal começou, não é?"
     },
     {
       "id": 284,
@@ -3135,7 +3135,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I messed up. #[He][She]# doesn't seem to like\nbolognese… I didn't do enough research…\nSoup would've been foolproof and I knew it…",
-      "pt": ""
+      "pt": "…errei feio. Parece que #[ele][ela]# não gosta\nde bolonhesa… Não pesquisei direito…\nEu sabia que sopa não tinha erro…"
     },
     {
       "id": 285,
@@ -3146,7 +3146,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "T-this was only the beginning. Next up is\nthe main dish, the MAIN dish! You're NOT going\nto be disappointed this time!",
-      "pt": ""
+      "pt": "I-isso foi só o começo. O próximo é\no prato principal! Não vai se decepcionar\ndessa vez!"
     },
     {
       "id": 286,
@@ -3157,7 +3157,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…you're something else, #[man][girl]#.",
-      "pt": ""
+      "pt": "…você é mesmo incrível, #[cara][garota]#."
     },
     {
       "id": 287,
@@ -3168,7 +3168,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The two of them run off further into the Labyrinth.",
-      "pt": ""
+      "pt": "Os dois saem correndo Labirinto adentro."
     },
     {
       "id": 288,
@@ -3179,7 +3179,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Are you okay, #C236196003#NICK#CDEF?\nIt looks like your #RUBS   HP  #RUBEvitality#REND dropped, is all…\nThink you can keep going?",
-      "pt": ""
+      "pt": "Tudo bem, #C236196003#NICK#CDEF?\nParece que só seu #RUBS   HP  #RUBEvitalidade#REND caiu…\nAcha que aguenta continuar?"
     },
     {
       "id": 289,
@@ -3190,7 +3190,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I'm probably… alright.\n#C236196003#FAMILY #GIVEN#CDEF's stomach hasn't burst yet.",
-      "pt": ""
+      "pt": "…acho que… estou bem.\nO estômago de #C236196003#FAMILY #GIVEN#CDEF ainda não\nexplodiu."
     },
     {
       "id": 290,
@@ -3201,7 +3201,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Also, thanks to that thunderous shock,\nit seems that #C236196003Elizabeth#CDEF didn't Charm me.",
-      "pt": ""
+      "pt": "E, graças àquele choque estrondoso,\nparece que #C236196003Elizabeth#CDEF não me encantou."
     },
     {
       "id": 291,
@@ -3212,7 +3212,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the silver lining.",
-      "pt": ""
+      "pt": "Esse é o lado bom."
     },
     {
       "id": 292,
@@ -3223,7 +3223,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So, next is the lunch table…\nThe least I can do is let you lean on me\nas we make our way there.",
-      "pt": ""
+      "pt": "Então, a próxima é a mesa do almoço…\nO mínimo que posso fazer é deixar você se\napoiar em mim até lá."
     },
     {
       "id": 293,
@@ -3234,7 +3234,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So, two left now… I dropped the ball here…\nI should've ordered stomach medicine\nat the Commissary…",
-      "pt": ""
+      "pt": "Então, faltam duas… Dei mole aqui…\nEu devia ter pedido remédio de estômago\nna Cantina…"
     },
     {
       "id": 294,
@@ -3245,7 +3245,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How regrettable…\nHowever, this may be a chance to use for\n#C236196003Tamamo#CDEF's benefit.",
-      "pt": ""
+      "pt": "Que lamentável…\nContudo, talvez seja uma chance para usar\nem benefício da #C236196003Tamamo#CDEF."
     },
     {
       "id": 295,
@@ -3256,7 +3256,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Now that you've had such a savage experience,\nyou'll think anything I cook up tastes good―\neven if it comes out a bit sloppy…",
-      "pt": ""
+      "pt": "Depois de passar por algo tão brutal,\nvai achar gostoso qualquer prato meu―\nmesmo se sair meio desleixado…"
     },
     {
       "id": 296,
@@ -3267,7 +3267,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't lose heart. You're the type of mongrel\nwho can do what you put your mind to. If you\nendured it once, you can endure it again.",
-      "pt": ""
+      "pt": "Não esmoreça. Você é o tipo de #[mestiço][mestiça]#\nque faz o que decide. Se aguentou uma vez,\naguenta de novo."
     },
     {
       "id": 297,
@@ -3278,7 +3278,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Man…\nI still have yet to digest the bolognese,\nbut here we are at the next table.",
-      "pt": ""
+      "pt": "Nossa…\nAinda nem digeri a bolonhesa,\nmas cá estamos na próxima mesa."
     },
     {
       "id": 298,
@@ -3289,7 +3289,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Welcome to table two: the lunch table.\nThis dish is sure to astonish you!",
-      "pt": ""
+      "pt": "Bem-#[vindo][vinda]# à segunda mesa: o almoço.\nEste prato vai deixar você de queixo caído!"
     },
     {
       "id": 299,
@@ -3300,7 +3300,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#NICK#CDEF, wait!\nWe're going to send you some software\nwe found for this exact job.",
-      "pt": ""
+      "pt": "#C236196003#NICK#CDEF, espere!\nVamos enviar um software que achamos\nexatamente para esse trabalho."
     },
     {
       "id": 300,
@@ -3311,7 +3311,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We downloaded an unarmed Shinji familiar\nthat eats food. It's free software,\nso we paid nothing for it.",
-      "pt": ""
+      "pt": "Baixamos um familiar Shinji desarmado\nque come comida. É software gratuito,\nentão não pagamos nada por ele."
     },
     {
       "id": 301,
@@ -3322,7 +3322,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hold on a 'sec!\nWhy's it set to have MY face on it!?\nYou DEFINITELY customized that thing!",
-      "pt": ""
+      "pt": "Ei, espera aí!\nPor que ele tem a MINHA cara!?\nVocês COM CERTEZA customizaram isso!"
     },
     {
       "id": 302,
@@ -3333,7 +3333,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This software specializes in processing food.\nThat's all it can do… so don't hold back.\nPour all that edible destruction into it.",
-      "pt": ""
+      "pt": "Esse software processa comida.\nÉ só o que faz… então não se contenha.\nDespeje toda essa destruição nele."
     },
     {
       "id": 303,
@@ -3344,7 +3344,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's set to #C236196003#FAMILY #GIVEN#CDEF's user\nand shares the same privileges, so it should\nbe able to clear the restriction issue.",
-      "pt": ""
+      "pt": "Ele está no usuário de #C236196003#FAMILY #GIVEN#CDEF\ne tem os mesmos privilégios, então deve\nsuperar a restrição."
     },
     {
       "id": 304,
@@ -3355,7 +3355,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Rin#CDEF and #C236196003Rani#CDEF do it again, such a great job.\nNow I should have nothing to fear with that food anymo―――",
-      "pt": ""
+      "pt": "#C236196003Rin#CDEF e #C236196003Rani#CDEF mandaram bem de novo.\nAgora não tenho mais nada a temer com\nessa comida―――"
     },
     {
       "id": 305,
@@ -3366,7 +3366,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-I won't allow this. You expect me to serve\nmy food to some… some filthy doll…\nThat would be unbelievably humiliating.",
-      "pt": ""
+      "pt": "N-não vou permitir. Espera que eu sirva\nminha comida para um… um boneco imundo…\nSeria uma humilhação absurda."
     },
     {
       "id": 306,
@@ -3377,7 +3377,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Impossible, actually. You're a farm animal,\nso eat up like you crave it. Drain that bowl\nuntil there isn't even a drop left…!",
-      "pt": ""
+      "pt": "Impossível, na verdade. Você é bicho de\nfazenda, então devore tudo. Seque a tigela\naté não sobrar uma gota…!"
     },
     {
       "id": 307,
@@ -3388,7 +3388,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Another tantrum? Bad habit you got there.\nStill, no matter how much noise you make, that\ndoor will open once the plate is cleaned.",
-      "pt": ""
+      "pt": "Outro chilique? Mau hábito esse seu.\nAinda assim, por mais barulho que faça,\na porta abrirá assim que limpar o prato."
     },
     {
       "id": 308,
@@ -3399,7 +3399,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF says no more, not even \"stop it\"\nor \"just try it\" or the like.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF não diz mais nada, nem \"pare\"\nou \"só prove\" ou coisa parecida."
     },
     {
       "id": 309,
@@ -3410,7 +3410,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I think it's because she can't.",
-      "pt": ""
+      "pt": "Acho que é porque não consegue."
     },
     {
       "id": 310,
@@ -3421,7 +3421,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But in the end, no matter what she does…\nthe dish she labored to prepare is going\nto get thrown into the #ROFS-005#RUBSShinji-boy#RUBEtrash#REND right before her eyes.\nI'm sure it's unbearable for her.",
-      "pt": ""
+      "pt": "Mas no fim, faça o que fizer… o prato que\nela se matou para fazer vai ser jogado no\n#ROFS-005#RUBSShinji-kun#RUBEtraste#REND bem na sua frente. Deve doer."
     },
     {
       "id": 311,
@@ -3432,7 +3432,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…if I want to unravel #C236196003Elizabeth#CDEF's mind,\nI get the feeling that I shouldn't rely on the\nShinji-boy―――",
-      "pt": ""
+      "pt": "…se quero desvendar a mente de #C236196003Elizabeth#CDEF,\nsinto que não devo depender do\nShinji-kun―――"
     },
     {
       "id": 312,
@@ -3443,7 +3443,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Mhm. It won't do otherwise. I'm not supporting\nher per se, but I don't want to see my Praetor\nbe inconsiderate of a maiden's feelings.",
-      "pt": ""
+      "pt": "Uhum. Não daria certo de outro jeito. Não\nque eu a apoie, mas não quero meu Maestro\ndesdenhando dos sentimentos de uma donzela."
     },
     {
       "id": 313,
@@ -3454,7 +3454,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "*sigh* …let me ask, just in case.\nWhat are you planning to do with that spoon\nyou're clutching, Master?",
-      "pt": ""
+      "pt": "*Ah*… deixe-me perguntar, por via das\ndúvidas. O que planeja fazer com essa\ncolher que está segurando, #[Mestre][Mestra]#?"
     },
     {
       "id": 314,
@@ -3465,7 +3465,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "*sigh*, my Darling is always like this…\nWhat are you planning to do with that spoon?",
-      "pt": ""
+      "pt": "*Ah*, #[meu Querido][minha Querida]# é sempre assim…\nO que está planejando fazer com essa colher?"
     },
     {
       "id": 315,
@@ -3476,7 +3476,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "One's esophagus is crucial.\nFine, go ahead and die along with\nthat demon-dish.",
-      "pt": ""
+      "pt": "O esôfago é essencial.\nTudo bem, vá lá morrer junto com\nesse prato demoníaco."
     },
     {
       "id": 316,
@@ -3487,7 +3487,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Just one sip. So long as it's one sip.\nThis courage will surely lead to her #C000246204SG#CDEF.",
-      "pt": ""
+      "pt": "Só um gole. Contanto que seja um gole.\nEssa coragem com certeza levará ao #C000246204SG#CDEF dela."
     },
     {
       "id": 317,
@@ -3498,7 +3498,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――I think as such, then try taking a sip of the stew.",
-      "pt": ""
+      "pt": "―――Penso nisso e provo um gole do ensopado."
     },
     {
       "id": 318,
@@ -3509,7 +3509,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's horrid. Terrible. Overpowering. Pungent.",
-      "pt": ""
+      "pt": "É horrendo. Terrível. Enjoativo. Ardido."
     },
     {
       "id": 319,
@@ -3520,7 +3520,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's like mud. It makes me wonder if maybe #C236196003Elizabeth#CDEF\nisn't a Heroic Spirit from Earth,\nbut rather from Venus with some polar opposite culture.",
-      "pt": ""
+      "pt": "É como lama. Me faz pensar se #C236196003Elizabeth#CDEF\nnão é um Espírito Heroico da Terra,\nmas de Vênus, com uma cultura oposta."
     },
     {
       "id": 320,
@@ -3531,7 +3531,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…but the saving grace here was that the ingredients\nwere all tender, at least.\nSeems like she really did painstakingly prepare it.",
-      "pt": ""
+      "pt": "…mas o que salvou aqui foi que todos os\ningredientes estavam macios, ao menos.\nParece que ela se empenhou mesmo."
     },
     {
       "id": 321,
@@ -3542,7 +3542,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I command my body to, at last, finish a mere sip.",
-      "pt": ""
+      "pt": "Ordeno que meu corpo, enfim, engula ao menos\num mero gole."
     },
     {
       "id": 322,
@@ -3553,7 +3553,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…what do you think… of this one?",
-      "pt": ""
+      "pt": "…o que achou… deste aqui?"
     },
     {
       "id": 323,
@@ -3564,7 +3564,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF questions me with a grave expression.\nThis dish is…",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF me pergunta com expressão séria.\nEste prato está…"
     },
     {
       "id": 324,
@@ -3575,7 +3575,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Terrible.",
-      "pt": ""
+      "pt": "Terrível."
     },
     {
       "id": 325,
@@ -3586,7 +3586,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's alright, I guess…",
-      "pt": ""
+      "pt": "Até que vai, acho…"
     },
     {
       "id": 326,
@@ -3597,7 +3597,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-it can't be…! I let it simmer for so long!\nI did my very best, there's no way it\ncame out bad!",
-      "pt": ""
+      "pt": "N-não pode ser…! Deixei cozinhar por tanto\ntempo! Dei o meu melhor, não tem como\nter ficado ruim!"
     },
     {
       "id": 327,
@@ -3608,7 +3608,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You merely tried to brute-force it. Laboring\nto learn the culinary arts and refine\none's technique produces results.",
-      "pt": ""
+      "pt": "Você só tentou vencer na força bruta.\nEstudar a arte culinária e refinar a\ntécnica é o que traz resultados."
     },
     {
       "id": 328,
@@ -3619,7 +3619,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Toil alone won't make it good.\nTo make the finest dish, proper knowledge\nand a process are necessary.",
-      "pt": ""
+      "pt": "Só esforço não basta para ficar bom.\nPara fazer o melhor prato, conhecimento\ne processo adequados são necessários."
     },
     {
       "id": 329,
@@ -3630,7 +3630,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Regardless of what the cook thinks, if the one\neating thinks it tastes bad, then that's that.\nIt wouldn't be so onerous if love was enough.",
-      "pt": ""
+      "pt": "Não importa o que pense quem cozinha, se\nquem come acha ruim, acabou. Não seria tão\nárduo se bastasse amor."
     },
     {
       "id": 330,
@@ -3641,7 +3641,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You misunderstand ingredients vs skill. Premium\ningredients are premium because top chefs use\nthem. Third-rate ingredients suit third-rates.",
-      "pt": ""
+      "pt": "Você confunde ingrediente com técnica.\nIngrediente nobre é nobre nas mãos de um\nbom chef. Restos combinam com amadores."
     },
     {
       "id": 331,
@@ -3652,7 +3652,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's right.\nNow that I got my thoughts on the dish across,\nI'll have the unarmed Shinji-boy process what's left.",
-      "pt": ""
+      "pt": "Isso mesmo.\nAgora que dei minha opinião sobre o prato,\no Shinji-kun desarmado lida com o resto."
     },
     {
       "id": 332,
@@ -3663,7 +3663,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How silly of me, of all people, to get genuinely\nworried for even a second. Yeah, that's right.\nOf course. You understand how good it is!",
-      "pt": ""
+      "pt": "Que boba fui eu de ficar preocupada de\nverdade por um segundo. Sim, isso mesmo.\nClaro. Você entendeu como está bom!"
     },
     {
       "id": 333,
@@ -3674,7 +3674,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF, perhaps out of relief, happily wags her dragon tail.\nIt seems like she really\ndid take making this stew pretty seriously.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF, talvez aliviada, abana feliz\nsua cauda de dragão. Parece que ela levou\nmesmo este ensopado muito a sério."
     },
     {
       "id": 334,
@@ -3685,7 +3685,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…that said, I expect that there's still a nighttime\ntable waiting for me. Sorry, but I'll be leaving\nthe rest of this to the unarmed Shinji-boy.",
-      "pt": ""
+      "pt": "…dito isso, aposto que ainda me espera uma\nmesa noturna. Foi mal, mas vou deixar o\nresto disso para o Shinji-kun desarmado."
     },
     {
       "id": 335,
@@ -3696,7 +3696,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Fine, there's still the main course left.\nI'll let you off the hook this time.",
-      "pt": ""
+      "pt": "Tudo bem, ainda falta o prato principal.\nVou deixar você escapar dessa vez."
     },
     {
       "id": 336,
@@ -3707,7 +3707,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The next one should move you to cry, saying\nhow delicious it is, I'm sure of it.\n…be prepared.",
-      "pt": ""
+      "pt": "O próximo vai fazer você chorar dizendo\no quanto está delicioso, tenho certeza.\n…prepare-se."
     },
     {
       "id": 337,
@@ -3718,7 +3718,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh, that's it!?\nAgh, damn it! She just does whatever she wants!",
-      "pt": ""
+      "pt": "Hã, só isso!?\nArgh, droga! Ela só faz o que quer!"
     },
     {
       "id": 338,
@@ -3729,7 +3729,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Thanks to the unarmed Shinji-boy's outstanding work,\nthe crimson stew was processed instantly.",
-      "pt": ""
+      "pt": "Graças ao trabalho exemplar do Shinji-kun\ndesarmado, o ensopado foi processado num\ninstante."
     },
     {
       "id": 339,
@@ -3740,7 +3740,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF may have been acting tough in\nher own way by leaving before watching this happen.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF talvez tenha se feito de durona\nao sair antes de ver isso acontecer."
     },
     {
       "id": 340,
@@ -3751,7 +3751,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And―unlock complete.\nWho's a hard little worker, Shinji-boy鷙\nMaybe we shouldn't have made it look like him.",
-      "pt": ""
+      "pt": "E―desbloqueio concluído.\nQuem trabalha duro, hein, Shinji-kun鷙\nTalvez não devêssemos ter dado a cara dele."
     },
     {
       "id": 341,
@@ -3762,7 +3762,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Umm, Senpai? Are you okay…?\nYou had the processing software, so you didn't\nhave to push yourself to eat, yet…",
-      "pt": ""
+      "pt": "Humm, Senpai? Você está bem…?\nVocê tinha o software, não precisava se\nforçar a comer, e mesmo assim…"
     },
     {
       "id": 342,
@@ -3773,7 +3773,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She has an obsession with cooking.\nIt's likely related to the next #C000246204SG#CDEF―――",
-      "pt": ""
+      "pt": "Ela tem uma obsessão por cozinhar.\nDeve ter relação com o próximo #C000246204SG#CDEF―――"
     },
     {
       "id": 343,
@@ -3784,7 +3784,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes. The structure of a floor is considerably\ninfluenced by the Core's secrets. Please\ninvestigate in that direction without pause.",
-      "pt": ""
+      "pt": "Sim. A estrutura do andar é bastante\ninfluenciada pelos segredos do Núcleo.\nInvestigue nessa direção sem parar."
     },
     {
       "id": 344,
@@ -3795,7 +3795,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yeah, without pause.",
-      "pt": ""
+      "pt": "É, sem parar."
     },
     {
       "id": 345,
@@ -3806,7 +3806,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I take the stomach medicine I got from\n#C236196003Sakura#CDEF out of my pocket and down it all in one go.",
-      "pt": ""
+      "pt": "Tiro do bolso o remédio para o estômago\nque ganhei da #C236196003Sakura#CDEF e engulo tudo de vez."
     },
     {
       "id": 346,
@@ -3817,7 +3817,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "After looping around the Labyrinth,\nwe finally reach the last table.",
-      "pt": ""
+      "pt": "Depois de dar a volta pelo Labirinto,\nchegamos enfim à última mesa."
     },
     {
       "id": 347,
@@ -3828,7 +3828,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A full red course.\nA red Manchu-Han imperial feast.",
-      "pt": ""
+      "pt": "Um banquete todo vermelho.\nUm festim imperial Manchu-Han vermelho."
     },
     {
       "id": 348,
@@ -3839,7 +3839,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No matter where I look, all I see is red.",
-      "pt": ""
+      "pt": "Não importa para onde olhe, só vejo vermelho."
     },
     {
       "id": 349,
@@ -3850,7 +3850,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You look overwhelmed right off the bat!\nThis is the#RUBS       Dracul's #RUBE dragon girl's#REND dinner―\nwelcome to #RUBS  DD no Shokutaku#RUBE\"DD's Diner!\"#REND",
-      "pt": ""
+      "pt": "Já #[ficou pasmo][ficou pasma]# logo de cara! Este é o\njantar da#RUBS       Dracul #RUBEgarota-dragão#REND―\nbem-#[vindo][vinda]# ao #RUBS  DD no Shokutaku#RUBE\"Restaurante da DD!\"#REND"
     },
     {
       "id": 350,
@@ -3861,7 +3861,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's a shame that I can't put them out in order,\nbut I kept them all ready-to-eat.",
-      "pt": ""
+      "pt": "É uma pena não poder servir em ordem,\nmas deixei tudo pronto para comer."
     },
     {
       "id": 351,
@@ -3872,7 +3872,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This time it's bacchanal. I won't pay any heed\nto whether your manners are good or bad.\nGo ahead! Start with any dish you like!",
-      "pt": ""
+      "pt": "Desta vez é bacanal. Não vou ligar\nse suas boas maneiras são boas ou ruins.\nVá em frente! Comece pelo que quiser!"
     },
     {
       "id": 352,
@@ -3883,7 +3883,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Uh, hey? Not sure if I should be the one saying\nthis, but they have that Shinji-boy, remember?\nThis plan of yours is a bust.",
-      "pt": ""
+      "pt": "Ei, ouviu? Não sei se sou eu quem deve\ndizer, mas eles têm o Shinji-kun, lembra?\nEsse seu plano já furou."
     },
     {
       "id": 353,
@@ -3894,7 +3894,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wouldn't it be much more practical to not get\nhung up on this food stuff and instead just\nsmash their faces in right here and now?",
-      "pt": ""
+      "pt": "Não seria bem mais prático parar de\nencanar com comida e esmagar a cara deles\naqui e agora?"
     },
     {
       "id": 354,
@@ -3905,7 +3905,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You just don't get it, rat. That's why you're\na third-rate. That's no longer even remotely\nthe issue at hand.",
-      "pt": ""
+      "pt": "Você não entende nada, rato. Por isso\né de terceira. Isso já nem é mais remotamente\na questão aqui."
     },
     {
       "id": 355,
@@ -3916,7 +3916,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF doesn't bother turning to #C236196003Shinji#CDEF,\nbut instead stares straight at me.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF nem se dá ao trabalho de olhar para\n#C236196003Shinji#CDEF, encarando diretamente a mim."
     },
     {
       "id": 356,
@@ -3927,7 +3927,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The automatic eat-it-all style OpenLock looms behind her.",
-      "pt": ""
+      "pt": "O OpenLock automático modelo coma-tudo se\nergue atrás dela."
     },
     {
       "id": 357,
@@ -3938,7 +3938,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But she's right.\n\"That isn't the issue at hand\" at all.",
-      "pt": ""
+      "pt": "Mas ela tem razão.\n\"Não é a questão aqui\" de forma alguma."
     },
     {
       "id": 358,
@@ -3949,7 +3949,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#FAMILY #GIVEN#CDEF's objective here isn't to\nopen that door.",
-      "pt": ""
+      "pt": "O objetivo de #C236196003#FAMILY #GIVEN#CDEF aqui não é\nabrir aquela porta."
     },
     {
       "id": 359,
@@ -3960,7 +3960,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's to break the Shield that lies beyond it.\nWhich means obtaining #C236196003Elizabeth#CDEF's secret.",
-      "pt": ""
+      "pt": "É quebrar o Escudo que há além dela.\nO que significa obter o segredo de\n#C236196003Elizabeth#CDEF."
     },
     {
       "id": 360,
@@ -3971,7 +3971,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Using #RUBS   the unarmed Shinji-boy#RUBEa mechanical process#REND\nwill do nothing to jostle her mind――!",
-      "pt": ""
+      "pt": "Usar #RUBS   o Shinji-kun desarmado#RUBEum processo mecânico#REND\nnão vai abalar a mente dela em nada――!"
     },
     {
       "id": 361,
@@ -3982,7 +3982,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Dude… You're not thinking of tackling this,\nare you…!? This crimson tour around hell!!??",
-      "pt": ""
+      "pt": "Cara… Você não está pensando em encarar\nisso, está…!? Esse tour infernal!!??"
     },
     {
       "id": 362,
@@ -3993,7 +3993,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I glance at the trembling #C236196003Shinji#CDEF\nthen take a seat at the table.",
-      "pt": ""
+      "pt": "Olho de relance para o trêmulo #C236196003Shinji#CDEF\ne então me sento à mesa."
     },
     {
       "id": 363,
@@ -4004,7 +4004,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It feels like the fork and knife I'm holding\nare shaking in my hands, but it must just be my imagination.\nBe still, right hand of mine.",
-      "pt": ""
+      "pt": "Parece que o garfo e a faca tremem nas\nminhas mãos, mas deve ser impressão minha.\nFique firme, minha mão direita."
     },
     {
       "id": 364,
@@ -4015,7 +4015,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Praetor.\nI hear your determination loud and clear.",
-      "pt": ""
+      "pt": "Maestro.\nOuvi a sua determinação alto e claro."
     },
     {
       "id": 365,
@@ -4026,7 +4026,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I have nothing left to say now.\nYour mind is as broad as the Valles Marineris.\nMhm. It's red over there as well.",
-      "pt": ""
+      "pt": "Não tenho mais nada a dizer agora.\nSua mente é ampla como o Valles Marineris.\nSim. Lá também é vermelho."
     },
     {
       "id": 366,
@@ -4037,7 +4037,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Dragon girl, feast your eyes on my Master's\ngreatness! I won't allow you the place of #[his][her]# \nlover, but I permit you to fall in love!",
-      "pt": ""
+      "pt": "Garota-dragão, contemple a grandeza\n#[do meu Mestre][da minha Mestra]#! Não permito ser amante\n#[dele][dela]#, mas autorizo que se apaixone!"
     },
     {
       "id": 367,
@@ -4048,7 +4048,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wait. I get what you're going for here,\nbut taking this head-on is too risky.\nLet me take some of―――",
-      "pt": ""
+      "pt": "Espere. Entendo o que você quer fazer,\nmas encarar isso de frente é arriscado.\nDeixe que eu pegue um pouco―――"
     },
     {
       "id": 368,
@@ -4059,7 +4059,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No, if that were possible, the Student Council\nwould've found a way to make it work.\n…I said something pointless.",
-      "pt": ""
+      "pt": "Não, se fosse possível, o Grêmio teria\ndado um jeito de funcionar.\n…disse algo inútil."
     },
     {
       "id": 369,
@@ -4070,7 +4070,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Please wait, Darling!\nYou mustn't, you mustn't!\nI absolutely cannot allow you to eat this!",
-      "pt": ""
+      "pt": "Espere, por favor, #[Querido][Querida]#!\nNão pode, não pode!\nNão posso deixar você comer isso!"
     },
     {
       "id": 370,
@@ -4081,7 +4081,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I already made Darling suffer all alone in the\nImaginary Number Ocean. I shall not display such\ndisgracefulness a second time.",
-      "pt": ""
+      "pt": "Já fiz #[Querido][Querida]# sofrer #[sozinho][sozinha]# no\nOceano Imaginário. Não mostrarei tal\ndesonra pela segunda vez."
     },
     {
       "id": 371,
@@ -4092,7 +4092,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Therefore… at least allow me to turn this\nall into cinders!\nIt'll be bitter, but still edible!",
-      "pt": ""
+      "pt": "Portanto… ao menos deixe-me reduzir tudo\nisso a cinzas!\nVai ficar amargo, mas ainda comestível!"
     },
     {
       "id": 372,
@@ -4103,7 +4103,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…#C236196003#FAMILY#CDEF. Unfortunately, there exists no\nseasoning within my treasure stores which\ncan make the flavor palatable.",
-      "pt": ""
+      "pt": "…#C236196003#FAMILY#CDEF. Infelizmente, não existe\ntempero em meus tesouros capaz de\ntornar esse sabor tragável."
     },
     {
       "id": 373,
@@ -4114,7 +4114,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yet it does contain mystical herbs which quell\nthe gut. The downside is, upon ingestion, you'll\nforever lose your sense of taste… …well?",
-      "pt": ""
+      "pt": "Mas há ervas místicas que acalmam o\nestômago. O porém é perder para sempre\no paladar ao ingerir… …e então?"
     },
     {
       "id": 374,
@@ -4125,7 +4125,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But I have to overcome this challenge\nwith my own two hands… I mean, my mouth.",
-      "pt": ""
+      "pt": "Mas preciso superar este desafio\ncom minhas próprias mãos… digo, minha boca."
     },
     {
       "id": 375,
@@ -4136,7 +4136,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I know how tough this battle will be.\nSo in the event that I'm able to eat this―――\nmaybe I'll settle down back in the village and get married?",
-      "pt": ""
+      "pt": "Sei o quanto essa batalha será difícil.\nEntão, se eu conseguir comer tudo―――\nacho que volto para a vila e me caso?"
     },
     {
       "id": 376,
@@ -4147,7 +4147,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My dear…! I-I'm so happy!\nI'm happy… but you know how taboo it is to\nspeak promises like that out loud!",
-      "pt": ""
+      "pt": "#[Querido][Querida]#…! E-eu estou tão feliz!\nEstou feliz… mas sabe que é tabu falar\npromessas assim em voz alta!"
     },
     {
       "id": 377,
@@ -4158,7 +4158,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I know how tough this battle will be. So in the\nevent that I'm able to eat this――I'll settle\ndown back in the village and get married.",
-      "pt": ""
+      "pt": "Sei o quanto essa batalha será difícil.\nSe eu conseguir comer tudo――vou voltar\npara a vila e me casar."
     },
     {
       "id": 378,
@@ -4169,7 +4169,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Calm, but at the end of your rope, huh…\nGot it. Go right on ahead.\nI'll pick up whatever's left of you.",
-      "pt": ""
+      "pt": "#[Calmo][Calma]#, mas no limite, hein…\nEntendi. Vá em frente.\nEu recolho o que sobrar de você."
     },
     {
       "id": 379,
@@ -4180,7 +4180,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "W-what are you spouting all of a sudden!?\nHey, relax! I'm sure you meant well, but\nthat's a Death Flag you're messing with!",
-      "pt": ""
+      "pt": "O-o que está falando do nada!?\nEi, calma! Sei que falou por bem, mas\nisso é mexer com uma Death Flag!"
     },
     {
       "id": 380,
@@ -4191,7 +4191,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll bring you back from the underworld as\nmany times as it takes, so please eat it all.\nBy the way, my ring size is a 9鷙",
-      "pt": ""
+      "pt": "Trarei você do submundo quantas vezes\nfor preciso, então coma tudo.\nAliás, meu aro de anel é 9鷙"
     },
     {
       "id": 381,
@@ -4202,7 +4202,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's fine resolve.\nShow me how well you can overcome\nthe Death #RUBS Flag#RUBEFate#REND you yourself raised.",
-      "pt": ""
+      "pt": "Bela determinação.\nMostre-me o quanto supera a Death\n#RUBS Flag#RUBEDestino#REND que você #[mesmo][mesma]# ergueu."
     },
     {
       "id": 382,
@@ -4213,7 +4213,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "All I need now is to be ready; to be determined;\nto be so foolhardy I forget what pain is.",
-      "pt": ""
+      "pt": "Tudo o que preciso agora é estar #[pronto][pronta]#;\nestar #[decidido][decidida]#; ser imprudente até\nesquecer o que é dor."
     },
     {
       "id": 383,
@@ -4224,7 +4224,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――I shall partake.",
-      "pt": ""
+      "pt": "――――Bom apetite."
     },
     {
       "id": 384,
@@ -4235,7 +4235,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Praetor! You started shaking all of a sudden!\nY-you're okay, aren't you!?",
-      "pt": ""
+      "pt": "Maestro! Começou a tremer do nada!\nV-você está bem, não está!?"
     },
     {
       "id": 385,
@@ -4246,7 +4246,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Did your eyes just r-roll back for a\nsecond there…? I knew this was a bad idea!\nI'm worried now!",
-      "pt": ""
+      "pt": "Seus olhos reviraram por um segundo agora…?\nSabia que era má ideia!\nEstou preocupada agora!"
     },
     {
       "id": 386,
@@ -4257,7 +4257,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Your soul was just starting to float away…\nCould this be a form of torture?",
-      "pt": ""
+      "pt": "Sua alma já estava começando a flutuar…\nSeria isto uma forma de tortura?"
     },
     {
       "id": 387,
@@ -4268,7 +4268,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm alright. No problem.\nIt's just―from the very first bite―I got―\nquite a big shock.",
-      "pt": ""
+      "pt": "Estou bem. Sem problemas.\nÉ que―logo na primeira garfada―levei―\num baita choque."
     },
     {
       "id": 388,
@@ -4279,7 +4279,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-it tastes good, right? It does, right?",
-      "pt": ""
+      "pt": "E-está gostoso, né? Está, né?"
     },
     {
       "id": 389,
@@ -4290,7 +4290,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's a tuna marinade, accompanied with jelly\nmade of soft-shell turtle lifeblood. I used\nfresh seafood from the #C000246204Moon Cell#CDEF in these.",
-      "pt": ""
+      "pt": "Isso é atum marinado com gelatina\nfeita de sangue de tartaruga-de-casco-mole.\nUsei frutos do mar frescos do #C000246204Moon Cell#CDEF."
     },
     {
       "id": 390,
@@ -4301,7 +4301,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The #C000246204Moon Cell#CDEF. The Brain of God.",
-      "pt": ""
+      "pt": "O #C000246204Moon Cell#CDEF. O Cérebro de Deus."
     },
     {
       "id": 391,
@@ -4312,7 +4312,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's a digital fishery rife with seafood―\none that records all of the past and predicts every future.\nIs it okay to describe it that way?",
-      "pt": ""
+      "pt": "É um pesqueiro digital cheio de frutos\ndo mar―que grava o passado e prevê o futuro.\nPosso mesmo descrevê-lo assim?"
     },
     {
       "id": 392,
@@ -4323,7 +4323,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…but try as I may to escape from reality by pondering\nsuch things, #RUBS the taste#RUBEreality#REND still assails me relentlessly.",
-      "pt": ""
+      "pt": "…mas por mais que tente fugir com esses\npensamentos, #RUBS o sabor#RUBEa realidade#REND me ataca sem dó."
     },
     {
       "id": 393,
@@ -4334,7 +4334,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "An unpleasant sweat is already gushing from my entire body,\nbut I must keep my hands moving.",
-      "pt": ""
+      "pt": "Um suor ruim já jorra pelo meu corpo todo,\nmas preciso continuar mexendo as mãos."
     },
     {
       "id": 394,
@@ -4345,7 +4345,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Oh no―#C236196003President #GIVEN#CDEF is turning pale…!\nThis is torture beyond torture!",
-      "pt": ""
+      "pt": "Ah não―#C236196003Presidente #GIVEN#CDEF está ficando\n#[pálido][pálida]#…! É tortura além da tortura!"
     },
     {
       "id": 395,
@@ -4356,7 +4356,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Please calm down, #C236196003Sakura#CDEF.\nYou too, Miss #C236196003Tohsaka#CDEF.\nYou're not making much sense.",
-      "pt": ""
+      "pt": "Por favor, acalme-se, #C236196003Sakura#CDEF.\nVocê também, Srta. #C236196003Tohsaka#CDEF.\nNão estão falando nada com nada."
     },
     {
       "id": 396,
@@ -4367,7 +4367,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Sakura#CDEF, you mustn't look away.\nThis is…… this is the way\nthat kid runs #[his][her]# life……!",
-      "pt": ""
+      "pt": "#C236196003Sakura#CDEF, não desvie o olhar.\nÉ assim…… é assim que\n#[esse jovem][essa jovem]# conduz a vida……!"
     },
     {
       "id": 397,
@@ -4378,7 +4378,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That there is the determination of one who\nstands above others. The role of a President\nis truly a harsh one.",
-      "pt": ""
+      "pt": "Eis a determinação de quem está acima dos\ndemais. O papel de Presidente é mesmo\nárduo."
     },
     {
       "id": 398,
@@ -4389,7 +4389,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ha―hahaha…… That's what you get……",
-      "pt": ""
+      "pt": "Ha―hahaha…… Bem feito……"
     },
     {
       "id": 399,
@@ -4400,7 +4400,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "………………dude.\nIt's about time to call it―――",
-      "pt": ""
+      "pt": "………………cara.\nJá deu hora de parar―――"
     },
     {
       "id": 400,
@@ -4411,7 +4411,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No way. There's still food left. And besides―――",
-      "pt": ""
+      "pt": "De jeito nenhum. Ainda tem comida. E além\ndisso―――"
     },
     {
       "id": 401,
@@ -4422,7 +4422,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That one there I slaved over,\neven though it's baked.\nI mean, it just gets burnt so easily.",
-      "pt": ""
+      "pt": "Aquele ali deu um trabalhão,\nmesmo sendo assado.\nQuer dizer, queima fácil demais."
     },
     {
       "id": 402,
@@ -4433,7 +4433,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That octopus there was a bitter fight 'til the\nend. I've never tried one before―it kept moving\nno matter how many times I stabbed it. Bleh…",
-      "pt": ""
+      "pt": "Aquele polvo foi uma luta até o fim.\nNunca mexi com um―ele continuava se\nmexendo mesmo após tantas facadas. Eca…"
     },
     {
       "id": 403,
@@ -4444,7 +4444,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But you like octopus, right?\nThat's the reason why I put up with it.\nI-I figured it'd make you happy!",
-      "pt": ""
+      "pt": "Mas você gosta de polvo, não é?\nFoi por isso que aguentei firme.\nA-achei que ia fazer você feliz!"
     },
     {
       "id": 404,
@@ -4455,7 +4455,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF's eyes glitter with every plate I finish,\nand the ache in the back of my hand grows more prominent.",
-      "pt": ""
+      "pt": "Os olhos de #C236196003Elizabeth#CDEF brilham a cada prato\nque termino, e a dor nas costas da minha mão\nfica mais nítida."
     },
     {
       "id": 405,
@@ -4466,7 +4466,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"Ahh, the goal must be close…\"\nAs I thought about it, I mindlessly continued\nmoving my fork and spoon.",
-      "pt": ""
+      "pt": "\"Ah, a meta deve estar perto…\"\nPensando nisso, segui movendo o garfo\ne a colher sem pensar."
     },
     {
       "id": 406,
@@ -4477,7 +4477,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Also, I don't have any particular preference for octopus.",
-      "pt": ""
+      "pt": "Aliás, não tenho nenhuma preferência por polvo."
     },
     {
       "id": 407,
@@ -4488,7 +4488,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080My boiling head searches for jovial memories.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Minha cabeça fervente busca lembranças alegres.#CDEF"
     },
     {
       "id": 408,
@@ -4499,7 +4499,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Once, I spoke with someone about building a cafeteria.\nAhh, yeah. That was with the Student Council.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Uma vez, falei com alguém sobre um refeitório.\nAh, sim. Foi com o Grêmio Estudantil.#CDEF"
     },
     {
       "id": 409,
@@ -4510,7 +4510,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We decided that we would take turns managing meals,\nand we would all eat together.",
-      "pt": ""
+      "pt": "Decidimos que nos revezaríamos cuidando\ndas refeições, e comeríamos todos juntos."
     },
     {
       "id": 410,
@@ -4521,7 +4521,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Oh, yeah. #C236196003Leo#CDEF mentioned #C236196003Julius#CDEF' curry was excellent.\nIn the end, I wonder what it tasted like?",
-      "pt": ""
+      "pt": "Ah, é. #C236196003Leo#CDEF disse que o curry de #C236196003Julius#CDEF era\nexcelente. Qual seria o gosto dele, afinal?"
     },
     {
       "id": 411,
@@ -4532,7 +4532,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Alas. An early reunion, isn't it?\nHow I'd like to have some Harwey curry………#CDEF",
-      "pt": ""
+      "pt": "#C080080080Ora. Um reencontro precoce, não?\nComo eu queria comer um curry Harwey………#CDEF"
     },
     {
       "id": 412,
@@ -4543,7 +4543,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#RUBS  Master#RUBEPraetor#REND! Pull yourself together!",
-      "pt": ""
+      "pt": "#RUBS  #[Mestre][Mestra]##RUBEMaestro#REND! Recobre a consciência!"
     },
     {
       "id": 413,
@@ -4554,7 +4554,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Mongrel, put focus into your dantian, below the\nnaval! Wind the tail of your soul back\ninside yourself!",
-      "pt": ""
+      "pt": "#[Mestiço][Mestiça]#, foque no seu dantian, abaixo\ndo umbigo! Puxe a ponta da sua alma\nde volta para dentro de si!"
     },
     {
       "id": 414,
@@ -4565,7 +4565,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It seems I was having a weird dream.",
-      "pt": ""
+      "pt": "Parece que eu estava tendo um sonho estranho."
     },
     {
       "id": 415,
@@ -4576,7 +4576,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I analyze the situation before me:\napart from some deep-red ice cream sitting\non top of my spoon, all the other plates were now empty.",
-      "pt": ""
+      "pt": "Analiso a situação diante de mim:\nalém de um sorvete vermelho-escuro na\ncolher, todos os outros pratos estão vazios."
     },
     {
       "id": 416,
@@ -4587,7 +4587,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Mhm. That'll be the end of it.\nI've fully witnessed your valor.",
-      "pt": ""
+      "pt": "Uhum. É o fim de tudo.\nTestemunhei plenamente sua bravura."
     },
     {
       "id": 417,
@@ -4598,7 +4598,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yeah, that's the last dish. You did a great job.",
-      "pt": ""
+      "pt": "É, é o último prato. Você mandou muito bem."
     },
     {
       "id": 418,
@@ -4609,7 +4609,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes, only one bite left.\nLet's wrap it up with a big slurp.",
-      "pt": ""
+      "pt": "Sim, só falta uma colherada.\nVamos encerrar numa bocada só."
     },
     {
       "id": 419,
@@ -4620,7 +4620,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The scene of this feast shall go down in\nhistory. #C236196003#FAMILY#CDEF. I might herald you\nas my poison taster after this.",
-      "pt": ""
+      "pt": "A cena deste festim entrará para a história.\n#C236196003#FAMILY#CDEF. Talvez eu #[o][a]# nomeie\n#[meu provador][minha provadora]# de venenos depois desta."
     },
     {
       "id": 420,
@@ -4631,7 +4631,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I get encouraged by my Servant and finish the last bite.\nMy mouth is paralyzed at this point,\nbut a potently awful taste still spreads through it.",
-      "pt": ""
+      "pt": "Encorajado por meu Servo, termino a última\ncolherada. Minha boca já está dormente,\nmas um gosto horrível ainda se espalha."
     },
     {
       "id": 421,
@@ -4642,7 +4642,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's mint flavored. Red mint.\nFun fact: the mint plant was said to bloom in the\nGreek underworld.",
-      "pt": ""
+      "pt": "É sabor menta. Menta vermelha.\nCuriosidade: diziam que a menta florescia\nno submundo grego."
     },
     {
       "id": 422,
@@ -4653,7 +4653,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I quietly put my spoon down, give my thanks for the meal…\nthen rise from my seat.",
-      "pt": ""
+      "pt": "Pousando a colher devagar, agradeço pela\nrefeição… e me levanto da cadeira."
     },
     {
       "id": 423,
@@ -4664,7 +4664,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And now, umm… before you pass through,\nhow about I just get straight to it\nand ask you this:",
-      "pt": ""
+      "pt": "E agora, humm… antes de você passar,\nque tal ir direto ao ponto\ne perguntar isto:"
     },
     {
       "id": 424,
@@ -4675,7 +4675,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Signs of her secrets appearing start to amplify,\nas if aligning with her expectant gaze.",
-      "pt": ""
+      "pt": "Sinais dos segredos dela começam a se\namplificar, alinhando-se ao olhar ansioso."
     },
     {
       "id": 425,
@@ -4686,7 +4686,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It tasted god-awful.",
-      "pt": ""
+      "pt": "Tinha um gosto horrível."
     },
     {
       "id": 426,
@@ -4697,7 +4697,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……………that's a lie.\nYou're just another shallow farm animal, too.",
-      "pt": ""
+      "pt": "……………é mentira.\nVocê é só mais um animal de fazenda raso."
     },
     {
       "id": 427,
@@ -4708,7 +4708,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I messed up.\nThere's nothing delicious about practically fainting in pain.",
-      "pt": ""
+      "pt": "Pisei na bola.\nNão há nada de delicioso em quase\ndesmaiar de dor."
     },
     {
       "id": 428,
@@ -4719,7 +4719,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "To get this feeling across to her…\nYeah, rather than \"delicious,\" I would say I'm \"satisfied.\"",
-      "pt": ""
+      "pt": "Para passar esse sentimento a ela…\nÉ, em vez de \"delicioso\", diria que estou\n\"#[satisfeito][satisfeita]#\"."
     },
     {
       "id": 429,
@@ -4730,7 +4730,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No need to think about it too hard at this point.\nIt tasted so bad, was so god-awful,\nthat I hardly believe food could be so bad.",
-      "pt": ""
+      "pt": "Não há por que pensar demais a essa altura.\nEstava tão ruim, tão horrível,\nque mal acredito que comida possa ser assim."
     },
     {
       "id": 430,
@@ -4741,7 +4741,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "*sigh*… Saw that one coming.\nDon't chalk this one up as MY mistake!",
-      "pt": ""
+      "pt": "*Ah*… Já previa essa.\nNão jogue isso na MINHA conta!"
     },
     {
       "id": 431,
@@ -4752,7 +4752,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Typical. The only thing he knows is when\nto quit. …although, he won't get the chance\nnext time.",
-      "pt": ""
+      "pt": "Típico. A única coisa que sabe fazer é\nsair de fininho. …embora, da próxima vez,\nnão vá ter chance."
     },
     {
       "id": 432,
@@ -4763,7 +4763,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Let's leave that guy be. Once your stomach\nsettles down, all we have to do is find him\nand bring him to his knees!",
-      "pt": ""
+      "pt": "Deixe esse sujeito para lá. Assim que seu\nestômago assentar, só precisamos achá-lo\ne fazê-lo cair de joelhos!"
     },
     {
       "id": 433,
@@ -4774,7 +4774,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No need to strike him down as he flees.\nThis has been a complete and utter victory\nfor you.",
-      "pt": ""
+      "pt": "Não há por que atacá-lo enquanto foge.\nEsta foi uma vitória completa e absoluta\npara você."
     },
     {
       "id": 434,
@@ -4785,7 +4785,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's right. …actually, even if I was told to go after him,\nI'd be hard-pressed to agree in this state.",
-      "pt": ""
+      "pt": "Isso mesmo. …na verdade, mesmo que me\nmandassem ir atrás, eu teria dificuldade\nem aceitar neste estado."
     },
     {
       "id": 435,
@@ -4796,7 +4796,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The #ROFS0002#RUBS    Ego    #RUBEoffshoot#REND I pulled the #C000246204SG#CDEF from should vanish soon.\nWe should leave the Labyrinth as soon as―――",
-      "pt": ""
+      "pt": "A #ROFS0002#RUBS    Ego    #RUBEderivação#REND de onde tirei o #C000246204SG#CDEF\nlogo vai sumir. Devemos sair logo―――"
     },
     {
       "id": 436,
@@ -4807,7 +4807,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey, dear, what kind of magic did you use…?",
-      "pt": ""
+      "pt": "Ei, bem, que tipo de magia você usou…?"
     },
     {
       "id": 437,
@@ -4818,7 +4818,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Magic… is something I, of course, can't use,\nbut I guess she's referring to me extracting her #C000246204SG#CDEF.",
-      "pt": ""
+      "pt": "Magia… é algo que eu, claro, não sei usar,\nmas acho que ela se refere a eu ter\nextraído o #C000246204SG#CDEF dela."
     },
     {
       "id": 438,
@@ -4829,7 +4829,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Not that. Way before that. When you ate my food\nand gave me your thoughts on it―――it was the\nbest feeling I've ever had. What was that?",
-      "pt": ""
+      "pt": "Isso não. Bem antes. Quando comeu minha\ncomida e me deu sua opinião―――foi a melhor\nsensação que já tive. O que foi aquilo?"
     },
     {
       "id": 439,
@@ -4840,7 +4840,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But that only feels good for an instant.\nBliss burns out quickly, and all that's left\nare days of tedium.",
-      "pt": ""
+      "pt": "Mas isso só é bom por um instante.\nO êxtase queima rápido, e só restam\ndias de tédio."
     },
     {
       "id": 440,
@@ -4851,7 +4851,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The boredom gives me headaches. It hurts.\nBut just now, and only just now――",
-      "pt": ""
+      "pt": "O tédio me dá dor de cabeça. Dói.\nMas agora há pouco, e só agora há pouco――"
     },
     {
       "id": 441,
@@ -4862,7 +4862,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…before she completes her thought, her body vanishes.",
-      "pt": ""
+      "pt": "…antes que conclua o pensamento, seu corpo\nse desfaz."
     },
     {
       "id": 442,
@@ -4873,7 +4873,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "With no way of now finding how it ends,\ntoday's exploration comes to a close.",
-      "pt": ""
+      "pt": "Sem ter como saber o fim disso agora,\na exploração de hoje chega ao fim."
     },
     {
       "id": 443,
@@ -4884,7 +4884,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Sakura#CDEF is currently preparing a potent antacid.\nWe'll transfer it to your room,\nso please return and get some rest.",
-      "pt": ""
+      "pt": "#C236196003Sakura#CDEF está preparando um antiácido\npotente. Vamos enviá-lo ao seu quarto,\nentão volte e descanse um pouco."
     },
     {
       "id": 444,
@@ -4895,7 +4895,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "After the Student Council gives their closing remarks,\nI let out a sigh of relief.\nSuddenly, I'm conscious of how heavy my abdomen feels.\n……clearly I #ROFS0002#RUBS        ate too much#RUBEexceeded my capacity#REND.",
-      "pt": ""
+      "pt": "Após os comentários finais do Grêmio,\nsolto um suspiro aliviado. De repente, sinto\no peso da barriga… #ROFS0002#RUBS      comi demais#RUBEexcedi meu limite#REND."
     },
     {
       "id": 445,
@@ -4906,7 +4906,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Let's activate the #C000246204checkpoint#CDEF and hurry back to the school.",
-      "pt": ""
+      "pt": "Vamos ativar o #C000246204checkpoint#CDEF e voltar logo\npara a escola."
     },
     {
       "id": 446,
@@ -4917,7 +4917,7 @@
       "comum": true,
       "repeticoes": 25,
       "en": "Continue to the next floor?",
-      "pt": ""
+      "pt": "Seguir para o próximo andar?"
     },
     {
       "id": 447,
@@ -4928,7 +4928,7 @@
       "comum": true,
       "repeticoes": 25,
       "en": "Continue to the next floor.",
-      "pt": ""
+      "pt": "Seguir para o próximo andar."
     },
     {
       "id": 448,
@@ -4939,7 +4939,7 @@
       "comum": true,
       "repeticoes": 29,
       "en": "Return to the previous floor?",
-      "pt": ""
+      "pt": "Voltar ao andar anterior?"
     },
     {
       "id": 449,
@@ -4950,7 +4950,7 @@
       "comum": true,
       "repeticoes": 29,
       "en": "Return to previous floor.",
-      "pt": ""
+      "pt": "Voltar ao andar anterior."
     },
     {
       "id": 450,
@@ -4961,7 +4961,7 @@
       "comum": true,
       "repeticoes": 32,
       "en": "Return to the old school.",
-      "pt": ""
+      "pt": "Voltar ao prédio antigo."
     },
     {
       "id": 451,
@@ -4972,7 +4972,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Th-this smell…\nI'm gravely concerned for your stomach!",
-      "pt": ""
+      "pt": "E-esse cheiro…\nEstou gravemente preocupada com seu estômago!"
     },
     {
       "id": 452,
@@ -4983,7 +4983,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This scent… We're close. Don't worry,\nI'll be there to rub your back afterwards.",
-      "pt": ""
+      "pt": "Esse cheiro… Estamos perto. Não se\npreocupe, estarei lá para esfregar suas costas."
     },
     {
       "id": 453,
@@ -4994,7 +4994,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "*sniff sniff*… This reeks of that girl's \"cooking\"!\nDarling, I'm sorry, but please prepare yourself.",
-      "pt": ""
+      "pt": "*Snif, snif*… Fede à \"comida\" daquela garota!\n#[Querido][Querida]#, desculpe, mas se prepare."
     },
     {
       "id": 454,
@@ -5005,7 +5005,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Only today will I recommend an inefficient route.\nPlease take the extra time to brace your stomach.",
-      "pt": ""
+      "pt": "Só hoje recomendarei uma rota ineficiente.\nUse o tempo extra para preparar seu estômago."
     },
     {
       "id": 455,
@@ -5016,7 +5016,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is the table where #C236196003Elizabeth#CDEF laid out food for me.",
-      "pt": ""
+      "pt": "Esta é a mesa onde #C236196003Elizabeth#CDEF serviu comida\npara mim."
     },
     {
       "id": 456,
@@ -5027,7 +5027,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…urp.\nJust thinking about it makes me feel like I might hurl.\nSo, let's not think about it anymore.",
-      "pt": ""
+      "pt": "…urp.\nSó de pensar já me dá vontade de vomitar.\nEntão, melhor nem pensar mais nisso."
     },
     {
       "id": 457,
@@ -5038,7 +5038,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The surveillance camera shows the figures\nof #C236196003Elizabeth#CDEF and #C236196003Shinji#CDEF within the Labyrinth,\nquarreling in front of a table out of place.",
-      "pt": ""
+      "pt": "A câmera mostra #C236196003Elizabeth#CDEF e #C236196003Shinji#CDEF dentro do\nLabirinto, discutindo diante de uma mesa\nfora de lugar."
     },
     {
       "id": 458,
@@ -5049,7 +5049,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "For the LAST time, take a step back and listen\nto what I say! Like hell you can divvy up this\nfloor all on your own!",
-      "pt": ""
+      "pt": "Pela ÚLTIMA vez, dê um passo atrás e escute!\nNem a pau que você divide este andar\ntodo por conta própria!"
     },
     {
       "id": 459,
@@ -5060,7 +5060,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You just don't stop blabbing, rat. What am I\nsupposed to expect from a coward who\nabandons the leading role and scampers off?",
-      "pt": ""
+      "pt": "Você não para de tagarelar, rato. O que eu\nesperaria de um covarde que abandona o papel\nprincipal e foge correndo?"
     },
     {
       "id": 460,
@@ -5071,7 +5071,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And that all happened because I trusted\nYOU with setting the stage.",
-      "pt": ""
+      "pt": "E tudo aquilo aconteceu porque confiei\nem você para montar o palco."
     },
     {
       "id": 461,
@@ -5082,7 +5082,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Besides, your strategy lacked any idol \"pizazz.\"\nBeing all sneaky like that is the very\ndefinition of a mousetrap.",
-      "pt": ""
+      "pt": "Além disso, faltava \"charme\" de idol no seu\nplano. Ser sorrateiro daquele jeito é a\nprópria definição de ratoeira."
     },
     {
       "id": 462,
@@ -5093,7 +5093,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "On that note, I'LL be my own producer this time!\nThe ratings will snake their way to the top…\nNo, they'll DRAKE their way to the top!",
-      "pt": ""
+      "pt": "Sendo assim, eu serei minha própria\nprodutora desta vez! A audiência vai subir\ncomo cobra… Não, como Dragão!"
     },
     {
       "id": 463,
@@ -5104,7 +5104,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's right. You can't be an idol without\ndoing challenges. And it's not a challenge\nunless it's about homemade cooking.",
-      "pt": ""
+      "pt": "Isso mesmo. Não se vira idol sem desafios.\nE não é um desafio de verdade se não\nenvolver comida caseira."
     },
     {
       "id": 464,
@@ -5115,7 +5115,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My handcrafted meal will inflict #[piggy][squirrely]# with\nCharm and force #[him][her]# to surrender to me.",
-      "pt": ""
+      "pt": "Minha refeição artesanal vai infligir Encanto\nem #[porquinho][esquilinho]# e forçá-#[lo][la]# a se render a mim."
     },
     {
       "id": 465,
@@ -5126,7 +5126,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[Piggy][Squirrely]# will weep over how delicious it is…\nOvercome with emotion, #[he][she]#'ll kneel at my feet\nand cling to me, kindly ask for more…",
-      "pt": ""
+      "pt": "#[Porquinho][Esquilinho]# vai chorar de tão gostoso…\n#[Tomado][Tomada]# pela emoção, vai se ajoelhar\naos meus pés e implorar por mais…"
     },
     {
       "id": 466,
@@ -5137,7 +5137,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ahh… How beautiful would that look? I have no\ninterest in being a wide-appeal idol, but I'll\nend up becoming a household name for sure.",
-      "pt": ""
+      "pt": "Aaah… Que lindo seria? Não tenho interesse\nem ser uma idol popularzinha, mas vou virar\num nome famoso em todo lar, com certeza."
     },
     {
       "id": 467,
@@ -5148,7 +5148,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Spare the households of the world from your\ntyranny, Miss Queen!",
-      "pt": ""
+      "pt": "Poupe os lares do mundo da sua tirania,\nSrta. Rainha!"
     },
     {
       "id": 468,
@@ -5159,7 +5159,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Shinji#CDEF doubtfully stares at the sample of food.\nIt's a shame that we can't really tell what kind of\nfood it is with this grainy picture.",
-      "pt": ""
+      "pt": "#C236196003Shinji#CDEF encara desconfiado a amostra.\nÉ uma pena não dar para distinguir direito o\nque é com essa imagem granulada."
     },
     {
       "id": 469,
@@ -5170,7 +5170,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wait, #C236196003Elizabeth#CDEF's \"home cooking\"――\nFor some reason, I don't get the sense that my\nfuture will be a palatable one.",
-      "pt": ""
+      "pt": "Espera, a \"comida caseira\" da #C236196003Elizabeth#CDEF――\nPor algum motivo, não sinto que meu futuro\nvai ser muito palatável."
     },
     {
       "id": 470,
@@ -5181,7 +5181,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But… sure, I'll give you the leftovers like the\nrat you are! Go on―take a bite and tell me\nwhat you think!",
-      "pt": ""
+      "pt": "Mas… claro, dou as sobras para você, como\no rato que é! Anda―dê uma mordida e diga\no que achou!"
     },
     {
       "id": 471,
@@ -5192,7 +5192,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You treat me like a rat and STILL expect me to\neat your food!? It might look alright on the\noutside, but I'm NOT eating that!",
-      "pt": ""
+      "pt": "Você me trata feito rato e ainda espera\nque eu coma sua comida!? Pode parecer normal\npor fora, mas não vou comer isso!"
     },
     {
       "id": 472,
@@ -5203,7 +5203,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You slave driver!\n…shit! Fine, if eating it will make you happy!",
-      "pt": ""
+      "pt": "Sua feitora escravista!\n…droga! Tudo bem, se comer te deixar feliz!"
     },
     {
       "id": 473,
@@ -5214,7 +5214,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That food there was meant for #C236196003#FAMILY #GIVEN#CDEF―――\nI realize that this is something I'll have to deal with too.",
-      "pt": ""
+      "pt": "Aquela comida era para #C236196003#FAMILY #GIVEN#CDEF\n―――Percebo que isso é algo que também\nterei de enfrentar."
     },
     {
       "id": 474,
@@ -5225,7 +5225,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Shinji#CDEF stabs his fork into some sort of red mass\nand brings it to his lips.",
-      "pt": ""
+      "pt": "#C236196003Shinji#CDEF espeta o garfo numa massa vermelha\ne a leva aos lábios."
     },
     {
       "id": 475,
@@ -5236,7 +5236,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Oh, we cut out the visuals here since it\nbecomes offensive to the eyes.\nPlease enjoy just the audio.",
-      "pt": ""
+      "pt": "Ah, cortamos o vídeo aqui porque fica\nofensivo aos olhos.\nPor favor, fiquem só com o áudio."
     },
     {
       "id": 476,
@@ -5247,7 +5247,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Cough… bleh… wait, wait a sec'. I just picked\nup on how our cultures differ. So, this\nis sauteed chicken, right?",
-      "pt": ""
+      "pt": "Cof… eca… espera, espera aí. Acabei de\nnotar como nossas culturas diferem. Então,\nisso é frango salteado, né?"
     },
     {
       "id": 477,
@@ -5258,7 +5258,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So why are there thorns in the meat? And why\ndoes it explode? And why do I hear shrieks\nwhen I bite into it?",
-      "pt": ""
+      "pt": "Então por que tem espinhos na carne? E por\nque ela explode? E por que ouço guinchos\nquando mordo isso?"
     },
     {
       "id": 478,
@@ -5269,7 +5269,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hm? Don't you normally eat thorns?\nIt makes food all crunchy and delicious, no?",
-      "pt": ""
+      "pt": "Hm? Vocês não costumam comer espinhos?\nDeixa a comida toda crocante e gostosa, não?"
     },
     {
       "id": 479,
@@ -5280,7 +5280,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No one eats those!\nThey've got ZERO nutrients!",
-      "pt": ""
+      "pt": "Ninguém come isso!\nTem ZERO nutrientes!"
     },
     {
       "id": 480,
@@ -5291,7 +5291,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hungary would've been wiped out ages ago if\nTHIS was considered cooking!\nApologize to the people of Budapest!",
-      "pt": ""
+      "pt": "A Hungria teria sido extinta há séculos se\nISSO fosse considerado culinária!\nPeça desculpas ao povo de Budapeste!"
     },
     {
       "id": 481,
@@ -5302,7 +5302,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Wait, that might actually accomplish what\nwe want. But my points still stand!",
-      "pt": ""
+      "pt": "Espera, isso até pode conseguir o que a\ngente quer. Mas meu ponto ainda vale!"
     },
     {
       "id": 482,
@@ -5313,7 +5313,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're a nitpicky one, dirty rat. I already\ndecided to go with this strategy. If I say\n\"yes,\" the project is a go!",
-      "pt": ""
+      "pt": "Você é bem chatinho, rato sujo. Já decidi\nseguir essa estratégia. Se eu disser \"sim\",\no projeto vai em frente!"
     },
     {
       "id": 483,
@@ -5324,7 +5324,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Chop-chop! If I've made myself clear, then go\ngather me more materials!",
-      "pt": ""
+      "pt": "Depressa! Se já me fiz entender, então vá\njuntar mais ingredientes para mim!"
     },
     {
       "id": 484,
@@ -5335,7 +5335,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Once again, we descend into the shrine with\nthe oppressive atmosphere.",
-      "pt": ""
+      "pt": "Mais uma vez, descemos ao santuário com\numa atmosfera opressiva."
     },
     {
       "id": 485,
@@ -5346,7 +5346,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So, what do we do now?\nThe invitation didn't specify any meeting place―――",
-      "pt": ""
+      "pt": "Então, o que fazemos agora?\nO convite não especificava nenhum ponto\nde encontro―――"
     },
     {
       "id": 486,
@@ -5357,7 +5357,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You needn't worry.\nAs expected of my rival, she appears to be\ncultured in banquet etiquette.",
-      "pt": ""
+      "pt": "Não precisa se preocupar.\nComo era de se esperar da minha rival, ela\nparece versada em etiqueta de banquetes."
     },
     {
       "id": 487,
@@ -5368,7 +5368,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Nah, that won't be a problem―\nLooks like the welcome wagon is coming to us.",
-      "pt": ""
+      "pt": "Nah, isso não vai ser problema―\nParece que a comitiva de boas-vindas está\nvindo até nós."
     },
     {
       "id": 488,
@@ -5379,7 +5379,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's the deal with throwing a dinner party in\nthe Labyrinth, anyway? They could at least come\ngreet… Ah, it appears they've arrived.",
-      "pt": ""
+      "pt": "Qual é a de dar um jantar no Labirinto,\nafinal? Ao menos podiam vir nos receber…\nAh, parece que chegaram."
     },
     {
       "id": 489,
@@ -5390,7 +5390,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I hope you're doing well, my adorable #[piggy][squirrely]#.\nI'm pleased to see you've accepted\nmy invitation.",
-      "pt": ""
+      "pt": "Espero que esteja bem,\n#[meu adorável porquinho][minha adorável esquilinho]#.\nFico feliz em ver que aceitou meu convite."
     },
     {
       "id": 490,
@@ -5401,7 +5401,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This will be my thanks for your crass behavior\nbefore. No spear, no torture. Have a full taste\nof my three meals: morning, lunch, and dinner.",
-      "pt": ""
+      "pt": "Este será meu agradecimento pela sua grosseria\nantes. Sem lança, sem tortura. Prove minhas\ntrês refeições: manhã, almoço e jantar."
     },
     {
       "id": 491,
@@ -5412,7 +5412,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Elizabeth#CDEF beams with the most ladylike smile\nshe can muster. #C236196003Shinji#CDEF, standing behind her with a pale,\naverted face catches my eye.",
-      "pt": ""
+      "pt": "#C236196003Elizabeth#CDEF abre o sorriso mais refinado que\nconsegue. Atrás dela, #C236196003Shinji#CDEF me chama atenção\ncom o rosto pálido e desviado."
     },
     {
       "id": 492,
@@ -5423,7 +5423,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"I don't ever want to think about it again\"――\nHis expression speaks volumes.",
-      "pt": ""
+      "pt": "\"Não quero nunca mais pensar nisso\"――\nSua expressão diz tudo."
     },
     {
       "id": 493,
@@ -5434,7 +5434,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "As if leading us, #C236196003Elizabeth#CDEF disappears\ninto the depths of the Labyrinth.",
-      "pt": ""
+      "pt": "Como se nos guiasse, #C236196003Elizabeth#CDEF desaparece\nnas profundezas do Labirinto."
     },
     {
       "id": 494,
@@ -5445,7 +5445,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why do we HAVE to take her up on this?\nTo be totally honest, I'm not very willing to do this.\nCan't we just do a plain old exploration of the Labyrinth?",
-      "pt": ""
+      "pt": "Por que TEMOS que aceitar isso?\nFalando sério, não estou nem um pouco a fim.\nNão dá só para explorar o Labirinto normal?"
     },
     {
       "id": 495,
@@ -5456,7 +5456,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…this has gotten a bit catastrophic,\nhasn't it…? You'll have to play along for a bit\nin order to get her #C000246204SG#CDEF…",
-      "pt": ""
+      "pt": "…isso ficou um tanto catastrófico,\nnão é…? Você terá que entrar no jogo por\num tempo para conseguir o #C000246204SG#CDEF dela…"
     },
     {
       "id": 496,
@@ -5467,7 +5467,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If things start going real south,\nwe'll have to pull out fast.\nDon't miss any red flags.",
-      "pt": ""
+      "pt": "Se a coisa começar a desandar de vez,\nteremos que recuar rápido.\nNão perca nenhum sinal de alerta."
     },
     {
       "id": 497,
@@ -5478,7 +5478,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…#[Mr.][Ms.]##C236196003 #NICK#CDEF. We'll be formulating measures\nto address the food just in case, but…\nI wish you the best of luck in the meantime.",
-      "pt": ""
+      "pt": "…#[Sr.][Srta.]##C236196003 #NICK#CDEF. Vamos pensar em medidas\npara lidar com a comida por garantia, mas…\ndesejo boa sorte enquanto isso."
     }
   ]
 }

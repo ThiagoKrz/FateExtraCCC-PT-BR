@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 133,
   "linhas_exclusivas": 55,
-  "traduzidas": 42,
+  "traduzidas": 133,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -539,7 +539,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…*woosh*!\n*rustle, rustle, rustle*…\n*slide*…! *squeal*…!",
-      "pt": ""
+      "pt": "…*vuosh*!\n*farfalha, farfalha*…\n*raspa*…! *guincha*…!"
     },
     {
       "id": 49,
@@ -550,7 +550,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…a grating racket rings out.",
-      "pt": ""
+      "pt": "…uma algazarra estridente ecoa."
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Do noises with such nuance now torment\n#C236196003Elizabeth#CDEF, the keeper of this space…?",
-      "pt": ""
+      "pt": "Ruídos dessa natureza agora atormentam\n#C236196003Elizabeth#CDEF, a guardiã deste espaço…?"
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…loud… so, loud…\nShut up… shut up…!\nPlease, shut up! Be quiet!",
-      "pt": ""
+      "pt": "…alto… tão alto…\nCalem a boca… calem a boca…!\nPor favor, parem! Fiquem quietos!"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's painful. It's exhausting…\nI already have a headache.\nPlease don't make it any worse!",
-      "pt": ""
+      "pt": "É doloroso. É exaustivo…\nJá estou com dor de cabeça.\nPor favor, não piorem ainda mais!"
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Grk…! It hurts… It HURTS!\nPlease, no more…",
-      "pt": ""
+      "pt": "Argh…! Dói… DÓI muito!\nPor favor, chega…"
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Pigs! Insects! Men! WOMEN!\nMy body! My castle! My BLOOD!\nCrunching! Chafing! Creaking! SCRATCHING!",
-      "pt": ""
+      "pt": "Porcos! Insetos! Homens! MULHERES!\nMeu corpo! Meu castelo! Meu SANGUE!\nEstalos! Atritos! Rangidos! Arranhões!"
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't know――!\nI don't know where this pain is\ncoming from anymore!",
-      "pt": ""
+      "pt": "Eu não sei――!\nNão sei mais de onde essa dor\nestá vindo!"
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I see. She, too, was headache-prone.\nThis noise is like a rasp,\nconstantly tormenting her.",
-      "pt": ""
+      "pt": "…Entendo. Ela também sofria de enxaqueca.\nEsse ruído é como uma grosa,\natormentando-a sem parar."
     },
     {
       "id": 57,
@@ -979,7 +979,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The noises are incessant,\nlike small insects buzzing past my ear.\nLike trees shaking and shaking in a storm.",
-      "pt": ""
+      "pt": "Os ruídos não cessam,\ncomo insetos zumbindo perto do ouvido.\nComo árvores sacudidas pela tempestade."
     },
     {
       "id": 89,
@@ -990,7 +990,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What is that unpleasant commotion!?\nSuch cacophonies shouldn't be blaring\nthroughout her mind so!",
-      "pt": ""
+      "pt": "Que algazarra desagradável é essa!?\nCacofonias assim não deveriam ecoar\npela mente dela desse jeito!"
     },
     {
       "id": 90,
@@ -1001,7 +1001,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Some would call this \"tone-deafness,\"\nwhich isn't out of character for her.\nStill, the noise we're hearing isn't normal.",
-      "pt": ""
+      "pt": "Alguns chamariam isso de \"ouvido ruim\",\no que até combina com ela.\nMas esse ruído que ouvimos não é normal."
     },
     {
       "id": 91,
@@ -1012,7 +1012,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My ears! My ears are going to fall OFFFFF!\nWhat is this noise!? It's like a saw cutting\nthrough scrap iron served on a plate!",
-      "pt": ""
+      "pt": "Meus ouvidos! Vão CAIIIIR!\nQue barulho é esse!? Parece uma serra\ncortando ferro velho num prato!"
     },
     {
       "id": 92,
@@ -1023,7 +1023,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is a tormenting noise. It tortures,\noppresses, reproaches, and drives away.\nSo, the consumer was the one being consumed.",
-      "pt": ""
+      "pt": "É um ruído de suplício. Tortura, oprime,\nrecrimina e afugenta.\nEntão a predadora era quem estava devorada."
     },
     {
       "id": 93,
@@ -1034,7 +1034,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The subconscious tells no lies. A dragon on the\nverge of death, swarmed with ants…\nI deem this to be her true nature.",
-      "pt": ""
+      "pt": "O subconsciente não mente. Um dragão à\nbeira da morte, tomado por formigas…\nJulgo ser essa a verdadeira natureza dela."
     },
     {
       "id": 94,
@@ -1045,7 +1045,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This noise resembles that of a harpoon\nas it slices through the air.",
-      "pt": ""
+      "pt": "Esse som lembra o de um arpão\ncortando o ar."
     },
     {
       "id": 95,
@@ -1056,7 +1056,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Piercing with an arrow;\nslashing with a sword;\nbinding with a chain.",
-      "pt": ""
+      "pt": "Transpassando com uma flecha;\ncortando com uma espada;\nprendendo com uma corrente."
     },
     {
       "id": 96,
@@ -1067,7 +1067,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Enough! Don't you gnaw at me――!\nDon't you gnaw away at me!",
-      "pt": ""
+      "pt": "Chega! Não me roam――!\nNão fiquem me roendo!"
     },
     {
       "id": 97,
@@ -1078,7 +1078,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It hurts… It's so loud…!\nMy ears are going to bleed to the sounds\nof my breaking apart like this!",
-      "pt": ""
+      "pt": "Dói… É alto demais…!\nMeus ouvidos vão sangrar com o som\nde eu me despedaçando desse jeito!"
     },
     {
       "id": 98,
@@ -1089,7 +1089,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is this headache my own doing?\nOr are you all setting me up?",
-      "pt": ""
+      "pt": "Essa enxaqueca é culpa minha?\nOu vocês todos armaram contra mim?"
     },
     {
       "id": 99,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This noise represents her innermost agony, as if\nshe was doomed to go insane from the beginning.\nIt would explain her emotional instability.",
-      "pt": ""
+      "pt": "Esse ruído traduz sua agonia mais íntima,\ncomo se estivesse fadada à loucura.\nExplicaria sua instabilidade emocional."
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Horn-girl's destructive urges didn't stem from\nher brash nature, but from deep frustration.\nThis constant noise ate away at her brain.",
-      "pt": ""
+      "pt": "Os impulsos destrutivos da chifrudinha\nnão vinham da índole bruta, mas da angústia.\nEsse ruído constante lhe corroía a mente."
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "From both, naturally. Noblesse oblige left her\nvulnerable to the ailings of her peasants――\nleaving her a sorry animal in body and mind.",
-      "pt": ""
+      "pt": "De ambos, claro. O noblesse oblige a deixou\nvulnerável às mazelas dos camponeses――\nreduzida a um bicho triste em corpo e alma."
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You can hear me…?\nYou filthy #RUBS  beasts#RUBEanimals#REND are trying to take\neverything from me!",
-      "pt": ""
+      "pt": "Vocês podem me ouvir…?\nSeus #RUBS  bichos#RUBEanimais#REND imundos estão tentando\narrancar tudo de mim!"
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The#RUBS  pigs#RUBE men#REND that devoured my chastity!\nThe#ROFS0002#RUBSsquirrels#RUBE women#REND that hoarded my jewels!\nThe#RUBS rabbit#RUBE time#REND that ran off with my beauty!",
-      "pt": ""
+      "pt": "Os#RUBS  porcos#RUBE homens#REND que devoraram minha castidade!\nAs#ROFS0002#RUBSesquilas#RUBE mulheres#REND que tomaram minhas joias!\nO#RUBS coelho#RUBE tempo#REND que fugiu com minha beleza!"
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "To shine their dirty little teeth,\nthey bit into #RUBS          my dragon scales#RUBEme#REND.",
-      "pt": ""
+      "pt": "Para lustrar seus dentinhos imundos,\nmorderam #RUBS    minhas escamas de dragão#RUBEmeu corpo#REND."
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It hurt. It itched. It felt dirty. I was scared. \nFather said this was a part of womanhood――\na duty. Coldly, he told me to endure.",
-      "pt": ""
+      "pt": "Doía. Coçava. Dava nojo. Eu tinha medo.\nMeu pai dizia que era coisa de mulher――\num dever. Frio, mandava eu aguentar."
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ha! Haha…! Ahahaaahahaha!\nWell, now that that bile is out of my system,\nI get to be the lord of my OWN castle!",
-      "pt": ""
+      "pt": "Há! Hahá…! Ahahaaahahahá!\nBom, agora que cuspi todo esse fel,\nposso ser a senhora do MEU próprio castelo!"
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Revenge. This is my revenge on the insects that\nreaped on my body――you incessant whiners who\ndid all but fester your days away!",
-      "pt": ""
+      "pt": "Vingança. É minha vingança contra os insetos\nque lucraram no meu corpo――chorões sem fim\nque só sabiam apodrecer dia após dia!"
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"Be beautiful,\" the insects told me. Very well!\nIf they so wish it, who better to serve as\nthe compost to my flourish?",
-      "pt": ""
+      "pt": "\"Seja bela\", diziam os insetos. Pois bem!\nSe tanto querem, quem melhor para servir\nde adubo para o meu florescer?"
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How exhilarating. As if they were on my plate,\nI pinched them between my fingers and\ncrushed them!",
-      "pt": ""
+      "pt": "Que êxtase. Como se estivessem no prato,\neu os prendi entre os dedos\ne os esmaguei!"
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "With the tip of my nail, I smashed.\nWith my heel, I grinded!\nWith my sharp lance, I SHREDDED!",
-      "pt": ""
+      "pt": "Com a ponta da unha, esmigalhei.\nCom o salto, triturei!\nCom minha lança afiada, ESTILHACEI!"
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hee, hee, hee!\nHee, hee, hee, hee!\nAha-hahaha-hahaha hahaha-hahaha-hahahaaa!",
-      "pt": ""
+      "pt": "Hi, hi, hi!\nHi, hi, hi, hi!\nAha-hahaha-hahaha hahaha-hahaha-hahaaa!"
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Just the recollection of it heals me!\nThat was the first time the discord\never stopped.",
-      "pt": ""
+      "pt": "Só de lembrar já me sinto curada!\nFoi a primeira vez que a algazarra\nparou de soar."
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I slaughtered countless peasants.\nShame I don't remember how.",
-      "pt": ""
+      "pt": "Chacinei incontáveis camponeses.\nPena que nem lembro como foi."
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Because every day, I would courteously\nchange how it was done for them!\nCould I be any more sincere?",
-      "pt": ""
+      "pt": "Porque todo dia eu variava o método\ncom toda a cortesia do mundo!\nPoderia haver alguém mais sincera?"
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "All I remember is the fresh taste of human\nblood. I'm a dragon girl, after all. What's\nwrong with me making food out of my prey!?",
-      "pt": ""
+      "pt": "Só lembro do gosto fresco de sangue humano.\nSou uma garota-dragão, afinal. O que há de\nmal em transformar minha presa em comida!?"
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the biggest difference between you and I.\nYes, I'm a tyrant. But the love I gave my people\nwas without par, even amongst wise emperors.",
-      "pt": ""
+      "pt": "Eis a maior diferença entre nós duas.\nSim, sou tirana. Mas meu amor pelo povo\nnão teve par entre sábios imperadores."
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's a shame, evil dragon.\nYou never loved your people, even once. I fear\nyou'll never be reborn as a human being.",
-      "pt": ""
+      "pt": "É uma pena, dragão maligno.\nVocê nunca amou o seu povo. Temo que\njamais renasça como um ser humano."
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've heard enough. Cover your ears, Master.\nShe recognizes her sins, yet touts that she's,\nconceitedly, justified…",
-      "pt": ""
+      "pt": "Já ouvi demais. Tampe os ouvidos, #[Mestre][Mestra]#.\nEla admite os pecados, mas se gaba de\nter plena razão em cometê-los…"
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How warped can a noble young girl be?\nNo wonder she devolved herself into\nthe likes of a vampire.",
-      "pt": ""
+      "pt": "Quão corrompida pode ser uma jovem nobre?\nNão espanta que tenha degenerado\npara algo como uma vampira."
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't listen to this. Darling, she keeps\nsquawking about this and that.\nI believe it best we ignore her entirely.",
-      "pt": ""
+      "pt": "Não vou ouvir isso. #[Querido][Querida]#, ela não\npara de tagarelar bobagens.\nAcho melhor ignorá-la por completo."
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her words are shrieks and nothing more. That\nnoise is her guilt, made manifest. The more she\ntwists the truth, the less we can do for her.",
-      "pt": ""
+      "pt": "Suas falas são só gritos. Esse ruído é\nsua culpa em forma pura. Quanto mais\ndistorce os fatos, menos podemos ajudá-la."
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So, dragons attack humans? Certainly, Dragon and\nMan don't mesh well, but humans often have the\nmost to win or lose from instigating.",
-      "pt": ""
+      "pt": "Dragões atacam humanos? Dragão e Homem\nnão combinam, mas os humanos costumam\narriscar mais quando provocam o conflito."
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But this woman sought out humans to engage. She\nis as low, low, low as a dragon could get. I'd\nbe shocked if even other dragons accepted her.",
-      "pt": ""
+      "pt": "Mas esta mulher foi atrás dos humanos.\nÉ a ralé mais baixa entre os dragões.\nDuvido que até outros dragões a aceitem."
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ahh! So loud… so loud…!\nI don't know why, but it's… noisier than usual\ntoday…!",
-      "pt": ""
+      "pt": "Aah! Alto demais… alto demais…!\nNão sei por que, mas está… mais barulhento\nque o normal hoje…!"
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Someone's cheeky today.\nFor a Servant, you sure are an eyesore…",
-      "pt": ""
+      "pt": "Alguém está atrevido hoje.\nPara um Servo, você incomoda bastante…"
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"Regret\"?\nWhy would I feel something like that?\nAs if I'd ever let that get to me…!",
-      "pt": ""
+      "pt": "\"Arrependimento\"?\nPor que eu sentiria uma coisa dessas?\nComo se eu fosse me abalar com isso…!"
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Exploitation is my duty as a noble.\nWhat is torture if not noblesse oblige?",
-      "pt": ""
+      "pt": "Explorar é meu dever como nobre.\nO que é a tortura senão noblesse oblige?"
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is that so wrong? What's so bad about it!?\nI was just protecting the Báthory family's―\nand my―fortune!",
-      "pt": ""
+      "pt": "Isso é errado? O que há de tão mau nisso!?\nEu só estava protegendo a fortuna\nda família Báthory―e a minha!"
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "All I did was fulfill my duty.\nI had to quell the awful noises.",
-      "pt": ""
+      "pt": "Só cumpri com a minha obrigação.\nEu precisava calar os ruídos horríveis."
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Everyone… everyone should be smashed and wrung\ninto a warm bath of fresh blood, just for me.\nAll my people need to do is warm my soft skin.",
-      "pt": ""
+      "pt": "Todos… todos deviam ser espremidos num\nbanho morno de sangue fresco só para mim.\nMeu povo só serve para aquecer minha pele."
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I won't lose. Even if this body completely\ntransforms into a dragon. Even if the insects\nswarming this body multiply.",
-      "pt": ""
+      "pt": "…Não vou perder. Mesmo que este corpo\nvire todo dragão. Mesmo que os insetos\nque o infestam se multipliquem."
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――I'll continue to be beautiful.\nI'll keep using the blood of many girls to\npreserve my madness.",
-      "pt": ""
+      "pt": "――――Continuarei sendo bela.\nSeguirei usando o sangue de várias moças\npara preservar a minha loucura."
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That madness――\nIt's the only thing I have left of the woman\nI used to be!",
-      "pt": ""
+      "pt": "Essa loucura――\nÉ tudo o que restou da mulher\nque um dia eu fui!"
     }
   ]
 }

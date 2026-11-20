@@ -2,7 +2,7 @@
   "projeto": "Fate/Extra CCC PT-BR",
   "scene_count": 292,
   "line_count": 67797,
-  "translated_count": 7745,
+  "translated_count": 67797,
   "groups": [
     {
       "id": "00_prologo",
@@ -11,7 +11,7 @@
       "descricao": "Cenas de abertura na escola do Lado Próximo, queda ao Lado Distante e despertar com o Servo.",
       "cenas": 14,
       "linhas": 3308,
-      "traduzidas": 691
+      "traduzidas": 3308
     },
     {
       "id": "01_capitulo_1",
@@ -20,7 +20,7 @@
       "descricao": "Andares 1F–3F do Labirinto de Sakura, psique e confronto do Capítulo 1.",
       "cenas": 7,
       "linhas": 2685,
-      "traduzidas": 295
+      "traduzidas": 2685
     },
     {
       "id": "02_capitulo_2",
@@ -29,7 +29,7 @@
       "descricao": "Andares 4F–6F do Labirinto de Sakura, psique e chefe do Capítulo 2.",
       "cenas": 7,
       "linhas": 2403,
-      "traduzidas": 295
+      "traduzidas": 2403
     },
     {
       "id": "03_capitulo_3",
@@ -38,7 +38,7 @@
       "descricao": "Andares 7F–9F do Labirinto de Sakura, psique e núcleo de Passionlip.",
       "cenas": 7,
       "linhas": 3299,
-      "traduzidas": 295
+      "traduzidas": 3299
     },
     {
       "id": "04_capitulo_4",
@@ -47,7 +47,7 @@
       "descricao": "Andares 10F–12F do Labirinto de Sakura, psique e núcleo de Jinako/Karna.",
       "cenas": 9,
       "linhas": 3025,
-      "traduzidas": 379
+      "traduzidas": 3025
     },
     {
       "id": "05_capitulo_5",
@@ -56,7 +56,7 @@
       "descricao": "Andares 13F–15F do Labirinto de Sakura, psique e confronto do Capítulo 5.",
       "cenas": 6,
       "linhas": 1972,
-      "traduzidas": 252
+      "traduzidas": 1972
     },
     {
       "id": "06_capitulo_6",
@@ -65,7 +65,7 @@
       "descricao": "Andares 16F–18F do Labirinto de Sakura, memórias e núcleo de Meltlilith.",
       "cenas": 11,
       "linhas": 3854,
-      "traduzidas": 463
+      "traduzidas": 3854
     },
     {
       "id": "07_capitulo_7_final",
@@ -74,7 +74,7 @@
       "descricao": "Reta final no Labirinto (19F–20F), Núcleo da Moon Cell, BB, Kiara, epílogos e chefes secretos.",
       "cenas": 17,
       "linhas": 5452,
-      "traduzidas": 715
+      "traduzidas": 5452
     },
     {
       "id": "08_escola_hub",
@@ -83,7 +83,7 @@
       "descricao": "Corredores, Sala 2-A, Terraço, Enfermaria, Grêmio, Jardim e Biblioteca entre explorações.",
       "cenas": 11,
       "linhas": 16320,
-      "traduzidas": 468
+      "traduzidas": 16320
     },
     {
       "id": "09_meu_quarto_bb",
@@ -92,7 +92,7 @@
       "descricao": "Diálogos privados em Meu Quarto (variantes espelhadas), BB Channel e Sala de Punição.",
       "cenas": 5,
       "linhas": 14181,
-      "traduzidas": 248
+      "traduzidas": 14181
     },
     {
       "id": "10_sg_jardins_secretos",
@@ -101,7 +101,7 @@
       "descricao": "Menus e textos dos Secret Gardens de todos os personagens (arquivos .bin de largura fixa).",
       "cenas": 62,
       "linhas": 374,
-      "traduzidas": 6
+      "traduzidas": 374
     },
     {
       "id": "11_lore_matriz",
@@ -110,7 +110,7 @@
       "descricao": "Perfis e entradas de lore da Info Matrix dos capítulos/chefes 1 a 8 (largura fixa).",
       "cenas": 16,
       "linhas": 384,
-      "traduzidas": 4
+      "traduzidas": 384
     },
     {
       "id": "12_menus_interface",
@@ -119,7 +119,7 @@
       "descricao": "Telas de sistema, batalha, loja, galeria, opções, salvamento, missões e status.",
       "cenas": 26,
       "linhas": 900,
-      "traduzidas": 78
+      "traduzidas": 900
     },
     {
       "id": "13_sistema_comum",
@@ -128,7 +128,7 @@
       "descricao": "EBOOT.BIN, historia/main (PRELOAD.pak — tamanho fixo) e mapas curtos de evento/teste.",
       "cenas": 13,
       "linhas": 2138,
-      "traduzidas": 474
+      "traduzidas": 2138
     },
     {
       "id": "14_mapas_base_auto",
@@ -137,7 +137,7 @@
       "descricao": "Mapas sem falas exclusivas (apenas cabeçalho comum do motor); preenchidos automaticamente.",
       "cenas": 81,
       "linhas": 7502,
-      "traduzidas": 3082
+      "traduzidas": 7502
     }
   ],
   "scenes": {
@@ -155,7 +155,7 @@
       "preload_fixo": false,
       "linhas": 111,
       "exclusivas": 33,
-      "traduzidas": 75
+      "traduzidas": 111
     },
     "historia/002": {
       "id": "historia/002",
@@ -171,7 +171,7 @@
       "preload_fixo": false,
       "linhas": 139,
       "exclusivas": 60,
-      "traduzidas": 42
+      "traduzidas": 139
     },
     "historia/003": {
       "id": "historia/003",
@@ -187,7 +187,7 @@
       "preload_fixo": false,
       "linhas": 476,
       "exclusivas": 395,
-      "traduzidas": 42
+      "traduzidas": 476
     },
     "historia/004": {
       "id": "historia/004",
@@ -203,7 +203,7 @@
       "preload_fixo": false,
       "linhas": 281,
       "exclusivas": 202,
-      "traduzidas": 42
+      "traduzidas": 281
     },
     "historia/005": {
       "id": "historia/005",
@@ -219,7 +219,7 @@
       "preload_fixo": false,
       "linhas": 180,
       "exclusivas": 101,
-      "traduzidas": 42
+      "traduzidas": 180
     },
     "historia/007": {
       "id": "historia/007",
@@ -235,7 +235,7 @@
       "preload_fixo": false,
       "linhas": 148,
       "exclusivas": 69,
-      "traduzidas": 112
+      "traduzidas": 148
     },
     "historia/008": {
       "id": "historia/008",
@@ -251,7 +251,7 @@
       "preload_fixo": false,
       "linhas": 569,
       "exclusivas": 489,
-      "traduzidas": 42
+      "traduzidas": 569
     },
     "historia/009": {
       "id": "historia/009",
@@ -267,7 +267,7 @@
       "preload_fixo": false,
       "linhas": 188,
       "exclusivas": 110,
-      "traduzidas": 42
+      "traduzidas": 188
     },
     "historia/010": {
       "id": "historia/010",
@@ -283,7 +283,7 @@
       "preload_fixo": false,
       "linhas": 115,
       "exclusivas": 36,
-      "traduzidas": 42
+      "traduzidas": 115
     },
     "historia/011": {
       "id": "historia/011",
@@ -299,7 +299,7 @@
       "preload_fixo": false,
       "linhas": 152,
       "exclusivas": 74,
-      "traduzidas": 42
+      "traduzidas": 152
     },
     "historia/023": {
       "id": "historia/023",
@@ -315,7 +315,7 @@
       "preload_fixo": false,
       "linhas": 127,
       "exclusivas": 49,
-      "traduzidas": 42
+      "traduzidas": 127
     },
     "historia/069": {
       "id": "historia/069",
@@ -331,7 +331,7 @@
       "preload_fixo": false,
       "linhas": 516,
       "exclusivas": 382,
-      "traduzidas": 42
+      "traduzidas": 516
     },
     "historia/070": {
       "id": "historia/070",
@@ -347,7 +347,7 @@
       "preload_fixo": false,
       "linhas": 198,
       "exclusivas": 72,
-      "traduzidas": 42
+      "traduzidas": 198
     },
     "historia/078": {
       "id": "historia/078",
@@ -363,7 +363,7 @@
       "preload_fixo": false,
       "linhas": 108,
       "exclusivas": 30,
-      "traduzidas": 42
+      "traduzidas": 108
     },
     "historia/090": {
       "id": "historia/090",
@@ -379,7 +379,7 @@
       "preload_fixo": false,
       "linhas": 784,
       "exclusivas": 653,
-      "traduzidas": 42
+      "traduzidas": 784
     },
     "historia/091": {
       "id": "historia/091",
@@ -395,7 +395,7 @@
       "preload_fixo": false,
       "linhas": 461,
       "exclusivas": 330,
-      "traduzidas": 42
+      "traduzidas": 461
     },
     "historia/092": {
       "id": "historia/092",
@@ -411,7 +411,7 @@
       "preload_fixo": false,
       "linhas": 180,
       "exclusivas": 50,
-      "traduzidas": 42
+      "traduzidas": 180
     },
     "historia/062": {
       "id": "historia/062",
@@ -427,7 +427,7 @@
       "preload_fixo": false,
       "linhas": 327,
       "exclusivas": 196,
-      "traduzidas": 43
+      "traduzidas": 327
     },
     "historia/051": {
       "id": "historia/051",
@@ -443,7 +443,7 @@
       "preload_fixo": false,
       "linhas": 150,
       "exclusivas": 72,
-      "traduzidas": 42
+      "traduzidas": 150
     },
     "historia/079": {
       "id": "historia/079",
@@ -459,7 +459,7 @@
       "preload_fixo": false,
       "linhas": 383,
       "exclusivas": 255,
-      "traduzidas": 42
+      "traduzidas": 383
     },
     "historia/150": {
       "id": "historia/150",
@@ -475,7 +475,7 @@
       "preload_fixo": false,
       "linhas": 400,
       "exclusivas": 274,
-      "traduzidas": 42
+      "traduzidas": 400
     },
     "historia/093": {
       "id": "historia/093",
@@ -491,7 +491,7 @@
       "preload_fixo": false,
       "linhas": 408,
       "exclusivas": 274,
-      "traduzidas": 42
+      "traduzidas": 408
     },
     "historia/094": {
       "id": "historia/094",
@@ -507,7 +507,7 @@
       "preload_fixo": false,
       "linhas": 433,
       "exclusivas": 300,
-      "traduzidas": 42
+      "traduzidas": 433
     },
     "historia/095": {
       "id": "historia/095",
@@ -523,7 +523,7 @@
       "preload_fixo": false,
       "linhas": 260,
       "exclusivas": 132,
-      "traduzidas": 42
+      "traduzidas": 260
     },
     "historia/114": {
       "id": "historia/114",
@@ -539,7 +539,7 @@
       "preload_fixo": false,
       "linhas": 256,
       "exclusivas": 125,
-      "traduzidas": 42
+      "traduzidas": 256
     },
     "historia/063": {
       "id": "historia/063",
@@ -555,7 +555,7 @@
       "preload_fixo": false,
       "linhas": 411,
       "exclusivas": 277,
-      "traduzidas": 43
+      "traduzidas": 411
     },
     "historia/052": {
       "id": "historia/052",
@@ -571,7 +571,7 @@
       "preload_fixo": false,
       "linhas": 127,
       "exclusivas": 49,
-      "traduzidas": 42
+      "traduzidas": 127
     },
     "historia/151": {
       "id": "historia/151",
@@ -587,7 +587,7 @@
       "preload_fixo": false,
       "linhas": 508,
       "exclusivas": 381,
-      "traduzidas": 42
+      "traduzidas": 508
     },
     "historia/096": {
       "id": "historia/096",
@@ -603,7 +603,7 @@
       "preload_fixo": false,
       "linhas": 488,
       "exclusivas": 356,
-      "traduzidas": 42
+      "traduzidas": 488
     },
     "historia/097": {
       "id": "historia/097",
@@ -619,7 +619,7 @@
       "preload_fixo": false,
       "linhas": 604,
       "exclusivas": 469,
-      "traduzidas": 42
+      "traduzidas": 604
     },
     "historia/098": {
       "id": "historia/098",
@@ -635,7 +635,7 @@
       "preload_fixo": false,
       "linhas": 258,
       "exclusivas": 128,
-      "traduzidas": 42
+      "traduzidas": 258
     },
     "historia/064": {
       "id": "historia/064",
@@ -651,7 +651,7 @@
       "preload_fixo": false,
       "linhas": 463,
       "exclusivas": 331,
-      "traduzidas": 43
+      "traduzidas": 463
     },
     "historia/053": {
       "id": "historia/053",
@@ -667,7 +667,7 @@
       "preload_fixo": false,
       "linhas": 141,
       "exclusivas": 63,
-      "traduzidas": 42
+      "traduzidas": 141
     },
     "historia/108": {
       "id": "historia/108",
@@ -683,7 +683,7 @@
       "preload_fixo": false,
       "linhas": 878,
       "exclusivas": 751,
-      "traduzidas": 42
+      "traduzidas": 878
     },
     "historia/152": {
       "id": "historia/152",
@@ -699,7 +699,7 @@
       "preload_fixo": false,
       "linhas": 467,
       "exclusivas": 341,
-      "traduzidas": 42
+      "traduzidas": 467
     },
     "historia/099": {
       "id": "historia/099",
@@ -715,7 +715,7 @@
       "preload_fixo": false,
       "linhas": 290,
       "exclusivas": 154,
-      "traduzidas": 42
+      "traduzidas": 290
     },
     "historia/100": {
       "id": "historia/100",
@@ -731,7 +731,7 @@
       "preload_fixo": false,
       "linhas": 543,
       "exclusivas": 408,
-      "traduzidas": 42
+      "traduzidas": 543
     },
     "historia/101": {
       "id": "historia/101",
@@ -747,7 +747,7 @@
       "preload_fixo": false,
       "linhas": 321,
       "exclusivas": 187,
-      "traduzidas": 42
+      "traduzidas": 321
     },
     "historia/112": {
       "id": "historia/112",
@@ -763,7 +763,7 @@
       "preload_fixo": false,
       "linhas": 384,
       "exclusivas": 257,
-      "traduzidas": 42
+      "traduzidas": 384
     },
     "historia/122": {
       "id": "historia/122",
@@ -779,7 +779,7 @@
       "preload_fixo": false,
       "linhas": 250,
       "exclusivas": 116,
-      "traduzidas": 42
+      "traduzidas": 250
     },
     "historia/124": {
       "id": "historia/124",
@@ -795,7 +795,7 @@
       "preload_fixo": false,
       "linhas": 342,
       "exclusivas": 209,
-      "traduzidas": 42
+      "traduzidas": 342
     },
     "historia/065": {
       "id": "historia/065",
@@ -811,7 +811,7 @@
       "preload_fixo": false,
       "linhas": 383,
       "exclusivas": 253,
-      "traduzidas": 43
+      "traduzidas": 383
     },
     "historia/054": {
       "id": "historia/054",
@@ -827,7 +827,7 @@
       "preload_fixo": false,
       "linhas": 120,
       "exclusivas": 42,
-      "traduzidas": 42
+      "traduzidas": 120
     },
     "historia/153": {
       "id": "historia/153",
@@ -843,7 +843,7 @@
       "preload_fixo": false,
       "linhas": 392,
       "exclusivas": 265,
-      "traduzidas": 42
+      "traduzidas": 392
     },
     "historia/102": {
       "id": "historia/102",
@@ -859,7 +859,7 @@
       "preload_fixo": false,
       "linhas": 447,
       "exclusivas": 315,
-      "traduzidas": 42
+      "traduzidas": 447
     },
     "historia/103": {
       "id": "historia/103",
@@ -875,7 +875,7 @@
       "preload_fixo": false,
       "linhas": 497,
       "exclusivas": 364,
-      "traduzidas": 42
+      "traduzidas": 497
     },
     "historia/115": {
       "id": "historia/115",
@@ -891,7 +891,7 @@
       "preload_fixo": false,
       "linhas": 197,
       "exclusivas": 68,
-      "traduzidas": 42
+      "traduzidas": 197
     },
     "historia/116": {
       "id": "historia/116",
@@ -907,7 +907,7 @@
       "preload_fixo": false,
       "linhas": 263,
       "exclusivas": 125,
-      "traduzidas": 42
+      "traduzidas": 263
     },
     "historia/055": {
       "id": "historia/055",
@@ -923,7 +923,7 @@
       "preload_fixo": false,
       "linhas": 133,
       "exclusivas": 55,
-      "traduzidas": 42
+      "traduzidas": 133
     },
     "historia/154": {
       "id": "historia/154",
@@ -939,7 +939,7 @@
       "preload_fixo": false,
       "linhas": 435,
       "exclusivas": 309,
-      "traduzidas": 42
+      "traduzidas": 435
     },
     "historia/104": {
       "id": "historia/104",
@@ -955,7 +955,7 @@
       "preload_fixo": false,
       "linhas": 326,
       "exclusivas": 194,
-      "traduzidas": 42
+      "traduzidas": 326
     },
     "historia/105": {
       "id": "historia/105",
@@ -971,7 +971,7 @@
       "preload_fixo": false,
       "linhas": 339,
       "exclusivas": 205,
-      "traduzidas": 42
+      "traduzidas": 339
     },
     "historia/106": {
       "id": "historia/106",
@@ -987,7 +987,7 @@
       "preload_fixo": false,
       "linhas": 273,
       "exclusivas": 140,
-      "traduzidas": 42
+      "traduzidas": 273
     },
     "historia/107": {
       "id": "historia/107",
@@ -1003,7 +1003,7 @@
       "preload_fixo": false,
       "linhas": 315,
       "exclusivas": 185,
-      "traduzidas": 42
+      "traduzidas": 315
     },
     "historia/117": {
       "id": "historia/117",
@@ -1019,7 +1019,7 @@
       "preload_fixo": false,
       "linhas": 290,
       "exclusivas": 158,
-      "traduzidas": 42
+      "traduzidas": 290
     },
     "historia/118": {
       "id": "historia/118",
@@ -1035,7 +1035,7 @@
       "preload_fixo": false,
       "linhas": 225,
       "exclusivas": 91,
-      "traduzidas": 42
+      "traduzidas": 225
     },
     "historia/067": {
       "id": "historia/067",
@@ -1051,7 +1051,7 @@
       "preload_fixo": false,
       "linhas": 221,
       "exclusivas": 92,
-      "traduzidas": 43
+      "traduzidas": 221
     },
     "historia/056": {
       "id": "historia/056",
@@ -1067,7 +1067,7 @@
       "preload_fixo": false,
       "linhas": 124,
       "exclusivas": 46,
-      "traduzidas": 42
+      "traduzidas": 124
     },
     "historia/109": {
       "id": "historia/109",
@@ -1083,7 +1083,7 @@
       "preload_fixo": false,
       "linhas": 266,
       "exclusivas": 138,
-      "traduzidas": 42
+      "traduzidas": 266
     },
     "historia/110": {
       "id": "historia/110",
@@ -1099,7 +1099,7 @@
       "preload_fixo": false,
       "linhas": 927,
       "exclusivas": 792,
-      "traduzidas": 42
+      "traduzidas": 927
     },
     "historia/155": {
       "id": "historia/155",
@@ -1115,7 +1115,7 @@
       "preload_fixo": false,
       "linhas": 548,
       "exclusivas": 420,
-      "traduzidas": 42
+      "traduzidas": 548
     },
     "historia/068": {
       "id": "historia/068",
@@ -1131,7 +1131,7 @@
       "preload_fixo": false,
       "linhas": 359,
       "exclusivas": 227,
-      "traduzidas": 42
+      "traduzidas": 359
     },
     "historia/119": {
       "id": "historia/119",
@@ -1147,7 +1147,7 @@
       "preload_fixo": false,
       "linhas": 230,
       "exclusivas": 97,
-      "traduzidas": 42
+      "traduzidas": 230
     },
     "historia/123": {
       "id": "historia/123",
@@ -1163,7 +1163,7 @@
       "preload_fixo": false,
       "linhas": 354,
       "exclusivas": 223,
-      "traduzidas": 42
+      "traduzidas": 354
     },
     "historia/111": {
       "id": "historia/111",
@@ -1179,7 +1179,7 @@
       "preload_fixo": false,
       "linhas": 410,
       "exclusivas": 278,
-      "traduzidas": 42
+      "traduzidas": 410
     },
     "historia/121": {
       "id": "historia/121",
@@ -1195,7 +1195,7 @@
       "preload_fixo": false,
       "linhas": 425,
       "exclusivas": 293,
-      "traduzidas": 42
+      "traduzidas": 425
     },
     "historia/073": {
       "id": "historia/073",
@@ -1211,7 +1211,7 @@
       "preload_fixo": false,
       "linhas": 207,
       "exclusivas": 81,
-      "traduzidas": 43
+      "traduzidas": 207
     },
     "historia/162": {
       "id": "historia/162",
@@ -1227,7 +1227,7 @@
       "preload_fixo": false,
       "linhas": 179,
       "exclusivas": 53,
-      "traduzidas": 42
+      "traduzidas": 179
     },
     "historia/156": {
       "id": "historia/156",
@@ -1243,7 +1243,7 @@
       "preload_fixo": false,
       "linhas": 937,
       "exclusivas": 804,
-      "traduzidas": 42
+      "traduzidas": 937
     },
     "historia/059": {
       "id": "historia/059",
@@ -1259,7 +1259,7 @@
       "preload_fixo": false,
       "linhas": 246,
       "exclusivas": 120,
-      "traduzidas": 42
+      "traduzidas": 246
     },
     "historia/157": {
       "id": "historia/157",
@@ -1275,7 +1275,7 @@
       "preload_fixo": false,
       "linhas": 450,
       "exclusivas": 317,
-      "traduzidas": 42
+      "traduzidas": 450
     },
     "historia/060": {
       "id": "historia/060",
@@ -1291,7 +1291,7 @@
       "preload_fixo": false,
       "linhas": 318,
       "exclusivas": 191,
-      "traduzidas": 42
+      "traduzidas": 318
     },
     "historia/072": {
       "id": "historia/072",
@@ -1307,7 +1307,7 @@
       "preload_fixo": false,
       "linhas": 144,
       "exclusivas": 66,
-      "traduzidas": 42
+      "traduzidas": 144
     },
     "historia/074": {
       "id": "historia/074",
@@ -1323,7 +1323,7 @@
       "preload_fixo": false,
       "linhas": 383,
       "exclusivas": 305,
-      "traduzidas": 42
+      "traduzidas": 383
     },
     "historia/075": {
       "id": "historia/075",
@@ -1339,7 +1339,7 @@
       "preload_fixo": false,
       "linhas": 187,
       "exclusivas": 61,
-      "traduzidas": 42
+      "traduzidas": 187
     },
     "historia/080": {
       "id": "historia/080",
@@ -1355,7 +1355,7 @@
       "preload_fixo": false,
       "linhas": 80,
       "exclusivas": 2,
-      "traduzidas": 42
+      "traduzidas": 80
     },
     "historia/136": {
       "id": "historia/136",
@@ -1371,7 +1371,7 @@
       "preload_fixo": false,
       "linhas": 347,
       "exclusivas": 221,
-      "traduzidas": 42
+      "traduzidas": 347
     },
     "historia/180": {
       "id": "historia/180",
@@ -1387,7 +1387,7 @@
       "preload_fixo": false,
       "linhas": 196,
       "exclusivas": 66,
-      "traduzidas": 42
+      "traduzidas": 196
     },
     "historia/024": {
       "id": "historia/024",
@@ -1403,7 +1403,7 @@
       "preload_fixo": false,
       "linhas": 2180,
       "exclusivas": 2091,
-      "traduzidas": 43
+      "traduzidas": 2180
     },
     "historia/025": {
       "id": "historia/025",
@@ -1419,7 +1419,7 @@
       "preload_fixo": false,
       "linhas": 1949,
       "exclusivas": 1857,
-      "traduzidas": 42
+      "traduzidas": 1949
     },
     "historia/026": {
       "id": "historia/026",
@@ -1435,7 +1435,7 @@
       "preload_fixo": false,
       "linhas": 1007,
       "exclusivas": 923,
-      "traduzidas": 43
+      "traduzidas": 1007
     },
     "historia/027": {
       "id": "historia/027",
@@ -1451,7 +1451,7 @@
       "preload_fixo": false,
       "linhas": 558,
       "exclusivas": 478,
-      "traduzidas": 43
+      "traduzidas": 558
     },
     "historia/028": {
       "id": "historia/028",
@@ -1467,7 +1467,7 @@
       "preload_fixo": false,
       "linhas": 432,
       "exclusivas": 352,
-      "traduzidas": 42
+      "traduzidas": 432
     },
     "historia/029": {
       "id": "historia/029",
@@ -1483,7 +1483,7 @@
       "preload_fixo": false,
       "linhas": 1165,
       "exclusivas": 1081,
-      "traduzidas": 43
+      "traduzidas": 1165
     },
     "historia/030": {
       "id": "historia/030",
@@ -1499,7 +1499,7 @@
       "preload_fixo": false,
       "linhas": 5235,
       "exclusivas": 5137,
-      "traduzidas": 43
+      "traduzidas": 5235
     },
     "historia/031": {
       "id": "historia/031",
@@ -1515,7 +1515,7 @@
       "preload_fixo": false,
       "linhas": 1143,
       "exclusivas": 1058,
-      "traduzidas": 42
+      "traduzidas": 1143
     },
     "historia/035": {
       "id": "historia/035",
@@ -1531,7 +1531,7 @@
       "preload_fixo": false,
       "linhas": 2082,
       "exclusivas": 2001,
-      "traduzidas": 43
+      "traduzidas": 2082
     },
     "historia/036": {
       "id": "historia/036",
@@ -1547,7 +1547,7 @@
       "preload_fixo": false,
       "linhas": 188,
       "exclusivas": 108,
-      "traduzidas": 42
+      "traduzidas": 188
     },
     "historia/037": {
       "id": "historia/037",
@@ -1563,7 +1563,7 @@
       "preload_fixo": false,
       "linhas": 381,
       "exclusivas": 302,
-      "traduzidas": 42
+      "traduzidas": 381
     },
     "historia/071": {
       "id": "historia/071",
@@ -1579,7 +1579,7 @@
       "preload_fixo": false,
       "linhas": 4377,
       "exclusivas": 4267,
-      "traduzidas": 62
+      "traduzidas": 4377
     },
     "historia/032": {
       "id": "historia/032",
@@ -1595,7 +1595,7 @@
       "preload_fixo": false,
       "linhas": 4351,
       "exclusivas": 4241,
-      "traduzidas": 51
+      "traduzidas": 4351
     },
     "historia/033": {
       "id": "historia/033",
@@ -1611,7 +1611,7 @@
       "preload_fixo": false,
       "linhas": 4351,
       "exclusivas": 4241,
-      "traduzidas": 51
+      "traduzidas": 4351
     },
     "historia/058": {
       "id": "historia/058",
@@ -1627,7 +1627,7 @@
       "preload_fixo": false,
       "linhas": 711,
       "exclusivas": 632,
-      "traduzidas": 42
+      "traduzidas": 711
     },
     "historia/050": {
       "id": "historia/050",
@@ -1643,7 +1643,7 @@
       "preload_fixo": false,
       "linhas": 391,
       "exclusivas": 311,
-      "traduzidas": 42
+      "traduzidas": 391
     },
     "sg/interface__sg__0000": {
       "id": "sg/interface__sg__0000",
@@ -1659,7 +1659,7 @@
       "preload_fixo": false,
       "linhas": 12,
       "exclusivas": 2,
-      "traduzidas": 3
+      "traduzidas": 12
     },
     "sg/interface__sg__sg_ner": {
       "id": "sg/interface__sg__sg_ner",
@@ -1675,7 +1675,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_ner_text1": {
       "id": "sg/interface__sg__sg_ner_text1",
@@ -1691,7 +1691,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 1
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ner_text2": {
       "id": "sg/interface__sg__sg_ner_text2",
@@ -1707,7 +1707,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ner_text3": {
       "id": "sg/interface__sg__sg_ner_text3",
@@ -1723,7 +1723,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ner_text4": {
       "id": "sg/interface__sg__sg_ner_text4",
@@ -1739,7 +1739,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_tam": {
       "id": "sg/interface__sg__sg_tam",
@@ -1755,7 +1755,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_tam_text1": {
       "id": "sg/interface__sg__sg_tam_text1",
@@ -1771,7 +1771,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_tam_text2": {
       "id": "sg/interface__sg__sg_tam_text2",
@@ -1787,7 +1787,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_tam_text3": {
       "id": "sg/interface__sg__sg_tam_text3",
@@ -1803,7 +1803,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_tam_text4": {
       "id": "sg/interface__sg__sg_tam_text4",
@@ -1819,7 +1819,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_emi": {
       "id": "sg/interface__sg__sg_emi",
@@ -1835,7 +1835,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_emi_text1": {
       "id": "sg/interface__sg__sg_emi_text1",
@@ -1851,7 +1851,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_emi_text2": {
       "id": "sg/interface__sg__sg_emi_text2",
@@ -1867,7 +1867,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_emi_text3": {
       "id": "sg/interface__sg__sg_emi_text3",
@@ -1883,7 +1883,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_emi_text4": {
       "id": "sg/interface__sg__sg_emi_text4",
@@ -1899,7 +1899,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_gil": {
       "id": "sg/interface__sg__sg_gil",
@@ -1915,7 +1915,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_gil_text1": {
       "id": "sg/interface__sg__sg_gil_text1",
@@ -1931,7 +1931,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_gil_text2": {
       "id": "sg/interface__sg__sg_gil_text2",
@@ -1947,7 +1947,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_gil_text3": {
       "id": "sg/interface__sg__sg_gil_text3",
@@ -1963,7 +1963,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_gil_text4": {
       "id": "sg/interface__sg__sg_gil_text4",
@@ -1979,7 +1979,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_rin": {
       "id": "sg/interface__sg__sg_rin",
@@ -1995,7 +1995,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 10,
-      "traduzidas": 2
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_rin_text1": {
       "id": "sg/interface__sg__sg_rin_text1",
@@ -2011,7 +2011,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_rin_text2": {
       "id": "sg/interface__sg__sg_rin_text2",
@@ -2027,7 +2027,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_rin_text3": {
       "id": "sg/interface__sg__sg_rin_text3",
@@ -2043,7 +2043,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_rin_text4": {
       "id": "sg/interface__sg__sg_rin_text4",
@@ -2059,7 +2059,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ran": {
       "id": "sg/interface__sg__sg_ran",
@@ -2075,7 +2075,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_ran_text1": {
       "id": "sg/interface__sg__sg_ran_text1",
@@ -2091,7 +2091,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ran_text2": {
       "id": "sg/interface__sg__sg_ran_text2",
@@ -2107,7 +2107,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ran_text3": {
       "id": "sg/interface__sg__sg_ran_text3",
@@ -2123,7 +2123,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ran_text4": {
       "id": "sg/interface__sg__sg_ran_text4",
@@ -2139,7 +2139,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_psl": {
       "id": "sg/interface__sg__sg_psl",
@@ -2155,7 +2155,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_psl_text1": {
       "id": "sg/interface__sg__sg_psl_text1",
@@ -2171,7 +2171,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_psl_text2": {
       "id": "sg/interface__sg__sg_psl_text2",
@@ -2187,7 +2187,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_psl_text3": {
       "id": "sg/interface__sg__sg_psl_text3",
@@ -2203,7 +2203,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_psl_text4": {
       "id": "sg/interface__sg__sg_psl_text4",
@@ -2219,7 +2219,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_zin": {
       "id": "sg/interface__sg__sg_zin",
@@ -2235,7 +2235,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_zin_text1": {
       "id": "sg/interface__sg__sg_zin_text1",
@@ -2251,7 +2251,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_zin_text2": {
       "id": "sg/interface__sg__sg_zin_text2",
@@ -2267,7 +2267,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_zin_text3": {
       "id": "sg/interface__sg__sg_zin_text3",
@@ -2283,7 +2283,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_zin_text4": {
       "id": "sg/interface__sg__sg_zin_text4",
@@ -2299,87 +2299,87 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ksk": {
       "id": "sg/interface__sg__sg_ksk",
       "po": "ptbr/sg/interface__sg__sg_ksk.po",
-      "path": "10_sg_jardins_secretos/090_sg_karna_menu_e_ficha_de_segredos__interface__sg__sg_ksk.json",
+      "path": "10_sg_jardins_secretos/090_sg_bb_black_sakura_menu_e_ficha_de_segredos__interface__sg__sg_ksk.json",
       "grupo": "10_sg_jardins_secretos",
       "capitulo": "Secret Gardens",
       "ordem": 90,
-      "titulo": "SG [Karna] — Menu e Ficha de Segredos",
+      "titulo": "SG [BB (Black Sakura)] — Menu e Ficha de Segredos",
       "origem": "interface/sg/sg_ksk.bin",
       "nota": "Largura fixa (.bin)",
       "is_stub": false,
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_ksk_text1": {
       "id": "sg/interface__sg__sg_ksk_text1",
       "po": "ptbr/sg/interface__sg__sg_ksk_text1.po",
-      "path": "10_sg_jardins_secretos/091_sg_karna_sg_1_texto_e_descricao__interface__sg__sg_ksk_text1.json",
+      "path": "10_sg_jardins_secretos/091_sg_bb_black_sakura_sg_1_texto_e_descricao__interface__sg__sg_ksk_text1.json",
       "grupo": "10_sg_jardins_secretos",
       "capitulo": "Secret Gardens",
       "ordem": 91,
-      "titulo": "SG [Karna] — SG 1 (Texto e Descrição)",
+      "titulo": "SG [BB (Black Sakura)] — SG 1 (Texto e Descrição)",
       "origem": "interface/sg/sg_ksk_text1.bin",
       "nota": "Largura fixa (.bin)",
       "is_stub": false,
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ksk_text2": {
       "id": "sg/interface__sg__sg_ksk_text2",
       "po": "ptbr/sg/interface__sg__sg_ksk_text2.po",
-      "path": "10_sg_jardins_secretos/092_sg_karna_sg_2_texto_e_descricao__interface__sg__sg_ksk_text2.json",
+      "path": "10_sg_jardins_secretos/092_sg_bb_black_sakura_sg_2_texto_e_descricao__interface__sg__sg_ksk_text2.json",
       "grupo": "10_sg_jardins_secretos",
       "capitulo": "Secret Gardens",
       "ordem": 92,
-      "titulo": "SG [Karna] — SG 2 (Texto e Descrição)",
+      "titulo": "SG [BB (Black Sakura)] — SG 2 (Texto e Descrição)",
       "origem": "interface/sg/sg_ksk_text2.bin",
       "nota": "Largura fixa (.bin)",
       "is_stub": false,
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ksk_text3": {
       "id": "sg/interface__sg__sg_ksk_text3",
       "po": "ptbr/sg/interface__sg__sg_ksk_text3.po",
-      "path": "10_sg_jardins_secretos/093_sg_karna_sg_3_texto_e_descricao__interface__sg__sg_ksk_text3.json",
+      "path": "10_sg_jardins_secretos/093_sg_bb_black_sakura_sg_3_texto_e_descricao__interface__sg__sg_ksk_text3.json",
       "grupo": "10_sg_jardins_secretos",
       "capitulo": "Secret Gardens",
       "ordem": 93,
-      "titulo": "SG [Karna] — SG 3 (Texto e Descrição)",
+      "titulo": "SG [BB (Black Sakura)] — SG 3 (Texto e Descrição)",
       "origem": "interface/sg/sg_ksk_text3.bin",
       "nota": "Largura fixa (.bin)",
       "is_stub": false,
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_ksk_text4": {
       "id": "sg/interface__sg__sg_ksk_text4",
       "po": "ptbr/sg/interface__sg__sg_ksk_text4.po",
-      "path": "10_sg_jardins_secretos/094_sg_karna_episodio__interface__sg__sg_ksk_text4.json",
+      "path": "10_sg_jardins_secretos/094_sg_bb_black_sakura_episodio__interface__sg__sg_ksk_text4.json",
       "grupo": "10_sg_jardins_secretos",
       "capitulo": "Secret Gardens",
       "ordem": 94,
-      "titulo": "SG [Karna] — Episódio",
+      "titulo": "SG [BB (Black Sakura)] — Episódio",
       "origem": "interface/sg/sg_ksk_text4.bin",
       "nota": "Largura fixa (.bin)",
       "is_stub": false,
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_eli": {
       "id": "sg/interface__sg__sg_eli",
@@ -2395,7 +2395,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_eli_text1": {
       "id": "sg/interface__sg__sg_eli_text1",
@@ -2411,7 +2411,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_eli_text2": {
       "id": "sg/interface__sg__sg_eli_text2",
@@ -2427,7 +2427,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_eli_text3": {
       "id": "sg/interface__sg__sg_eli_text3",
@@ -2443,7 +2443,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_eli_text4": {
       "id": "sg/interface__sg__sg_eli_text4",
@@ -2459,7 +2459,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_mll": {
       "id": "sg/interface__sg__sg_mll",
@@ -2475,7 +2475,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_mll_text1": {
       "id": "sg/interface__sg__sg_mll_text1",
@@ -2491,7 +2491,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_mll_text2": {
       "id": "sg/interface__sg__sg_mll_text2",
@@ -2507,7 +2507,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_mll_text3": {
       "id": "sg/interface__sg__sg_mll_text3",
@@ -2523,7 +2523,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_mll_text4": {
       "id": "sg/interface__sg__sg_mll_text4",
@@ -2539,7 +2539,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_kia": {
       "id": "sg/interface__sg__sg_kia",
@@ -2555,7 +2555,7 @@
       "preload_fixo": false,
       "linhas": 22,
       "exclusivas": 22,
-      "traduzidas": 0
+      "traduzidas": 22
     },
     "sg/interface__sg__sg_kia_text1": {
       "id": "sg/interface__sg__sg_kia_text1",
@@ -2571,7 +2571,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_kia_text2": {
       "id": "sg/interface__sg__sg_kia_text2",
@@ -2587,7 +2587,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_kia_text3": {
       "id": "sg/interface__sg__sg_kia_text3",
@@ -2603,7 +2603,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_kia_text4": {
       "id": "sg/interface__sg__sg_kia_text4",
@@ -2619,7 +2619,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "sg/interface__sg__sg_kia_textEx": {
       "id": "sg/interface__sg__sg_kia_textEx",
@@ -2635,7 +2635,7 @@
       "preload_fixo": false,
       "linhas": 2,
       "exclusivas": 2,
-      "traduzidas": 0
+      "traduzidas": 2
     },
     "lore/interface__infomatrixex__infomatrix_d_01": {
       "id": "lore/interface__infomatrixex__infomatrix_d_01",
@@ -2651,7 +2651,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 13,
-      "traduzidas": 1
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_02": {
       "id": "lore/interface__infomatrixex__infomatrix_d_02",
@@ -2667,7 +2667,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 12,
-      "traduzidas": 0
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_03": {
       "id": "lore/interface__infomatrixex__infomatrix_d_03",
@@ -2683,7 +2683,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 13,
-      "traduzidas": 1
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_04": {
       "id": "lore/interface__infomatrixex__infomatrix_d_04",
@@ -2699,7 +2699,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 12,
-      "traduzidas": 1
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_05": {
       "id": "lore/interface__infomatrixex__infomatrix_d_05",
@@ -2715,7 +2715,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 12,
-      "traduzidas": 0
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_06": {
       "id": "lore/interface__infomatrixex__infomatrix_d_06",
@@ -2731,7 +2731,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 13,
-      "traduzidas": 0
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_07": {
       "id": "lore/interface__infomatrixex__infomatrix_d_07",
@@ -2747,7 +2747,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 13,
-      "traduzidas": 1
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_d_08": {
       "id": "lore/interface__infomatrixex__infomatrix_d_08",
@@ -2763,7 +2763,7 @@
       "preload_fixo": false,
       "linhas": 14,
       "exclusivas": 13,
-      "traduzidas": 0
+      "traduzidas": 14
     },
     "lore/interface__infomatrixex__infomatrix_t_01": {
       "id": "lore/interface__infomatrixex__infomatrix_t_01",
@@ -2779,7 +2779,7 @@
       "preload_fixo": false,
       "linhas": 34,
       "exclusivas": 34,
-      "traduzidas": 0
+      "traduzidas": 34
     },
     "lore/interface__infomatrixex__infomatrix_t_02": {
       "id": "lore/interface__infomatrixex__infomatrix_t_02",
@@ -2795,7 +2795,7 @@
       "preload_fixo": false,
       "linhas": 34,
       "exclusivas": 34,
-      "traduzidas": 0
+      "traduzidas": 34
     },
     "lore/interface__infomatrixex__infomatrix_t_03": {
       "id": "lore/interface__infomatrixex__infomatrix_t_03",
@@ -2811,7 +2811,7 @@
       "preload_fixo": false,
       "linhas": 35,
       "exclusivas": 35,
-      "traduzidas": 0
+      "traduzidas": 35
     },
     "lore/interface__infomatrixex__infomatrix_t_04": {
       "id": "lore/interface__infomatrixex__infomatrix_t_04",
@@ -2827,7 +2827,7 @@
       "preload_fixo": false,
       "linhas": 34,
       "exclusivas": 34,
-      "traduzidas": 0
+      "traduzidas": 34
     },
     "lore/interface__infomatrixex__infomatrix_t_05": {
       "id": "lore/interface__infomatrixex__infomatrix_t_05",
@@ -2843,7 +2843,7 @@
       "preload_fixo": false,
       "linhas": 33,
       "exclusivas": 33,
-      "traduzidas": 0
+      "traduzidas": 33
     },
     "lore/interface__infomatrixex__infomatrix_t_06": {
       "id": "lore/interface__infomatrixex__infomatrix_t_06",
@@ -2859,7 +2859,7 @@
       "preload_fixo": false,
       "linhas": 33,
       "exclusivas": 33,
-      "traduzidas": 0
+      "traduzidas": 33
     },
     "lore/interface__infomatrixex__infomatrix_t_07": {
       "id": "lore/interface__infomatrixex__infomatrix_t_07",
@@ -2875,7 +2875,7 @@
       "preload_fixo": false,
       "linhas": 35,
       "exclusivas": 35,
-      "traduzidas": 0
+      "traduzidas": 35
     },
     "lore/interface__infomatrixex__infomatrix_t_08": {
       "id": "lore/interface__infomatrixex__infomatrix_t_08",
@@ -2891,7 +2891,7 @@
       "preload_fixo": false,
       "linhas": 34,
       "exclusivas": 34,
-      "traduzidas": 0
+      "traduzidas": 34
     },
     "menus/interface__title__msg": {
       "id": "menus/interface__title__msg",
@@ -2907,7 +2907,7 @@
       "preload_fixo": false,
       "linhas": 5,
       "exclusivas": 5,
-      "traduzidas": 4
+      "traduzidas": 5
     },
     "menus/interface__modeselect__modeselect": {
       "id": "menus/interface__modeselect__modeselect",
@@ -2939,7 +2939,7 @@
       "preload_fixo": false,
       "linhas": 66,
       "exclusivas": 66,
-      "traduzidas": 0
+      "traduzidas": 66
     },
     "menus/interface__nameentry__kanji": {
       "id": "menus/interface__nameentry__kanji",
@@ -2955,7 +2955,7 @@
       "preload_fixo": false,
       "linhas": 70,
       "exclusivas": 70,
-      "traduzidas": 0
+      "traduzidas": 70
     },
     "menus/interface__svtselect__msg": {
       "id": "menus/interface__svtselect__msg",
@@ -3008,18 +3008,18 @@
     "menus/interface__cmn__install": {
       "id": "menus/interface__cmn__install",
       "po": "ptbr/menus/interface__cmn__install.po",
-      "path": "12_menus_interface/008_menus_instalacao_de_dados_preload_manter_en__interface__cmn__install.json",
+      "path": "12_menus_interface/008_menus_instalacao_de_dados_preload__interface__cmn__install.json",
       "grupo": "12_menus_interface",
       "capitulo": "Menus e Interface",
       "ordem": 8,
-      "titulo": "Menus — Instalação de Dados (PRELOAD — manter EN)",
+      "titulo": "Menus — Instalação de Dados (PRELOAD)",
       "origem": "interface/cmn/install.bin",
-      "nota": "PRELOAD.pak UTF-8 exato; não alterar tamanho",
+      "nota": "PRELOAD.pak UTF-8: o arquivo inteiro cabe em 656 bytes (acento = 2 bytes)",
       "is_stub": false,
       "preload_fixo": true,
       "linhas": 5,
       "exclusivas": 5,
-      "traduzidas": 0
+      "traduzidas": 5
     },
     "menus/interface__mainmenu__help": {
       "id": "menus/interface__mainmenu__help",
@@ -3035,7 +3035,7 @@
       "preload_fixo": false,
       "linhas": 43,
       "exclusivas": 43,
-      "traduzidas": 0
+      "traduzidas": 43
     },
     "menus/interface__status__msg": {
       "id": "menus/interface__status__msg",
@@ -3051,7 +3051,7 @@
       "preload_fixo": false,
       "linhas": 29,
       "exclusivas": 29,
-      "traduzidas": 0
+      "traduzidas": 29
     },
     "menus/interface__equip__msg": {
       "id": "menus/interface__equip__msg",
@@ -3083,7 +3083,7 @@
       "preload_fixo": false,
       "linhas": 1,
       "exclusivas": 1,
-      "traduzidas": 0
+      "traduzidas": 1
     },
     "menus/interface__shop__msg": {
       "id": "menus/interface__shop__msg",
@@ -3115,7 +3115,7 @@
       "preload_fixo": false,
       "linhas": 150,
       "exclusivas": 150,
-      "traduzidas": 6
+      "traduzidas": 150
     },
     "menus/interface__select__i_move": {
       "id": "menus/interface__select__i_move",
@@ -3147,7 +3147,7 @@
       "preload_fixo": false,
       "linhas": 40,
       "exclusivas": 28,
-      "traduzidas": 6
+      "traduzidas": 40
     },
     "menus/interface__dungeon__msg": {
       "id": "menus/interface__dungeon__msg",
@@ -3163,7 +3163,7 @@
       "preload_fixo": false,
       "linhas": 210,
       "exclusivas": 210,
-      "traduzidas": 0
+      "traduzidas": 210
     },
     "menus/interface__dungeon__i_dun_sysmsg": {
       "id": "menus/interface__dungeon__i_dun_sysmsg",
@@ -3195,7 +3195,7 @@
       "preload_fixo": false,
       "linhas": 7,
       "exclusivas": 7,
-      "traduzidas": 6
+      "traduzidas": 7
     },
     "menus/interface__dayresult__d_result": {
       "id": "menus/interface__dayresult__d_result",
@@ -3227,7 +3227,7 @@
       "preload_fixo": false,
       "linhas": 91,
       "exclusivas": 91,
-      "traduzidas": 0
+      "traduzidas": 91
     },
     "menus/interface__infomatrixex__msg": {
       "id": "menus/interface__infomatrixex__msg",
@@ -3243,7 +3243,7 @@
       "preload_fixo": false,
       "linhas": 94,
       "exclusivas": 86,
-      "traduzidas": 0
+      "traduzidas": 94
     },
     "menus/interface__gallery__msg": {
       "id": "menus/interface__gallery__msg",
@@ -3259,7 +3259,7 @@
       "preload_fixo": false,
       "linhas": 33,
       "exclusivas": 32,
-      "traduzidas": 0
+      "traduzidas": 33
     },
     "menus/interface__option__msg": {
       "id": "menus/interface__option__msg",
@@ -3323,7 +3323,7 @@
       "preload_fixo": false,
       "linhas": 186,
       "exclusivas": 147,
-      "traduzidas": 8
+      "traduzidas": 186
     },
     "historia/main": {
       "id": "historia/main",
@@ -3339,7 +3339,7 @@
       "preload_fixo": true,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 31
+      "traduzidas": 67
     },
     "historia/066": {
       "id": "historia/066",
@@ -3355,7 +3355,7 @@
       "preload_fixo": false,
       "linhas": 131,
       "exclusivas": 2,
-      "traduzidas": 42
+      "traduzidas": 131
     },
     "historia/141": {
       "id": "historia/141",
@@ -3371,7 +3371,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 2,
-      "traduzidas": 41
+      "traduzidas": 126
     },
     "historia/900": {
       "id": "historia/900",
@@ -3387,7 +3387,7 @@
       "preload_fixo": false,
       "linhas": 149,
       "exclusivas": 32,
-      "traduzidas": 39
+      "traduzidas": 149
     },
     "historia/901": {
       "id": "historia/901",
@@ -3403,7 +3403,7 @@
       "preload_fixo": false,
       "linhas": 150,
       "exclusivas": 33,
-      "traduzidas": 40
+      "traduzidas": 150
     },
     "historia/902": {
       "id": "historia/902",
@@ -3419,7 +3419,7 @@
       "preload_fixo": false,
       "linhas": 122,
       "exclusivas": 5,
-      "traduzidas": 39
+      "traduzidas": 122
     },
     "historia/903": {
       "id": "historia/903",
@@ -3435,7 +3435,7 @@
       "preload_fixo": false,
       "linhas": 122,
       "exclusivas": 5,
-      "traduzidas": 39
+      "traduzidas": 122
     },
     "historia/904": {
       "id": "historia/904",
@@ -3451,7 +3451,7 @@
       "preload_fixo": false,
       "linhas": 122,
       "exclusivas": 5,
-      "traduzidas": 39
+      "traduzidas": 122
     },
     "historia/905": {
       "id": "historia/905",
@@ -3467,7 +3467,7 @@
       "preload_fixo": false,
       "linhas": 593,
       "exclusivas": 472,
-      "traduzidas": 39
+      "traduzidas": 593
     },
     "historia/995": {
       "id": "historia/995",
@@ -3483,7 +3483,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 9,
-      "traduzidas": 39
+      "traduzidas": 126
     },
     "historia/996": {
       "id": "historia/996",
@@ -3499,7 +3499,7 @@
       "preload_fixo": false,
       "linhas": 122,
       "exclusivas": 5,
-      "traduzidas": 39
+      "traduzidas": 122
     },
     "historia/999": {
       "id": "historia/999",
@@ -3515,7 +3515,7 @@
       "preload_fixo": false,
       "linhas": 122,
       "exclusivas": 5,
-      "traduzidas": 39
+      "traduzidas": 122
     },
     "historia/000": {
       "id": "historia/000",
@@ -3531,7 +3531,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/006": {
       "id": "historia/006",
@@ -3547,7 +3547,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/012": {
       "id": "historia/012",
@@ -3563,7 +3563,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/013": {
       "id": "historia/013",
@@ -3579,7 +3579,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/016": {
       "id": "historia/016",
@@ -3595,7 +3595,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/017": {
       "id": "historia/017",
@@ -3611,7 +3611,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/018": {
       "id": "historia/018",
@@ -3627,7 +3627,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/019": {
       "id": "historia/019",
@@ -3643,7 +3643,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/020": {
       "id": "historia/020",
@@ -3659,7 +3659,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/021": {
       "id": "historia/021",
@@ -3675,7 +3675,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/022": {
       "id": "historia/022",
@@ -3691,7 +3691,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/034": {
       "id": "historia/034",
@@ -3707,7 +3707,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/038": {
       "id": "historia/038",
@@ -3723,7 +3723,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/039": {
       "id": "historia/039",
@@ -3739,7 +3739,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/040": {
       "id": "historia/040",
@@ -3755,7 +3755,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/057": {
       "id": "historia/057",
@@ -3771,7 +3771,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/061": {
       "id": "historia/061",
@@ -3787,7 +3787,7 @@
       "preload_fixo": false,
       "linhas": 78,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 78
     },
     "historia/113": {
       "id": "historia/113",
@@ -3803,7 +3803,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/130": {
       "id": "historia/130",
@@ -3819,7 +3819,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/131": {
       "id": "historia/131",
@@ -3835,7 +3835,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/132": {
       "id": "historia/132",
@@ -3851,7 +3851,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/133": {
       "id": "historia/133",
@@ -3867,7 +3867,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/134": {
       "id": "historia/134",
@@ -3883,7 +3883,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/135": {
       "id": "historia/135",
@@ -3899,7 +3899,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/136-1000": {
       "id": "historia/136-1000",
@@ -3915,7 +3915,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/137": {
       "id": "historia/137",
@@ -3931,7 +3931,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/138": {
       "id": "historia/138",
@@ -3947,7 +3947,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/139": {
       "id": "historia/139",
@@ -3963,7 +3963,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/140": {
       "id": "historia/140",
@@ -3979,7 +3979,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/150-1000": {
       "id": "historia/150-1000",
@@ -3995,7 +3995,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/151-1000": {
       "id": "historia/151-1000",
@@ -4011,7 +4011,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/152-1000": {
       "id": "historia/152-1000",
@@ -4027,7 +4027,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/153-1000": {
       "id": "historia/153-1000",
@@ -4043,7 +4043,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/154-1000": {
       "id": "historia/154-1000",
@@ -4059,7 +4059,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/155-1000": {
       "id": "historia/155-1000",
@@ -4075,7 +4075,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/156-1000": {
       "id": "historia/156-1000",
@@ -4091,7 +4091,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/157-1000": {
       "id": "historia/157-1000",
@@ -4107,7 +4107,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/158-1000": {
       "id": "historia/158-1000",
@@ -4123,7 +4123,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/158": {
       "id": "historia/158",
@@ -4139,7 +4139,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/159-1000": {
       "id": "historia/159-1000",
@@ -4155,7 +4155,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/159": {
       "id": "historia/159",
@@ -4171,7 +4171,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/160-1000": {
       "id": "historia/160-1000",
@@ -4187,7 +4187,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/160": {
       "id": "historia/160",
@@ -4203,7 +4203,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/161-1000": {
       "id": "historia/161-1000",
@@ -4219,7 +4219,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/161": {
       "id": "historia/161",
@@ -4235,7 +4235,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/162-1000": {
       "id": "historia/162-1000",
@@ -4251,7 +4251,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/170": {
       "id": "historia/170",
@@ -4267,7 +4267,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/171": {
       "id": "historia/171",
@@ -4283,7 +4283,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/172": {
       "id": "historia/172",
@@ -4299,7 +4299,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/173": {
       "id": "historia/173",
@@ -4315,7 +4315,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/174": {
       "id": "historia/174",
@@ -4331,7 +4331,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/175": {
       "id": "historia/175",
@@ -4347,7 +4347,7 @@
       "preload_fixo": false,
       "linhas": 67,
       "exclusivas": 0,
-      "traduzidas": 32
+      "traduzidas": 67
     },
     "historia/181": {
       "id": "historia/181",
@@ -4363,7 +4363,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/182": {
       "id": "historia/182",
@@ -4379,7 +4379,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/183": {
       "id": "historia/183",
@@ -4395,7 +4395,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/184": {
       "id": "historia/184",
@@ -4411,7 +4411,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/185": {
       "id": "historia/185",
@@ -4427,7 +4427,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/186": {
       "id": "historia/186",
@@ -4443,7 +4443,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/187": {
       "id": "historia/187",
@@ -4459,7 +4459,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/188": {
       "id": "historia/188",
@@ -4475,7 +4475,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/189": {
       "id": "historia/189",
@@ -4491,7 +4491,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/190": {
       "id": "historia/190",
@@ -4507,7 +4507,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/191": {
       "id": "historia/191",
@@ -4523,7 +4523,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/192": {
       "id": "historia/192",
@@ -4539,7 +4539,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/193": {
       "id": "historia/193",
@@ -4555,7 +4555,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/194": {
       "id": "historia/194",
@@ -4571,7 +4571,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/195": {
       "id": "historia/195",
@@ -4587,7 +4587,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/196": {
       "id": "historia/196",
@@ -4603,7 +4603,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/197": {
       "id": "historia/197",
@@ -4619,7 +4619,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/198": {
       "id": "historia/198",
@@ -4635,7 +4635,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/199": {
       "id": "historia/199",
@@ -4651,7 +4651,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/200": {
       "id": "historia/200",
@@ -4667,7 +4667,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/201": {
       "id": "historia/201",
@@ -4683,7 +4683,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/202": {
       "id": "historia/202",
@@ -4699,7 +4699,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/203": {
       "id": "historia/203",
@@ -4715,7 +4715,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/204": {
       "id": "historia/204",
@@ -4731,7 +4731,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/205": {
       "id": "historia/205",
@@ -4747,7 +4747,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/206": {
       "id": "historia/206",
@@ -4763,7 +4763,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/207": {
       "id": "historia/207",
@@ -4779,7 +4779,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/208": {
       "id": "historia/208",
@@ -4795,7 +4795,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     },
     "historia/209": {
       "id": "historia/209",
@@ -4811,7 +4811,7 @@
       "preload_fixo": false,
       "linhas": 126,
       "exclusivas": 0,
-      "traduzidas": 42
+      "traduzidas": 126
     }
   }
 }

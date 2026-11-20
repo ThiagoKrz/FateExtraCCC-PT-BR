@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 392,
   "linhas_exclusivas": 265,
-  "traduzidas": 42,
+  "traduzidas": 392,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -517,7 +517,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Activate the switch?",
-      "pt": ""
+      "pt": "Ativar o interruptor?"
     },
     {
       "id": 47,
@@ -528,7 +528,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Press.",
-      "pt": ""
+      "pt": "Pressionar."
     },
     {
       "id": 48,
@@ -539,7 +539,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "HP & MP fully restored.",
-      "pt": ""
+      "pt": "HP e MP totalmente restaurados."
     },
     {
       "id": 49,
@@ -550,7 +550,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Save?",
-      "pt": ""
+      "pt": "Salvar?"
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Retry battle?",
-      "pt": ""
+      "pt": "Tentar a batalha novamente?"
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Is there a checkpoint in that area?",
-      "pt": ""
+      "pt": "Será que há um checkpoint nessa área?"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now.",
-      "pt": ""
+      "pt": "#C236196003Sakura#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF agora."
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF.",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF está logo ali.\nVamos #C000246204seguir em frente#CDEF."
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Apocalypse Now!\nCome back soooooooon!",
-      "pt": ""
+      "pt": "Apocalipse Agora!\nVolte looooogo!"
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!",
-      "pt": ""
+      "pt": "Não vai querer voltar A PÉ, não é?\nQuer me fazer marchar à toa?\nProcure aquele #C000246204checkpoint#CDEF!"
     },
     {
       "id": 57,
@@ -638,7 +638,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest.",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar."
     },
     {
       "id": 58,
@@ -671,7 +671,7 @@
       "comum": false,
       "repeticoes": 7,
       "en": "Try again?",
-      "pt": ""
+      "pt": "Tentar novamente?"
     },
     {
       "id": 61,
@@ -682,7 +682,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Karna#CDEF loomed ahead.\n#C236196003#SVT#CDEF immediately prepares to engage in combat.",
-      "pt": ""
+      "pt": "#C236196003Karna#CDEF assomava à frente.\n#C236196003#SVT#CDEF logo se prepara para o combate."
     },
     {
       "id": 62,
@@ -693,7 +693,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If anyone is hopeful of her future,\nit's #C236196003Jinako#CDEF herself. No one is capable of\ninterfering with how she lives. No one.",
-      "pt": ""
+      "pt": "Se alguém deposita esperança em seu futuro,\né a própria #C236196003Jinako#CDEF. Ninguém é capaz de\ninterferir no modo como ela vive. Ninguém."
     },
     {
       "id": 63,
@@ -704,7 +704,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Having lost her composure, she clutches #C236196003Lancer#CDEF.\nShe looks nothing like the dauntless Game Champ.",
-      "pt": ""
+      "pt": "Perdida a compostura, ela se agarra a #C236196003Lancer#CDEF.\nEm nada lembra a destemida Game Champ."
     },
     {
       "id": 64,
@@ -715,7 +715,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We're going to end this now.\nWe'll end it all.\nEven if we lose―――or win!",
-      "pt": ""
+      "pt": "Vamos acabar com isso agora.\nVamos pôr um fim em tudo.\nMesmo se perdermos―――ou se vencermos!"
     },
     {
       "id": 65,
@@ -726,7 +726,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Regardless, you think I'm hopeless,\ndon't you, #C236196003#NICK#CDEF!?",
-      "pt": ""
+      "pt": "Afinal, você acha que eu não tenho jeito,\nnão é, #C236196003#NICK#CDEF!?"
     },
     {
       "id": 66,
@@ -737,7 +737,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's right, I'm hopeless!\nSo just go on and kill me! I'm not afraid,\nI mean, everyone dies in the end!",
-      "pt": ""
+      "pt": "Isso aí, eu sou um caso perdido!\nEntão anda logo e me mata! Não tenho medo,\nafinal, todo mundo morre no fim!"
     },
     {
       "id": 67,
@@ -748,7 +748,7 @@
       "comum": true,
       "repeticoes": 29,
       "en": "………………",
-      "pt": ""
+      "pt": "………………"
     },
     {
       "id": 68,
@@ -759,7 +759,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "In that case…",
-      "pt": ""
+      "pt": "Nesse caso…"
     },
     {
       "id": 69,
@@ -770,7 +770,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I want you to tell Gatou, \"thanks.\"",
-      "pt": ""
+      "pt": "Quero que você diga \"obrigada\" ao Gatou."
     },
     {
       "id": 70,
@@ -781,7 +781,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…………!!!",
-      "pt": ""
+      "pt": "…………!!!"
     },
     {
       "id": 71,
@@ -792,7 +792,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF's face turns pale.",
-      "pt": ""
+      "pt": "O rosto de #C236196003Jinako#CDEF empalidece."
     },
     {
       "id": 72,
@@ -803,7 +803,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako Carigiri#CDEF, accept Praetor's sympathy.",
-      "pt": ""
+      "pt": "#C236196003Carigiri Jinako#CDEF, aceite a compaixão de Maestro."
     },
     {
       "id": 73,
@@ -814,7 +814,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't say it……!\nI'll never say it!\nI'll never EVER say it!",
-      "pt": ""
+      "pt": "Eu não vou dizer……!\nNunca vou dizer!\nNunca, JAMAIS vou dizer isso!"
     },
     {
       "id": 74,
@@ -825,7 +825,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's not my fault that the old man died!\nHe was dead from the very beginning!",
-      "pt": ""
+      "pt": "Não é culpa minha que o velho morreu!\nEle já estava morto desde o começo!"
     },
     {
       "id": 75,
@@ -836,7 +836,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Haa, aah, ahh―――\nAhh, ah―――",
-      "pt": ""
+      "pt": "Haa, aah, ahh―――\nAhh, ah―――"
     },
     {
       "id": 76,
@@ -847,7 +847,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…ah… enough…\nI've had enough,\nI don't need anything!",
-      "pt": ""
+      "pt": "…ah… chega…\nJá deu por hoje,\nnão preciso de mais nada!"
     },
     {
       "id": 77,
@@ -858,7 +858,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003KARNAAA#CDEF!!",
-      "pt": ""
+      "pt": "#C236196003KARNAAA#CDEF!!"
     },
     {
       "id": 78,
@@ -869,7 +869,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――Guh―――!",
-      "pt": ""
+      "pt": "―――Guh―――!"
     },
     {
       "id": 79,
@@ -880,7 +880,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That was definitely a fatal wound.\nEven if he's a Servant, he won't be able\nto avoid fading if this goes any further―――",
-      "pt": ""
+      "pt": "Foi sem dúvida um ferimento fatal.\nMesmo sendo um Servo, ele não conseguirá\nevitar desaparecer se continuar assim―――"
     },
     {
       "id": 80,
@@ -891,7 +891,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "W-what are you so impressed about, Praetor!?\nE-even I can do that! I can revive THRICE!",
-      "pt": ""
+      "pt": "O-o que há de tão admirável, Maestro!?\nA-até eu faço isso! Revivo três VEZES!"
     },
     {
       "id": 81,
@@ -902,7 +902,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…which leaves one person.",
-      "pt": ""
+      "pt": "…e só resta uma pessoa."
     },
     {
       "id": 82,
@@ -913,7 +913,7 @@
       "comum": false,
       "repeticoes": 10,
       "en": "………",
-      "pt": ""
+      "pt": "………"
     },
     {
       "id": 83,
@@ -924,7 +924,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The only person left is #C236196003Jinako#CDEF, dazed.",
-      "pt": ""
+      "pt": "A única que resta é #C236196003Jinako#CDEF, atordoada."
     },
     {
       "id": 84,
@@ -935,7 +935,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "A-ah…\n#C236196003#FAMILY#CDEF―――",
-      "pt": ""
+      "pt": "A-ah…\n#C236196003#FAMILY#CDEF―――"
     },
     {
       "id": 85,
@@ -946,7 +946,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I lock with her startled and anticipatory gaze.",
-      "pt": ""
+      "pt": "Encontro seu olhar assustado e expectante."
     },
     {
       "id": 86,
@@ -957,7 +957,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I mustn't hesitate.\nI'm going to lay #C236196003Jinako#CDEF's mind bare.\nIf I don't, then we won't move on, she won't move on…!",
-      "pt": ""
+      "pt": "Não posso hesitar.\nVou desnudar a mente de #C236196003Jinako#CDEF.\nSenão, nem nós nem ela seguiremos…!"
     },
     {
       "id": 87,
@@ -968,7 +968,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…sorry.\nIt's okay to hate me forever.\nI'll always hate myself, too.",
-      "pt": ""
+      "pt": "…desculpa.\nPode me odiar para sempre.\nEu também vou sempre me odiar."
     },
     {
       "id": 88,
@@ -979,7 +979,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But this is probably a good thing…\nIt's fine if you and I don't know what\nour futures hold…",
-      "pt": ""
+      "pt": "Mas talvez isso seja bom…\nTudo bem se nem eu nem você soubermos\no que o futuro reserva…"
     },
     {
       "id": 89,
@@ -990,7 +990,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Thankfully―――",
-      "pt": ""
+      "pt": "Felizmente―――"
     },
     {
       "id": 90,
@@ -1001,7 +1001,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……hehehehehe…\nHere you are… So at last you came, eh?\nThis is the final stage…",
-      "pt": ""
+      "pt": "……hehehehehe…\nAí está você… Então enfim veio, né?\nEste é o estágio final…"
     },
     {
       "id": 91,
@@ -1012,7 +1012,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes. It's all coming together.\nThe carefully calculated…",
-      "pt": ""
+      "pt": "Sim. Tudo está se encaixando.\nO plano cuidadosamente calculado…"
     },
     {
       "id": 92,
@@ -1023,7 +1023,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh? Synchronized with #C236196003BB#CDEF?\nMe?\n……………why?",
-      "pt": ""
+      "pt": "Hã? Sincronizada com #C236196003BB#CDEF?\nEu?\n……………por quê?"
     },
     {
       "id": 93,
@@ -1034,7 +1034,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "………why? That's what I want to ask.\nApparently, #C236196003BB#CDEF hasn't tampered with #C236196003Jinako#CDEF's mind.",
-      "pt": ""
+      "pt": "………por quê? É o que eu quero perguntar.\nPelo visto, #C236196003BB#CDEF não mexeu na mente de #C236196003Jinako#CDEF."
     },
     {
       "id": 94,
@@ -1045,7 +1045,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-I ain't hopeless!\nIsn't this normal!?\nI mean, #C236196003BB#CDEF's side has the better value!",
-      "pt": ""
+      "pt": "E-eu não sou um caso perdido!\nIsso não é normal!?\nTipo, o lado de #C236196003BB#CDEF vale mais a pena!"
     },
     {
       "id": 95,
@@ -1056,7 +1056,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Doesn't matter to me if everyone's got problems.\nNah, making problems for people is a #C000246204Sentinel#CDEF's\njob. This here is a dead-end for you.",
-      "pt": ""
+      "pt": "Não tô nem aí se todo mundo tem problemas.\nCausar problemas é função de uma #C000246204Sentinela#CDEF.\nIsso aqui é um beco sem saída pra você."
     },
     {
       "id": 96,
@@ -1067,7 +1067,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Compulsive Liar",
-      "pt": ""
+      "pt": "Mentirosa Compulsiva"
     },
     {
       "id": 97,
@@ -1078,7 +1078,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF's mind may seem weak enough to beat easily,\nbut let's focus and choose correctly―――",
-      "pt": ""
+      "pt": "A mente de #C236196003Jinako#CDEF parece fácil de vencer,\nmas vamos focar e escolher direito―――"
     },
     {
       "id": 98,
@@ -1089,7 +1089,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……hmph.\nYou like 'em big?",
-      "pt": ""
+      "pt": "……hunf.\nVocê curte uns bem grandes?"
     },
     {
       "id": 99,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "C-compulsive Liar!? Rude, yo!\nI'm no lia―――\nKyaaAaa!?",
-      "pt": ""
+      "pt": "M-Mentirosa Compulsiva!? Que grosseria!\nEu não sou menti―――\nKyaaAaa!?"
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003BB#CDEF must've enticed her to \"lock #C236196003#FAMILY #GIVEN#CDEF away\nalong with herself as a last resort.\"",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF deve tê-la aliciado a\n\"trancar #C236196003#FAMILY #GIVEN#CDEF\nconsigo mesma como último recurso.\""
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF is the liar.",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF é a mentirosa."
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Loneliness",
-      "pt": ""
+      "pt": "Solidão"
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 10,
       "en": "I say―――",
-      "pt": ""
+      "pt": "Eu digo―――"
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "O-oh, cool… Sorry for saying something so mean…",
-      "pt": ""
+      "pt": "A-ah, beleza…\nFoi mal por falar algo tão maldoso…"
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF is afraid of――",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF tem medo de――"
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Kyaaaa……!\nWh… what! I'm not scared!\nI may be lonely, but―――",
-      "pt": ""
+      "pt": "Kyaaaa……!\nQu… quê?! Eu não tenho medo!\nPosso até estar sozinha, mas―――"
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Lonely, really…\nLonely… that's like… uugh…\n*sob*… waaaaahhhh!",
-      "pt": ""
+      "pt": "Sozinha, sério…\nSozinha… isso é tipo… uugh…\n*snif*… buaaaaá!"
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I can't stand this anymore.",
-      "pt": ""
+      "pt": "…não aguento mais isso."
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If I identify it, then I can finally\nstrip this facade out of her mind.",
-      "pt": ""
+      "pt": "Se eu identificar isso, enfim poderei\narrancar essa fachada da mente dela."
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You can join stuff together, but that doesn't\nmean it's alright to pair stuff together.",
-      "pt": ""
+      "pt": "Dá pra juntar coisas, mas isso não quer\ndizer que pode sair shippando tudo."
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gwaaaaaaah!",
-      "pt": ""
+      "pt": "Gwaaaaaaah!"
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Haa, kgh…!\nAhh… ahh, ah―――\nHaa, ah…!",
-      "pt": ""
+      "pt": "Haa, kgh…!\nAhh… ahh, ah―――\nHaa, ah…!"
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm butt-naked…\nI can't hide my pitiful,\nshameful self any… more…",
-      "pt": ""
+      "pt": "Estou peladinha…\nNão consigo mais esconder meu eu patético\ne vergonhoso…"
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yeah, that'll do it!\nI didn't ask you or that old man #C236196003Gatou#CDEF\nfor help, anyway!",
-      "pt": ""
+      "pt": "É, já chega!\nEu nem pedi ajuda pra você nem pro velho\ndo #C236196003Gatou#CDEF, mesmo!"
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Leave me alone already!\nI'm going to die here!",
-      "pt": ""
+      "pt": "Me deixa em paz logo!\nEu vou morrer aqui!"
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF's compulsive lying is an #C000246204SG#CDEF that deceives even herself.\nOnly a barrage of attacks can defeat her now.",
-      "pt": ""
+      "pt": "A mentira compulsiva de #C236196003Jinako#CDEF é um #C000246204SG#CDEF\nque engana até ela. Só uma saraivada de ataques\npode derrotá-la agora."
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "HYOOWWW!?\nAwawa! Sorry, sorry, MY BAD!",
-      "pt": ""
+      "pt": "HYOOWWW!?\nAwawa! Desculpa, desculpa, FOI MAL!"
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "B-but what else was I supposed to do!?\nI don't know what I should do!\nI'm just a NEET!",
-      "pt": ""
+      "pt": "M-mas o que mais eu ia fazer!?\nEu não sei o que devia fazer!\nSou só uma NEET!"
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't think that counts as a NEET…\nAwawa! Sorrysorry! I'm sure there are\nNEETs like that out there!",
-      "pt": ""
+      "pt": "Acho que isso não conta como NEET…\nAwawa! Malmal! Com certeza tem\nNEETs assim por aí!"
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But that's not what I am!\nBefore I even realized it, I turned into this!\nNo one will love someone like me!",
-      "pt": ""
+      "pt": "Mas eu não sou assim!\nSem nem perceber, eu virei isso!\nNinguém vai amar alguém como eu!"
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hyow…!? No!\nDon't go shoving some rod in between…!",
-      "pt": ""
+      "pt": "Hyow…!? Não!\nNão vai enfiando um bastão aí no meio…!"
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Haa… haa… haa…\nUgh… Getting yelled at, getting complimented―\nI feel like a mess…",
-      "pt": ""
+      "pt": "Haa… haa… haa…\nUgh… Tomar bronca, receber elogio―\nMinha cabeça virou uma bagunça…"
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But… I can tell that you really are\nmad at me, frustrated with me…",
-      "pt": ""
+      "pt": "Mas… dá pra ver que você tá mesmo\n#[bravo][brava]# comigo, #[frustrado][frustrada]# comigo…"
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…#C236196003Jinako#CDEF sounds more serious than she has been.",
-      "pt": ""
+      "pt": "…#C236196003Jinako#CDEF parece mais séria do que antes."
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 10,
       "en": "I say―――",
-      "pt": ""
+      "pt": "Eu digo―――"
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hic… uuuggghhh…!\nYou don't get it… You completely, absolutely,\nhaven't the slightest clue!",
-      "pt": ""
+      "pt": "Hic… uuuggghhh…!\nVocê não entende… Não faz a mínima,\na mais absoluta ideia!"
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah…!\nHaa―――It, tingles―――\nIt hurts, but it feels, good―――",
-      "pt": ""
+      "pt": "Ah…!\nHaa―――Tá, formigando―――\nDói, mas é, gostoso―――"
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Don't be, so hard, on myself―――\nThat's it?\nIs that, okay―――?",
-      "pt": ""
+      "pt": "Não pegar, tão pesado, comigo―――\nSó isso?\nTudo bem, assim―――?"
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…yeah.\nI think #C236196003Jinako#CDEF forgot that one, simple thing.",
-      "pt": ""
+      "pt": "…sim. Acho que #C236196003Jinako#CDEF\nesqueceu dessa coisa tão simples."
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "HYAAAWWAAAA!\nNo! If I take any more of this,\nI'll go CRAZY!",
-      "pt": ""
+      "pt": "HYAAAWWAAAA!\nNão! Se eu levar mais disso,\nvou ficar LOUCA!"
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080…she sounded a little desperate at the end there,\nbut that much bluntness fits #C236196003Jinako#CDEF#C080080080 just fine.#CDEF",
-      "pt": ""
+      "pt": "#C080080080…ela soou meio desesperada ali no final,\nmas essa franqueza combina bem com #C236196003Jinako#CDEF#C080080080.#CDEF"
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080…I'm glad.\nI didn't do it perfectly, but I managed to pass the\nbaton from #C236196003Gatou#CDEF#C080080080 to #C236196003Jinako#CDEF#C080080080―――#CDEF",
-      "pt": ""
+      "pt": "#C080080080…que bom.\nNão foi perfeito, mas consegui passar o bastão\nde #C236196003Gatou#CDEF#C080080080 para #C236196003Jinako#CDEF#C080080080―――#CDEF"
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Now I'm going into my REAL boss mode.\n…hmph. How about I stick you in a neeeeeever\nending command battle…",
-      "pt": ""
+      "pt": "Agora vou entrar no meu modo chefona REAL.\n…hunf. Que tal te prender numa batalha\nde comandos que nuuuunca acaba…"
     },
     {
       "id": 134,
@@ -1485,7 +1485,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "The world is growing dark…",
-      "pt": ""
+      "pt": "O mundo está escurecendo…"
     },
     {
       "id": 135,
@@ -1496,7 +1496,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "…now there's no way out.\n#C236196003#FAMILY #GIVEN#CDEF's words failed to reach her―――",
-      "pt": ""
+      "pt": "…não há mais saída. As palavras de #C236196003#FAMILY\n#GIVEN#CDEF não a alcançaram―――"
     },
     {
       "id": 136,
@@ -1760,7 +1760,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't press.",
-      "pt": ""
+      "pt": "Não pressionar."
     },
     {
       "id": 160,
@@ -1793,7 +1793,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base.",
-      "pt": ""
+      "pt": "Após abrir um atalho do #C000246204checkpoint#CDEF\nao prédio antigo, volte à base."
     },
     {
       "id": 163,
@@ -1804,7 +1804,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF, parece que acumulou muita\nfadiga. Recomendo que retorne\npor ora para descansar."
     },
     {
       "id": 164,
@@ -1815,7 +1815,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I'm concerned about #C236196003Rin#CDEF.",
-      "pt": ""
+      "pt": "Estou preocupad#[o][a]# com a #C236196003Rin#CDEF."
     },
     {
       "id": 165,
@@ -1826,7 +1826,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF.",
-      "pt": ""
+      "pt": "Explorar o Labirinto ajuda, mas preciso\n#C000246204voltar ao prédio antigo#CDEF e falar rápido\ncom #C236196003Kiara#CDEF."
     },
     {
       "id": 166,
@@ -1837,7 +1837,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation.",
-      "pt": ""
+      "pt": "Obtive o primeiro #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e organizar\na situação."
     },
     {
       "id": 167,
@@ -1848,7 +1848,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along.",
-      "pt": ""
+      "pt": "Primeiro, vamos ativar o #C000246204checkpoint#CDEF.\nIsso vai agilizar a nossa busca."
     },
     {
       "id": 168,
@@ -1859,7 +1859,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us.",
-      "pt": ""
+      "pt": "Sofremos mais dano contra a #C236196003Lancer#CDEF\ndo que eu previa. Melhor voltar ao prédio\nantigo; por sorte há um #C000246204checkpoint#CDEF perto."
     },
     {
       "id": 169,
@@ -1870,7 +1870,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!",
-      "pt": ""
+      "pt": "O que houve, Maestro?\nVamos #C000246204seguir em frente#CDEF!"
     },
     {
       "id": 170,
@@ -1881,7 +1881,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF.",
-      "pt": ""
+      "pt": "Não se preocupe. Vou proteger você,\n#[Querido][Querida]#. Siga em #C000246204frente#CDEF."
     },
     {
       "id": 171,
@@ -1892,7 +1892,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?",
-      "pt": ""
+      "pt": "Não me diga que ficou com medo?\nMesmo você sabe que parar\naqui é inadmissível, não sabe?"
     },
     {
       "id": 172,
@@ -1903,7 +1903,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room.",
-      "pt": ""
+      "pt": "#C236196003#FAMILY#CDEF. Após ativar o #C000246204checkpoint#CDEF,\ndescanse um pouco em seu\nquarto particular."
     },
     {
       "id": 173,
@@ -1914,7 +1914,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Even in cyberspace, you need proper rest.",
-      "pt": ""
+      "pt": "Mesmo no ciberespaço, você precisa\ndescansar direito."
     },
     {
       "id": 174,
@@ -1925,7 +1925,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF.",
-      "pt": ""
+      "pt": "Ative o #C000246204checkpoint#CDEF e use-o\npara voltar aqui.\nDeve estar exaust#[o][a]#, #C236196003#NICK#CDEF."
     },
     {
       "id": 175,
@@ -1936,7 +1936,7 @@
       "comum": true,
       "repeticoes": 101,
       "en": "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF.",
-      "pt": ""
+      "pt": "#[Sr.][Srta.]##C236196003 #NICK#CDEF, volte à base agora.\nDiscutiremos o plano\nna #C000246204Sala do Grêmio#CDEF."
     },
     {
       "id": 176,
@@ -1947,7 +1947,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!",
-      "pt": ""
+      "pt": "#C236196003#GIVEN#CDEF, por favor, volte.\nVocê acumulou muita fadiga;\ncontinuar será perigoso!"
     },
     {
       "id": 177,
@@ -1958,7 +1958,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission.",
-      "pt": ""
+      "pt": "A preocupação da #C236196003Sakura#CDEF fica clara\naté pela transmissão."
     },
     {
       "id": 178,
@@ -1969,7 +1969,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF.",
-      "pt": ""
+      "pt": "Ela tem razão, melhor voltarmos\nao #C000246204Prédio Antigo da Escola#CDEF."
     },
     {
       "id": 179,
@@ -1980,7 +1980,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover.",
-      "pt": ""
+      "pt": "Obtivemos o #C000246204SG#CDEF. Vamos voltar por ora\nao #C000246204Prédio Antigo da Escola#CDEF\ne retornar depois de nos recuperarmos."
     },
     {
       "id": 180,
@@ -1991,7 +1991,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest.",
-      "pt": ""
+      "pt": "Pegamos o #C000246204SG#CDEF.\nMissão cumprida.\nVamos voltar e descansar."
     },
     {
       "id": 181,
@@ -2002,7 +2002,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now.",
-      "pt": ""
+      "pt": "Onde vai? Já garantimos o #C000246204SG#CDEF.\nNão há mais urgência alguma.\nDe volta ao #C000246204Meu Quarto#CDEF, agora."
     },
     {
       "id": 182,
@@ -2013,7 +2013,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?",
-      "pt": ""
+      "pt": "Hummm? Onde vai, #C236196003#FAMILY\n#GIVEN#CDEF? Para onde está indo,\nme deixando para trás?"
     },
     {
       "id": 183,
@@ -2024,7 +2024,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back.",
-      "pt": ""
+      "pt": "Pensei por um segundo em deixar #C236196003Gatou#CDEF\ne ir embora, mas minha consciência não\nme deixaria em paz. Vamos voltar."
     },
     {
       "id": 184,
@@ -2035,7 +2035,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated.",
-      "pt": ""
+      "pt": "Espere, Maestro. Antes de voltarmos,\nconvém ativar o #C000246204checkpoint#CDEF\npara facilitar daqui em diante."
     },
     {
       "id": 185,
@@ -2046,7 +2046,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…",
-      "pt": ""
+      "pt": "#[Mestre][Mestra]#, procuremos o #C000246204checkpoint#CDEF.\nDeve estar por aqui em algum lugar…"
     },
     {
       "id": 186,
@@ -2057,7 +2057,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty.",
-      "pt": ""
+      "pt": "Não precisamos voltar tudo a pé.\nCom o #C000246204checkpoint#CDEF chegamos num\npiscar ao prédio antigo. Bem prático."
     },
     {
       "id": 187,
@@ -2068,7 +2068,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "M-my stomach is at its limit…\nI want to hurry back to #C000246204My Room#CDEF and get some rest…",
-      "pt": ""
+      "pt": "M-meu estômago chegou no limite…\nQuero voltar logo ao #C000246204Meu Quarto#CDEF e descansar…"
     },
     {
       "id": 188,
@@ -2079,7 +2079,7 @@
       "comum": true,
       "repeticoes": 90,
       "en": "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it.",
-      "pt": ""
+      "pt": "Antes de ir ao próximo andar,\n#C000246204voltemos à Sala do Grêmio#CDEF para entregar\nos dados que #C236196003Archer Verde#CDEF nos confiou."
     },
     {
       "id": 189,
@@ -2090,7 +2090,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!",
-      "pt": ""
+      "pt": "Hã? Ainda no #C000246204Labirinto de Sakura#CDEF?\nNão tem nada para fazer aí.\nTrate de voltar logo pra cá!"
     },
     {
       "id": 190,
@@ -2101,7 +2101,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room.",
-      "pt": ""
+      "pt": "Falamos do próximo passo amanhã,\nentão #C000246204volte e vá descansar#CDEF.\nDepois, passe na Sala do Grêmio."
     },
     {
       "id": 191,
@@ -2112,7 +2112,7 @@
       "comum": true,
       "repeticoes": 100,
       "en": "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!",
-      "pt": ""
+      "pt": "Corremos contra o tempo.\nTemos que ir rápido ao\n#C000246204Núcleo do Moon Cell#CDEF――!"
     },
     {
       "id": 192,
@@ -2123,7 +2123,7 @@
       "comum": true,
       "repeticoes": 91,
       "en": "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!",
-      "pt": ""
+      "pt": "Não posso desperdiçar as esperanças\ndo #C236196003Shinji#CDEF. Vamos alcançar\na #C236196003Meltlilith#CDEF!"
     },
     {
       "id": 193,
@@ -2134,7 +2134,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath.",
-      "pt": ""
+      "pt": "Maestro, já me cansei.\nVoltemos ao Meu Quarto para um bom banho."
     },
     {
       "id": 194,
@@ -2145,7 +2145,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room.",
-      "pt": ""
+      "pt": "Sei como se sente, mas saber a hora\nde descansar também faz parte da luta.\nVamos voltar ao Meu Quarto."
     },
     {
       "id": 195,
@@ -2156,7 +2156,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength.",
-      "pt": ""
+      "pt": "#[Querido][Querida]#, agora é hora de descansar.\nVamos voltar para o nosso quarto\ne recuperar as forças."
     },
     {
       "id": 196,
@@ -2167,7 +2167,7 @@
       "comum": true,
       "repeticoes": 103,
       "en": "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest.",
-      "pt": ""
+      "pt": "Que #[homem][mulher]# impaciente. A vida não\nse resume a labutar, sabia?\nNa hora de descansar, descanse."
     },
     {
       "id": 197,
@@ -2244,7 +2244,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Despite being inside the Core of the Labyrinth,\nthe depths of her mind, #C236196003Jinako#CDEF is nowhere to be found.",
-      "pt": ""
+      "pt": "Mesmo no Núcleo do Labirinto, no fundo\nde sua mente, #C236196003Jinako#CDEF não aparece."
     },
     {
       "id": 204,
@@ -2255,7 +2255,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Here you are, #C236196003#SVT#CDEF.\nIt's disappointing, but this is where you and\nI say our farewells, it seems.",
-      "pt": ""
+      "pt": "Aqui está você, #C236196003#SVT#CDEF.\nÉ lamentável, mas parece que é aqui\nque nos despedimos."
     },
     {
       "id": 205,
@@ -2266,7 +2266,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Here you are, #C236196003#SVT#CDEF.\nIt's disappointing, but this is where you and\nI say our farewells, it seems.",
-      "pt": ""
+      "pt": "Aqui está você, #C236196003#SVT#CDEF.\nÉ lamentável, mas parece que é aqui\nque nos despedimos."
     },
     {
       "id": 206,
@@ -2277,7 +2277,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Here you are, #C236196003#SVT#CDEF.\nIt's disappointing, but this is where you and\nI say our farewells, it seems.",
-      "pt": ""
+      "pt": "Aqui está você, #C236196003#SVT#CDEF.\nÉ lamentável, mas parece que é aqui\nque nos despedimos."
     },
     {
       "id": 207,
@@ -2288,7 +2288,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Here you are, #C236196003King of Heroes#CDEF.\nIt's disappointing, but this is where you and\nI say our farewells, it seems.",
-      "pt": ""
+      "pt": "Aqui está você, #C236196003Rei dos Heróis#CDEF.\nÉ lamentável, mas parece que é aqui\nque nos despedimos."
     },
     {
       "id": 208,
@@ -2299,7 +2299,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Lancer#CDEF. No, out of respect for your Master,\nI suppose you're #C236196003Launcher#CDEF.",
-      "pt": ""
+      "pt": "#C236196003Lancer#CDEF. Não, em respeito à sua Mestra,\ncreio que você é #C236196003Launcher#CDEF."
     },
     {
       "id": 209,
@@ -2310,7 +2310,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I also feel disappointed.\nIt pains me greatly to battle it out with\none when there is no need.",
-      "pt": ""
+      "pt": "Também lamento.\nCausa-me grande pesar medir forças com\nalguém quando não há necessidade."
     },
     {
       "id": 210,
@@ -2321,7 +2321,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hmph. There's no other Servant around\nworth fighting less.",
-      "pt": ""
+      "pt": "Hunf. Não há outro Servo por aqui\nque menos valha a pena enfrentar."
     },
     {
       "id": 211,
@@ -2332,7 +2332,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No hostility, yet your guard is steel and you\nshoulder no pride. There's this king, another\ngoldie, that I want to have learn from you.",
-      "pt": ""
+      "pt": "Sem hostilidade, mas sua guarda é de aço e não\ncarrega orgulho. Há um certo rei, outro dourado,\nque eu gostaria que aprendesse com você."
     },
     {
       "id": 212,
@@ -2343,7 +2343,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Oh, we haven't met in quite a while.\nYour Master declared she didn't need little old\nyou, yet you still faithfully follow her?",
-      "pt": ""
+      "pt": "Ora, faz um bom tempo que não nos vemos.\nSua Mestra declarou que não precisava de você,\ne mesmo assim a segue com tanta fidelidade?"
     },
     {
       "id": 213,
@@ -2354,7 +2354,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've come for your head, #C236196003Lancer#CDEF.\nTime to make good on what you committed to.",
-      "pt": ""
+      "pt": "Vim buscar a sua cabeça, #C236196003Lancer#CDEF.\nHora de honrar o que prometeu."
     },
     {
       "id": 214,
@@ -2365,7 +2365,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even more so for the golden Heroic Spirit.\nThough I had wished to draw my chariot and clash\nagainst you over the sunset tumult of war…",
-      "pt": ""
+      "pt": "Ainda mais no caso do Espírito Heroico dourado.\nEmbora eu desejasse guiar minha carruagem contra\nvocê sob o tumulto crepuscular da guerra…"
     },
     {
       "id": 215,
@@ -2376,7 +2376,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This, too, is fate. If you'll think of your lord\nand retreat with dignity, then fine. If you'll\nprotect your lord until the end, that's fine.",
-      "pt": ""
+      "pt": "Isso também é destino. Se pensar em #[seu senhor][sua senhora]#\ne recuar com dignidade, que assim seja. Se\n#[o][a]# proteger até o fim, que assim seja."
     },
     {
       "id": 216,
@@ -2387,7 +2387,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How magnificent, rose emperor.\nI'm certain many of your people lauded your\nlifestyle, but I see only tragedy.",
-      "pt": ""
+      "pt": "Quão magnífica, imperadora das rosas.\nCerto estou de que muitos súditos louvaram seu\nmodo de viver, mas vejo apenas tragédia."
     },
     {
       "id": 217,
@@ -2398,7 +2398,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But listen, Heroic Spirit of charity.\nIs this battle really necessary? Isn't there\nsomeone ELSE that needs admonishing?",
-      "pt": ""
+      "pt": "Mas escute, Espírito Heroico da caridade.\nEsta batalha é mesmo necessária? Não há\noutra pessoa que precise de uma lição?"
     },
     {
       "id": 218,
@@ -2409,7 +2409,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Keep to your own affairs, don't speak of mine.\nYou have a bad habit of meddling with those you\nsee as good―be they friend or foe, #C236196003Archer#CDEF.",
-      "pt": ""
+      "pt": "Cuide de seus assuntos, não fale dos meus.\nVocê tem o mau hábito de intervir por quem julga\nbom―seja aliado ou inimigo, #C236196003Archer#CDEF."
     },
     {
       "id": 219,
@@ -2420,7 +2420,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll just say this: your over-protectiveness is\nmuch too genuine. One can believe in another's\nfuture, but to some, that's simply a burden.",
-      "pt": ""
+      "pt": "Só digo isto: sua superproteção é genuína\ndemais. Pode-se crer no futuro alheio,\nmas para alguns isso não passa de um fardo."
     },
     {
       "id": 220,
@@ -2431,7 +2431,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF is one of those people.\nDon't you understand that the more you try to\ndo right, the more you pressure your Master?",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF é uma dessas pessoas.\nNão percebe que quanto mais tenta fazer o certo,\nmais pressiona a sua Mestra?"
     },
     {
       "id": 221,
@@ -2442,7 +2442,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're the one lacking prudence.\nAlso, I'm not a just Heroic Spirit,\nand I never expected anything from #C236196003Jinako#CDEF.",
-      "pt": ""
+      "pt": "É você quem carece de prudência.\nAdemais, não sou um Espírito Heroico justo,\ne jamais esperei algo de #C236196003Jinako#CDEF."
     },
     {
       "id": 222,
@@ -2453,7 +2453,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Or perhaps you'll plead for your life? Go ahead.\nI'm generous and am especially compassionate\ntowards those with the value of gold.",
-      "pt": ""
+      "pt": "Ou talvez implore por sua vida? Prossiga.\nSou generoso e tenho especial compaixão\npor aqueles que possuem o valor do ouro."
     },
     {
       "id": 223,
@@ -2464,7 +2464,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Will it be your armor? Lance? Head?\nI had told you to sacrifice any one to me.\nThe conditions haven't changed, see?",
-      "pt": ""
+      "pt": "Será sua armadura? Sua lança? Sua cabeça?\nOrdenei que sacrificasse qualquer uma a mim.\nAs condições não mudaram, entende?"
     },
     {
       "id": 224,
@@ -2475,7 +2475,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're voraciously insatiable.\nWith such a fortune as yours, you yet still\ndesire more, new treasure?",
-      "pt": ""
+      "pt": "Você é vorazmente insaciável.\nCom tamanha fortuna em sua posse, ainda\nalmeja um novo e maior tesouro?"
     },
     {
       "id": 225,
@@ -2486,7 +2486,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…well, I understand how you feel.\nAs you know, this head of mine isn't even\nworth a pittance.",
-      "pt": ""
+      "pt": "…bem, compreendo o que sente.\nComo sabe, esta minha cabeça não vale\nsequer uma ninharia."
     },
     {
       "id": 226,
@@ -2497,7 +2497,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Anything and everything you do has to be\non stage, so much so that your life is\nfilled with despair and sorrow.",
-      "pt": ""
+      "pt": "Tudo o que faz tem de estar sobre um palco,\na tal ponto que sua vida se enche\nde desespero e pesar."
     },
     {
       "id": 227,
@@ -2508,7 +2508,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…it would be apt to say that our feelings\nare mutual. I understand your agony well;\neven what you wanted to save.",
-      "pt": ""
+      "pt": "…seria justo dizer que nossos sentimentos\nsão mútuos. Compreendo bem sua agonia;\naté mesmo aquilo que você queria salvar."
     },
     {
       "id": 228,
@@ -2519,7 +2519,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You're the one who's admonishing the wrong\nperson. You consider the order \"justice\" to be\ngood, yet you seek to be an ally of the weak.",
-      "pt": ""
+      "pt": "É você quem censura a pessoa errada.\nConsidera a ordem chamada \"justiça\" algo bom,\nmas busca ser aliado dos fracos."
     },
     {
       "id": 229,
@@ -2530,7 +2530,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That probably goes for you, too.\nKeeping close to your Master is what you deem\nfine; not protecting or guiding them.",
-      "pt": ""
+      "pt": "O mesmo vale para você, provavelmente.\nManter-se junto a #[seu Mestre][sua Mestra]# lhe basta;\nsem a ambição de #[protegê-lo][protegê-la]# ou #[guiá-lo][guiá-la]#."
     },
     {
       "id": 230,
@@ -2541,7 +2541,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if that results in nothing for you,\nyou won't go and change that outcome out of\nselfishness.",
-      "pt": ""
+      "pt": "Mesmo que isso nada lhe renda,\njamais mudará tal desfecho por\negoísmo próprio."
     },
     {
       "id": 231,
@@ -2552,7 +2552,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This might not be worth it to you\nunless you take my armor or my lance――\nBut you'll have to give up on those.",
-      "pt": ""
+      "pt": "Talvez isto não tenha valor para você\na menos que tome minha armadura ou lança――\nMas terá de abrir mão de ambas."
     },
     {
       "id": 232,
@@ -2563,7 +2563,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I already pledged my armor away.\nThat said, I also need this lance\nto fulfill my promise to you.",
-      "pt": ""
+      "pt": "Já empenhei minha armadura.\nQuanto a esta lança, ainda preciso dela\npara cumprir minha promessa a você."
     },
     {
       "id": 233,
@@ -2574,7 +2574,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I shall lower the curtains on you, #C236196003Saber#CDEF.\nOnce the leading actor disappears,\nthe stage will go with them.",
-      "pt": ""
+      "pt": "Baixarei as cortinas sobre você, #C236196003Saber#CDEF.\nQuando a protagonista desaparece,\no palco desaparece junto dela."
     },
     {
       "id": 234,
@@ -2585,7 +2585,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Do you realize the contradiction, weak one?\nIf you can't kill your emotions,\nthen at least stop championing justice.",
-      "pt": ""
+      "pt": "Percebe a contradição, fraco?\nSe não consegue matar suas emoções,\nao menos pare de defender a justiça."
     },
     {
       "id": 235,
@@ -2596,7 +2596,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Although, several of your desires do ooze\nout when you speak. Which means you're truly a\npure fox, who sacrifices for her Master.",
-      "pt": ""
+      "pt": "Embora vários desejos seus transbordem\nquando fala. O que mostra que é uma raposa\npura, que se sacrifica por #[seu Mestre][sua Mestra]#."
     },
     {
       "id": 236,
@@ -2607,7 +2607,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So in the end, all that remains is my head.\nSo you'll have to settle with taking it.\n――Of course, that's only if you can.",
-      "pt": ""
+      "pt": "Portanto, no fim, resta apenas minha cabeça.\nTerá de se contentar em tomá-la.\n――Claro, se é que consegue."
     },
     {
       "id": 237,
@@ -2618,7 +2618,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Karna#CDEF stands firm like the stern,\nchief butler of a mansion.\nHe regards us as enemies, yet\nmaintains his courtesy.\nHis serenity overwhelmingly intimidates us back.",
-      "pt": ""
+      "pt": "#C236196003Karna#CDEF permanece firme como o severo mordomo-\nchefe de uma mansão. Trata-nos como inimigos,\nmas mantém a cortesia; sua calma oprime."
     },
     {
       "id": 238,
@@ -2629,7 +2629,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…#C236196003Jinako#CDEF herself is well aware that she\nmustn't continue hiding any longer.",
-      "pt": ""
+      "pt": "…a própria #C236196003Jinako#CDEF sabe muito bem que\nnão deve continuar se escondendo."
     },
     {
       "id": 239,
@@ -2640,7 +2640,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The reality is that your Master became strong\nover a short time. I'm not speaking of martial\nstrength, but mental fortitude.",
-      "pt": ""
+      "pt": "A verdade é que #[seu Mestre][sua Mestra]# se fortaleceu\nem pouco tempo. Não falo de força marcial,\nmas de firmeza de espírito."
     },
     {
       "id": 240,
@@ -2651,7 +2651,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[His][Her]# unparalleled, peerless tenacity to advance\nthrough the Labyrinth likely appears to #C236196003Jinako#CDEF\nas a repulsive threat.",
-      "pt": ""
+      "pt": "A tenacidade #[dele][dela]#, ímpar e sem igual,\nao avançar pelo Labirinto deve parecer a\n#C236196003Jinako#CDEF uma ameaça repulsiva."
     },
     {
       "id": 241,
@@ -2662,7 +2662,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[He][She]# is a contrast to #C236196003Jinako#CDEF, whose #C000246204SGs#CDEF have\nbeen pulled apart, and is now completely\nparalyzed by a vague fear dominating her.",
-      "pt": ""
+      "pt": "#[Ele][Ela]# contrasta com #C236196003Jinako#CDEF, cujos #C000246204SGs#CDEF\nforam despedaçados, e que agora jaz\nparalisada por um medo vago que a domina."
     },
     {
       "id": 242,
@@ -2673,7 +2673,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yet that's not the end of it―――\nLike a cool flame, there's one thing that's\ngradually scorching her mind.",
-      "pt": ""
+      "pt": "Mas isso não é tudo―――\nComo uma chama fria, há algo que aos\npoucos consome a mente dela."
     },
     {
       "id": 243,
@@ -2684,7 +2684,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――\"Her guilt, I suppose.\"",
-      "pt": ""
+      "pt": "―――\"A culpa dela, imagino.\""
     },
     {
       "id": 244,
@@ -2695,7 +2695,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I murmur, to which #C236196003Karna#CDEF nods.",
-      "pt": ""
+      "pt": "Murmuro, e #C236196003Karna#CDEF assente com a cabeça."
     },
     {
       "id": 245,
@@ -2706,7 +2706,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF is trapped by a guilty conscience that\nstabs at her, and regret over being abandoned\nby #C236196003Monji Gatou#CDEF, whom she hates endlessly.",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF está presa a uma consciência pesada\nque a fere e ao remorso de ter sido deixada\npor #C236196003Monji Gatou#CDEF, a quem odeia sem fim."
     },
     {
       "id": 246,
@@ -2717,7 +2717,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm grateful to #C236196003Gatou#CDEF.\nMy Master was in the depths of madness, and he\nwas just barely able to stop her because――",
-      "pt": ""
+      "pt": "Sou grato a #C236196003Gatou#CDEF.\nMinha Mestra estava no abismo da loucura,\ne ele por pouco conseguiu detê-la porque――"
     },
     {
       "id": 247,
@@ -2728,7 +2728,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "STOOPPP ITTT!\nThe hell, man!? Am I being publicly executed!?",
-      "pt": ""
+      "pt": "PAAARAAA!\nQue droga é essa!? É execução pública!?"
     },
     {
       "id": 248,
@@ -2739,7 +2739,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Why won't you hurry your ass up and\ndo your Servant thing!?",
-      "pt": ""
+      "pt": "Por que não mexe logo essa bunda\ne faz seu trabalho de Servo!?"
     },
     {
       "id": 249,
@@ -2750,7 +2750,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I really really REALLY got the shit end of the\nstick with this Servant!",
-      "pt": ""
+      "pt": "Eu dei MUITO, muito azar mesmo\nna hora de tirar esse Servo!"
     },
     {
       "id": 250,
@@ -2761,7 +2761,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF makes her appearance.",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF faz sua entrada."
     },
     {
       "id": 251,
@@ -2772,7 +2772,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…although, her looks never made any\nclaim to that title in the first place.",
-      "pt": ""
+      "pt": "…embora sua aparência nunca combinasse\ncom esse título, para começo de conversa."
     },
     {
       "id": 252,
@@ -2783,7 +2783,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We gonna fight, #C236196003#NICK#CDEF?\nIf it'll end this, then let's do it.\nThere's no other choice!",
-      "pt": ""
+      "pt": "A gente vai lutar, #C236196003#NICK#CDEF?\nSe isso for acabar com tudo, então bora.\nNão tem outra escolha!"
     },
     {
       "id": 253,
@@ -2794,7 +2794,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No. I won't play along with your desperation.",
-      "pt": ""
+      "pt": "Não. Não vou entrar no seu desespero."
     },
     {
       "id": 254,
@@ -2805,7 +2805,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So what then!?\nYou barge into people's minds for the hell\nof it!? Talk about the ultimate stalker!",
-      "pt": ""
+      "pt": "E aí, então!?\nVocê invade a mente dos outros de sacanagem!?\nFala sério, que baita stalker!"
     },
     {
       "id": 255,
@@ -2816,7 +2816,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF is still fixated on death.\nHer survival instincts are waning beyond control.",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF segue obcecada pela morte.\nSeu instinto de sobrevivência definha."
     },
     {
       "id": 256,
@@ -2827,7 +2827,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if we fight, this won't turn out well―――\nWin or lose, the result will be #C236196003Jinako#CDEF\nbeing battered between her weakness and powerlessness.",
-      "pt": ""
+      "pt": "Mesmo lutando, isso não acabará bem―――\nVencendo ou perdendo, #C236196003Jinako#CDEF só ficará\nesmagada entre sua fraqueza e impotência."
     },
     {
       "id": 257,
@@ -2838,7 +2838,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Mhm. I knew you would find the words, Praetor.\nIt's simple and straightforward, but that's\nwhat makes it a fantastic reply!",
-      "pt": ""
+      "pt": "Hum. Sabia que encontraria as palavras, Maestro.\nÉ simples e direto, mas justamente por isso\né uma resposta magnífica!"
     },
     {
       "id": 258,
@@ -2849,7 +2849,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the path that will lead away from battle.\nLead to where you need to return to, where the\nallies you need to depend on are.",
-      "pt": ""
+      "pt": "Esse é o caminho que afasta a batalha.\nQue leva de volta para onde deve retornar,\nonde estão os aliados em quem pode confiar."
     },
     {
       "id": 259,
@@ -2860,7 +2860,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This will be so much easier if you just\nadmit it. Aren't you a stubborn one?",
-      "pt": ""
+      "pt": "Tudo ficaria bem mais fácil se você apenas\nadmitisse. Mas como é teimosa, não?"
     },
     {
       "id": 260,
@@ -2871,7 +2871,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――Now I see.\nThat detail had escaped me. Certainly, one's\nexploits do beget words of appreciation.",
-      "pt": ""
+      "pt": "―――Agora compreendo.\nEsse detalhe me escapou. De fato, grandes\nfeitos trazem consigo palavras de gratidão."
     },
     {
       "id": 261,
@@ -2882,7 +2882,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003BB#CDEF isn't forcing you to dance to her will.\nHer sweet words are like wine in a lead\nchalice―sweet poison that will destroy you!",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF não a força a dançar conforme sua música.\nAs palavras doces dela são vinho em taça de\nchumbo―um doce veneno que vai destruí-la!"
     },
     {
       "id": 262,
@@ -2893,7 +2893,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Enough with being entranced with meaningless\ndeath. Even if you gain nothing from that path,\nno one will laugh at your struggle.",
-      "pt": ""
+      "pt": "Chega de se fascinar por uma morte sem\nsentido. Mesmo sem ganhar nada nesse caminho,\nninguém vai rir do seu esforço."
     },
     {
       "id": 263,
@@ -2904,7 +2904,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Not that it matters to me.\nI'll use my true strength to make you submit.\nAfter all…",
-      "pt": ""
+      "pt": "Não que isso me importe.\nUsarei minha real força para fazê-la ceder.\nAfinal…"
     },
     {
       "id": 264,
@@ -2915,7 +2915,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You like it when it hurts, don't you?",
-      "pt": ""
+      "pt": "Você gosta quando dói, não é?"
     },
     {
       "id": 265,
@@ -2926,7 +2926,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gratitude is given between you and the other.\nIf you don't put into words which part of that\nman was rare, you won't understand him.",
-      "pt": ""
+      "pt": "A gratidão nasce entre você e o outro.\nSe não puser em palavras o que havia de raro\nnaquele homem, jamais o compreenderá."
     },
     {
       "id": 266,
@@ -2937,7 +2937,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No matter what we do―――\nNo matter what we do,\nnothing will save us!",
-      "pt": ""
+      "pt": "Não importa o que a gente faça―――\nNão importa o que a gente faça,\nnada vai nos salvar!"
     },
     {
       "id": 267,
@@ -2948,7 +2948,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if we mourn at this point, nobody's time\nwill turn back; not for papa or mama, not for\nme, not for that annoying old man!",
-      "pt": ""
+      "pt": "Mesmo lamentando agora, o tempo não vai\nvoltar pra ninguém; nem pro papai ou mamãe,\nnem pra mim, nem pra aquele velho chato!"
     },
     {
       "id": 268,
@@ -2959,7 +2959,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't disappear.\nI won't go outside. I'll stay here forever\nand ever, and IT'LL BE FINE!",
-      "pt": ""
+      "pt": "Eu não vou sumir.\nNão vou sair lá fora. Vou ficar aqui para\nsempre, e VAI FICAR TUDO BEM!"
     },
     {
       "id": 269,
@@ -2970,7 +2970,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Get them the HELL OUT!\nDon't let them come back ever again!\nWIPE THEM OFF THE FACE OF THIS EARTH!",
-      "pt": ""
+      "pt": "Tira eles DAQUI AGORA!\nNão deixa eles voltarem nunca mais!\nVARRE ELES DA FACE DA TERRA!"
     },
     {
       "id": 270,
@@ -2981,7 +2981,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…if that's your order, then I shall obey.\nBy the tyranny of my spear, I shall reduce\n#C236196003#FAMILY #GIVEN#CDEF to cinders.",
-      "pt": ""
+      "pt": "…se essa é sua ordem, obedecerei.\nPela tirania de minha lança, reduzirei\n#C236196003#FAMILY #GIVEN#CDEF a cinzas."
     },
     {
       "id": 271,
@@ -2992,7 +2992,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If the dark fire within #RUBS   you #RUBE#C236196003Jinako#CDEF#REND says it won't go\nout until it burns #RUBS   you #RUBE#C236196003Jinako#CDEF#REND down, then I shall\nbecome a mantle to block the wind and rain.",
-      "pt": ""
+      "pt": "Se o fogo sombrio em #RUBS  você #RUBE#C236196003Jinako#CDEF#REND diz não cessar\naté consumir #RUBS  você #RUBE#C236196003Jinako#CDEF#REND, então serei um manto\npara deter o vento e a chuva."
     },
     {
       "id": 272,
@@ -3003,7 +3003,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Have at you, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003King of Heroes#CDEF]#.\nKnow that this place beds your premature death.",
-      "pt": ""
+      "pt": "Em guarda, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003Rei dos Heróis#CDEF]#.\nSaiba que este lugar será seu leito fatal."
     },
     {
       "id": 273,
@@ -3014,7 +3014,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Have at you, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003King of Heroes#CDEF]#.\nKnow that this place beds your premature death.",
-      "pt": ""
+      "pt": "Em guarda, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003Rei dos Heróis#CDEF]#.\nSaiba que este lugar será seu leito fatal."
     },
     {
       "id": 274,
@@ -3025,7 +3025,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Have at you, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003King of Heroes#CDEF]#.\nKnow that this place beds your premature death.",
-      "pt": ""
+      "pt": "Em guarda, #SVT[#C236196003Saber#CDEF][#C236196003Archer#CDEF][#C236196003Caster#CDEF][#C236196003Rei dos Heróis#CDEF]#.\nSaiba que este lugar será seu leito fatal."
     },
     {
       "id": 275,
@@ -3036,7 +3036,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003King of Heroes#CDEF.\nKnow that this place beds your premature death.",
-      "pt": ""
+      "pt": "#C236196003Rei dos Heróis#CDEF.\nSaiba que este lugar será seu leito fatal."
     },
     {
       "id": 276,
@@ -3047,7 +3047,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Karna#CDEF took a full blow to the\nchest from #C236196003#SVT#CDEF, yet doesn't fall.",
-      "pt": ""
+      "pt": "#C236196003Karna#CDEF recebeu um golpe direto no\npeito de #C236196003#SVT#CDEF, e mesmo assim não cai."
     },
     {
       "id": 277,
@@ -3058,7 +3058,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I shudder at the sight of his spirit, his endurance.",
-      "pt": ""
+      "pt": "…estremeço diante de seu espírito,\nde sua resistência."
     },
     {
       "id": 278,
@@ -3069,7 +3069,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yet after taking such a blow, #C236196003Karna#CDEF still stands.\nIt isn't due to some healing skill or immortality skill.\nIncredibly, by the mere strength of his will,\nhe's \"enduring\" a fatal wound…!",
-      "pt": ""
+      "pt": "Mesmo após tal golpe, #C236196003Karna#CDEF segue de pé.\nNão é cura nem imortalidade. Pela força\nde vontade, \"suporta\" um golpe fatal…!"
     },
     {
       "id": 279,
@@ -3080,7 +3080,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What kind of monster are you? Is this some\nmagic, overwriting the laws of physics? Or is\nyour willpower deferring the laws of physics?",
-      "pt": ""
+      "pt": "Que tipo de monstro é você? É alguma magia\nreescrevendo as leis da física? Ou sua força\nde vontade está adiando as leis da física?"
     },
     {
       "id": 280,
@@ -3091,7 +3091,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…do you understand what you're doing?\nDo you think it's okay for one related to the\ngods to be trampling over the laws of nature?",
-      "pt": ""
+      "pt": "…você entende o que está fazendo?\nAcha mesmo certo alguém ligado aos\ndeuses pisar assim sobre as leis naturais?"
     },
     {
       "id": 281,
@@ -3102,7 +3102,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Like a zombie. He's not a Heroic spirit who\nrefuses to die when killed. Rather, he's a fool\nprepared to not die until the time is right.",
-      "pt": ""
+      "pt": "Como um zumbi. Não é um Espírito Heroico que\nrecusa morrer quando morto. Antes, é um tolo\ndisposto a não morrer antes da hora."
     },
     {
       "id": 282,
@@ -3113,7 +3113,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――That's enough.\nNow that I've witnessed this,\nI no longer desire your head.",
-      "pt": ""
+      "pt": "―――Já basta.\nAgora que testemunhei isto,\nnão mais cobiço a sua cabeça."
     },
     {
       "id": 283,
@@ -3124,7 +3124,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Not having that golden armor is regrettable,\nbut I see collecting it would be difficult.\n…go, as you see fit and wish to.",
-      "pt": ""
+      "pt": "Não obter essa Armadura Dourada é lamentável,\nmas vejo que tomá-la seria tarefa árdua.\n…vá, como melhor lhe aprouver e desejar."
     },
     {
       "id": 284,
@@ -3135,7 +3135,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I bet it's taking everything just for him to breathe.\n#C236196003Karna#CDEF doesn't respond.",
-      "pt": ""
+      "pt": "Aposto que custa tudo só para ele respirar.\n#C236196003Karna#CDEF não responde."
     },
     {
       "id": 285,
@@ -3146,7 +3146,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…she lost #C236196003Gatou#CDEF, and #C236196003Karna#CDEF was completely defeated.\nIt's evident how far backed into the corner #C236196003Jinako#CDEF is now.",
-      "pt": ""
+      "pt": "…perdeu #C236196003Gatou#CDEF, e #C236196003Karna#CDEF caiu de vez.\nFica nítido o quanto #C236196003Jinako#CDEF está acuada."
     },
     {
       "id": 286,
@@ -3157,7 +3157,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But that doesn't mean we can go easy on her.\nIf showing her pity results in #C236196003Jinako#CDEF slipping away,\nno good will have come from any of this.",
-      "pt": ""
+      "pt": "Mas isso não significa que possamos pegar leve.\nSe a piedade fizer #C236196003Jinako#CDEF escapar,\ntudo isto terá sido em vão."
     },
     {
       "id": 287,
@@ -3168,7 +3168,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#SVT#CDEF is struck by a sharp blow.\nThe head of the immense lance smoothly slices through flesh,\nannihilating the Spiritron contract linking #C236196003#SVT#CDEF―\nlinking #SVT[her][him][her][him]# and #C236196003#FAMILY #GIVEN#CDEF.",
-      "pt": ""
+      "pt": "#C236196003#SVT#CDEF sofre um golpe. A lança rasga a carne\ne rompe o elo Spiritron que unia\n#C236196003#SVT#CDEF―#SVT[ela][ele][ela][ele]# e #C236196003#FAMILY #GIVEN#CDEF."
     },
     {
       "id": 288,
@@ -3179,7 +3179,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The battle is over.\nYour drive wasn't enough to make up for the\ngap between your ability and mine.",
-      "pt": ""
+      "pt": "A batalha acabou.\nSeu ímpeto não bastou para superar a\ndistância entre sua habilidade e a minha."
     },
     {
       "id": 289,
@@ -3190,7 +3190,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I'm also disappointed, but it is what it is.\nIf any more foreign bodies enter #C236196003Jinako#CDEF's mind,\nit'll collapse.",
-      "pt": ""
+      "pt": "…também lamento, mas não há o que fazer.\nSe mais corpos estranhos entrarem na mente\nde #C236196003Jinako#CDEF, ela entrará em colapso."
     },
     {
       "id": 290,
@@ -3201,7 +3201,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Go peacefully.\nI praise you two for your endeavor.",
-      "pt": ""
+      "pt": "Partam em paz.\nLouvo o empenho de vocês."
     },
     {
       "id": 291,
@@ -3212,7 +3212,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Compared to going back to that cruel\nslaughter-fest, disappearing inside of me is a\nhundred times better, isn't it…?",
-      "pt": ""
+      "pt": "Comparado a voltar praquela matança cruel,\ndesaparecer aqui dentro de mim é cem\nvezes melhor, não é…?"
     },
     {
       "id": 292,
@@ -3223,7 +3223,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't hear #C236196003Jinako#CDEF's voice very well.",
-      "pt": ""
+      "pt": "Quase não consigo ouvir a voz de #C236196003Jinako#CDEF."
     },
     {
       "id": 293,
@@ -3234,7 +3234,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The lance blazes with high heat,\nand my body grows cold.",
-      "pt": ""
+      "pt": "A lança arde em calor intenso,\ne meu corpo esfria."
     },
     {
       "id": 294,
@@ -3245,7 +3245,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Without the chance to experience pain,\n#C236196003#FAMILY #GIVEN#CDEF's soul burns out.",
-      "pt": ""
+      "pt": "Sem sequer ter tempo de sentir dor,\na alma de #C236196003#FAMILY #GIVEN#CDEF se consome."
     },
     {
       "id": 295,
@@ -3256,7 +3256,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Like a something-something to a flame.\nMy masterful performance paid off!\nI'm literally a tactician…!",
-      "pt": ""
+      "pt": "Como uma mariposa rumo à chama, sei lá.\nMinha atuação de mestre deu resultado!\nSou literalmente uma estrategista…!"
     },
     {
       "id": 296,
@@ -3267,7 +3267,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Throughout the dim space,\na strangely energetic voice echoes.",
-      "pt": ""
+      "pt": "Pelo espaço sombrio,\necoa uma voz estranhamente animada."
     },
     {
       "id": 297,
@@ -3278,7 +3278,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's definitely #C236196003Jinako#CDEF's voice,\nbut this baseless confidence,\nthis careless and obliviously made statement―\nWas she really―――!?",
-      "pt": ""
+      "pt": "É sem dúvida a voz de #C236196003Jinako#CDEF,\nmas essa confiança sem base, essa fala alheia\na tudo―Será mesmo que ela―――!?"
     },
     {
       "id": 298,
@@ -3289,7 +3289,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003BB#CDEF-sponsored,\n\"Capture #C236196003#NICK#CDEF, and I'll Promote You\nto Queen of the Moon Campaign.\"",
-      "pt": ""
+      "pt": "Campanha patrocinada por #C236196003BB#CDEF:\n\"Capture #C236196003#NICK#CDEF e Eu Te Promovo\na Rainha da Lua.\""
     },
     {
       "id": 299,
@@ -3300,7 +3300,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I cleared the event,\nand didn't even break a sweat.\nThere's nowhere to run, now, #C236196003#NICK#CDEF.",
-      "pt": ""
+      "pt": "Fechei o evento,\ne nem suei a camisa.\nAgora não tem pra onde fugir, #C236196003#NICK#CDEF."
     },
     {
       "id": 300,
@@ -3311,7 +3311,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I turn around in the darkness,\nand a distinct \"mental wall\" comes into view.",
-      "pt": ""
+      "pt": "Olho para trás na escuridão,\ne uma nítida \"parede mental\" surge à vista."
     },
     {
       "id": 301,
@@ -3322,7 +3322,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003Jinako#CDEF isn't joking.\nThis is just like back with #C236196003Rin#CDEF and #C236196003Rani#CDEF.\nSo, a part of #C236196003Jinako#CDEF's mind was synchronized with #C236196003BB#CDEF…!",
-      "pt": ""
+      "pt": "#C236196003Jinako#CDEF não brinca. Igual a #C236196003Rin#CDEF e #C236196003Rani#CDEF,\nparte da mente de #C236196003Jinako#CDEF\nsincronizou com #C236196003BB#CDEF…!"
     },
     {
       "id": 302,
@@ -3333,7 +3333,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Which means that everything that happened\nup until now, and her defiance in lieu of the situation,\nwas all of her own accord.",
-      "pt": ""
+      "pt": "Ou seja, tudo o que aconteceu até agora,\ne essa teimosia diante da situação,\nfoi tudo por conta própria."
     },
     {
       "id": 303,
@@ -3344,7 +3344,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What a…\nWhat a hopeless thirty-year-old #C236196003Jinako#CDEF is…!",
-      "pt": ""
+      "pt": "Que…\nQue trintona sem jeito é essa #C236196003Jinako#CDEF…!"
     },
     {
       "id": 304,
@@ -3355,7 +3355,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Let me just say this: I've done nothing wrong.\nI haven't lost to anyone yet. So, I won't\nbe doing any self-reflecting.",
-      "pt": ""
+      "pt": "Já vou logo avisando: não fiz nada de errado.\nAinda não perdi pra ninguém. Então não vou\nfazer nenhuma autocrítica."
     },
     {
       "id": 305,
@@ -3366,7 +3366,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And like, playing this part has been kinda fun.\nSort of feels like I'm a boss. Looking down\non peeps is the best.",
-      "pt": ""
+      "pt": "E tipo, fazer esse papel até que foi legal.\nMe sinto meio que uma chefona. Olhar a galera\nde cima pra baixo é bom demais."
     },
     {
       "id": 306,
@@ -3377,7 +3377,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't believe this… It's as if she feels no remorse.\nAlthough, it's obvious that she's acting tough.",
-      "pt": ""
+      "pt": "Não acredito nisso… Parece sem remorso.\nEmbora esteja na cara que só faz pose."
     },
     {
       "id": 307,
@@ -3388,7 +3388,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I thought #C236196003Jinako#CDEF's mind was wide-open at this point,\nbut it looks like it won't be so easy.",
-      "pt": ""
+      "pt": "Achei que a mente de #C236196003Jinako#CDEF já estava aberta,\nmas parece que não vai ser tão fácil assim."
     },
     {
       "id": 308,
@@ -3399,7 +3399,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―――Guess I have to do it.",
-      "pt": ""
+      "pt": "―――Acho que não tem jeito."
     },
     {
       "id": 309,
@@ -3410,7 +3410,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It truly pains me to do this,\nbut if this is how it's going to be,\nthen this calls for the usual rough therapy.",
-      "pt": ""
+      "pt": "Me dói muito fazer isso,\nmas se vai ser desse jeito,\nentão é hora da terapia de choque de sempre."
     },
     {
       "id": 310,
@@ -3421,7 +3421,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "W-what is it?\nPhysical attacks do nothing here.\nNothing has any effect on me.",
-      "pt": ""
+      "pt": "Q-que foi?\nAtaques físicos não fazem nada aqui.\nNada surte efeito em mim."
     },
     {
       "id": 311,
@@ -3432,7 +3432,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I got no weaknesses in the first place.\nI AM the No. 1 Game Champ. I've only been\nmessing with 10% of my full power so far!",
-      "pt": ""
+      "pt": "Pra começo de conversa, não tenho fraquezas.\nSou a Game Champ Número 1. Só estava usando\n10% do meu poder total até agora!"
     },
     {
       "id": 312,
@@ -3443,7 +3443,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This \"boss\" has some nerve saying that,\nwith all the weaknesses she's got…",
-      "pt": ""
+      "pt": "Muita coragem dessa \"chefona\" dizer isso,\ncom todas as fraquezas que tem…"
     },
     {
       "id": 313,
@@ -3454,7 +3454,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is her first #C000246204SG#CDEF.\n#C236196003Jinako#CDEF has a bad habit of―――",
-      "pt": ""
+      "pt": "Este é o primeiro #C000246204SG#CDEF dela.\n#C236196003Jinako#CDEF tem o mau hábito de―――"
     },
     {
       "id": 314,
@@ -3465,7 +3465,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Compulsively Gigantic",
-      "pt": ""
+      "pt": "Ser Compulsivamente Gigante"
     },
     {
       "id": 315,
@@ -3476,7 +3476,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Compulsively Big Breasted",
-      "pt": ""
+      "pt": "Ter Seios Compulsivamente Grandes"
     },
     {
       "id": 316,
@@ -3487,7 +3487,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's this \"compulsively gigantic\" about?\nA gigantic body? Being a giant?\nAm I some over 180cm tall Russian beauty?",
-      "pt": ""
+      "pt": "Que papo é esse de \"compulsivamente gigante\"?\nUm corpo gigante? Ser uma giganta?\nSou uma beldade russa de mais de 1,80m?"
     },
     {
       "id": 317,
@@ -3498,7 +3498,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hah. The only things allowed to be big are\nmeat and game install sizes. Giantesses?\nDon't make me giga-laugh.",
-      "pt": ""
+      "pt": "Há. As únicas coisas que podem ser grandes\nsão carne e instalação de jogo. Gigantas?\nNão me faça giga-rir."
     },
     {
       "id": 318,
@@ -3509,7 +3509,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…damn, I messed up since the words\nlooked kind of similar…",
-      "pt": ""
+      "pt": "…droga, confundi porque as palavras\npareciam meio parecidas…"
     },
     {
       "id": 319,
@@ -3520,7 +3520,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\"I love them,\" was what I was about to say,\nuntil I took some damage.",
-      "pt": ""
+      "pt": "\"Eu adoro,\" era o que eu ia dizer,\nantes de levar um dano."
     },
     {
       "id": 320,
@@ -3531,7 +3531,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…this isn't the time to be divulging MY preferences.\nI need to divulge #C236196003Jinako#CDEF's bad habit.\nI know how you feel, but let's keep this to ourselves.\nThe right answer is―――",
-      "pt": ""
+      "pt": "…não é hora de expor MEUS gostos, mas sim\no mau hábito de #C236196003Jinako#CDEF. Sei como se sente,\nmas guardemos isso. A resposta é―――"
     },
     {
       "id": 321,
@@ -3542,7 +3542,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "W-what's the deal here!? Why is thunder shooting\nout!? And why are my clothes conveniently\nthe only thing getting torn apart!?",
-      "pt": ""
+      "pt": "Q-que palhaçada é essa!? Por que tá saindo\nraio!? E por que convenientemente só minhas\nroupas que tão sendo rasgadas!?"
     },
     {
       "id": 322,
@@ -3553,7 +3553,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ah… What is this…? So hot…\nMy entire body is tingling…\nMy chest… My chest, hurts…!",
-      "pt": ""
+      "pt": "Ah… O que é isso…? Que calor…\nMeu corpo inteiro tá formigando…\nMeu peito… Meu peito tá doendo…!"
     },
     {
       "id": 323,
@@ -3564,7 +3564,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Heh heh heh.\n#[Let this be][This is]# your punishment.",
-      "pt": ""
+      "pt": "He he he.\n#[Que este seja][Este é]# o seu castigo."
     },
     {
       "id": 324,
@@ -3575,7 +3575,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Only those who have been through this phenomenon understand it.\nI guess #C236196003Jinako#CDEF had no idea how dangerous \na \"cross-examination within one's mind\" can be.",
-      "pt": ""
+      "pt": "Só quem já passou por isso entende.\nAcho que #C236196003Jinako#CDEF não sabia do perigo de\num \"interrogatório dentro da própria mente\"."
     },
     {
       "id": 325,
@@ -3586,7 +3586,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But this is a world of mental images;\na space where #C236196003Jinako#CDEF's most hated \"lecturing\" has power!",
-      "pt": ""
+      "pt": "Mas este é um mundo de imagens mentais; onde\no \"sermão\" que #C236196003Jinako#CDEF tanto odeia tem poder!"
     },
     {
       "id": 326,
@@ -3597,7 +3597,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Awawa! No one told me, no one told me\nabout THIS…! #C236196003BB#CDEF, you liar! You said all I had\nto do was lock #[him][her]# in――!",
-      "pt": ""
+      "pt": "Awawa! Ninguém me avisou, ninguém falou\nDISSO…! #C236196003BB#CDEF, mentirosa! Você disse que era\nsó trancar #[ele][ela]# aqui――!"
     },
     {
       "id": 327,
@@ -3608,7 +3608,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "All I said were a few words, and now she's in a panic.\nBeing a boss is fun? What a joke.",
-      "pt": ""
+      "pt": "Bastaram poucas palavras e ela entrou em pânico.\nSer chefona é divertido? Que piada."
     },
     {
       "id": 328,
@@ -3619,7 +3619,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's no reason why #C236196003Jinako#CDEF would serve as a boss, anyway.",
-      "pt": ""
+      "pt": "De qualquer forma, #C236196003Jinako#CDEF nunca\nserviria como chefona."
     },
     {
       "id": 329,
@@ -3630,7 +3630,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Bosses are lonely creatures.\nThey're always wishing to ride alone.",
-      "pt": ""
+      "pt": "Chefões são criaturas solitárias.\nEstão sempre querendo seguir sozinhos."
     },
     {
       "id": 330,
@@ -3641,7 +3641,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's unlikely that #C236196003Jinako#CDEF could endure such a position.\nThat's because #C236196003Jinako#CDEF is afraid of―――",
-      "pt": ""
+      "pt": "É improvável que #C236196003Jinako#CDEF aguentasse isso.\nIsso porque #C236196003Jinako#CDEF tem medo de―――"
     },
     {
       "id": 331,
@@ -3652,7 +3652,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Traveling Alone",
-      "pt": ""
+      "pt": "Viajar Sozinha"
     },
     {
       "id": 332,
@@ -3663,7 +3663,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Eating Yakiniku Alone",
-      "pt": ""
+      "pt": "Comer Yakiniku Sozinha"
     },
     {
       "id": 333,
@@ -3674,7 +3674,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't go on trips in the first place.\nNo friends, but I don't have the courage to go\noutside, anyway. That's #C236196003Jinako#CDEF for you.",
-      "pt": ""
+      "pt": "Pra começar, nem viajo. Não tenho amigos,\nmas também não tenho coragem de sair de casa.\nEssa é a cara da #C236196003Jinako#CDEF."
     },
     {
       "id": 334,
@@ -3685,7 +3685,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Gah… Damn, I jumped the gun there.\n#C236196003Jinako#CDEF is afraid of something more fundamental than that.",
-      "pt": ""
+      "pt": "Gah… Droga, me precipitei.\n#C236196003Jinako#CDEF teme algo mais fundamental que isso."
     },
     {
       "id": 335,
@@ -3696,7 +3696,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's wrong with going out for yakiniku alone!?\nThat's proof of being a winner,\none of my few real-life skills!",
-      "pt": ""
+      "pt": "Qual o problema de ir comer yakiniku sozinha!?\nIsso é prova de que sou vencedora,\numa das minhas poucas skills da vida real!"
     },
     {
       "id": 336,
@@ -3707,7 +3707,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "In reality, going out for yakiniku alone just shows that you're\nlonely. You grill, then eat; grill, then eat―a human thermal\npower station that releases out heat with a *fwoom*.",
-      "pt": ""
+      "pt": "Na verdade, comer yakiniku sozinha só mostra\nsolidão. Você grelha e come; grelha e come―\numa usina térmica soltando calor *fuoom*."
     },
     {
       "id": 337,
@@ -3718,7 +3718,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's a sanctuary of loneliness.\nNo way I can rashly intrude on that―――\nI shouldn't press any further.",
-      "pt": ""
+      "pt": "É um santuário da solidão.\nNão dá pra invadir isso de qualquer jeito―――\nMelhor não insistir mais."
     },
     {
       "id": 338,
@@ -3729,7 +3729,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I apologize to #C236196003Jinako#CDEF from the bottom of my heart\nand choose the correct phrasing.",
-      "pt": ""
+      "pt": "Peço desculpas a #C236196003Jinako#CDEF do fundo da alma\ne escolho a expressão certa."
     },
     {
       "id": 339,
@@ -3740,7 +3740,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm alone anyway, DUMMY! How many years do you\nthink I spent being a NEET!? Don't underestimate\nan almost thirty-year-old fujoshi! DIE!",
-      "pt": ""
+      "pt": "Eu já sou sozinha mesmo, IDIOTA! Quantos anos\nacha que passei como NEET!? Não subestime\numa fujoshi quase trintona! MORRA!"
     },
     {
       "id": 340,
@@ -3751,7 +3751,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But I can't let up on her now.\nThere's a reason why she became like this.\nIt's the dark shadow cast over #C236196003Jinako Carigiri#CDEF's life.",
-      "pt": ""
+      "pt": "Mas não posso dar trégua agora.\nHá um motivo para ela ter ficado assim.\nÉ a sombra sobre a vida de #C236196003Carigiri Jinako#CDEF."
     },
     {
       "id": 341,
@@ -3762,7 +3762,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The reason why #C236196003Jinako#CDEF locked herself in her room―――",
-      "pt": ""
+      "pt": "O motivo de #C236196003Jinako#CDEF se trancar no quarto―――"
     },
     {
       "id": 342,
@@ -3773,7 +3773,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The Fujoshi Curse",
-      "pt": ""
+      "pt": "A Maldição da Fujoshi"
     },
     {
       "id": 343,
@@ -3784,7 +3784,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The Curse of Death",
-      "pt": ""
+      "pt": "A Maldição da Morte"
     },
     {
       "id": 344,
@@ -3795,7 +3795,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The fujoshi curse.",
-      "pt": ""
+      "pt": "A maldição da fujoshi."
     },
     {
       "id": 345,
@@ -3806,7 +3806,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "With wicked intent, they ship together characters\nof a story with no real relation and without a premise.",
-      "pt": ""
+      "pt": "Com más intenções, shippam personagens de\numa história sem relação nem premissa."
     },
     {
       "id": 346,
@@ -3817,7 +3817,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Any woman, for no reason at all, can become a fujoshi.",
-      "pt": ""
+      "pt": "Qualquer mulher, sem motivo, pode virar fujoshi."
     },
     {
       "id": 347,
@@ -3828,7 +3828,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "She likes it, she keeps getting worse, and deep down\nshe desires it―this is #C236196003Jinako#CDEF's \"curse on herself.\"",
-      "pt": ""
+      "pt": "Ela gosta, piora cada vez mais, e no fundo\ndeseja isso―é a \"maldição\" de #C236196003Jinako#CDEF."
     },
     {
       "id": 348,
@@ -3839,7 +3839,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's the last thing that's ruining her―――",
-      "pt": ""
+      "pt": "É a última coisa que a arruína―――"
     },
     {
       "id": 349,
@@ -3850,7 +3850,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey. Don't bash me like you know it all. You're\nan amateur that knows nothing of the wonders\nof shipping and tasteful situations.",
-      "pt": ""
+      "pt": "Ei. Não sai falando como se soubesse tudo.\nVocê é só #[um amador][uma amadora]# que não entende nada\ndas maravilhas de shippar e boas situações."
     },
     {
       "id": 350,
@@ -3861,7 +3861,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is all outside the realm of normal\nhuman brain function. It's on a whole different\nlevel. Has nothing to do with \"trauma.\"",
-      "pt": ""
+      "pt": "Isso tudo foge do funcionamento normal do\ncérebro humano. É outro nível.\nNão tem nada a ver com \"trauma\"."
     },
     {
       "id": 351,
@@ -3872,7 +3872,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I-I took a fierce counter…\nLooks like it wasn't trauma that I ended up touching on,\nbut rather conviction―and an absolutely\nunyielding conviction at that…",
-      "pt": ""
+      "pt": "T-tomei um contra-ataque feroz…\nNão foi num trauma que toquei, mas numa\nconvicção―e uma convicção inabalável…"
     },
     {
       "id": 352,
@@ -3883,7 +3883,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…let's start from the beginning.",
-      "pt": ""
+      "pt": "…vamos recomeçar do início."
     },
     {
       "id": 353,
@@ -3894,7 +3894,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The reason why #C236196003Jinako#CDEF locked herself in her room―――",
-      "pt": ""
+      "pt": "O motivo de #C236196003Jinako#CDEF se trancar no quarto―――"
     },
     {
       "id": 354,
@@ -3905,7 +3905,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The Curse of Death.",
-      "pt": ""
+      "pt": "A Maldição da Morte."
     },
     {
       "id": 355,
@@ -3916,7 +3916,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Her parents, who had committed no crime\nand had done nothing wrong, passed away in an accident.",
-      "pt": ""
+      "pt": "Seus pais, sem terem cometido nenhum crime\nou feito algo errado, morreram num acidente."
     },
     {
       "id": 356,
@@ -3927,7 +3927,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Death falls on everyone, for no reason at all.",
-      "pt": ""
+      "pt": "A morte cai sobre todos, sem motivo algum."
     },
     {
       "id": 357,
@@ -3938,7 +3938,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Doubting that, being afraid of that,\nand detesting that from the bottom of her heart\nis #C236196003Jinako#CDEF's \"curse on herself.\"",
-      "pt": ""
+      "pt": "Duvidar disso, temer isso,\ne detestar isso do fundo da alma\né a \"maldição\" de #C236196003Jinako#CDEF."
     },
     {
       "id": 358,
@@ -3949,7 +3949,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the final trauma that keeps her tied down.",
-      "pt": ""
+      "pt": "Esse é o trauma final que a mantém presa."
     },
     {
       "id": 359,
@@ -3960,7 +3960,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…mean… you're so mean…\nYou not only took me down, you even drove my\nmind up against the wall…",
-      "pt": ""
+      "pt": "…maldade… você é tão cruel…\nAlém de me derrubar, ainda encurralou\na minha mente contra a parede…"
     },
     {
       "id": 360,
@@ -3971,7 +3971,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No… I don't like this…\nEnough! Fine, I'll die! I'll die in the\nend anyway, so I'll die here and now!",
-      "pt": ""
+      "pt": "Não… não gosto disso…\nChega! Tá bom, eu morro! Vou morrer no\nfim de qualquer jeito, então morro já!"
     },
     {
       "id": 361,
@@ -3982,7 +3982,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…we can't have that happen.\nEspecially now that #C236196003Gatou#CDEF's name was brought up.",
-      "pt": ""
+      "pt": "…não podemos deixar isso acontecer.\nAinda mais agora que o nome de #C236196003Gatou#CDEF surgiu."
     },
     {
       "id": 362,
@@ -3993,7 +3993,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm stubborn, too.\nNow that we've hit this point, I'm going to do everything\nI can to get #C236196003Jinako#CDEF back on her feet.",
-      "pt": ""
+      "pt": "Eu também sou #[teimoso][teimosa]#.\nAgora que chegamos até aqui, farei tudo\npara pôr #C236196003Jinako#CDEF de pé outra vez."
     },
     {
       "id": 363,
@@ -4004,7 +4004,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I take a deep breath and… one, two:",
-      "pt": ""
+      "pt": "Respiro fundo e… um, dois:"
     },
     {
       "id": 364,
@@ -4015,7 +4015,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hyoow! You're so MEAN! No attack has ever\nshocked me like that one! You monster!\nYou demon! You butcher's shopkeeper!",
-      "pt": ""
+      "pt": "Hyoow! Que MALDADE! Nenhum ataque nunca me\nchocou tanto quanto esse! Seu monstro!\nSeu demônio! #[Seu dono][Sua dona]# de açougue!"
     },
     {
       "id": 365,
@@ -4026,7 +4026,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Still… You're, right…\nI have a baby face; none of the appeal of\nan adult… I don't diet anymore…",
-      "pt": ""
+      "pt": "Ainda assim… Você tem razão…\nTenho rosto de bebê; nada do charme de uma\nadulta… E nem faço mais dieta…"
     },
     {
       "id": 366,
@@ -4037,7 +4037,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What else could one call this body but \"flab\"…\nI'm a waste of a heroine, aren't I…?",
-      "pt": ""
+      "pt": "Como mais chamar esse corpo além de \"banha\"…\nSou um desperdício de heroína, não sou…?"
     },
     {
       "id": 367,
@@ -4048,7 +4048,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#ROFS0002#RUBS     Srs #RUBESeriously#REND!? Wow! #C236196003Jinako#CDEF must be a winner!\nAs the sweet, older-lady character that I am―",
-      "pt": ""
+      "pt": "#ROFS0002#RUBS    Sér #RUBESério mesmo#REND!? Uau! #C236196003Jinako#CDEF deve ser vencedora!\nComo a doce personagem mais velha que sou―"
     },
     {
       "id": 368,
@@ -4059,7 +4059,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hyooow! Soz～! I got ahead of myself!\n#C236196003#NICK#CDEF, you've got one scary look\nin your eyes, yo!",
-      "pt": ""
+      "pt": "Hyooow! Foi mal～! Me empolguei demais!\n#C236196003#NICK#CDEF, você tá com um olhar\nassustador, viu!"
     },
     {
       "id": 369,
@@ -4070,7 +4070,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm sorry I'm sorry,\nI'm sorry my breasts are so big,\nI'm sorry for the pointless sex appeal…!",
-      "pt": ""
+      "pt": "Desculpa, desculpa,\ndesculpa meus peitos serem tão grandes,\ndesculpa pelo sex appeal sem sentido…!"
     },
     {
       "id": 370,
@@ -4081,7 +4081,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So please forgive me\nI'll stop getting ahead of myself,\nI promise------!",
-      "pt": ""
+      "pt": "Então por favor me perdoa\nVou parar de me achar,\neu prometo------!"
     },
     {
       "id": 371,
@@ -4092,7 +4092,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…sorry I'm such a screw-up of an older-lady.\nYou're trying to cheer me up… but…\nIt's no use.",
-      "pt": ""
+      "pt": "…desculpa ser uma mais velha tão imprestável.\nVocê tá tentando me animar… mas…\nNão adianta."
     },
     {
       "id": 372,
@@ -4103,7 +4103,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I have no confidence in myself.\nI can't forgive myself.\nEven if I get away from #C236196003BB#CDEF…",
-      "pt": ""
+      "pt": "Não tenho confiança em mim mesma.\nNão consigo me perdoar.\nMesmo se eu fugir de #C236196003BB#CDEF…"
     },
     {
       "id": 373,
@@ -4114,7 +4114,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even if I go back to the school building, I'll\nalways act the same way. Are you fine with that?\nYou do understand that I'm not useful, right?",
-      "pt": ""
+      "pt": "Mesmo se eu voltar pro prédio da escola,\nvou agir igual. Tudo bem pra você?\nVocê sabe que eu não sou útil, né?"
     },
     {
       "id": 374,
@@ -4125,7 +4125,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is #C236196003Jinako#CDEF's true voice.\nNot her Compulsive Lying, Loneliness, or Curse of Death talking:\nit's her true sorrows.",
-      "pt": ""
+      "pt": "Esta é a voz verdadeira de #C236196003Jinako#CDEF.\nNão é Mentirosa Compulsiva, Solidão ou\nMaldição da Morte: é sua real tristeza."
     },
     {
       "id": 375,
@@ -4136,7 +4136,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't understand #C236196003Jinako#CDEF's suffering.\nThat's why I can't make her problems go away.",
-      "pt": ""
+      "pt": "Não entendo o sofrimento de #C236196003Jinako#CDEF.\nPor isso não consigo afastar seus problemas."
     },
     {
       "id": 376,
@@ -4147,7 +4147,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…there's only one thing I can do, one thing I can say:\nmy feelings towards #C236196003Jinako#CDEF.",
-      "pt": ""
+      "pt": "…só há algo que posso fazer e dizer:\nmeus sentimentos por #C236196003Jinako#CDEF."
     },
     {
       "id": 377,
@@ -4158,7 +4158,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…no can do.\nIf I was able to look at my well-being,\nmy life wouldn't have turned out this way…!",
-      "pt": ""
+      "pt": "…não dá.\nSe eu fosse capaz de cuidar do meu bem-estar,\nminha vida não teria acabado assim…!"
     },
     {
       "id": 378,
@@ -4169,7 +4169,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I see… Making someone take responsibility for themselves\nis too sudden a thing to ask when they've lost confidence…",
-      "pt": ""
+      "pt": "…entendo… Exigir que assuma a própria vida\né brusco demais quando perdeu a confiança…"
     },
     {
       "id": 379,
@@ -4180,7 +4180,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The end result may seem the same,\nbut this isn't the way to express this.\nWhat I should say is―――",
-      "pt": ""
+      "pt": "O resultado final pode parecer o mesmo,\nmas não é assim que devo me expressar.\nO que eu devia dizer é―――"
     },
     {
       "id": 380,
@@ -4191,7 +4191,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There are many kinds of personalities among people.",
-      "pt": ""
+      "pt": "Há muitos tipos de personalidade\nentre as pessoas."
     },
     {
       "id": 381,
@@ -4202,7 +4202,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't say \"always have hope.\"\nOne is free to do that whenever. One can even be pessimistic.\nEveryone feels lost, troubled, in want of someone to\nlean on sometimes.",
-      "pt": ""
+      "pt": "Não direi \"tenha sempre esperança.\" Há quem\nseja livre para isso ou o pessimismo. Todos\nse perdem e precisam de apoio às vezes."
     },
     {
       "id": 382,
@@ -4213,7 +4213,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The one thing I want is for her not to get complacent.\nAfter all―――#C236196003Jinako#CDEF is so #ROFS0004#RUBSlewd#RUBEfat#REND!",
-      "pt": ""
+      "pt": "Só quero que ela não se acomode.\nAfinal―――#C236196003Jinako#CDEF é tão #ROFS0004#RUBSsafada#RUBEgorda#REND!"
     },
     {
       "id": 383,
@@ -4224,7 +4224,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'm tickled by the yellow \"ruby\" text,\nbut sheesh～ Are you calling me a sow?\n#C236196003Jinako#CDEF? A SOW!?",
-      "pt": ""
+      "pt": "Fico lisonjeada com o \"rubi\" amarelo,\nmas puxa～ Tá me chamando de porca?\n#C236196003Jinako#CDEF? Uma PORCA!?"
     },
     {
       "id": 384,
@@ -4235,7 +4235,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I wrapped things up with a smooth line,\nbut this pork tenderloin here just won't tender up…",
-      "pt": ""
+      "pt": "…amarrei tudo com uma fala elegante,\nmas esse lombo de porco aqui não amacia…"
     },
     {
       "id": 385,
@@ -4246,7 +4246,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Anyway, no more blaming ourselves, got it!?\nI'll keep humiliating #C236196003Jinako#CDEF until she agrees…!",
-      "pt": ""
+      "pt": "Enfim, chega de se culpar, entendeu!?\nVou humilhar #C236196003Jinako#CDEF até ela ceder…!"
     },
     {
       "id": 386,
@@ -4257,7 +4257,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Ugh, fine I lost～～! I'll make an effort!\nIn my own way I'll make a pico-sized effort,\nso please―please stop BULLYING ME!",
-      "pt": ""
+      "pt": "Ugh, tá bom, perdi～～! Vou me esforçar!\nDo meu jeito farei um pico-esforço, então\npor favor―para de FAZER BULLYING COMIGO!"
     },
     {
       "id": 387,
@@ -4268,7 +4268,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080The world goes white, along with #C236196003Jinako#CDEF#C080080080's whimpers.#CDEF",
-      "pt": ""
+      "pt": "#C080080080O mundo fica branco, junto aos gemidos\nde #C236196003Jinako#CDEF#C080080080.#CDEF"
     },
     {
       "id": 388,
@@ -4279,7 +4279,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080I get the impression that I'm becoming lighter.\nWith #C236196003Jinako#CDEF#C080080080's mind unraveled, the Relief must be crumbling.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Sinto que estou ficando mais leve.\nCom a mente de #C236196003Jinako#CDEF#C080080080 solta, o Relevo rui.#CDEF"
     },
     {
       "id": 389,
@@ -4290,7 +4290,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Too bad, so sad. Sucks, but you've gone\nover the limit. I ain't scared of\n#C236196003#NICK#CDEF aaaat all.",
-      "pt": ""
+      "pt": "Que pena, que triste. Foi mal, mas você passou\ndo limite. Não tenho medo nenhum de\n#C236196003#NICK#CDEF, nadinhaaa."
     },
     {
       "id": 390,
@@ -4301,7 +4301,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's your deal, anyway. You're the lowest of\nthe lowest chump there is. Are you a slime?\nA she-slime? A dot?",
-      "pt": ""
+      "pt": "Qual é a sua, afinal? Você é a escória da\nescória dos fracassados. É um slime?\nUma slime-fêmea? Um pixel?"
     },
     {
       "id": 391,
@@ -4312,7 +4312,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And why are we suddenly joking around?\nIs #C236196003Jinako#CDEF really that awful of a heroine? Well,\nwhatever. I'm getting my payback in full.",
-      "pt": ""
+      "pt": "E por que do nada estamos zoando assim?\n#C236196003Jinako#CDEF é uma heroína tão péssima assim?\nQue seja. Vou dar o troco com juros."
     },
     {
       "id": 392,
@@ -4323,7 +4323,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is proof that #C236196003Jinako#CDEF's mind has completely closed off.",
-      "pt": ""
+      "pt": "É a prova de que a mente de #C236196003Jinako#CDEF\nse fechou por completo."
     }
   ]
 }

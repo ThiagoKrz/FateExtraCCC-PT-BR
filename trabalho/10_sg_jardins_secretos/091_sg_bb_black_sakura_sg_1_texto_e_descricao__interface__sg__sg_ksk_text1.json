@@ -1,0 +1,39 @@
+{
+  "id": "sg/interface__sg__sg_ksk_text1",
+  "po": "ptbr/sg/interface__sg__sg_ksk_text1.po",
+  "grupo": "10_sg_jardins_secretos",
+  "capitulo": "Secret Gardens",
+  "titulo": "SG [BB (Black Sakura)] — SG 1 (Texto e Descrição)",
+  "origem": "interface/sg/sg_ksk_text1.bin",
+  "utf8": false,
+  "preload_fixo": false,
+  "is_stub": false,
+  "nota": "Largura fixa (.bin)",
+  "linhas_totais": 2,
+  "linhas_exclusivas": 2,
+  "traduzidas": 2,
+  "linhas": [
+    {
+      "id": 1,
+      "msgctxt": "0",
+      "tipo": "max 47 bytes",
+      "medida": null,
+      "max_bytes": 47,
+      "comum": false,
+      "repeticoes": 3,
+      "en": "Kouhai Attribute",
+      "pt": "Atributo Kouhai"
+    },
+    {
+      "id": 2,
+      "msgctxt": "1",
+      "tipo": "max 1999 bytes",
+      "medida": "sg",
+      "max_bytes": 1999,
+      "comum": false,
+      "repeticoes": 1,
+      "en": "Typically, those with this attribute are helper characters\nwho heroically try to support their senpai despite being\nweaker and less experienced than the protagonist.\n\n……there's unmistakably no mirror in BB's My Room.\n\n             ◆\n\nAccording to BB, she calls #FAMILY #GIVEN\nher \"Senpai\" because of this SG.\nWhether she's younger or even a student is doubtful,\nbut BB's tone is definitely of a kouhai with her senpai.\nIf it had to be said, she's:\n\"an all-powerful kouhai (but seriously wicked).\"\n\nWhatever the case, a kouhai that blasts\n#FAMILY #GIVEN 'til they're against a wall\nwith her own SG can't really be called heroic anyway.\n",
+      "pt": "Tipicamente, quem possui este atributo é um personagem\ncoadjuvante que apoia com bravura seu senpai, apesar de\nser mais fraco e inexperiente que o protagonista.\n\n……sem dúvida não há espelho no Meu Quarto da BB.\n\n             ◆\n\nSegundo BB, ela chama #FAMILY #GIVEN\nde \"Senpai\" por causa deste SG.\nSe é mais nova ou sequer estudante é duvidoso,\nmas o tom de BB é mesmo o de uma kouhai com o senpai.\nA bem dizer, ela é:\n\"uma kouhai todo-poderosa (mas maligna de verdade).\"\n\nSeja como for, uma kouhai que arremessa\n#FAMILY #GIVEN contra a parede com o próprio SG\nnão pode mesmo ser chamada de heroica.\n"
+    }
+  ]
+}

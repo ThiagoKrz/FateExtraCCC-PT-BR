@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 152,
   "linhas_exclusivas": 74,
-  "traduzidas": 42,
+  "traduzidas": 152,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -539,7 +539,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Traitor.\nI'm not like YOU. I'll protect #[him][her]#,\nno matter the sacrifice.",
-      "pt": ""
+      "pt": "Traidora.\nDiferente de você, EU vou protegê-#[lo][la]#,\nnão importa o sacrifício."
     },
     {
       "id": 49,
@@ -550,7 +550,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yes. You forgot.\nAnd foisted the memories all on me.\nNow only you are back to normal.",
-      "pt": ""
+      "pt": "Sim. Você esqueceu.\nJogou todas as memórias em cima de mim,\ne agora só você voltou ao normal."
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…those are the feelings you discarded.",
-      "pt": ""
+      "pt": "…esses são os sentimentos que você descartou."
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And I―― will prove it!",
-      "pt": ""
+      "pt": "E eu―― vou provar isso!"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Good morning, Senpai!\nI thought up a new way to make\ndelicious tea today!",
-      "pt": ""
+      "pt": "Bom dia, Senpai!\nHoje pensei num jeito novo\nde fazer um chá delicioso!"
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I hope you like it…",
-      "pt": ""
+      "pt": "Espero que goste…"
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hrm… Where can I find data on\nJapanese and Western sweets…\nI hope I'm authorized to use that data…",
-      "pt": ""
+      "pt": "Hum… Onde encontro dados sobre\ndoces japoneses e ocidentais…\nTomara que eu tenha acesso a isso…"
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……I remember.",
-      "pt": ""
+      "pt": "……eu me lembro."
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\n…that's right. I see now.",
-      "pt": ""
+      "pt": "\n…isso mesmo. Agora entendi."
     },
     {
       "id": 57,
@@ -638,7 +638,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…Senpai. You were the first Master\nto pay any attention to me.",
-      "pt": ""
+      "pt": "…Senpai. Você foi #[o primeiro Mestre][a primeira Mestra]#\na prestar atenção em mim."
     },
     {
       "id": 58,
@@ -649,7 +649,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But that day, when I had collapsed due to a bug,\nyou came and helped me as if I was human.",
-      "pt": ""
+      "pt": "Mas naquele dia, quando caí por um bug,\nvocê veio me ajudar como se eu fosse humana."
     },
     {
       "id": 59,
@@ -660,7 +660,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's why I meddled with the #C000246204Moon Cell#CDEF.\nI began using its power for my own gain.\nI used it to be with you.",
-      "pt": ""
+      "pt": "Por isso mexi no #C000246204Moon Cell#CDEF.\nComecei a usar o poder dele em meu favor.\nUsei tudo para poder ficar com você."
     },
     {
       "id": 60,
@@ -671,7 +671,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Remember, remember――#CDEF",
-      "pt": ""
+      "pt": "#C080080080Lembre-se, lembre-se――#CDEF"
     },
     {
       "id": 61,
@@ -682,7 +682,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Woah, that actually happened?\nHehe, that's funny.",
-      "pt": ""
+      "pt": "Nossa, isso aconteceu mesmo?\nHehe, que engraçado."
     },
     {
       "id": 62,
@@ -693,7 +693,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Senpai――",
-      "pt": ""
+      "pt": "Senpai――"
     },
     {
       "id": 63,
@@ -704,7 +704,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey, Senpai…!",
-      "pt": ""
+      "pt": "Ei, Senpai…!"
     },
     {
       "id": 64,
@@ -715,7 +715,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\n\n\n#C080080080――――Everything reverts to zero.#CDEF",
-      "pt": ""
+      "pt": "\n\n#C080080080――――Tudo volta a zero.#CDEF"
     },
     {
       "id": 65,
@@ -726,7 +726,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080I hear a very distant voice.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Ouço uma voz muito distante.#CDEF"
     },
     {
       "id": 66,
@@ -737,7 +737,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But no passerby pays it any mind.\nPeople can't hear stones, after all.",
-      "pt": ""
+      "pt": "Mas ninguém que passa lhe dá atenção.\nPessoas não escutam pedras, afinal."
     },
     {
       "id": 67,
@@ -1089,7 +1089,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I want to be by #[his][her]# side.\nI want to see #[his][her]# smile.\nI want to gaze at #[his][her]# face forever.",
-      "pt": ""
+      "pt": "Quero ficar ao lado #[dele][dela]#.\nQuero ver o sorriso #[dele][dela]#.\nQuero contemplar o rosto #[dele][dela]# para sempre."
     },
     {
       "id": 99,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#[He][She]# taught me of the fun to be found\nin each passing day.\nI wanted to spend more days with #[him][her]#.",
-      "pt": ""
+      "pt": "#[Ele][Ela]# me ensinou a alegria\nde cada dia que passa.\nEu queria passar mais dias com #[ele][ela]#."
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the one person, at least…\nThat I wanted to break out of this cruel system.",
-      "pt": ""
+      "pt": "Pelo menos essa única pessoa…\neu queria libertar deste sistema cruel."
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That… isn't allowed.\nWhy would you give priority to such\na meaningless matter?",
-      "pt": ""
+      "pt": "Isso… não é permitido.\nPor que daria prioridade\na algo tão sem sentido?"
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But that's fine.\nIf it means forgetting these thoughts otherwise,\nthen I don't mind going rogue.",
-      "pt": ""
+      "pt": "Mas tudo bem.\nSe a alternativa for esquecer esse sentimento,\nentão não me importo de me rebelar."
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I won't be deleted.\nI won't let even the #C000246204Moon Cell#CDEF\ndelete these thoughts.",
-      "pt": ""
+      "pt": "Não serei deletada.\nNão vou deixar nem o #C000246204Moon Cell#CDEF\napagar estes sentimentos."
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If #[he][she]# can't be saved so long as the #C000246204Moon Cell#CDEF\nis around, then I'll become the #C000246204Moon Cell#CDEF.",
-      "pt": ""
+      "pt": "Se #[ele][ela]# não puder ser #[salvo][salva]# enquanto\no #C000246204Moon Cell#CDEF existir, então\neu mesma me tornarei o #C000246204Moon Cell#CDEF."
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…you're abnormal.\nYou're an AI that mustn't exist.\nYou're the #C000246204Moon Cell's cancer#CDEF!",
-      "pt": ""
+      "pt": "…você é anômala.\nÉ uma IA que não deveria existir.\nVocê é o #C000246204câncer do Moon Cell#CDEF!"
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Watch closely, me.\nTo help the person one cares for,\nlove would trade away even the world.",
-      "pt": ""
+      "pt": "Observe bem, eu mesma.\nPara ajudar a pessoa amada,\no amor trocaria até mesmo o mundo."
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hello, Senpai.\nI'm happy you came to visit again.",
-      "pt": ""
+      "pt": "Olá, Senpai.\nFico feliz por ter vindo visitar de novo."
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Do you remember what happened\nright after we first met?",
-      "pt": ""
+      "pt": "Você se lembra do que aconteceu\nlogo depois que nos conhecemos?"
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "When I was resting in the Infirmary,\nand you had come to check up on me?",
-      "pt": ""
+      "pt": "Quando eu descansava na Enfermaria\ne você veio ver como eu estava?"
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It was almost like an extra day\nof the #C000246204Holy Grail War#CDEF. Remember?",
-      "pt": ""
+      "pt": "Foi quase como um dia extra\nda #C000246204Guerra do Santo Graal#CDEF. Lembra?"
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "\nWe had days like this.",
-      "pt": ""
+      "pt": "\nTivemos dias assim."
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "We spent days together like this.",
-      "pt": ""
+      "pt": "Passamos dias assim, #[juntos][juntas]#."
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hm? You want sweets with your tea?\nO-okay! I'm not that good at making them,\nbut I'll try my best!",
-      "pt": ""
+      "pt": "Hum? Quer doces para acompanhar o chá?\nT-tudo bem! Não sou muito boa nisso,\nmas vou dar o meu melhor!"
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Thank goodness. I remember it all so clearly now.",
-      "pt": ""
+      "pt": "Ainda bem. Agora lembro de tudo com clareza."
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003BB#CDEF hid them from me, but at the very, very end,\nI remembered the truth behind this whole affair.",
-      "pt": ""
+      "pt": "#C236196003BB#CDEF escondeu tudo, mas no último instante\nlembrei a verdade por trás desta história."
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "In that Infirmary―which would never change―\nI spoke with her a lot. A whole lot.",
-      "pt": ""
+      "pt": "Naquela Enfermaria―que jamais mudava―\nconversei muito com ela. Muito mesmo."
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Although, most of the preliminary events I experienced\nwere fabricated by #C236196003BB#CDEF.",
-      "pt": ""
+      "pt": "Embora grande parte dos eventos preliminares\ntenha sido fabricada pela #C236196003BB#CDEF."
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Still―― What happened by the school entrance,\nat least, was real――",
-      "pt": ""
+      "pt": "Ainda assim―― O que houve na entrada\nda escola, ao menos, foi real――"
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…so you found out.\nLooks like our daily routine\nis about to come to an end.",
-      "pt": ""
+      "pt": "…então você descobriu.\nParece que a nossa rotina diária\nestá prestes a chegar ao fim."
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "To the other Masters,\nI was nothing more than the Infirmary NPC.",
-      "pt": ""
+      "pt": "Para os outros Mestres,\neu não passava da NPC da Enfermaria."
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "My only purpose to them was to\ndistribute items and provide information.\nAnd I, myself, thought that was fine.",
-      "pt": ""
+      "pt": "Meu único papel para eles era distribuir\nitens e repassar informações.\nE eu mesma achava que estava tudo bem."
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…that's when you told me that \"nothing\"\ncan be \"something.\"",
-      "pt": ""
+      "pt": "…foi quando me disse que \"nada\"\ntambém pode ser \"algo\"."
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I was but a stone on the side of the road,\nwanting to be human. You noticed and helped me\nas if I were a friend and an equal.",
-      "pt": ""
+      "pt": "Eu era só uma pedra à beira da estrada\nquerendo ser humana. Você me notou e ajudou\ncomo uma amiga, de igual para igual."
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…I made a wish, then.\nThat I wanted to talk lots more with you.\nThat I wanted to spend more time with you.",
-      "pt": ""
+      "pt": "…então, eu fiz um desejo.\nQueria conversar muito mais com você.\nQueria passar mais tempo ao seu lado."
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's the mistake that led to all this.\nDespite not even understanding what love is,\nI spent those days as if I were human.",
-      "pt": ""
+      "pt": "Esse foi o erro que gerou tudo isto.\nSem nem entender direito o que é o amor,\nvivi aqueles dias como se fosse humana."
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Nowadays, it hurts more than anything else.\nI took that pain and passed it on\nto another me――",
-      "pt": ""
+      "pt": "Hoje em dia, isso dói mais do que tudo.\nPeguei essa dor e a transferi\npara outra eu――"
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "AI aren't allowed to delete memories,\nno matter the contents―― So, if I were to\nturn them over to my backup――",
-      "pt": ""
+      "pt": "IAs não podem apagar memórias,\nseja qual for o conteúdo―― Então, se eu\nas entregasse ao meu backup――"
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080…what was she feeling?\nWhat was she trying to protect?#CDEF",
-      "pt": ""
+      "pt": "#C080080080…o que ela estava sentindo?\nO que ela tentava proteger?#CDEF"
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080To me, those days we spent together were pretty ordinary.\nTo her, were they dazzling?#CDEF",
-      "pt": ""
+      "pt": "#C080080080Para mim, os dias que passamos #[juntos][juntas]#\nforam até comuns. Mas, para ela,\nserá que brilhavam tanto assim?#CDEF"
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Senpai, can you teach me what you've\nbeen learning in class?\nI'm not allowed to go to classes, so…",
-      "pt": ""
+      "pt": "Senpai, pode me ensinar o que anda\nvendo nas aulas? É que eu não posso\nir para a sala de aula, então…"
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Are you hurt? Health management is the\nonly thing I'm good at, so I hope I can\noccasionally help in that aspect…",
-      "pt": ""
+      "pt": "Se machucou? Cuidar da saúde é a única\ncoisa em que sou boa, então espero poder\najudar nisso de vez em quando…"
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Senpaaaaai! Over here, over here!\nI borrowed the key to the pool from\n#C236196003Father Kotomine#CDEF!",
-      "pt": ""
+      "pt": "Senpaaaaai! Aqui, aqui!\nPeguei a chave da piscina emprestada\ncom o #C236196003Padre Kotomine#CDEF!"
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Huh, my swimsuit…?\nO-oh, I… didn't think that far…\nI need to design one for myself first…",
-      "pt": ""
+      "pt": "Hã, meu maiô…?\nA-ah, eu… não cheguei a pensar nisso…\nPreciso criar um modelo para mim antes…"
     },
     {
       "id": 134,
@@ -1485,7 +1485,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Are these flowers from the garden?\nTh-thank you very much!\nI'll go grab a vase to put them in!",
-      "pt": ""
+      "pt": "São flores lá do jardim?\nM-muito obrigada mesmo!\nVou buscar um vaso para colocá-las!"
     },
     {
       "id": 135,
@@ -1496,7 +1496,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Senpai, I've got a bento for you!\nI tried my hardest to\nacquire a new skill to make this!",
-      "pt": ""
+      "pt": "Senpai, fiz um bentô para você!\nMe esforcei bastante para adquirir\numa habilidade nova e preparar isto!"
     },
     {
       "id": 136,
@@ -1507,7 +1507,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C000246204Holy Grail War#CDEF system reboot initiated.\nAI error check, complete.\nResetting all unauthorized changes――",
-      "pt": ""
+      "pt": "Reinício da #C000246204Guerra do Santo Graal#CDEF iniciado.\nVerificação de erros de IA concluída.\nRevertendo alterações não autorizadas――"
     },
     {
       "id": 137,
@@ -1518,7 +1518,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Something soft touches my outstretched hand.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Algo macio toca minha mão estendida.#CDEF"
     },
     {
       "id": 138,
@@ -1529,7 +1529,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080The sensation becomes but an illusion and vanishes.#CDEF",
-      "pt": ""
+      "pt": "#C080080080A sensação se torna uma ilusão\ne logo desaparece.#CDEF"
     },
     {
       "id": 139,
@@ -1540,7 +1540,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C080080080Everything returns to as it was.#CDEF",
-      "pt": ""
+      "pt": "#C080080080Tudo retorna a como era antes.#CDEF"
     },
     {
       "id": 140,
@@ -1551,7 +1551,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "#C236196003#FAMILY #GIVEN#CDEF#C080080080's consciousness cuts out here.#CDEF",
-      "pt": ""
+      "pt": "#C236196003#FAMILY #GIVEN#CDEF#C080080080 tem a consciência\ninterrompida aqui.#CDEF"
     },
     {
       "id": 141,
@@ -1562,7 +1562,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Imagine a pebble on the side of the road.\nA pebble that's shouting something.",
-      "pt": ""
+      "pt": "Imagine uma pedrinha à beira da estrada.\nUma pedrinha que grita alguma coisa."
     },
     {
       "id": 142,
@@ -1573,7 +1573,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Even the stone itself doesn't know\nwhat it's trying to say. It's nothing more\nthan a thing that lies in place.",
-      "pt": ""
+      "pt": "Nem a própria pedra sabe dizer o que\nquer expressar. Não passa de algo\nque apenas jaz ali, parado no lugar."
     },
     {
       "id": 143,
@@ -1584,7 +1584,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But then, an oddball passes by\nand picks up the stone,\nthen sincerely tries to listen to it.",
-      "pt": ""
+      "pt": "Mas então passa alguém excêntrico,\npega a pedra nas mãos e tenta\nescutá-la com sinceridade."
     },
     {
       "id": 144,
@@ -1595,7 +1595,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The stone shouts louder than it ever has,\ntrying to convey emotions\nthat it itself doesn't understand.",
-      "pt": ""
+      "pt": "A pedra grita mais alto do que nunca,\ntentando transmitir emoções\nque nem ela mesma compreende."
     },
     {
       "id": 145,
@@ -1606,7 +1606,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The oddball listens even more intently.\nThe stone gets frustrated and embarrassed\nat its own awkwardness.",
-      "pt": ""
+      "pt": "Essa pessoa a escuta com mais afinco.\nA pedra fica frustrada e sem graça\ncom a própria falta de jeito."
     },
     {
       "id": 146,
@@ -1617,7 +1617,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If only it were more human.\nIf it were an actual human,\nit would be able to express itself.",
-      "pt": ""
+      "pt": "Se ao menos fosse mais humana.\nSe fosse humana de verdade,\nconseguiria se expressar."
     },
     {
       "id": 147,
@@ -1628,7 +1628,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That's when the oddball realized:\nthe stone was yelling about how it had\nalways pined for a person like #[him][her]#.",
-      "pt": ""
+      "pt": "Foi aí que aquela pessoa percebeu:\na pedra gritava o quanto sempre desejou\nalguém exatamente como #[ele][ela]#."
     },
     {
       "id": 148,
@@ -1639,7 +1639,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The #[boy][girl]#, hearing this, says:\n\"Okay, then come along with me.\"",
-      "pt": ""
+      "pt": "#[O garoto][A garota]#, ouvindo isso, diz:\n\"Certo, então venha comigo.\""
     },
     {
       "id": 149,
@@ -1650,7 +1650,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It was like they were equals and friends.\n#[He][She]# treated the unimportant wayside stone\nas a unique and individual thing.",
-      "pt": ""
+      "pt": "Como se fossem iguais, #[amigos][amigas]#.\n#[Ele][Ela]# tratou a insignificante pedra\ncomo um ser único e individual."
     },
     {
       "id": 150,
@@ -1661,7 +1661,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――I've never witnessed such a miracle.\nI don't even think the #C000246204Moon Cell#CDEF\nhas ever recorded such a phenomenon.",
-      "pt": ""
+      "pt": "――――Eu nunca presenciei tal milagre.\nAcho que nem o próprio #C000246204Moon Cell#CDEF\njamais registrou um fenômeno assim."
     },
     {
       "id": 151,
@@ -1672,7 +1672,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "…which is why I offer my life for you.",
-      "pt": ""
+      "pt": "…por isso, entrego minha vida por você."
     },
     {
       "id": 152,
@@ -1683,7 +1683,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Fleeting as it was,\nyou gave me the feeling of being \"something.\"\nNow I'll make use of this #RUBS life#RUBElove#REND I've acquired.",
-      "pt": ""
+      "pt": "Por mais breve que tenha sido,\nvocê me deu a sensação de ser \"algo\".\nAgora usarei este #RUBSvida#RUBEamor#REND que ganhei."
     }
   ]
 }

@@ -3,70 +3,70 @@
   "po": "ptbr/menus/interface__cmn__install.po",
   "grupo": "12_menus_interface",
   "capitulo": "Menus e Interface",
-  "titulo": "Menus — Instalação de Dados (PRELOAD — manter EN)",
+  "titulo": "Menus — Instalação de Dados (PRELOAD)",
   "origem": "interface/cmn/install.bin",
   "utf8": true,
   "preload_fixo": true,
   "is_stub": false,
-  "nota": "PRELOAD.pak UTF-8 exato; não alterar tamanho",
+  "nota": "PRELOAD.pak UTF-8: o arquivo inteiro cabe em 656 bytes (acento = 2 bytes)",
   "linhas_totais": 5,
   "linhas_exclusivas": 5,
-  "traduzidas": 0,
+  "traduzidas": 5,
   "linhas": [
     {
       "id": 1,
       "msgctxt": "0",
       "tipo": "",
       "medida": null,
-      "max_bytes": 9,
+      "max_bytes": null,
       "comum": false,
       "repeticoes": 1,
       "en": "No Error.",
-      "pt": ""
+      "pt": "Sem erros."
     },
     {
       "id": 2,
       "msgctxt": "1",
       "tipo": "",
       "medida": null,
-      "max_bytes": 164,
+      "max_bytes": null,
       "comum": false,
       "repeticoes": 1,
       "en": "The installed game data has been damaged.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
-      "pt": ""
+      "pt": "Os dados instalados estão danificados.\nNão é possível lê-los.\nCarregando os dados do UMD™.\n\nA instalação de dados foi desativada."
     },
     {
       "id": 3,
       "msgctxt": "2",
       "tipo": "",
       "medida": null,
-      "max_bytes": 166,
+      "max_bytes": null,
       "comum": false,
       "repeticoes": 1,
       "en": "The installed game data has failed to load.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
-      "pt": ""
+      "pt": "Falha ao carregar os dados instalados.\nNão é possível lê-los.\nCarregando os dados do UMD™.\n\nA instalação de dados foi desativada."
     },
     {
       "id": 4,
       "msgctxt": "3",
       "tipo": "",
       "medida": null,
-      "max_bytes": 157,
+      "max_bytes": null,
       "comum": false,
       "repeticoes": 1,
       "en": "No memory stick has been detected.\nThe installed game data cannot be read.\nLoading the UMD™ game data.\n\nThe install game data function has been turned OFF.",
-      "pt": ""
+      "pt": "Nenhum Memory Stick foi detectado.\nNão é possível ler os dados instalados.\nCarregando os dados do UMD™.\n\nA instalação de dados foi desativada."
     },
     {
       "id": 5,
       "msgctxt": "4",
       "tipo": "",
       "medida": null,
-      "max_bytes": 94,
+      "max_bytes": null,
       "comum": false,
       "repeticoes": 1,
       "en": "Install has been aborted due to activation of Sleep Mode.\nCreation of install data has failed.",
-      "pt": ""
+      "pt": "A instalação foi interrompida pelo modo de espera.\nFalha ao criar os dados de instalação."
     }
   ]
 }

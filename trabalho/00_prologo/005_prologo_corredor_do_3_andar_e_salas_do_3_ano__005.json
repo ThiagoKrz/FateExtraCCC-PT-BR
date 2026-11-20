@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 180,
   "linhas_exclusivas": 101,
-  "traduzidas": 42,
+  "traduzidas": 180,
   "linhas": [
     {
       "id": 1,
@@ -165,7 +165,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 15,
@@ -187,7 +187,7 @@
       "comum": true,
       "repeticoes": 187,
       "en": "Servant",
-      "pt": ""
+      "pt": "Servo"
     },
     {
       "id": 17,
@@ -297,7 +297,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": true,
       "repeticoes": 192,
       "en": "Passionlip",
-      "pt": ""
+      "pt": "Passionlip"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "Meltlilith",
-      "pt": ""
+      "pt": "Meltlilith"
     },
     {
       "id": 29,
@@ -352,7 +352,7 @@
       "comum": true,
       "repeticoes": 193,
       "en": "BB",
-      "pt": ""
+      "pt": "BB"
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
       "comum": true,
       "repeticoes": 191,
       "en": "Gilgamesh",
-      "pt": ""
+      "pt": "Gilgamesh"
     },
     {
       "id": 35,
@@ -407,7 +407,7 @@
       "comum": true,
       "repeticoes": 190,
       "en": "Karna",
-      "pt": ""
+      "pt": "Karna"
     },
     {
       "id": 37,
@@ -506,7 +506,7 @@
       "comum": true,
       "repeticoes": 27,
       "en": "Talk",
-      "pt": ""
+      "pt": "Conversar"
     },
     {
       "id": 46,
@@ -550,7 +550,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "[Do Not Enter]",
-      "pt": ""
+      "pt": "[Entrada Proibida]"
     },
     {
       "id": 50,
@@ -561,7 +561,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What a shame.",
-      "pt": ""
+      "pt": "Que pena."
     },
     {
       "id": 51,
@@ -572,7 +572,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "３－Ｂチェック・侵食（仮）",
-      "pt": ""
+      "pt": "Checagem 3-B - Erosão (prov.)"
     },
     {
       "id": 52,
@@ -583,7 +583,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……so what#['d][ did]# I come here for, exactly……?",
-      "pt": ""
+      "pt": "……afinal, o que eu vim fazer aqui mesmo……?"
     },
     {
       "id": 53,
@@ -594,7 +594,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "３－Ｃチェック・侵食（仮）",
-      "pt": ""
+      "pt": "Checagem 3-C - Erosão (prov.)"
     },
     {
       "id": 54,
@@ -605,7 +605,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "生徒会室チェック・侵食（仮）",
-      "pt": ""
+      "pt": "Checagem Sala do Grêmio - Erosão (prov.)"
     },
     {
       "id": 55,
@@ -616,7 +616,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "放送室チェック・侵食（仮）",
-      "pt": ""
+      "pt": "Checagem Transmissão - Erosão (prov.)"
     },
     {
       "id": 56,
@@ -627,7 +627,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "視聴覚室チェック・侵食（仮）",
-      "pt": ""
+      "pt": "Checagem Audiovisual - Erosão (prov.)"
     },
     {
       "id": 57,
@@ -638,7 +638,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……I dunno 'bout that.",
-      "pt": ""
+      "pt": "……sei não, viu."
     },
     {
       "id": 58,
@@ -649,7 +649,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's an announcement for a school event on here.",
-      "pt": ""
+      "pt": "Há um anúncio de evento escolar aqui."
     },
     {
       "id": 59,
@@ -660,7 +660,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……but that event is already over,\nso it doesn't look like anyone is managing the posters.",
-      "pt": ""
+      "pt": "……mas o evento já acabou,\nentão parece que ninguém cuida dos cartazes."
     },
     {
       "id": 60,
@@ -671,7 +671,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "[#C236196003Leo#CDEF's so dreamy!]",
-      "pt": ""
+      "pt": "[O #C236196003Leo#CDEF é um sonho!]"
     },
     {
       "id": 61,
@@ -682,7 +682,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……I guess so.",
-      "pt": ""
+      "pt": "……acho que sim."
     },
     {
       "id": 62,
@@ -693,7 +693,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Walking in would mean my life would be over.",
-      "pt": ""
+      "pt": "Entrar aqui seria o fim da minha vida."
     },
     {
       "id": 63,
@@ -704,7 +704,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "I am not, by any means, ready for that,\nso I'll keep my distance.",
-      "pt": ""
+      "pt": "Não estou nem um pouco preparad#[o][a]#\npara isso, então vou manter distância."
     },
     {
       "id": 64,
@@ -715,7 +715,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I run some water.",
-      "pt": ""
+      "pt": "Abro a torneira."
     },
     {
       "id": 65,
@@ -726,7 +726,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Heheheh…… I see, so that's how it is.\nMan, how elaborate……",
-      "pt": ""
+      "pt": "Hehehe…… Entendi, então é assim.\nCara, que elaborado……"
     },
     {
       "id": 66,
@@ -737,7 +737,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Yeaaah.\nWhat was the prez thinking?",
-      "pt": ""
+      "pt": "Éeee.\nO que será que deu no presidente?"
     },
     {
       "id": 67,
@@ -748,7 +748,7 @@
       "comum": false,
       "repeticoes": 22,
       "en": "…………",
-      "pt": ""
+      "pt": "…………"
     },
     {
       "id": 68,
@@ -1100,7 +1100,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Aware of the danger,\nI look down the stairs to the second floor.",
-      "pt": ""
+      "pt": "Ciente do perigo,\nolho escada abaixo para o segundo andar."
     },
     {
       "id": 100,
@@ -1111,7 +1111,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The Noise has taken over the second floor\nand is pressing towards the third floor with clear speed.\nI have to run #C000246204up#CDEF even higher,\nor I#['m gonna]['ll]# end up like #C236196003Shinji#CDEF……",
-      "pt": ""
+      "pt": "O Ruído tomou o segundo andar e avança rápido\npara o terceiro. Preciso correr #C000246204para cima#CDEF,\nou vou acabar como o #C236196003Shinji#CDEF……"
     },
     {
       "id": 101,
@@ -1122,7 +1122,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "―is what it says on the door leading to the rooftop.\nIt used to be a place for students to relax,\nbut there were people doing dangerous things,\nso it's not allowed anymore.",
-      "pt": ""
+      "pt": "―é o que diz na porta que leva ao terraço.\nAntes era um lugar para os alunos relaxarem,\nmas fizeram coisas perigosas e proibiram."
     },
     {
       "id": 102,
@@ -1133,7 +1133,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've come to classroom 3-A.",
-      "pt": ""
+      "pt": "Cheguei à sala 3-A."
     },
     {
       "id": 103,
@@ -1144,7 +1144,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Coming to a higher grade's classroom\nfor no reason is kinda awkward.",
-      "pt": ""
+      "pt": "Vir à sala de uma série mais avançada\nsem motivo é meio constrangedor."
     },
     {
       "id": 104,
@@ -1155,7 +1155,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The inside of the classroom's been taken over by Noise.\nI have to keep going #C000246204up#CDEF……!",
-      "pt": ""
+      "pt": "O interior da sala foi tomado pelo Ruído.\nTenho que continuar #C000246204para cima#CDEF……!"
     },
     {
       "id": 105,
@@ -1166,7 +1166,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've come to classroom 3-B.",
-      "pt": ""
+      "pt": "Cheguei à sala 3-B."
     },
     {
       "id": 106,
@@ -1177,7 +1177,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Not a soul in sight.\nThey must've either left straight for home to study\nfor entrance exams, or they went to study at the library.",
-      "pt": ""
+      "pt": "Nem viva alma à vista.\nDevem ter ido direto para casa estudar\npara o vestibular, ou estão na biblioteca."
     },
     {
       "id": 107,
@@ -1188,7 +1188,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It depresses me knowing that\nI'll have to deal with the same soon enough.\nI decide to leave in a hurry and forget about entrance exams.",
-      "pt": ""
+      "pt": "Me dá desânimo saber que logo terei\nque passar pelo mesmo.\nSaio depressa para esquecer o vestibular."
     },
     {
       "id": 108,
@@ -1199,7 +1199,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I've come to classroom 3-C.",
-      "pt": ""
+      "pt": "Cheguei à sala 3-C."
     },
     {
       "id": 109,
@@ -1210,7 +1210,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No matter how hard I think about it,\nI can't remember, so I decided to leave.",
-      "pt": ""
+      "pt": "Por mais que eu tente pensar,\nnão me lembro, então decidi sair."
     },
     {
       "id": 110,
@@ -1221,7 +1221,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "President #C236196003Issei#CDEF isn't in the Student Council Room.",
-      "pt": ""
+      "pt": "O presidente #C236196003Issei#CDEF não está na Sala do Grêmio."
     },
     {
       "id": 111,
@@ -1232,7 +1232,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't have any particular business here,\nso I decide to take my leave.",
-      "pt": ""
+      "pt": "Não tenho nada em especial para fazer aqui,\nentão decidi ir embora."
     },
     {
       "id": 112,
@@ -1243,7 +1243,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I can't get into the broadcasting room because it's locked.",
-      "pt": ""
+      "pt": "Não entro na sala de transmissão: está trancada."
     },
     {
       "id": 113,
@@ -1254,7 +1254,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is a supply room.",
-      "pt": ""
+      "pt": "Esta é uma sala de materiais."
     },
     {
       "id": 114,
@@ -1265,7 +1265,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "No one really comes up to the third floor,\nso I'm not really sure what this supply room is used for.",
-      "pt": ""
+      "pt": "Quase ninguém sobe ao terceiro andar,\nentão nem sei para que serve esta sala."
     },
     {
       "id": 115,
@@ -1276,7 +1276,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This place is also covered with Noise and tendrils.\nI have keep running #C000246204up#CDEF……!",
-      "pt": ""
+      "pt": "Aqui também está cheio de Ruído e filamentos.\nTenho que correr #C000246204para cima#CDEF……!"
     },
     {
       "id": 116,
@@ -1287,7 +1287,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is the multimedia room.",
-      "pt": ""
+      "pt": "Esta é a sala audiovisual."
     },
     {
       "id": 117,
@@ -1298,7 +1298,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This room is always locked.\nWe've gotta use it for something\nat least once before graduation, right?",
-      "pt": ""
+      "pt": "Esta sala está sempre trancada.\nTemos que usá-la para alguma coisa\npelo menos uma vez antes da formatura, né?"
     },
     {
       "id": 118,
@@ -1309,7 +1309,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This is a fire hydrant.\nYou use it when a fire breaks out.",
-      "pt": ""
+      "pt": "Este é um hidrante.\nServe para quando começa um incêndio."
     },
     {
       "id": 119,
@@ -1320,7 +1320,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "That much I know,\nbut I have no idea how to actually use it.",
-      "pt": ""
+      "pt": "Até aí eu sei,\nmas não faço ideia de como usar de verdade."
     },
     {
       "id": 120,
@@ -1331,7 +1331,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……and that's probably okay, right?",
-      "pt": ""
+      "pt": "……e acho que tudo bem assim, né?"
     },
     {
       "id": 121,
@@ -1342,7 +1342,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I tried to press the button for the fire alarm.",
-      "pt": ""
+      "pt": "Tentei apertar o botão do alarme de incêndio."
     },
     {
       "id": 122,
@@ -1353,7 +1353,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "But the button wasn't there anymore,\njust tendrils extending from the jet-black Noise.\nThis really isn't the time to be doing this……!",
-      "pt": ""
+      "pt": "Mas o botão não estava mais lá,\nsó filamentos saindo do Ruído negro como breu.\nNão é hora para ficar mexendo nisso……!"
     },
     {
       "id": 123,
@@ -1364,7 +1364,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "If a fire happened right now,\nwould I be able to use the fire extinguisher to put it out?",
-      "pt": ""
+      "pt": "Se houvesse um incêndio agora,\neu saberia usar o extintor para apagá-lo?"
     },
     {
       "id": 124,
@@ -1375,7 +1375,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I tried going for the fire extinguisher,\nbut the pitch-black Noise cut me off before I could.\nI'll have to give up on it and run!",
-      "pt": ""
+      "pt": "Tentei alcançar o extintor, mas o Ruído\nnegro como breu bloqueou o caminho antes!\nTenho que desistir dele e correr!"
     },
     {
       "id": 125,
@@ -1386,7 +1386,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The schedule for the construction of\nthe underground cafeteria is posted up on here.",
-      "pt": ""
+      "pt": "O cronograma da obra do refeitório\nsubterrâneo está afixado aqui."
     },
     {
       "id": 126,
@@ -1397,7 +1397,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Looks like it'll be quite a while before they'll be done\nand the cafeteria is open again.",
-      "pt": ""
+      "pt": "Parece que ainda vai demorar bastante\naté terminarem e o refeitório reabrir."
     },
     {
       "id": 127,
@@ -1408,7 +1408,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I don't have time to be looking at the bulletin board.\nThe Noise is rising up from below. I have to keep going #C000246204up#CDEF!",
-      "pt": ""
+      "pt": "Não tenho tempo de olhar o quadro de avisos.\nO Ruído sobe lá de baixo.\nTenho que seguir #C000246204para cima#CDEF!"
     },
     {
       "id": 128,
@@ -1419,7 +1419,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This bulletin board is filled with recruitment posters\nfor various club activities.",
-      "pt": ""
+      "pt": "Este mural está cheio de cartazes\nrecrutando alunos para vários clubes."
     },
     {
       "id": 129,
@@ -1430,7 +1430,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Maybe it's just me, but wouldn't it be more\neffective to put this near the first-year classrooms\ninstead of the third-year ones?",
-      "pt": ""
+      "pt": "Talvez seja impressão minha, mas não seria\nmais eficaz pôr isso perto das salas do\nprimeiro ano em vez das do terceiro?"
     },
     {
       "id": 130,
@@ -1441,7 +1441,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "There's no time to look at something like that.\nI have keep running #C000246204up#CDEF……!",
-      "pt": ""
+      "pt": "Não há tempo para olhar uma coisa dessas.\nTenho que correr #C000246204para cima#CDEF……!"
     },
     {
       "id": 131,
@@ -1452,7 +1452,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "There's no time to look at something like that.\nI have keep running #C000246204up#CDEF……!",
-      "pt": ""
+      "pt": "Não há tempo para olhar uma coisa dessas.\nTenho que correr #C000246204para cima#CDEF……!"
     },
     {
       "id": 132,
@@ -1463,7 +1463,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There are distinct traces of posters\nthat've been up here before.",
-      "pt": ""
+      "pt": "Há marcas nítidas de cartazes\nque estiveram colados aqui antes."
     },
     {
       "id": 133,
@@ -1474,7 +1474,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I wonder what kind of posters they were?",
-      "pt": ""
+      "pt": "Que tipo de cartazes será que eram?"
     },
     {
       "id": 134,
@@ -1485,7 +1485,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "An announcement concerning\nsupplementary lessons is written here.",
-      "pt": ""
+      "pt": "Há um aviso aqui sobre aulas de reforço."
     },
     {
       "id": 135,
@@ -1496,7 +1496,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The third year is harsh……",
-      "pt": ""
+      "pt": "O terceiro ano é puxado……"
     },
     {
       "id": 136,
@@ -1507,7 +1507,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This bulletin board is filled with recruitment posters\nfor various club activities.",
-      "pt": ""
+      "pt": "Este mural está cheio de cartazes\nrecrutando alunos para vários clubes."
     },
     {
       "id": 137,
@@ -1518,7 +1518,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……oh? Now that I take a good look,\nthere's something scribbled on the side.",
-      "pt": ""
+      "pt": "……ora? Olhando bem agora,\nhá algo rabiscado aqui do lado."
     },
     {
       "id": 138,
@@ -1529,7 +1529,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……so #C236196003Leo#CDEF has fans even among the third-years?",
-      "pt": ""
+      "pt": "……então o #C236196003Leo#CDEF tem fãs até no terceiro ano?"
     },
     {
       "id": 139,
@@ -1540,7 +1540,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's a bulletin board, but there's nothing posted here.",
-      "pt": ""
+      "pt": "É um quadro de avisos, mas não há nada nele."
     },
     {
       "id": 140,
@@ -1551,7 +1551,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is a bulletin still a bulletin if there's nothing's on it?",
-      "pt": ""
+      "pt": "Um mural ainda é um mural sem nada nele?"
     },
     {
       "id": 141,
@@ -1562,7 +1562,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The schedule for movie screenings is posted.\nWonder what's on?",
-      "pt": ""
+      "pt": "A programação dos filmes está afixada.\nO que será que está em cartaz?"
     },
     {
       "id": 142,
@@ -1573,7 +1573,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "[This week's movie:\n   Magical Girl VS Soldier ～Imperial Shakedown～]",
-      "pt": ""
+      "pt": "[Filme da semana:\n  Garota Mágica VS Soldado\n  ～Batida Imperial～]"
     },
     {
       "id": 143,
@@ -1584,7 +1584,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "It's about a rough-and-tumble soldier\nwho faces off against a magical girl.\nThat's…… interesting, I guess?",
-      "pt": ""
+      "pt": "É sobre um soldado casca-grossa que enfrenta\numa garota mágica.\nIsso é…… interessante, eu acho?"
     },
     {
       "id": 144,
@@ -1595,7 +1595,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's nothing posted on this bulletin board.",
-      "pt": ""
+      "pt": "Não há nada afixado neste quadro de avisos."
     },
     {
       "id": 145,
@@ -1606,7 +1606,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "The boys' bathroom.",
-      "pt": ""
+      "pt": "O banheiro masculino."
     },
     {
       "id": 146,
@@ -1617,7 +1617,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "I don't need to go right now.",
-      "pt": ""
+      "pt": "Não preciso ir agora."
     },
     {
       "id": 147,
@@ -1628,7 +1628,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "The boys' bathroom.",
-      "pt": ""
+      "pt": "O banheiro masculino."
     },
     {
       "id": 148,
@@ -1639,7 +1639,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "……yep, I don't have the guts to walk in.",
-      "pt": ""
+      "pt": "……é, não tenho coragem de entrar."
     },
     {
       "id": 149,
@@ -1650,7 +1650,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "It's already been covered by the Noise.\nI'll have to find another place to run!",
-      "pt": ""
+      "pt": "Já foi tomado pelo Ruído.\nPreciso achar outro lugar para correr!"
     },
     {
       "id": 150,
@@ -1661,7 +1661,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "The girls' bathroom.",
-      "pt": ""
+      "pt": "O banheiro feminino."
     },
     {
       "id": 151,
@@ -1672,7 +1672,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "The girls' bathroom.",
-      "pt": ""
+      "pt": "O banheiro feminino."
     },
     {
       "id": 152,
@@ -1683,7 +1683,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "I don't need to go right now.",
-      "pt": ""
+      "pt": "Não preciso ir agora."
     },
     {
       "id": 153,
@@ -1694,7 +1694,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "How the flowing water shimmered in the setting sun was beautiful.\nI felt as though my heart was cleansed a little as well.\n……it was just tap water though.",
-      "pt": ""
+      "pt": "O brilho da água ao pôr do sol era lindo.\nSenti como se até meu coração se lavasse……\nmas era só água da torneira."
     },
     {
       "id": 154,
@@ -1705,7 +1705,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I opened up the locker, but all I found were\ncleaning supplies neatly and carefully arranged.\nThere was nothing out of place.",
-      "pt": ""
+      "pt": "Abri o armário, mas só havia materiais\nde limpeza arrumados com todo o cuidado.\nNão havia nada fora do lugar."
     },
     {
       "id": 155,
@@ -1716,7 +1716,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "For Journalism Club, I do pieces on\nflowers when they're in season,\nso I go to the garden pretty often.",
-      "pt": ""
+      "pt": "Faço matérias sobre as flores da estação\npara o Clube de Jornalismo,\nentão vou bastante ao jardim."
     },
     {
       "id": 156,
@@ -1727,7 +1727,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There're all kinds in bloom all year round.\nEven now, there're plenty of red and\nyellow ones out, so why not take a look?",
-      "pt": ""
+      "pt": "Tem de todo tipo florindo o ano inteiro.\nMesmo agora há várias vermelhas e amarelas\nabertas, por que não dá uma olhada?"
     },
     {
       "id": 157,
@@ -1738,7 +1738,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "The garden is to the #C000246204right of the first floor#CDEF.\nJust head through the doors leading outside.",
-      "pt": ""
+      "pt": "O jardim fica à #C000246204direita do primeiro andar#CDEF.\nÉ só passar pelas portas que dão para fora."
     },
     {
       "id": 158,
@@ -1749,7 +1749,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "There's a chapel in the back of the courtyard,\nbut regardless of when, no one's ever there.",
-      "pt": ""
+      "pt": "Tem uma capela no fundo do pátio,\nmas não importa a hora, nunca há ninguém lá."
     },
     {
       "id": 159,
@@ -1760,7 +1760,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "And yet it's not in disrepair……\nPretty mysterious, isn't it?",
-      "pt": ""
+      "pt": "E mesmo assim não está em ruínas……\nBem misterioso, não acha?"
     },
     {
       "id": 160,
@@ -1771,7 +1771,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Looks like none of the others noticed yet.\nHow careless of them.",
-      "pt": ""
+      "pt": "Parece que nenhum dos outros notou ainda.\nQue descuidados."
     },
     {
       "id": 161,
@@ -1782,7 +1782,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "――――Hm? What's with you?\nIf it's nothing, then don't talk to me.",
-      "pt": ""
+      "pt": "――――Hm? O que você quer?\nSe não for nada, não fale comigo."
     },
     {
       "id": 162,
@@ -1793,7 +1793,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Well, try your best to not get taken out\nin the preliminaries. Not that you'd know\nwhat I'm talking about anyway.",
-      "pt": ""
+      "pt": "Bom, tente ao menos não ser eliminad#[o][a]#\nnas preliminares. Não que você saiba\ndo que estou falando mesmo."
     },
     {
       "id": 163,
@@ -1804,7 +1804,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "N-no way……\nThis wasn't supposed to…… don't tell me……\nThese, aren't the prelims……?",
-      "pt": ""
+      "pt": "N-não pode ser……\nNão era para…… não me diga que……\nIsso aqui não são as preliminares……?"
     },
     {
       "id": 164,
@@ -1815,7 +1815,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I know we're supposed to take pictures\nof the 'theme of the day' for photo club,\nbut today's theme is \"cherry#RUBS      sakura#RUBE#REND blossoms.\"",
-      "pt": ""
+      "pt": "Para o clube de fotografia, tiramos fotos\ndo \"tema do dia\", mas o tema de hoje\nsão \"flores de #RUBS  sakura#RUBE#RENDcerejeira.\""
     },
     {
       "id": 165,
@@ -1826,7 +1826,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's with that!?\nWhat kinda cherry blossoms would\nbe blooming right now?",
-      "pt": ""
+      "pt": "Que história é essa!?\nQue cerejeira estaria\nflorescendo numa época dessas?"
     },
     {
       "id": 166,
@@ -1837,7 +1837,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Someone up there's barking up\nthe#RUBS  sakura#RUBE wrong#REND tree.",
-      "pt": ""
+      "pt": "Alguém lá em cima está procurando\nna#RUBS  sakura#RUBE árvore#REND errada."
     },
     {
       "id": 167,
@@ -1848,7 +1848,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hey, you studying for that aptitude test?",
-      "pt": ""
+      "pt": "Ei, está estudando para o teste de aptidão?"
     },
     {
       "id": 168,
@@ -1859,7 +1859,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "……what do you think, dude?\nYou been studying, or what?",
-      "pt": ""
+      "pt": "……o que você acha, cara?\nAndou estudando, ou o quê?"
     },
     {
       "id": 169,
@@ -1870,7 +1870,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Me? Heh. When the test is over,\nI'M getting married to my childhood friend.",
-      "pt": ""
+      "pt": "Eu? Heh. Quando o teste acabar,\nEU vou casar com minha amiga de infância."
     },
     {
       "id": 170,
@@ -1881,7 +1881,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Is this guy for real…?",
-      "pt": ""
+      "pt": "Esse cara está falando sério…?"
     },
     {
       "id": 171,
@@ -1892,7 +1892,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I'll leverage parallel processing if I can run\nthat part in a subroutine―the efficiency\nwould improve dramatically…",
-      "pt": ""
+      "pt": "Se eu rodar essa parte em sub-rotina\ncom processamento paralelo―a eficiência\nmelhora drasticamente…"
     },
     {
       "id": 172,
@@ -1903,7 +1903,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Okay, since that's decided,\nlet's start looking over the source file\nas soon as we can.",
-      "pt": ""
+      "pt": "Certo, já que está decidido,\nvamos começar a analisar o arquivo-fonte\no quanto antes."
     },
     {
       "id": 173,
@@ -1914,7 +1914,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Hm? You wanna know what this is about?\nI'm thinking of ways to optimize this\nprogram I'm making in the computer club.",
-      "pt": ""
+      "pt": "Hm? Quer saber do que se trata?\nEstou pensando em como otimizar este\nprograma que faço no clube de computação."
     },
     {
       "id": 174,
@@ -1925,7 +1925,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "C'mon, please don't bother me.",
-      "pt": ""
+      "pt": "Por favor, não me interrompa agora."
     },
     {
       "id": 175,
@@ -1936,7 +1936,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "What's wrong, you haven't gone home yet?",
-      "pt": ""
+      "pt": "O que houve, ainda não foi para casa?"
     },
     {
       "id": 176,
@@ -1947,7 +1947,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Tohsaka? ……yes, I saw her in the courtyard.\nIt's #C000246204at the end of the hallway,\nopposite of the supply room's side#CDEF.",
-      "pt": ""
+      "pt": "Tohsaka? ……sim, eu a vi no pátio.\nFica #C000246204no fim do corredor,\ndo lado oposto ao do depósito#CDEF."
     },
     {
       "id": 177,
@@ -1958,7 +1958,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "You went to see #C236196003Tohsaka#CDEF?\nThen it's about time to go home. The entrance\n#C000246204is on the first floor, straight ahead#CDEF.",
-      "pt": ""
+      "pt": "Foi falar com a #C236196003Tohsaka#CDEF?\nEntão está na hora de ir para casa. A saída\n#C000246204fica no primeiro andar, bem em frente#CDEF."
     },
     {
       "id": 178,
@@ -1969,7 +1969,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "So far, everything's gone smoothly.\nAt least, that's what the logs say: never has\nthere been trouble in the preliminaries.",
-      "pt": ""
+      "pt": "Até agora tudo correu bem.\nAo menos é o que dizem os registros:\nnunca houve problemas nas preliminares."
     },
     {
       "id": 179,
@@ -1980,7 +1980,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Aaaah, I'm bored.\nMaybe it's fun for people from the outside,\nbut for us, it's just plain torture.",
-      "pt": ""
+      "pt": "Aaah, que tédio.\nPara o pessoal de fora pode ser divertido,\nmas para nós é pura tortura."
     },
     {
       "id": 180,
@@ -1991,7 +1991,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "I wonder if anything will change.\nPubli#RUBS    We#RUBEc#REND morals don't get notified about things,\nlike events that'd change the world and such.",
-      "pt": ""
+      "pt": "Será que algo vai mudar?\nO #RUBS  Nós#RUBEcomitê#REND não recebe avisos sobre\neventos que mudariam o mundo e tal."
     }
   ]
 }

@@ -11,7 +11,7 @@
   "nota": "",
   "linhas_totais": 43,
   "linhas_exclusivas": 43,
-  "traduzidas": 0,
+  "traduzidas": 43,
   "linhas": [
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "View current status and skills.",
-      "pt": ""
+      "pt": "Ver status e habilidades."
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "View uncovered SGs.",
-      "pt": ""
+      "pt": "Ver SGs revelados."
     },
     {
       "id": 3,
@@ -44,7 +44,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Change equipped Mystic Codes.",
-      "pt": ""
+      "pt": "Mudar Artefatos Místicos."
     },
     {
       "id": 4,
@@ -55,7 +55,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "View items in your inventory.",
-      "pt": ""
+      "pt": "Ver seus itens."
     },
     {
       "id": 5,
@@ -66,7 +66,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Save game and adjust settings.",
-      "pt": ""
+      "pt": "Salvar e ajustar opções."
     },
     {
       "id": 6,
@@ -77,7 +77,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "This option is not yet available.\n",
-      "pt": ""
+      "pt": "Opção ainda indisponível.\n"
     },
     {
       "id": 7,
@@ -88,7 +88,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "??????",
-      "pt": ""
+      "pt": "??????"
     },
     {
       "id": 8,
@@ -99,7 +99,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Overly Self-conscious",
-      "pt": ""
+      "pt": "Autoconsciência Excessiva"
     },
     {
       "id": 9,
@@ -110,7 +110,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Money Worship",
-      "pt": ""
+      "pt": "Adoração por Dinheiro"
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Submission Desire",
-      "pt": ""
+      "pt": "Desejo de Submissão"
     },
     {
       "id": 11,
@@ -132,7 +132,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Management Desire",
-      "pt": ""
+      "pt": "Desejo de Gerenciamento"
     },
     {
       "id": 12,
@@ -143,7 +143,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Habit of Exposure",
-      "pt": ""
+      "pt": "Hábito de Exposição"
     },
     {
       "id": 13,
@@ -154,7 +154,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Powergamer",
-      "pt": ""
+      "pt": "Powergamer"
     },
     {
       "id": 14,
@@ -165,7 +165,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "Breast Valley",
-      "pt": ""
+      "pt": "Vale dos Seios"
     },
     {
       "id": 15,
@@ -176,7 +176,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Masochistic Constitution",
-      "pt": ""
+      "pt": "Constituição Masoquista"
     },
     {
       "id": 16,
@@ -187,7 +187,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Hypersensitivity",
-      "pt": ""
+      "pt": "Hipersensibilidade"
     },
     {
       "id": 17,
@@ -198,7 +198,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Compulsive Liar",
-      "pt": ""
+      "pt": "Mentirosa Compulsiva"
     },
     {
       "id": 18,
@@ -209,7 +209,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Loneliness",
-      "pt": ""
+      "pt": "Solidão"
     },
     {
       "id": 19,
@@ -220,7 +220,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Curse of Death",
-      "pt": ""
+      "pt": "Maldição da Morte"
     },
     {
       "id": 20,
@@ -231,7 +231,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Lovestruck [Sweets]",
-      "pt": ""
+      "pt": "Apaixonada [Doces]"
     },
     {
       "id": 21,
@@ -242,7 +242,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Loves Cooking [Wifely Desire]",
-      "pt": ""
+      "pt": "Amor pela Culinária [Esposa]"
     },
     {
       "id": 22,
@@ -253,7 +253,7 @@
       "comum": false,
       "repeticoes": 1,
       "en": "Purity [Inexperienced]",
-      "pt": ""
+      "pt": "Pureza [Inexperiente]"
     },
     {
       "id": 23,
@@ -264,7 +264,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Sadistic Constitution",
-      "pt": ""
+      "pt": "Constituição Sádica"
     },
     {
       "id": 24,
@@ -275,7 +275,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Doll Mania",
-      "pt": ""
+      "pt": "Mania por Bonecas"
     },
     {
       "id": 25,
@@ -286,7 +286,7 @@
       "comum": false,
       "repeticoes": 4,
       "en": "Crime Ballet",
-      "pt": ""
+      "pt": "Balé do Crime"
     },
     {
       "id": 26,
@@ -297,7 +297,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Kouhai Attribute",
-      "pt": ""
+      "pt": "Atributo Kouhai"
     },
     {
       "id": 27,
@@ -308,7 +308,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Confining Desire",
-      "pt": ""
+      "pt": "Desejo de Confinamento"
     },
     {
       "id": 28,
@@ -319,7 +319,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Inversion of Love & Hate",
-      "pt": ""
+      "pt": "Inversão de Amor e Ódio"
     },
     {
       "id": 29,
@@ -330,7 +330,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Pheromones",
-      "pt": ""
+      "pt": "Feromônios"
     },
     {
       "id": 30,
@@ -341,7 +341,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Philanthropy",
-      "pt": ""
+      "pt": "Filantropia"
     },
     {
       "id": 31,
@@ -352,7 +352,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Demonic Bodhisattva",
-      "pt": ""
+      "pt": "Bodhisattva Demoníaca"
     },
     {
       "id": 32,
@@ -363,7 +363,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Love of Harems",
-      "pt": ""
+      "pt": "Amante de Haréns"
     },
     {
       "id": 33,
@@ -374,7 +374,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Bouquet of Laurel Wreaths",
-      "pt": ""
+      "pt": "Buquê de Coroas de Louro"
     },
     {
       "id": 34,
@@ -385,7 +385,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Love for the People",
-      "pt": ""
+      "pt": "Amor pelo Povo"
     },
     {
       "id": 35,
@@ -396,7 +396,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Tool Mania",
-      "pt": ""
+      "pt": "Mania por Ferramentas"
     },
     {
       "id": 36,
@@ -407,7 +407,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Serving Constitution",
-      "pt": ""
+      "pt": "Índole Prestativa"
     },
     {
       "id": 37,
@@ -418,7 +418,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Bad Luck with Women",
-      "pt": ""
+      "pt": "Azar com Mulheres"
     },
     {
       "id": 38,
@@ -429,7 +429,7 @@
       "comum": false,
       "repeticoes": 3,
       "en": "Monopolizing Desire",
-      "pt": ""
+      "pt": "Desejo de Monopolizar"
     },
     {
       "id": 39,
@@ -440,7 +440,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Poor Cook",
-      "pt": ""
+      "pt": "Péssima Cozinheira"
     },
     {
       "id": 40,
@@ -451,7 +451,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Golden-furred Beauty",
-      "pt": ""
+      "pt": "Beldade de Pelo Dourado"
     },
     {
       "id": 41,
@@ -462,7 +462,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Lynchpin of Heaven",
-      "pt": ""
+      "pt": "Estaca do Céu"
     },
     {
       "id": 42,
@@ -473,7 +473,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Chains of Heaven",
-      "pt": ""
+      "pt": "Correntes do Céu"
     },
     {
       "id": 43,
@@ -484,7 +484,7 @@
       "comum": false,
       "repeticoes": 2,
       "en": "Poison of Death",
-      "pt": ""
+      "pt": "Veneno da Morte"
     }
   ]
 }
