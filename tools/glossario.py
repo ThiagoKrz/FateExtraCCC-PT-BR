@@ -170,11 +170,9 @@ GLOSSARY = {
         'Não traz vantagem: os dados do jogo são',
     'is always loaded from the memory stick.': 'sempre lidos do memory stick.',
 
-    # interface/cmn/install.bin fica em ingles de proposito. Ele vive no
-    # PRELOAD.pak (nao pode mudar de tamanho), o texto ingles ja ocupa os 656
-    # bytes exatos, e o arquivo e gravado em UTF-8, onde cada acento custa 2
-    # bytes. So caberia portugues sem acento, o que e pior do que deixar em
-    # ingles numa mensagem de erro de instalacao que quase nunca aparece.
+    # interface/cmn/install.bin (PRELOAD.pak, UTF-8) e traduzido a mao: o
+    # arquivo inteiro precisa caber nos 656 bytes originais, entao nao entra
+    # na troca automatica de termos.
 
     # --- loja ---
     "It looks like it's sold out.\nI'll try again later.":
@@ -243,6 +241,115 @@ GLOSSARY = {
     'read successfully.': 'lido com sucesso.',
     'by reading save data from Fate/EXTRA.': 'lendo os dados salvos de Fate/EXTRA.',
     'without saving the Clear Data?': 'sem salvar os Clear Data?',
+    'Servant': 'Servo',
+    'King of Heroes': 'Rei dos Heróis',
+    'Green Archer': 'Archer Verde',
+
+    # --- prompts e falas comuns de exploracao / checkpoints (mapas do Labirinto) ---
+    'Activate the switch?': 'Ativar o interruptor?',
+    'Press.': 'Pressionar.',
+    "Don't press.": 'Não pressionar.',
+    'HP & MP fully restored.': 'HP e MP totalmente restaurados.',
+    'Save?': 'Salvar?',
+    'Save current progress?': 'Salvar o progresso atual?',
+    'Retry battle?': 'Tentar a batalha novamente?',
+    'Try again?': 'Tentar novamente?',
+    'Checkpoint unlocked.': 'Checkpoint desbloqueado.',
+    'Return to the old school?': 'Voltar ao prédio antigo?',
+    'Return to the old school.': 'Voltar ao prédio antigo.',
+    'Continue to the next floor?': 'Seguir para o próximo andar?',
+    'Continue to the next floor.': 'Seguir para o próximo andar.',
+    'Head to the next floor?': 'Ir para o próximo andar?',
+    'Return to the previous floor?': 'Voltar ao andar anterior?',
+    'Return to previous floor.': 'Voltar ao andar anterior.',
+    'Stay here.': 'Ficar aqui.',
+    'Talk': 'Conversar',
+    'I have no preference.': 'Não tenho preferência.',
+    'Change into this outfit.': 'Trocar para este traje.',
+    'Skip to this scene?': 'Pular para esta cena?',
+    'Yes': 'Sim',
+    'acquired. View now?': 'adquirido. Ver agora?',
+    'has been obtained.': 'foi obtido.',
+    'Even in cyberspace, you need proper rest.':
+        'Mesmo no ciberespaço, você precisa\ndescansar direito.',
+    'Is there a checkpoint in that area?':
+        'Será que há um checkpoint nessa área?',
+    "#C236196003Sakura#CDEF is right.\nLet's head back to #C000246204My Room#CDEF now.":
+        '#C236196003Sakura#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF agora.',
+    "#C236196003#SVT#CDEF is right.\nLet's head back to #C000246204My Room#CDEF and get some rest.":
+        '#C236196003#SVT#CDEF tem razão.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar.',
+    "#C236196003BB#CDEF is right there.\nLet's #C000246204press on#CDEF.":
+        '#C236196003BB#CDEF está logo ali.\nVamos #C000246204seguir em frente#CDEF.',
+    "We obtained the #C000246204SG#CDEF.\nLet's go back to #C000246204My Room#CDEF and rest.":
+        'Obtivemos o #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e descansar.',
+    "Praetor, I've grown tired. Let us return\nto My Room and have ourselves a bath.":
+        'Maestro, já me cansei.\nVoltemos ao Meu Quarto para um bom banho.',
+    "I know how you feel, but knowing\nwhen to rest is also part of the battle.\nLet's head back to My Room.":
+        'Sei como se sente, mas saber a hora\nde descansar também faz parte da luta.\nVamos voltar ao Meu Quarto.',
+    "Darling, now is the time for rest.\nLet's return to our room and\nrecover our strength.":
+        '#[Querido][Querida]#, agora é hora de descansar.\nVamos voltar para o nosso quarto\ne recuperar as forças.',
+    "What an impatient #[man][woman]#. Laboring away\nis not all there is to life, you know?\nWhen it's time to rest, rest.":
+        'Que #[homem][mulher]# impaciente. A vida não\nse resume a labutar, sabia?\nNa hora de descansar, descanse.',
+    "Surely you aren't thinking of WALKING back?\nDo you intend to make me march for no purpose?\nLook for that #C000246204checkpoint#CDEF!":
+        'Não vai querer voltar A PÉ, não é?\nQuer me fazer marchar à toa?\nProcure aquele #C000246204checkpoint#CDEF!',
+    'After making a shortcut to the old school from\nthe #C000246204checkpoint#CDEF, please return to base.':
+        'Após abrir um atalho do #C000246204checkpoint#CDEF\nao prédio antigo, volte à base.',
+    '#C236196003#FAMILY#CDEF, you appear to have accumulated\na lot of fatigue. I recommend that\nyou return for the moment to take a rest.':
+        '#C236196003#FAMILY#CDEF, parece que acumulou muita\nfadiga. Recomendo que retorne\npor ora para descansar.',
+    "I'm concerned about #C236196003Rin#CDEF.":
+        'Estou preocupad#[o][a]# com a #C236196003Rin#CDEF.',
+    'Searching the Labyrinth is nice and all,\nbut I should #C000246204return to the old school#CDEF to\nbriefly speak with #C236196003Kiara#CDEF.':
+        'Explorar o Labirinto ajuda, mas preciso\n#C000246204voltar ao prédio antigo#CDEF e falar rápido\ncom #C236196003Kiara#CDEF.',
+    "I obtained the first #C000246204SG#CDEF.\nLet's briefly return to #C000246204My Room#CDEF and sort\nout the situation.":
+        'Obtive o primeiro #C000246204SG#CDEF.\nVamos voltar ao #C000246204Meu Quarto#CDEF e organizar\na situação.',
+    "First thing to do is activate the #C000246204checkpoint#CDEF.\nThat'll help move our search along.":
+        'Primeiro, vamos ativar o #C000246204checkpoint#CDEF.\nIsso vai agilizar a nossa busca.',
+    "What's wrong, Praetor?\nLet's #C000246204continue onward#CDEF!":
+        'O que houve, Maestro?\nVamos #C000246204seguir em frente#CDEF!',
+    "Don't worry. I'll protect you, Darling.\nSo, continue on #C000246204ahead#CDEF.":
+        'Não se preocupe. Vou proteger você,\n#[Querido][Querida]#. Siga em #C000246204frente#CDEF.',
+    "Surely you're not telling me that you're\nfrightened? Even you understand that stopping\nhere is impermissible, yes?":
+        'Não me diga que ficou com medo?\nMesmo você sabe que parar\naqui é inadmissível, não sabe?',
+    '#C236196003#FAMILY#CDEF. After you activate the #C000246204checkpoint#CDEF,\nplease have yourself a rest in your\nprivate room.':
+        '#C236196003#FAMILY#CDEF. Após ativar o #C000246204checkpoint#CDEF,\ndescanse um pouco em seu\nquarto particular.',
+    "Once you activate the #C000246204checkpoint#CDEF,\nuse it to get back here.\nI'll bet you're exhausted, #C236196003#NICK#CDEF.":
+        'Ative o #C000246204checkpoint#CDEF e use-o\npara voltar aqui.\nDeve estar exaust#[o][a]#, #C236196003#NICK#CDEF.',
+    "#[Mr.][Ms.]##C236196003 #NICK#CDEF, return to base for now.\nLet's discuss our plan\nin the #C000246204Student Council Room#CDEF.":
+        '#[Sr.][Srta.]##C236196003 #NICK#CDEF, volte à base agora.\nDiscutiremos o plano\nna #C000246204Sala do Grêmio#CDEF.',
+    "#C236196003#GIVEN#CDEF, please come back.\nYou've accumulated a lot of fatigue;\nany more will be dangerous!":
+        '#C236196003#GIVEN#CDEF, por favor, volte.\nVocê acumulou muita fadiga;\ncontinuar será perigoso!',
+    "#C236196003Sakura#CDEF's worried state gets across to\nme even over the transmission.":
+        'A preocupação da #C236196003Sakura#CDEF fica clara\naté pela transmissão.',
+    "She's right, it would be best if\nwe returned to the #C000246204Old School Building#CDEF.":
+        'Ela tem razão, melhor voltarmos\nao #C000246204Prédio Antigo da Escola#CDEF.',
+    "We got the #C000246204SG#CDEF.\nMission complete.\nLet's head home and get some rest.":
+        'Pegamos o #C000246204SG#CDEF.\nMissão cumprida.\nVamos voltar e descansar.',
+    "Where are you going? We secured the #C000246204SG#CDEF.\nThere's nothing urgent to tend to.\nBack to #C000246204My Room#CDEF, now.":
+        'Onde vai? Já garantimos o #C000246204SG#CDEF.\nNão há mais urgência alguma.\nDe volta ao #C000246204Meu Quarto#CDEF, agora.',
+    'Hrrrm? Where are you going, #C236196003#FAMILY\n#GIVEN#CDEF? Where are you going,\nleaving me behind?':
+        'Hummm? Onde vai, #C236196003#FAMILY\n#GIVEN#CDEF? Para onde está indo,\nme deixando para trás?',
+    "Wait, Praetor. If we're going to head back,\nit'll behoove us for the future to have\nthe #C000246204checkpoint#CDEF activated.":
+        'Espere, Maestro. Antes de voltarmos,\nconvém ativar o #C000246204checkpoint#CDEF\npara facilitar daqui em diante.',
+    "Master, let's look for the #C000246204checkpoint#CDEF.\nIt should be around here somewhere…":
+        '#[Mestre][Mestra]#, procuremos o #C000246204checkpoint#CDEF.\nDeve estar por aqui em algum lugar…',
+    "We don't need to walk all the way back.\nWe can use the #C000246204checkpoint#CDEF to reach the\nold school in a flash. Very nifty.":
+        'Não precisamos voltar tudo a pé.\nCom o #C000246204checkpoint#CDEF chegamos num\npiscar ao prédio antigo. Bem prático.',
+    "We're in a race against time.\nWe need to hurry to the #C000246204Moon Cell's Core#CDEF――!":
+        'Corremos contra o tempo.\nTemos que ir rápido ao\n#C000246204Núcleo do Moon Cell#CDEF――!',
+    "I can't let #C236196003Shinji#CDEF's hopes go to waste.\nLet's press on so we can catch up to #C236196003Meltlilith#CDEF!":
+        'Não posso desperdiçar as esperanças\ndo #C236196003Shinji#CDEF. Vamos alcançar\na #C236196003Meltlilith#CDEF!',
+    "We took more damage from our fight with #C236196003Lancer#CDEF\nthan I expected. Now would be a good time to head\nback to the old school.\nLuckily, there's a #C000246204checkpoint#CDEF near us.":
+        'Sofremos mais dano contra a #C236196003Lancer#CDEF\ndo que eu previa. Melhor voltar ao prédio\nantigo; por sorte há um #C000246204checkpoint#CDEF perto.',
+    "We obtained the #C000246204SG#CDEF. Let's return to the\n#C000246204Old School Building#CDEF for the time being.\nWe can come again after we recover.":
+        'Obtivemos o #C000246204SG#CDEF. Vamos voltar por ora\nao #C000246204Prédio Antigo da Escola#CDEF\ne retornar depois de nos recuperarmos.',
+    "Before we go to the next floor,\nlet's #C000246204head back to the Student Council Room#CDEF.\nWe need to hand over the data we got from #C236196003Green Archer#CDEF.\nHe gave his life to entrust us with it.":
+        'Antes de ir ao próximo andar,\n#C000246204voltemos à Sala do Grêmio#CDEF para entregar\nos dados que #C236196003Archer Verde#CDEF nos confiou.',
+    "For a second there, I was thinking about\nleaving #C236196003Gatou#CDEF and heading back,\nbut it probably won't rest easy on my conscience,\nso let's turn back.":
+        'Pensei por um segundo em deixar #C236196003Gatou#CDEF\ne ir embora, mas minha consciência não\nme deixaria em paz. Vamos voltar.',
+    "Huh? You're still in the #C000246204Sakura Labyrinth#CDEF?\nCome on, there's nothing to do there.\nGet your butt back here!":
+        'Hã? Ainda no #C000246204Labirinto de Sakura#CDEF?\nNão tem nada para fazer aí.\nTrate de voltar logo pra cá!',
+    "We'll talk about what comes next tomorrow,\nso #C000246204come back and get some rest#CDEF.\nAfter, drop by the Student Council Room.":
+        'Falamos do próximo passo amanhã,\nentão #C000246204volte e vá descansar#CDEF.\nDepois, passe na Sala do Grêmio.',
 }
 
 # Entradas antigas que violavam o glossario central (ex.: classes de Servo) e

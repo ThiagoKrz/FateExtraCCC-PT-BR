@@ -190,7 +190,7 @@ SG_CHARS = [
     ('ran', 'Rani VIII'),
     ('psl', 'Passionlip'),
     ('zin', 'Carigiri Jinako'),
-    ('ksk', 'Karna'),
+    ('ksk', 'BB (Black Sakura)'),
     ('eli', 'Elizabeth Bathory'),
     ('mll', 'Meltlilith'),
     ('kia', 'Sessyoin Kiara'),
@@ -216,7 +216,7 @@ MENUS_MAP: dict[str, tuple[int, str, str]] = {
     'interface__svtselect__msg': (5, 'Menus — Seleção de Servo (Estilos e Avisos)', ''),
     'interface__charsel__svt_select': (6, 'Menus — Confirmação de Parceria com o Servo', ''),
     'interface__cmn__dialog': (7, 'Menus — Diálogos Comuns (Sim / Não)', ''),
-    'interface__cmn__install': (8, 'Menus — Instalação de Dados (PRELOAD — manter EN)', 'PRELOAD.pak UTF-8 exato; não alterar tamanho'),
+    'interface__cmn__install': (8, 'Menus — Instalação de Dados (PRELOAD)', 'PRELOAD.pak UTF-8: o arquivo inteiro cabe em 656 bytes (acento = 2 bytes)'),
     'interface__mainmenu__help': (9, 'Menus — Ajuda do Menu Principal', ''),
     'interface__status__msg': (10, 'Menus — Tela de Status e Trajes', ''),
     'interface__equip__msg': (11, 'Menus — Equipamento e Artefatos Místicos', ''),
@@ -286,6 +286,10 @@ def catalogar_todos(ptbr_dir: str = PTBR_DIR) -> list[dict]:
         rel_dir_file = os.path.relpath(path, ptbr_dir).replace(os.sep, '/')
         po_id = rel_dir_file[:-3]
         cat, stem = po_id.split('/', 1)
+        if cat == 'nativo':
+            # itens/legendas do patch nativo: aplicados por tools/native_text.py,
+            # fora do pipeline de dump/build e do catálogo de 292 unidades
+            continue
 
         is_stub = False
         if cat == 'historia':

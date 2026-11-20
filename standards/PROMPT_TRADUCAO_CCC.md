@@ -87,7 +87,22 @@ Nunca alterar:
 | `Sentinel` / `Sentinels` | **Sentinela** / **Sentinelas** | Sempre no feminino (`a Sentinela`). |
 | `Near Side` / `Far Side` | **Near Side** / **Far Side** | Em descrições por extenso, `Lado Próximo da Lua` / `Lado Distante da Lua`. |
 | `Secret Garden` / `SG` / `Info Matrix` | **Secret Garden** / **SG** / **Info Matrix** | Mantidos como nomes de recurso. |
-| `Praetor` / `SE.RA.PH` / `SERIAL PHANTASM` | **Praetor** / **SE.RA.PH** / **SERIAL PHANTASM** | Mantidos. |
+| `Praetor` | **Maestro** | Tratamento que Nero usa para Hakuno (padrão Fate Café / Extra Record). |
+| `SE.RA.PH` / `SERIAL PHANTASM` | **SE.RA.PH** / **SERIAL PHANTASM** | Mantidos. |
+| `Sakura Labyrinth` / `Old School Building` | **Labirinto de Sakura** / **Prédio Antigo da Escola** | Curto: `prédio antigo`. |
+| `Wizard` / `checkpoint` / `Noise` | **Wizard** / **checkpoint** / **Ruído** | `Wizard` e `checkpoint` ficam em inglês; `o Moon Cell` é masculino (`Núcleo do Moon Cell`). |
+
+### Tratamentos ao Protagonista, Códigos `#NICK`/`#SVT[...]#` e Apelidos de Servos
+
+- **Tamamo no Mae (Caster)** chama Hakuno (`Darling`) de **`#[Querido][Querida]#`** (e no rubi `Master/Darling`: `#RUBS#[Mestre][Mestra]##RUBE#[Querido][Querida]##REND`).
+- **Elizabeth Báthory** chama Hakuno (`#[piggy][squirrely]#`) de **`#[porquinho][esquilinho]#`** (`#[Porquinho][Esquilinho]#` / `#[porco][esquilo]#` / `#[Mestre porquinho][Mestra esquilinho]#`); `puppy` para Servos = **`cachorrinho`**.
+- **Nero (Saber):** **`Maestro`** / **`#[meu][minha]# Maestro`**.
+- **EMIYA (Archer):** **`#[Mestre][Mestra]#`** / `#FAMILY` / `#GIVEN`.
+- **Gilgamesh:** **`#[mestiço][mestiça]#`** (`mongrel`) / **`verme`**.
+- **BB:** **`Senpai`** (`Sakura`, `Rani`, `Leo` e `Kotomine` usam `#[Sr.][Srta.]# #FAMILY`).
+- **Jinako / Passionlip / Meltlilith:** usam **`#NICK`** (apelido do protagonista inserido pelo jogo).
+- **Seletor `#SVT[a][b][c][d]#`:** as 4 chaves correspondem exatamente a `[Saber (Nero)][Archer (EMIYA)][Caster (Tamamo)][Gilgamesh]`. Sempre traduzir as **4** variantes respeitando gênero e voz de cada um!
+- **Apelidos de Servos:** manter **`Goldy`**, **`Gorgeous`**, **`AUO`** e **`Launcher`** em inglês; traduzir **`Green Archer`** = **`Archer Verde`**, **`Green Tea`** / **`Greenchee`** = **`Chá Verde`** / **`Chazinho Verde`**, **`Red Lancer`** = **`Lancer Vermelha`**.
 
 ### Nomes japoneses completos (ordem japonesa, sem mácrons)
 
@@ -167,8 +182,9 @@ Copiar exatamente, na mesma posição, **incluindo os espaços internos**.
 | `#Cnnnnnnnnn` … `#CDEF` | abre cor / volta ao padrão |
 | `#RUBS<base>#RUBE<leitura>#REND` | texto rubi: base grande, leitura pequena em cima |
 | `#ROFSnnnn` | desloca o rubi; vem antes do `#RUBS` |
-| `#FAMILY` / `#GIVEN` | sobrenome / nome do jogador |
+| `#FAMILY` / `#GIVEN` / `#NICK` | sobrenome / nome / apelido do jogador |
 | `#SVT` | nome do Servo do jogador |
+| `#SVT[a][b][c][d]#` | variante por Servo: `[Saber][Archer][Caster][Gilgamesh]` |
 | `#TITM0001` | nome do item corrente |
 | `#TVALnn` | valor numérico do jogo |
 | `#[a][b]#` | variante por gênero: 1ª masculino, 2ª feminino |
@@ -283,10 +299,10 @@ crescer nem 1 byte.
 Escala de registro: **1** (formal/elevado) a **4** (coloquial/gíria de internet, restrito a Taiga e Jinako). No **Teste Cego**, ao tapar o nome do falante, deve ser possível reconhecer quem fala pelo vocabulário e ritmo.
 
 - **Kishinami Hakuno (Protagonista, 1ª pessoa — nível 2):** Narrador(a) sóbrio(a), observador(a), seco(a) e direto(a), com humor interno sutil. Português correto e natural (sem gíria na narração). Todo adjetivo/particípio/pronome referente a ele(a) exige `#[masc][fem]#`.
-- **Nero Claudius (Saber — nível 1):** Grandiloquente, imperial, teatral, apaixonada e narcisista de bom coração. Chama Hakuno de `Praetor` ou `#[meu Mestre][minha Mestra]#`. Zero gíria ou contração coloquial (`pra`/`tá`).
-- **Tamamo no Mae (Caster — nível 3):** Afetada, melosa, devotada como "esposa dedicada" (`Goshujin-sama` / `meu Mestre`), mas afiada e calculista quando séria.
-- **EMIYA / Sem Nome (Archer — nível 2):** Seco, maduro, sardônico, contido e pragmático; ironia cortante com cuidado oculto.
-- **Gilgamesh (nível 1):** Régio, absoluto, arrogante e arcaico; todos são mestiços/vermes; vocabulário elevado, jamais coloquial.
+- **Nero Claudius (Saber — nível 1):** Grandiloquente, imperial, teatral, apaixonada e narcisista de bom coração. Chama Hakuno de `Maestro` / `#[meu][minha]# Maestro` (com rubi `#[Mestre][Mestra]#` quando aplicável). Zero gíria ou contração coloquial (`pra`/`tá`).
+- **Tamamo no Mae (Caster — nível 3):** Afetada, melosa, devotada como "esposa dedicada" (chama Hakuno de `#[Querido][Querida]#`, e `#RUBS#[Mestre][Mestra]##RUBE#[Querido][Querida]##REND` no rubi), mas afiada e calculista quando séria.
+- **EMIYA / Sem Nome (Archer — nível 2):** Seco, maduro, sardônico, contido e pragmático; chama Hakuno de `#[Mestre][Mestra]#`; ironia cortante com cuidado oculto.
+- **Gilgamesh (nível 1):** Régio, absoluto, arrogante e arcaico; chama Hakuno de `#[mestiço][mestiça]#` / `verme`; vocabulário elevado, jamais coloquial.
 - **BB (nível 2–3):** Kouhai diabólica; alterna entre doçura artificial de apresentadora (`BB Channel`, chama Hakuno de `Senpai`) e sadismo frio e ameaçador.
 - **Meltlilith (Alter Ego do prazer — nível 1–2):** Altiva, sádica, orgulhosa, elegante como bailarina; despreza os outros, mas tem forte senso de estética e dignidade.
 - **Passionlip (Alter Ego do amor e do ódio — nível 2):** Tímida, insegura, carente e defensiva, com explosões de frustração pesada.
@@ -301,7 +317,7 @@ Escala de registro: **1** (formal/elevado) a **4** (coloquial/gíria de internet
 - **Karna (Lancer — nível 1):** Solene, brutalmente honesto, econômico nas palavras e desprovido de malícia; zero gíria.
 - **Gawain (Saber — nível 1):** Cavaleiro solar cortês, leal ao extremo a Leo, formal e honrado.
 - **Hans Christian Andersen (Caster — nível 2):** Escritor cínico, rabugento, mordaz e observador; vocabulário culto com veneno ácido.
-- **Elizabeth Báthory (Lancer — nível 3):** Idol autoproclamada, mimada, dramática e infantilmente vaidosa.
+- **Elizabeth Báthory (Lancer — nível 3):** Idol autoproclamada, mimada, dramática e infantilmente vaidosa; chama Hakuno de `#[porquinho][esquilinho]#` (`#[Porquinho][Esquilinho]#` / `#[porco][esquilo]#`) e outros Servos de `cachorrinho` (`puppy`).
 
 ### Pontuação e estilo do CCC
 

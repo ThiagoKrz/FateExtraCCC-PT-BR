@@ -1,0 +1,1456 @@
+{
+ "descricao": "Lote 4 de texturas: aberturas de capítulo (cpt_00 a cpt_08), poema final (poem_ex_tex) e tradução dos títulos de capítulo. Gerado da planilha aprovada Fate_Extra_CCC_Lote4_Aberturas.xlsx. Kanji e subtítulo estilizado dos títulos, - BAD END. - e os títulos de poem.txb ficam como na arte original.",
+ "texturas": {
+  "interface/poem/cpt_00.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "13": {
+    "partes": [
+     {
+      "en": "Welcome, to the deepest depths of the",
+      "pt": "Boas-vindas ao mais profundo",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       493,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "Pleasure Principle.",
+      "pt": "do Princípio do Prazer.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       493,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "14": {
+    "en": "What lies here is a profound tranquility.",
+    "pt": "O que aqui repousa é uma tranquilidade profunda.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "15": {
+    "en": "A supreme cradle giving you everlasting dreams.",
+    "pt": "Um berço supremo que lhe concede sonhos eternos.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "16": {
+    "en": "Instinct & Reason, Pleasure & Displeasure.",
+    "pt": "Instinto & Razão, Prazer & Desprazer.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "partes": [
+     {
+      "en": "Whichever you may follow,",
+      "pt": "Seja qual for o caminho que seguir,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       439,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "your own heart shall be what decides.",
+      "pt": "quem decide é o seu próprio coração.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       439,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   }
+  },
+  "interface/poem/cpt_01.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Subordination Garden",
+      "pt": "Jardim da Subordinação",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "12": {
+    "en": "―― This is the story of a girl.",
+    "pt": "―― Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "13": {
+    "partes": [
+     {
+      "en": "From the time she awoke,",
+      "pt": "Desde que despertou,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       460,
+       0,
+       23
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "she had been tied with pathology.",
+      "pt": "ela vivia presa a uma patologia.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       460,
+       23,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "14": {
+    "en": "Heavy chains all around her.",
+    "pt": "Correntes pesadas a envolviam.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "Wrapped from head-to-toe,",
+      "pt": "Envolta da cabeça aos pés,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       387,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "she was bound like a sort of mummy.",
+      "pt": "estava atada como uma espécie de múmia.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       387,
+       25,
+       55
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "16": {
+    "en": "“That’s not freedom”, so they pitied.",
+    "pt": "“Isso não é liberdade”, lamentavam.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "“There’s no freedom”, so she rejoiced.",
+    "pt": "“Não há liberdade”, alegrava-se ela.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "Her iron dress was impenetrable.",
+    "pt": "Seu vestido de ferro era impenetrável.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "partes": [
+     {
+      "en": "Behind her open castle gates,",
+      "pt": "Atrás dos portões abertos do castelo,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       591,
+       0,
+       26
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "is what lies within a maiden or a fiendish trap?",
+      "pt": "espera uma donzela ou uma armadilha diabólica?",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       591,
+       26,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "20": {
+    "partes": [
+     {
+      "en": "It is said that the secrets of others taste like honey…",
+      "pt": "Dizem que os segredos alheios têm gosto de mel…",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       492,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "so let’s see.",
+      "pt": "então, vejamos.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       492,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   }
+  },
+  "interface/poem/cpt_02.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Calculation Prison",
+      "pt": "Prisão do Cálculo",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "―― This is the story of a girl.",
+    "pt": "―― Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "From the time she was clothed,",
+      "pt": "Desde que passou a se vestir,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       452,
+       0,
+       24
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "she caught peoples’ attention.",
+      "pt": "atraía os olhares de todos.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       452,
+       24,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "With charm that would spare even insects,",
+      "pt": "Com um encanto que pouparia até insetos,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       528,
+       0,
+       26
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "the girl ruled over men.",
+      "pt": "a garota reinava sobre os homens.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       528,
+       26,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "16": {
+    "en": "Live in moderation!",
+    "pt": "Viva com moderação!",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "Hm, I see, that’s good to hear.",
+    "pt": "Hum, entendo, que bom ouvir isso.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "Live without waste!",
+    "pt": "Viva sem desperdício!",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "en": "Yes of course, that’s wonderful.",
+    "pt": "Sim, claro, que maravilha.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "20": {
+    "partes": [
+     {
+      "en": "What awaited was a",
+      "pt": "O que a esperava era uma",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       161,
+       0,
+       22
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "Calculation Prison.",
+      "pt": "Prisão do Cálculo.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       161,
+       22,
+       49
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "21": {
+    "partes": [
+     {
+      "en": "All that is pure",
+      "pt": "Tudo o que é puro",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       245,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "is just as cruel.",
+      "pt": "é igualmente cruel.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       245,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "22": {
+    "en": "So beautiful, so well-behaved.",
+    "pt": "Tão bela, tão bem-comportada.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "23": {
+    "en": "Yet, how did this happen?",
+    "pt": "Ainda assim, como isso aconteceu?",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_03.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Love & Hate, Heat & Lips",
+      "pt": "Amor & Ódio, Calor & Lábios",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "Her lips soaked in love whispered.",
+    "pt": "Seus lábios úmidos de amor sussurraram.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "en": "“Please give your everything to me.”",
+    "pt": "“Por favor, dê-me tudo de você.”",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "15": {
+    "en": "Love and hatred are, by nature, very separate things.",
+    "pt": "Amor e ódio são, por natureza, coisas bem distintas.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "16": {
+    "en": "When they’re said to be a single thing,",
+    "pt": "Se dizem que são uma coisa só,",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "there is an essential something that connects them.",
+    "pt": "é porque algo essencial os une.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "――It’s madness.",
+    "pt": "――É a loucura.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "partes": [
+     {
+      "en": "Love to the point of madness.",
+      "pt": "Amor até a loucura.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       462,
+       0,
+       24
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "Hatred to the point of madness.",
+      "pt": "Ódio até a loucura.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       462,
+       24,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "20": {
+    "partes": [
+     {
+      "en": "When feelings toward another person reach this point,",
+      "pt": "Quando o que se sente por alguém chega a esse ponto,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       572,
+       0,
+       26
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "love and hate is born.",
+      "pt": "nascem o amor e o ódio.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       572,
+       26,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "21": {
+    "en": "……You could say: love at first sight is kind of similar to violence.",
+    "pt": "……Digamos que o amor à primeira vista lembra um pouco a violência.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "22": {
+    "partes": [
+     {
+      "en": "The one loving is happy,",
+      "pt": "Quem ama é feliz,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       441,
+       0,
+       26
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "but the one who’s loved gets ambushed.",
+      "pt": "mas quem é amado cai numa emboscada.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       441,
+       26,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "23": {
+    "en": "This is the story of a girl.",
+    "pt": "Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "24": {
+    "en": "When she learnt of love, she transformed into a demon.",
+    "pt": "Ao conhecer o amor, ela se transformou num demônio.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "25": {
+    "en": "a monster",
+    "pt": "um monstro",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_04.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Anesthesia Fortress",
+      "pt": "Fortaleza da Anestesia",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "―― This is the story of a girl.",
+    "pt": "―― Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "en": "The woman’s enlarged ego was eating away at her life.",
+    "pt": "O ego inflado da mulher corroía sua vida.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "15": {
+    "en": "They were dreams that anyone could have.",
+    "pt": "Eram sonhos que qualquer um poderia ter.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "16": {
+    "en": "The ideal self. The ideal pleasure. The ideal future.",
+    "pt": "O eu ideal. O prazer ideal. O futuro ideal.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "The ideal people. The ideal lover. The ideal parting.",
+    "pt": "As pessoas ideais. O amante ideal. A despedida ideal.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "They were cheap dreams, that anyone could have.",
+    "pt": "Eram sonhos baratos, que qualquer um poderia ter.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "en": "But as bad dreams, most of them are nightmares.",
+    "pt": "Mas, como sonhos ruins, quase todos são pesadelos.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "20": {
+    "en": "was free to",
+    "pt": "era livre para",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_05.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Bloodstained Purity",
+      "pt": "Pureza Ensanguentada",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "―― This is the story of a girl.",
+    "pt": "―― Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "“If you’re going to eat, might as well eat all of it”",
+      "pt": "“Se é para comer, que se coma tudo”,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       445,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "she thought.",
+      "pt": "pensou ela.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       445,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "15": {
+    "en": "A ruler, yet an executioner.",
+    "pt": "Soberana, porém algoz.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "16": {
+    "en": "A cook, yet a poison tester.",
+    "pt": "Cozinheira, porém provadora de veneno.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "Hundreds of people in a delicious pile.",
+    "pt": "Centenas de pessoas numa pilha deliciosa.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "Satiation, indulgence, drunkenness, climax.",
+    "pt": "Saciedade, indulgência, embriaguez, clímax.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "partes": [
+     {
+      "en": "Perhaps her grotesque Mara",
+      "pt": "Talvez seus grotescos Mara",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       462,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "were the debt owed for such immorality.",
+      "pt": "fossem o preço de tamanha imoralidade.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       462,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "20": {
+    "en": "But, well, it’s nothing new really.",
+    "pt": "Mas, bem, não é nenhuma novidade.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "21": {
+    "partes": [
+     {
+      "en": "Wanting to devour a beautiful girl",
+      "pt": "Querer devorar uma bela garota",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       500,
+       0,
+       26
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "is just a male & female instinct.",
+      "pt": "é só instinto de homem & mulher.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       500,
+       26,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "22": {
+    "en": "horns",
+    "pt": "chifres",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "23": {
+    "en": "merely human",
+    "pt": "meros humanos",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_06.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Pleasure: Critical",
+      "pt": "Prazer: Crítico",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "Her eyes drowned in love spoke.",
+    "pt": "Seus olhos afogados em amor falaram.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "en": "“For you, I will give my everything.”",
+    "pt": "“Por você, darei tudo de mim.”",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "15": {
+    "en": "“You mean your body.” he laughed.",
+    "pt": "“Quer dizer o seu corpo”, riu ele.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "16": {
+    "en": "“Just like an animal, aren’t you?” she said.",
+    "pt": "“Igual a um animal, não é?”, disse ela.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "17": {
+    "en": "“Your heart is mine.” he laughed.",
+    "pt": "“O seu coração é meu”, riu ele.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "18": {
+    "en": "“Yes, that’s right.” she said.",
+    "pt": "“Sim, isso mesmo”, disse ela.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "19": {
+    "en": "“Please, help me.” he said.",
+    "pt": "“Por favor, me ajude”, disse ele.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "20": {
+    "en": "“Just like an animal isn’t enough.” she laughed.",
+    "pt": "“Igual a um animal não basta”, riu ela.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "21": {
+    "en": "“But you said you loved me.” he said.",
+    "pt": "“Mas você disse que me amava”, disse ele.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "22": {
+    "en": "“Yes, that’s right.” she laughed.",
+    "pt": "“Sim, isso mesmo”, riu ela.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "23": {
+    "en": "Beyond the veil, man and woman became one.",
+    "pt": "Além do véu, homem e mulher se tornaram um só.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "24": {
+    "en": "Like skin meeting with skin. Like ice melting in heat.",
+    "pt": "Como pele tocando pele. Como gelo derretendo no calor.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "25": {
+    "en": "The woman who embodies infatuation laughs.",
+    "pt": "Ri a mulher que encarna a paixão.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "26": {
+    "partes": [
+     {
+      "en": "True love can only be obtained",
+      "pt": "O amor verdadeiro só se conquista",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       433,
+       0,
+       23
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "when you rule over everything.",
+      "pt": "quando se domina tudo.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       433,
+       23,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "27": {
+    "en": "This is the story of a girl.",
+    "pt": "Esta é a história de uma garota.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "28": {
+    "en": "When she defends her love, she becomes no different from a goddess.",
+    "pt": "Quando defende seu amor, ela em nada difere de uma deusa.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_07.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Depths of the Young Maiden",
+      "pt": "Profundezas da Jovem Donzela",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "――Let us tell the final story.",
+    "pt": "――Contemos a última história.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "The fall of that fleeting reality,",
+      "pt": "A queda daquela realidade efêmera,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       494,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "the natural conclusion of that love.",
+      "pt": "o desfecho natural daquele amor.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       494,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "15": {
+    "en": "story",
+    "pt": "história",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/cpt_08.txb": {
+   "3": {
+    "en": "CHAPTER",
+    "pt": "CAPÍTULO",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Depths of the Holy Woman",
+      "pt": "Profundezas da Santa",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       232,
+       23,
+       40
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "13": {
+    "en": "――Now then, let us tell the tale of that woman.",
+    "pt": "――Pois bem, contemos a história daquela mulher.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "The obscene perversion of reality,",
+      "pt": "A obscena perversão da realidade,",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       495,
+       0,
+       25
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "the end of that abominable love.",
+      "pt": "o fim daquele amor abominável.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       495,
+       25,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "15": {
+    "en": "story",
+    "pt": "história",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  },
+  "interface/poem/poem_ex_tex.txb": {
+   "1": {
+    "en": "――And so.",
+    "pt": "――E assim.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "2": {
+    "en": "With that small, weak sword by your side,",
+    "pt": "Com aquela espada pequena e frágil ao seu lado,",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "3": {
+    "en": "the great and powerful wall was felled.",
+    "pt": "a grande e poderosa muralha foi derrubada.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "4": {
+    "partes": [
+     {
+      "en": "In the deepest depths of the Seven Seas",
+      "pt": "No mais profundo dos Sete Mares",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       550,
+       0,
+       24
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "was the crown of victory.",
+      "pt": "estava a coroa da vitória.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       550,
+       24,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "5": {
+    "en": "No matter the consequences,",
+    "pt": "Fossem quais fossem as consequências,",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "6": {
+    "en": "you fought for your life to the very end.",
+    "pt": "você lutou pela vida até o fim.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "7": {
+    "en": "The path you’ve taken was your proof.",
+    "pt": "O caminho que trilhou foi a sua prova.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "Opening the way, sending her off, your beginning;",
+      "pt": "Abrir o caminho, despedir-se dela, o seu começo;",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       476,
+       0,
+       24
+      ],
+      "alinhar": "centro"
+     },
+     {
+      "en": "everything was passed on.",
+      "pt": "tudo foi passado adiante.",
+      "fonte": "garamond",
+      "percentil": 90,
+      "contorno": false,
+      "brilho": true,
+      "area": [
+       0,
+       476,
+       24,
+       50
+      ],
+      "alinhar": "centro"
+     }
+    ]
+   },
+   "9": {
+    "en": "At peace with the destruction, you close your eyes.",
+    "pt": "Em paz com a destruição, você fecha os olhos.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   },
+   "10": {
+    "en": "――The night of your end had come.",
+    "pt": "――Chegara a noite do seu fim.",
+    "fonte": "garamond",
+    "percentil": 90,
+    "contorno": false,
+    "brilho": true
+   }
+  }
+ }
+}

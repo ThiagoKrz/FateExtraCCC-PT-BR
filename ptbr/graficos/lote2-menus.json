@@ -1,0 +1,2415 @@
+{
+ "descricao": "Lote 2 de texturas: menus, exploração, Meu Quarto, loja, status, Matriz de Dados, Secret Garden e telas de fim de dia. Gerado do inventário das texturas. Mantidos em inglês: STATUS, SG, SECRET GARDEN, SAKURAMENT, EXP, TOTAL, OK, UP!, ATTACK!, Launcher, Potnia Theron, Aurea Poculum, Trash & Crash, JINAKO.C, as telas DEAD END/BAD END/NEVER END/Fin/TO BE CONTINUED, o logo Channel e a tela de erro de instalação do patch inglês (mainmenu/0001 #89). Placas de habilidade usam os nomes já traduzidos nas fichas da Matriz. ITEM no menu principal fica igual (também é português). POINT1-3 (arearoute) ficam em inglês: fonte de 8 px ilegível em português.",
+ "texturas": {
+  "interface/cmn/i_bpt.txb": {
+   "3": {
+    "en": "MOVE",
+    "pt": "MOVER",
+    "fonte": "quadrada"
+   },
+   "4": {
+    "en": "SEARCH",
+    "pt": "EXAMINAR",
+    "fonte": "quadrada"
+   },
+   "5": {
+    "en": "TALK",
+    "pt": "FALAR",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/cmn/i_con.txb": {
+   "8": {
+    "partes": [
+     {
+      "en": "skip",
+      "pt": "pular",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       30,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "skip",
+      "pt": "pular",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       30,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "PLACE",
+      "pt": "LOCAL",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       153,
+       193,
+       0,
+       11
+      ]
+     }
+    ]
+   },
+   "47": {
+    "partes": [
+     {
+      "en": "NEXT",
+      "pt": "SEGUIR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       13,
+       45,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/cmn/i_con_name.txb": {
+   "6": {
+    "partes": [
+     {
+      "en": "Issei Ryuudou",
+      "pt": "Ryuudou Issei",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "Kiara Sessyoin",
+      "pt": "Sessyoin Kiara",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "Father Kotomine",
+      "pt": "Padre Kotomine",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "Master",
+      "pt": "Mestre",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "19": {
+    "partes": [
+     {
+      "en": "Rin Tohsaka",
+      "pt": "Tohsaka Rin",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "21": {
+    "partes": [
+     {
+      "en": "Sakura Matou",
+      "pt": "Matou Sakura",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "22": {
+    "partes": [
+     {
+      "en": "Male Student",
+      "pt": "Aluno",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "23": {
+    "partes": [
+     {
+      "en": "Female Student",
+      "pt": "Aluna",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "24": {
+    "partes": [
+     {
+      "en": "Shinji Matou",
+      "pt": "Matou Shinji",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "25": {
+    "partes": [
+     {
+      "en": "Servant",
+      "pt": "Servo",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "26": {
+    "partes": [
+     {
+      "en": "Taiga Fujimura",
+      "pt": "Fujimura Taiga",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "31": {
+    "partes": [
+     {
+      "en": "Green Tea-er",
+      "pt": "Chá Verde",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "32": {
+    "partes": [
+     {
+      "en": "Young Man",
+      "pt": "Rapaz",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "33": {
+    "partes": [
+     {
+      "en": "Newscaster",
+      "pt": "Apresentador",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "36": {
+    "partes": [
+     {
+      "en": "Rin's Archer",
+      "pt": "Archer da Rin",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/cmn/i_load.txb": {
+   "2": {
+    "en": "Now Loading",
+    "pt": "Carregando",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "interface/dayend/dayend.txb": {
+   "3": {
+    "en": "MISSION CLEAR!!",
+    "pt": "MISSÃO CUMPRIDA!!",
+    "fonte": "quadrada_fina"
+   },
+   "4": {
+    "en": "Today's End. Return to School.",
+    "pt": "Fim do dia. Volte à escola.",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/dayresult/day_result00.txb": {
+   "19": {
+    "en": "RIN TOHSAKA",
+    "pt": "TOHSAKA RIN",
+    "fonte": "quadrada_fina"
+   },
+   "51": {
+    "en": "SAKURA DUNGEON",
+    "pt": "LABIRINTO DE SAKURA",
+    "fonte": "quadrada"
+   },
+   "54": {
+    "en": "CLEAR",
+    "pt": "CONCLUÍDO",
+    "fonte": "quadrada"
+   },
+   "55": {
+    "partes": [
+     {
+      "en": "NEXT",
+      "pt": "PRÓXIMO",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       92,
+       0,
+       16
+      ]
+     },
+     {
+      "en": "DUNGEON",
+      "pt": "ANDAR",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       92,
+       16,
+       32
+      ]
+     }
+    ]
+   }
+  },
+  "interface/equip/equip_00.txb": {
+   "2": {
+    "en": "OPTION",
+    "pt": "OPÇÕES",
+    "fonte": "quadrada"
+   },
+   "3": {
+    "en": "BEFORE",
+    "pt": "ANTES",
+    "fonte": "quadrada"
+   },
+   "4": {
+    "en": "AFTER",
+    "pt": "DEPOIS",
+    "fonte": "quadrada"
+   },
+   "6": {
+    "partes": [
+     {
+      "en": "EQUIP",
+      "pt": "EQUIPAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       27,
+       67,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "7": {
+    "partes": [
+     {
+      "en": "OUT",
+      "pt": "TIRAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       25,
+       54,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "13": {
+    "en": "EQUIP",
+    "pt": "EQUIPAR",
+    "fonte": "quadrada_fina"
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "Please select an equipment slot",
+      "pt": "Escolha um espaço de equipamento",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       105,
+       288,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "Select item to equip",
+      "pt": "Escolha o item a equipar",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       173,
+       288,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "24": {
+    "en": "SLOT2",
+    "pt": "ESPAÇO 2",
+    "fonte": "quadrada"
+   },
+   "26": {
+    "en": "SLOT 1",
+    "pt": "ESPAÇO 1",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/gallery/gallery_tex.txb": {
+   "1": {
+    "partes": [
+     {
+      "en": "OPEN",
+      "pt": "ABRIR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       28,
+       65,
+       0,
+       16
+      ]
+     },
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       100,
+       138,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "2": {
+    "en": "PAGE",
+    "pt": "PÁGINA",
+    "fonte": "quadrada"
+   },
+   "4": {
+    "en": "GALLERY",
+    "pt": "GALERIA",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "interface/gameover/gov_00.txb": {
+   "3": {
+    "en": "LOAD",
+    "pt": "CARREGAR",
+    "fonte": "segoe_sb"
+   },
+   "4": {
+    "en": "RETURN TO TITLE",
+    "pt": "VOLTAR AO TÍTULO",
+    "fonte": "segoe_sb"
+   }
+  },
+  "interface/hunting/hunting_get.txb": {
+   "6": {
+    "partes": [
+     {
+      "en": "HHHHHH",
+      "pt": "Alvo derrotado",
+      "fonte": "segoe_b",
+      "alinhar": "centro",
+      "largura": 1.0,
+      "area": [
+       24,
+       168,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "7": {
+    "en": "DEFEAT BEAST",
+    "pt": "FERA DERROTADA",
+    "fonte": "quadrada"
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "HHHHHH",
+      "pt": "Tesouro obtido",
+      "fonte": "segoe_b",
+      "alinhar": "centro",
+      "largura": 1.0,
+      "area": [
+       48,
+       146,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "9": {
+    "en": "TREASURE GET",
+    "pt": "TESOURO OBTIDO",
+    "fonte": "quadrada"
+   },
+   "10": {
+    "partes": [
+     {
+      "en": "Treasure hunting",
+      "pt": "Caça ao tesouro",
+      "fonte": "serifa_b",
+      "alinhar": "esq",
+      "area": [
+       27,
+       161,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "11": {
+    "partes": [
+     {
+      "en": "Beast hunting",
+      "pt": "Caça às feras",
+      "fonte": "serifa_b",
+      "alinhar": "esq",
+      "area": [
+       41,
+       149,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "point",
+      "pt": "ponto",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       28,
+       83,
+       0,
+       32
+      ]
+     }
+    ]
+   }
+  },
+  "interface/hunting/hunting_title.txb": {
+   "6": {
+    "partes": [
+     {
+      "en": "Treasure hunting",
+      "pt": "Caça ao tesouro",
+      "fonte": "serifa_b",
+      "alinhar": "esq",
+      "area": [
+       27,
+       161,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "7": {
+    "partes": [
+     {
+      "en": "Enemy hunting",
+      "pt": "Caça aos inimigos",
+      "fonte": "serifa_b",
+      "alinhar": "esq",
+      "area": [
+       34,
+       154,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/infomatrixex/0000.txb": {
+   "13": {
+    "partes": [
+     {
+      "en": "KEYWORD",
+      "pt": "PALAVRA-CHAVE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       114,
+       175,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SKILL",
+      "pt": "HABILIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       185,
+       225,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SETTING",
+      "pt": "PERFIL",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       232,
+       288,
+       0,
+       24
+      ]
+     }
+    ]
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "KEYWORD",
+      "pt": "PALAVRA-CHAVE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       74,
+       173,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SKILL",
+      "pt": "HABILIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       185,
+       225,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SETTING",
+      "pt": "PERFIL",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       232,
+       289,
+       0,
+       24
+      ]
+     }
+    ]
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "KEYWORD",
+      "pt": "PALAVRA-CHAVE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       68,
+       129,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SKILL",
+      "pt": "HABILIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       153,
+       213,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SETTING",
+      "pt": "PERFIL",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       232,
+       289,
+       0,
+       24
+      ]
+     }
+    ]
+   },
+   "16": {
+    "partes": [
+     {
+      "en": "KEYWORD",
+      "pt": "PALAVRA-CHAVE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       68,
+       129,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SKILL",
+      "pt": "HABILIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       138,
+       178,
+       0,
+       24
+      ]
+     },
+     {
+      "en": "SETTING",
+      "pt": "PERFIL",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       198,
+       285,
+       0,
+       24
+      ]
+     }
+    ]
+   },
+   "24": {
+    "en": "CLASS",
+    "pt": "CLASSE",
+    "fonte": "quadrada"
+   },
+   "28": {
+    "en": "None",
+    "pt": "Nenhum",
+    "fonte": "segoe_sb"
+   },
+   "44": {
+    "partes": [
+     {
+      "en": "CHANGE",
+      "pt": "MUDAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       25,
+       79,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "45": {
+    "partes": [
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       23,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "62": {
+    "en": "MASTER",
+    "pt": "MESTRE",
+    "fonte": "quadrada"
+   },
+   "63": {
+    "en": "NAME",
+    "pt": "NOME",
+    "fonte": "quadrada"
+   },
+   "65": {
+    "en": "KEYWORD",
+    "pt": "PALAVRA-CHAVE",
+    "fonte": "quadrada"
+   },
+   "76": {
+    "partes": [
+     {
+      "en": "Riding",
+      "pt": "Montaria",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       6,
+       47,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "83": {
+    "partes": [
+     {
+      "en": "Presence Concealment",
+      "pt": "Ocultação de Presença",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       156,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "84": {
+    "partes": [
+     {
+      "en": "Golden Rule",
+      "pt": "Regra de Ouro",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       7,
+       88,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "88": {
+    "partes": [
+     {
+      "en": "Charisma",
+      "pt": "Carisma",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "89": {
+    "partes": [
+     {
+      "en": "Masochistic Constitution",
+      "pt": "Constituição Masoquista",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       6,
+       172,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "90": {
+    "partes": [
+     {
+      "en": "Divinity",
+      "pt": "Divindade",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       47,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "91": {
+    "partes": [
+     {
+      "en": "Magic Resistance",
+      "pt": "Resistência Mágica",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       117,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "92": {
+    "partes": [
+     {
+      "en": "Ten Crowns",
+      "pt": "Dez Coroas",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       81,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "94": {
+    "partes": [
+     {
+      "en": "High-Speed Incantation",
+      "pt": "Encantamento de Alta Velocidade",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       157,
+       0,
+       19
+      ]
+     }
+    ]
+   },
+   "101": {
+    "partes": [
+     {
+      "en": "Dragon's Breath",
+      "pt": "Sopro de Dragão",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       8,
+       119,
+       0,
+       19
+      ]
+     }
+    ]
+   },
+   "102": {
+    "partes": [
+     {
+      "en": "Knowledge of the Deprived",
+      "pt": "Conhecimento dos Privados",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       181,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "103": {
+    "partes": [
+     {
+      "en": "Mental Disorder",
+      "pt": "Perturbação Mental",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       12,
+       120,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "104": {
+    "partes": [
+     {
+      "en": "Self-Modification",
+      "pt": "Automodificação",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       12,
+       126,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "105": {
+    "partes": [
+     {
+      "en": "Innocent Monster",
+      "pt": "Monstro Inocente",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       6,
+       124,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "108": {
+    "partes": [
+     {
+      "en": "Mad Enhancement",
+      "pt": "Aprimoramento da Loucura",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       124,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "141": {
+    "partes": [
+     {
+      "en": "Collector",
+      "pt": "Coletor",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       10,
+       71,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "142": {
+    "partes": [
+     {
+      "en": "Territory Creation",
+      "pt": "Criação de Território",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       121,
+       0,
+       18
+      ]
+     }
+    ]
+   },
+   "143": {
+    "partes": [
+     {
+      "en": "Uncrowned Arms Mastery",
+      "pt": "Maestria em Armas Sem Coroa",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       11,
+       186,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "144": {
+    "partes": [
+     {
+      "en": "Sadistic Constitution",
+      "pt": "Constituição Sádica",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       139,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "146": {
+    "partes": [
+     {
+      "en": "Item Construction",
+      "pt": "Criação de Itens",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       120,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "147": {
+    "partes": [
+     {
+      "en": "Melt Virus",
+      "pt": "Vírus Melt",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       8,
+       76,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "148": {
+    "partes": [
+     {
+      "en": "Divinity",
+      "pt": "Divindade",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       47,
+       0,
+       18
+      ]
+     }
+    ]
+   },
+   "111": {
+    "en": "SERVANT",
+    "pt": "SERVO",
+    "fonte": "quadrada"
+   },
+   "113": {
+    "en": "NO DATA",
+    "pt": "SEM DADOS",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "114": {
+    "en": "Strength",
+    "pt": "Força",
+    "fonte": "quadrada"
+   },
+   "115": {
+    "en": "Endurance",
+    "pt": "Vigor",
+    "fonte": "quadrada"
+   },
+   "116": {
+    "en": "Agility",
+    "pt": "Agilidade",
+    "fonte": "quadrada"
+   },
+   "118": {
+    "en": "Luck",
+    "pt": "Sorte",
+    "fonte": "quadrada"
+   },
+   "124": {
+    "en": "MATRIX",
+    "pt": "MATRIZ",
+    "fonte": "quadrada_fina"
+   },
+   "126": {
+    "en": "new info",
+    "pt": "novo",
+    "fonte": "quadrada"
+   },
+   "132": {
+    "partes": [
+     {
+      "en": "FULL",
+      "pt": "VER",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       61,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "140": {
+    "en": "GAMEMASTER",
+    "pt": "MESTRE DO JOGO",
+    "fonte": "quadrada"
+   },
+   "64": {
+    "partes": [
+     {
+      "en": "NOBLE",
+      "pt": "FANTASMA",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       72,
+       0,
+       12
+      ]
+     },
+     {
+      "en": "PHANTASM",
+      "pt": "NOBRE",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       72,
+       12,
+       24
+      ]
+     }
+    ]
+   }
+  },
+  "interface/item/item_00.txb": {
+   "3": {
+    "en": "OPTION",
+    "pt": "OPÇÕES",
+    "fonte": "quadrada"
+   },
+   "5": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "6": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "10": {
+    "en": "ITEM LIST",
+    "pt": "LISTA DE ITENS",
+    "fonte": "quadrada_fina"
+   },
+   "11": {
+    "partes": [
+     {
+      "en": "Select item to view details",
+      "pt": "Escolha um item para ver detalhes",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       85,
+       237,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "ITEM",
+      "pt": "ITENS",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       49,
+       0,
+       16
+      ]
+     },
+     {
+      "en": "EQUIP",
+      "pt": "EQUIPAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       83,
+       122,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "13": {
+    "partes": [
+     {
+      "en": "ITEM",
+      "pt": "ITENS",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       3,
+       35,
+       0,
+       16
+      ]
+     },
+     {
+      "en": "EQUIP",
+      "pt": "EQUIPAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       65,
+       128,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/mainmenu/0000.txb": {
+   "4": {
+    "en": "EQUIP",
+    "pt": "EQUIPAR",
+    "fonte": "quadrada_fina"
+   },
+   "6": {
+    "en": "SYSTEM",
+    "pt": "SISTEMA",
+    "fonte": "quadrada_fina"
+   },
+   "11": {
+    "en": "MASTER",
+    "pt": "MESTRE",
+    "fonte": "quadrada"
+   },
+   "12": {
+    "en": "LEVEL",
+    "pt": "NÍVEL",
+    "fonte": "quadrada_fina"
+   },
+   "29": {
+    "en": "SERVANT",
+    "pt": "SERVO",
+    "fonte": "quadrada"
+   },
+   "42": {
+    "partes": [
+     {
+      "en": "EQUIP",
+      "pt": "EQUIPAR",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       17,
+       148,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "44": {
+    "partes": [
+     {
+      "en": "SYSTEM",
+      "pt": "SISTEMA",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       17,
+       204,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "48": {
+    "en": "COMPLETE",
+    "pt": "COMPLETO",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "interface/myroom/myroom.txb": {
+   "0": {
+    "en": "COSTUME",
+    "pt": "TRAJE",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "1": {
+    "en": "END",
+    "pt": "ENCERRAR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "6": {
+    "en": "TALK",
+    "pt": "FALAR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "7": {
+    "en": "CLOSET",
+    "pt": "ARMÁRIO",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "8": {
+    "en": "MATRIX",
+    "pt": "MATRIZ",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "9": {
+    "en": "SAVE",
+    "pt": "SALVAR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "10": {
+    "en": "EXIT",
+    "pt": "SAIR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "15": {
+    "en": "MASTER",
+    "pt": "MESTRE",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "16": {
+    "en": "SERVANT",
+    "pt": "SERVO",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "22": {
+    "en": "ACCESSORY",
+    "pt": "ACESSÓRIO",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "23": {
+    "en": "EYES",
+    "pt": "OLHOS",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "24": {
+    "en": "HANDS",
+    "pt": "MÃOS",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "25": {
+    "en": "LEGS",
+    "pt": "PERNAS",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "26": {
+    "en": "SET",
+    "pt": "VESTIR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "27": {
+    "en": "REMOVE",
+    "pt": "TIRAR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "28": {
+    "en": "COLOR",
+    "pt": "COR",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "53": {
+    "en": "GALLERY",
+    "pt": "GALERIA",
+    "fonte": "quadrada",
+    "alinhar": "dir"
+   },
+   "12": {
+    "en": "MYROOM",
+    "pt": "MEU QUARTO",
+    "fonte": "quadrada_fina"
+   },
+   "13": {
+    "en": "CLOSET",
+    "pt": "ARMÁRIO",
+    "fonte": "quadrada_fina"
+   },
+   "19": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "37": {
+    "en": "RED",
+    "pt": "RUBRO",
+    "fonte": "quadrada"
+   },
+   "38": {
+    "en": "PEACH",
+    "pt": "PÊSSEGO",
+    "fonte": "quadrada"
+   },
+   "39": {
+    "en": "YELLOW",
+    "pt": "AMARELO",
+    "fonte": "quadrada"
+   },
+   "40": {
+    "en": "LIME",
+    "pt": "LIMA",
+    "fonte": "quadrada"
+   },
+   "41": {
+    "en": "GREEN",
+    "pt": "VERDE",
+    "fonte": "quadrada"
+   },
+   "42": {
+    "en": "BLUE",
+    "pt": "AZUL",
+    "fonte": "quadrada"
+   },
+   "43": {
+    "en": "PURPLE",
+    "pt": "ROXO",
+    "fonte": "quadrada"
+   },
+   "44": {
+    "en": "WATER",
+    "pt": "CIANO",
+    "fonte": "quadrada"
+   },
+   "45": {
+    "en": "GRAY",
+    "pt": "CINZA",
+    "fonte": "quadrada"
+   },
+   "46": {
+    "en": "BROWN",
+    "pt": "MARROM",
+    "fonte": "quadrada"
+   },
+   "47": {
+    "en": "WHITE",
+    "pt": "BRANCO",
+    "fonte": "quadrada"
+   },
+   "48": {
+    "en": "BLACK",
+    "pt": "PRETO",
+    "fonte": "quadrada"
+   },
+   "52": {
+    "partes": [
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       23,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/osioki/os_select.txb": {
+   "16": {
+    "en": "PUNISH",
+    "pt": "CASTIGO",
+    "fonte": "quadrada_fina"
+   },
+   "17": {
+    "en": "START",
+    "pt": "INICIAR",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "interface/progress/0000.txb": {
+   "7": {
+    "partes": [
+     {
+      "en": "PROGRESS OF TIME",
+      "pt": "PASSAGEM DO TEMPO",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       1,
+       158,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "14": {
+    "en": "MORNING",
+    "pt": "MANHÃ",
+    "fonte": "serifa_b"
+   },
+   "15": {
+    "en": "MIDDAY",
+    "pt": "MEIO-DIA",
+    "fonte": "serifa_b"
+   },
+   "16": {
+    "en": "EVENING",
+    "pt": "TARDE",
+    "fonte": "serifa_b"
+   },
+   "17": {
+    "en": "NIGHT",
+    "pt": "NOITE",
+    "fonte": "serifa_b"
+   }
+  },
+  "interface/select/i_select.txb": {
+   "6": {
+    "en": "GROUND",
+    "pt": "TÉRREO",
+    "fonte": "quadrada"
+   },
+   "7": {
+    "en": "2ND FLOOR",
+    "pt": "2º ANDAR",
+    "fonte": "quadrada"
+   },
+   "8": {
+    "en": "1ST FLOOR",
+    "pt": "1º ANDAR",
+    "fonte": "quadrada"
+   },
+   "9": {
+    "en": "MYROOM",
+    "pt": "MEU QUARTO",
+    "fonte": "quadrada"
+   },
+   "10": {
+    "en": "MEETINGROOM",
+    "pt": "SALA DO GRÊMIO",
+    "fonte": "quadrada"
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       23,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "13": {
+    "en": "MAPJUMP",
+    "pt": "MAPA",
+    "fonte": "quadrada_fina"
+   },
+   "16": {
+    "en": "ANSWER",
+    "pt": "RESPOSTA",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/sg/sgselect_tex.txb": {
+   "36": {
+    "en": "NAME",
+    "pt": "NOME",
+    "fonte": "quadrada"
+   },
+   "37": {
+    "en": "HOME",
+    "pt": "ORIGEM",
+    "fonte": "quadrada"
+   },
+   "38": {
+    "en": "BIRTHDAY",
+    "pt": "ANIVERSÁRIO",
+    "fonte": "quadrada"
+   },
+   "39": {
+    "en": "HEIGHT",
+    "pt": "ALTURA",
+    "fonte": "quadrada"
+   },
+   "40": {
+    "en": "WEIGHT",
+    "pt": "PESO",
+    "fonte": "quadrada"
+   },
+   "41": {
+    "en": "3SIZE",
+    "pt": "MEDIDAS",
+    "fonte": "quadrada"
+   },
+   "42": {
+    "en": "WEAK POINT",
+    "pt": "PONTO FRACO",
+    "fonte": "quadrada"
+   },
+   "43": {
+    "en": "FETISHISM",
+    "pt": "FETICHE",
+    "fonte": "quadrada"
+   },
+   "45": {
+    "partes": [
+     {
+      "en": "What do you look for in a partner?",
+      "pt": "O que você busca num parceiro?",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       195,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "46": {
+    "partes": [
+     {
+      "en": "Your favorite color of underwear?",
+      "pt": "Cor favorita de roupa íntima?",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       14,
+       191,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "47": {
+    "partes": [
+     {
+      "en": "How do you spend your free time?",
+      "pt": "O que você faz no tempo livre?",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       15,
+       196,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "49": {
+    "partes": [
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       23,
+       64,
+       0,
+       16
+      ]
+     }
+    ]
+   }
+  },
+  "interface/shop/shop_00.txb": {
+   "1": {
+    "en": "OPTION",
+    "pt": "OPÇÕES",
+    "fonte": "quadrada"
+   },
+   "2": {
+    "en": "BEFORE",
+    "pt": "ANTES",
+    "fonte": "quadrada"
+   },
+   "3": {
+    "en": "AFTER",
+    "pt": "DEPOIS",
+    "fonte": "quadrada"
+   },
+   "5": {
+    "partes": [
+     {
+      "en": "EQUIP",
+      "pt": "EQUIPAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       27,
+       67,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "6": {
+    "partes": [
+     {
+      "en": "OUT",
+      "pt": "TIRAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       25,
+       54,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "7": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "HELP",
+      "pt": "AJUDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       62,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "12": {
+    "en": "EQUIP",
+    "pt": "EQUIPAR",
+    "fonte": "quadrada_fina"
+   },
+   "13": {
+    "partes": [
+     {
+      "en": "Please select an equipment slot",
+      "pt": "Escolha um espaço de equipamento",
+      "fonte": "segoe_sb",
+      "alinhar": "esq",
+      "area": [
+       13,
+       192,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "26": {
+    "en": "STOCK",
+    "pt": "ESTOQUE",
+    "fonte": "quadrada"
+   },
+   "31": {
+    "partes": [
+     {
+      "en": "BUY",
+      "pt": "COMPRA",
+      "fonte": "quadrada_fina",
+      "alinhar": "dir",
+      "area": [
+       32,
+       64,
+       0,
+       8
+      ]
+     }
+    ]
+   },
+   "32": {
+    "en": "ITEM",
+    "pt": "ITENS",
+    "fonte": "quadrada_fina",
+    "alinhar": "dir"
+   },
+   "33": {
+    "en": "SELL",
+    "pt": "VENDA",
+    "fonte": "quadrada_fina",
+    "alinhar": "dir"
+   },
+   "34": {
+    "en": "EQUIP",
+    "pt": "EQUIPAR",
+    "fonte": "quadrada_fina",
+    "alinhar": "dir"
+   },
+   "35": {
+    "en": "CANCEL",
+    "pt": "CANCELAR",
+    "fonte": "quadrada_fina"
+   },
+   "39": {
+    "partes": [
+     {
+      "en": "BUY",
+      "pt": "COMPRA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       34,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "40": {
+    "partes": [
+     {
+      "en": "CANCEL",
+      "pt": "CANCELAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       26,
+       82,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "41": {
+    "partes": [
+     {
+      "en": "NUMBER",
+      "pt": "QUANTIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       21,
+       78,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "42": {
+    "partes": [
+     {
+      "en": "SELL",
+      "pt": "VENDA",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       25,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "44": {
+    "partes": [
+     {
+      "en": "SHOP",
+      "pt": "LOJA",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       0,
+       119,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "45": {
+    "partes": [
+     {
+      "en": "BUY",
+      "pt": "COMPRA",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       14,
+       64,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "46": {
+    "partes": [
+     {
+      "en": "SELL",
+      "pt": "VENDA",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       14,
+       80,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "51": {
+    "en": "SLOT 1",
+    "pt": "ESPAÇO 1",
+    "fonte": "quadrada"
+   },
+   "52": {
+    "en": "SLOT2",
+    "pt": "ESPAÇO 2",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/status/0000.txb": {
+   "13": {
+    "en": "STRENGTH",
+    "pt": "FORÇA",
+    "fonte": "quadrada_cond"
+   },
+   "14": {
+    "en": "DEFENSE",
+    "pt": "DEFESA",
+    "fonte": "quadrada_cond"
+   },
+   "15": {
+    "en": "AGILITY",
+    "pt": "AGILIDADE",
+    "fonte": "quadrada_cond"
+   },
+   "16": {
+    "en": "MAGIC",
+    "pt": "MAGIA",
+    "fonte": "quadrada_cond"
+   },
+   "17": {
+    "en": "LUCK",
+    "pt": "SORTE",
+    "fonte": "quadrada_cond"
+   },
+   "18": {
+    "en": "NOBLE PHANTASM",
+    "pt": "FANTASMA NOBRE",
+    "fonte": "quadrada"
+   },
+   "24": {
+    "en": "NEXT",
+    "pt": "SEGUIR",
+    "fonte": "quadrada"
+   },
+   "27": {
+    "en": "CLASS",
+    "pt": "CLASSE",
+    "fonte": "quadrada"
+   },
+   "31": {
+    "en": "MYSTIC CODE",
+    "pt": "ARTEFATO MÍSTICO",
+    "fonte": "quadrada"
+   },
+   "33": {
+    "partes": [
+     {
+      "en": "MASTER",
+      "pt": "MESTRE",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       11,
+       88,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "34": {
+    "partes": [
+     {
+      "en": "SKILL",
+      "pt": "HABILIDADE",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       25,
+       67,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "35": {
+    "partes": [
+     {
+      "en": "BACK",
+      "pt": "VOLTAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       24,
+       63,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "36": {
+    "partes": [
+     {
+      "en": "CHANGE",
+      "pt": "MUDAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       40,
+       92,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "37": {
+    "partes": [
+     {
+      "en": "CHANGE",
+      "pt": "MUDAR",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       40,
+       92,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "42": {
+    "en": "LEVEL",
+    "pt": "NÍVEL",
+    "fonte": "quadrada_fina"
+   },
+   "71": {
+    "partes": [
+     {
+      "en": "COST",
+      "pt": "CUSTO",
+      "fonte": "quadrada",
+      "alinhar": "esq",
+      "area": [
+       0,
+       35,
+       0,
+       8
+      ]
+     }
+    ]
+   },
+   "78": {
+    "partes": [
+     {
+      "en": "SERVANT",
+      "pt": "SERVO",
+      "fonte": "quadrada_fina",
+      "alinhar": "esq",
+      "area": [
+       10,
+       98,
+       0,
+       16
+      ]
+     }
+    ]
+   },
+   "79": {
+    "en": "COSTUME",
+    "pt": "TRAJE",
+    "fonte": "quadrada"
+   }
+  },
+  "interface/triggerget/trigger_00.txb": {
+   "3": {
+    "partes": [
+     {
+      "en": "HHHHHH",
+      "pt": "Trigger obtido",
+      "fonte": "segoe_b",
+      "alinhar": "centro",
+      "largura": 1.0,
+      "area": [
+       29,
+       131,
+       0,
+       32
+      ]
+     }
+    ]
+   },
+   "4": {
+    "en": "TRIGGER GET",
+    "pt": "TRIGGER OBTIDO",
+    "fonte": "quadrada"
+   }
+  }
+ }
+}

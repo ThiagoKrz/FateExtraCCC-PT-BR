@@ -1,0 +1,1415 @@
+{
+ "descricao": "Lote 3 de texturas: batalha, labirinto, seleção de andar, missão e resultados. Mantidos em inglês, como no texto do jogo: comandos de batalha (ATTACK, GUARD, BREAK, SKILL, EXTRA, WAIT, CODE CAST, C·CAST, EX-SKILL, CHAIN, ITEM, AUTO), Code Cast, Secret Garden, Sakurament, MP, EXP, TOTAL, CENTRAL e os subtítulos estilizados de cada andar (loca_NN, texturas 2/3), que já vinham em inglês no original japonês. ESCAPE (btl_menu 177) fica em inglês: é texto vazado numa placa de 7 px.",
+ "texturas": {
+  "interface/dungeon/i_dun.txb": {
+   "148": {
+    "en": "MASTER",
+    "pt": "MESTRE",
+    "fonte": "quadrada",
+    "contorno": false,
+    "percentil": 90
+   },
+   "164": {
+    "partes": [
+     {
+      "en": "Floor",
+      "pt": "Andar",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       46,
+       0,
+       24
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   }
+  },
+  "interface/dungeon/shar_arena.txb": {
+   "1": {
+    "partes": [
+     {
+      "en": "CHANGE",
+      "pt": "TROCAR",
+      "fonte": "quadrada",
+      "area": [
+       23,
+       80,
+       0,
+       16
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   }
+  },
+  "interface/dungeon/loca_01.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_02.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_03.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 1st Layer",
+    "pt": "Labirinto de Sakura, 1ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_04.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_05.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_06.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 2nd Layer",
+    "pt": "Labirinto de Sakura, 2ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_07.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_08.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_09.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 3rd Layer",
+    "pt": "Labirinto de Sakura, 3ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_10.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_11.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_12.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 4th Layer",
+    "pt": "Labirinto de Sakura, 4ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_13.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_14.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_15.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 5th Layer",
+    "pt": "Labirinto de Sakura, 5ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_16.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_17.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_18.txb": {
+   "0": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth 6th Layer",
+    "pt": "Labirinto de Sakura, 6ª Camada",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_19.txb": {
+   "0": {
+    "en": "Sakura Labyrinth Central Region",
+    "pt": "Labirinto de Sakura, Região Central",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth Central Region",
+    "pt": "Labirinto de Sakura, Região Central",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_20.txb": {
+   "0": {
+    "en": "Sakura Labyrinth Central Region",
+    "pt": "Labirinto de Sakura, Região Central",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Sakura Labyrinth Central Region",
+    "pt": "Labirinto de Sakura, Região Central",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_24.txb": {
+   "0": {
+    "en": "Moon Cell Core",
+    "pt": "Núcleo do Moon Cell",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Moon Cell Core",
+    "pt": "Núcleo do Moon Cell",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeon/loca_25.txb": {
+   "0": {
+    "en": "Moon Cell Core",
+    "pt": "Núcleo do Moon Cell",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "Moon Cell Core",
+    "pt": "Núcleo do Moon Cell",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   }
+  },
+  "interface/dungeonselect/dungeon_select.txb": {
+   "1": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "2": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "3": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "4": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "5": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "6": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "7": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "9": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "10": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "11": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "13": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "16": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "17": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "18": {
+    "partes": [
+     {
+      "en": "LAYER",
+      "pt": "CAMADA",
+      "fonte": "segoe_sb",
+      "area": [
+       14,
+       60,
+       0,
+       16
+      ],
+      "alinhar": "dir"
+     }
+    ]
+   },
+   "58": {
+    "en": "GOAL POINT",
+    "pt": "CHEGADA",
+    "fonte": "quadrada"
+   },
+   "59": {
+    "en": "DUNGEON LEVEL",
+    "pt": "NÍVEL DO LABIRINTO",
+    "fonte": "quadrada"
+   },
+   "61": {
+    "en": "SENTINEL",
+    "pt": "SENTINELA",
+    "fonte": "quadrada"
+   },
+   "63": {
+    "en": "START POINT",
+    "pt": "PARTIDA",
+    "fonte": "quadrada"
+   },
+   "64": {
+    "en": "DUNGEON SELECT",
+    "pt": "SELEÇÃO DE ANDAR",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "interface/mission/mission.txb": {
+   "3": {
+    "en": "MISSION START!",
+    "pt": "INÍCIO DA MISSÃO!",
+    "fonte": "quadrada_fina"
+   },
+   "4": {
+    "en": "Go to Dungeon.",
+    "pt": "Vá ao Labirinto.",
+    "fonte": "quadrada_fina"
+   },
+   "6": {
+    "en": "LASTMISSION",
+    "pt": "MISSÃO FINAL",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "battle/interface/btl_menu.txb": {
+   "36": {
+    "partes": [
+     {
+      "en": "FIGHT",
+      "pt": "COMBATE",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       128,
+       0,
+       27
+      ]
+     },
+     {
+      "en": "CANCEL",
+      "pt": "CANCELAR",
+      "fonte": "quadrada",
+      "area": [
+       17,
+       62,
+       29,
+       46
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "BATTLE",
+      "pt": "LUTAR",
+      "fonte": "quadrada",
+      "area": [
+       82,
+       128,
+       29,
+       46
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "54": {
+    "en": "FAILURE",
+    "pt": "FALHA",
+    "fonte": "quadrada"
+   },
+   "56": {
+    "en": "STUN",
+    "pt": "ATORDOADO",
+    "fonte": "quadrada"
+   },
+   "57": {
+    "en": "SEAL",
+    "pt": "SELO",
+    "fonte": "quadrada"
+   },
+   "58": {
+    "en": "PARALYSIS",
+    "pt": "PARALISIA",
+    "fonte": "quadrada"
+   },
+   "59": {
+    "partes": [
+     {
+      "en": "UN KNOWN",
+      "pt": "DESCONHECIDO",
+      "fonte": "quadrada",
+      "area": [
+       0,
+       80,
+       47,
+       61
+      ],
+      "alinhar": "esq",
+      "contorno": false,
+      "percentil": 90
+     },
+     {
+      "en": "UN KNOWN",
+      "pt": "DESCONHECIDO",
+      "fonte": "quadrada",
+      "area": [
+       15,
+       83,
+       63,
+       77
+      ],
+      "alinhar": "esq",
+      "contorno": false,
+      "percentil": 90
+     },
+     {
+      "en": "MONSTER",
+      "pt": "MONSTRO",
+      "fonte": "quadrada",
+      "area": [
+       18,
+       95,
+       79,
+       93
+      ],
+      "alinhar": "esq",
+      "contorno": false,
+      "percentil": 90
+     }
+    ]
+   },
+   "116": {
+    "en": "MASTER",
+    "pt": "MESTRE",
+    "fonte": "quadrada",
+    "contorno": false,
+    "percentil": 90
+   },
+   "117": {
+    "en": ">ADD-EFFECT<",
+    "pt": ">EFEITO EXTRA<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "119": {
+    "en": ">CRITICAL<",
+    "pt": ">CRÍTICO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "120": {
+    "en": ">CURE<",
+    "pt": ">CURA<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "121": {
+    "en": ">CURSES<",
+    "pt": ">MALDIÇÃO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "122": {
+    "en": ">DEATH<",
+    "pt": ">MORTE<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "123": {
+    "en": ">ST-DOWN<",
+    "pt": ">STATUS-<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "124": {
+    "en": ">EVEN<",
+    "pt": ">EMPATE<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "132": {
+    "en": ">PARALYSIS<",
+    "pt": ">PARALISIA<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "133": {
+    "en": ">POISON<",
+    "pt": ">VENENO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "134": {
+    "en": ">SACRIFICE<",
+    "pt": ">SACRIFÍCIO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "135": {
+    "en": ">SEAL<",
+    "pt": ">SELO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "136": {
+    "en": ">STUN<",
+    "pt": ">ATORDOADO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "137": {
+    "en": ">ST-UP<",
+    "pt": ">STATUS+<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "173": {
+    "en": ">VANISH<",
+    "pt": ">SUMIÇO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "174": {
+    "en": ">RESIST<",
+    "pt": ">RESISTIU<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "175": {
+    "en": ">INVALID<",
+    "pt": ">INVÁLIDO<",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "150": {
+    "en": "Damage!!",
+    "pt": "Dano!!",
+    "fonte": "segoe_b"
+   },
+   "164": {
+    "en": "ENEMY PATTERN OPEN !",
+    "pt": "PADRÃO INIMIGO EXPOSTO!",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "189": {
+    "en": "ACT",
+    "pt": "AÇÃO",
+    "fonte": "quadrada"
+   },
+   "190": {
+    "en": "ACT",
+    "pt": "AÇÃO",
+    "fonte": "quadrada"
+   },
+   "191": {
+    "en": "TURN",
+    "pt": "TURNO",
+    "fonte": "quadrada"
+   },
+   "192": {
+    "en": "REMAIN",
+    "pt": "RESTAM",
+    "fonte": "quadrada"
+   }
+  },
+  "battle/interface/btl_warning_00.txb": {
+   "5": {
+    "partes": [
+     {
+      "en": "TURN BATTLE",
+      "pt": "TURNO DE BATALHA",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       280,
+       0,
+       32
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   }
+  },
+  "battle/interface/result_00.txb": {
+   "5": {
+    "en": "GET ITEM",
+    "pt": "ITEM OBTIDO",
+    "fonte": "quadrada_fina"
+   },
+   "6": {
+    "en": "GET SKILL",
+    "pt": "HABILIDADE",
+    "fonte": "quadrada_fina"
+   },
+   "7": {
+    "en": "LEVEL",
+    "pt": "NÍVEL",
+    "fonte": "quadrada_fina"
+   },
+   "14": {
+    "en": "Level Up!",
+    "pt": "Subiu de nível!",
+    "fonte": "quadrada"
+   },
+   "28": {
+    "en": "RESULT",
+    "pt": "RESULTADO",
+    "fonte": "quadrada_fina"
+   }
+  },
+  "battle/interface/vs/btl_vs.txb": {
+   "8": {
+    "en": "Live or Die by the Sword",
+    "pt": "Viver ou morrer pela espada",
+    "fonte": "quadrada_fina"
+   },
+   "9": {
+    "en": "What power do you hold in your hands...?",
+    "pt": "Que poder você tem nas mãos...?",
+    "fonte": "quadrada_fina"
+   },
+   "10": {
+    "en": "Dancing flames, decaying Earth, withered ocean.",
+    "pt": "Chamas que dançam, terra que apodrece, mar que seca.",
+    "fonte": "quadrada_fina"
+   },
+   "12": {
+    "partes": [
+     {
+      "en": "servant with master",
+      "pt": "servo com mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       206,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "15": {
+    "partes": [
+     {
+      "en": "servant with master",
+      "pt": "servo com mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       206,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "18": {
+    "partes": [
+     {
+      "en": "servant with master",
+      "pt": "servo com mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       206,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "28": {
+    "partes": [
+     {
+      "en": "servant with master",
+      "pt": "servo com mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       206,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "30": {
+    "partes": [
+     {
+      "en": "servant with master",
+      "pt": "servo com mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       206,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "16": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       26,
+       74,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "27": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       26,
+       74,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "29": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       26,
+       74,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "31": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       26,
+       74,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "40": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       26,
+       74,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "39": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       66,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "14": {
+    "partes": [
+     {
+      "en": "servant",
+      "pt": "servo",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       66,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       74,
+       124,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "32": {
+    "partes": [
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       62,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "33": {
+    "partes": [
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       62,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "42": {
+    "partes": [
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       62,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "34": {
+    "partes": [
+     {
+      "en": "game master",
+      "pt": "mestre do jogo",
+      "fonte": "quadrada_fina",
+      "area": [
+       99,
+       180,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "35": {
+    "partes": [
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       75,
+       126,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "36": {
+    "partes": [
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       75,
+       126,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "37": {
+    "partes": [
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       62,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       67,
+       118,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "43": {
+    "partes": [
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       18,
+       62,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       67,
+       118,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "38": {
+    "partes": [
+     {
+      "en": "Rin Tohsaka",
+      "pt": "Tohsaka Rin",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       224,
+       0,
+       30
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       44,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "sentinel",
+      "pt": "sentinela",
+      "fonte": "quadrada_fina",
+      "area": [
+       49,
+       100,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "41": {
+    "partes": [
+     {
+      "en": "Rin Tohsaka",
+      "pt": "Tohsaka Rin",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       224,
+       0,
+       30
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "master",
+      "pt": "mestre",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       44,
+       31,
+       43
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   }
+  }
+ }
+}

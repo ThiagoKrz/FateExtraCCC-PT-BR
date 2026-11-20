@@ -1,0 +1,2732 @@
+# Fate/Extra CCC PT-BR - itens do patch nativo
+# Fonte no jogo: pack/PRELOAD.pak -> hax/patch.o
+# Preserve msgctxt, msgid e os controles do jogo.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_BR\n"
+
+#. cmn/item_param_01.bin | registro 0 | nome
+msgctxt "item_param_01:0:0"
+msgid "Yakisoba Bread"
+msgstr "Pão de Yakisoba"
+
+#. cmn/item_param_01.bin | registro 0 | descrição 1
+msgctxt "item_param_01:0:1"
+msgid "Restores a miniscule amount of a Master's MP."
+msgstr "Recupera um pouco do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 0 | descrição 2
+msgctxt "item_param_01:0:2"
+msgid "A good helping of Yakisoba Bread."
+msgstr "Uma porção generosa de pão de yakisoba."
+
+#. cmn/item_param_01.bin | registro 0 | descrição 3
+msgctxt "item_param_01:0:3"
+msgid "Topped with red ginger."
+msgstr "Com gengibre vermelho por cima."
+
+#. cmn/item_param_01.bin | registro 1 | nome
+msgctxt "item_param_01:1:0"
+msgid "Curry Bread"
+msgstr "Pão de Curry"
+
+#. cmn/item_param_01.bin | registro 1 | descrição 1
+msgctxt "item_param_01:1:1"
+msgid "Restores a miniscule amount of a Master's MP."
+msgstr "Recupera um pouco do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 1 | descrição 2
+msgctxt "item_param_01:1:2"
+msgid "A popular deep-fried bun filled with curry."
+msgstr "Um pão frito muito popular, recheado de curry."
+
+#. cmn/item_param_01.bin | registro 1 | descrição 3
+msgctxt "item_param_01:1:3"
+msgid "Some consider it god's gift to snack foods."
+msgstr "Há quem diga que é um lanche dos deuses."
+
+#. cmn/item_param_01.bin | registro 2 | nome
+msgctxt "item_param_01:2:0"
+msgid "Super-spicy Mapo Tofu"
+msgstr "Mapo Tofu Super Picante"
+
+#. cmn/item_param_01.bin | registro 2 | descrição 1
+msgctxt "item_param_01:2:1"
+msgid "Restores a small amount of a Master's MP."
+msgstr "Recupera uma pequena porção do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 2 | descrição 2
+msgctxt "item_param_01:2:2"
+msgid "As per Kotomine, this dish is amazingly spicy."
+msgstr "Segundo Kotomine, é picante a valer."
+
+#. cmn/item_param_01.bin | registro 2 | descrição 3
+msgctxt "item_param_01:2:3"
+msgid "It is a rare treat."
+msgstr "Uma iguaria rara."
+
+#. cmn/item_param_01.bin | registro 3 | nome
+msgctxt "item_param_01:3:0"
+msgid "Premium Roll Cake"
+msgstr "Rocambole Premium"
+
+#. cmn/item_param_01.bin | registro 3 | descrição 1
+msgctxt "item_param_01:3:1"
+msgid "Restores a small amount of a Master's MP. Melts like snow."
+msgstr "Recupera um pouco do MP do Mestre. Derrete como neve."
+
+#. cmn/item_param_01.bin | registro 3 | descrição 2
+msgctxt "item_param_01:3:2"
+msgid "Available for a limited time from the Commissary."
+msgstr "À venda na Cantina por tempo limitado."
+
+#. cmn/item_param_01.bin | registro 3 | descrição 3
+msgctxt "item_param_01:3:3"
+msgid "A rich little roll cake."
+msgstr "Um rocambole pequeno de sabor intenso."
+
+#. cmn/item_param_01.bin | registro 4 | nome
+msgctxt "item_param_01:4:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 5 | nome
+msgctxt "item_param_01:5:0"
+msgid "Ether Powder"
+msgstr "Pó de Éter"
+
+#. cmn/item_param_01.bin | registro 5 | descrição 1
+msgctxt "item_param_01:5:1"
+msgid "Restores a miniscule amount of a Servant's HP."
+msgstr "Recupera um pouco do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 5 | descrição 2
+msgctxt "item_param_01:5:2"
+msgid "A mysterious crystalline substance that"
+msgstr "Uma substância cristalina misteriosa que"
+
+#. cmn/item_param_01.bin | registro 5 | descrição 3
+msgctxt "item_param_01:5:3"
+msgid "restores a miniscule amount of a Servant's HP."
+msgstr "recupera um pouco do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 6 | nome
+msgctxt "item_param_01:6:0"
+msgid "Ether Shard"
+msgstr "Fragmento de Éter"
+
+#. cmn/item_param_01.bin | registro 6 | descrição 1
+msgctxt "item_param_01:6:1"
+msgid "Restores a small amount of a Servant's HP."
+msgstr "Recupera uma pequena porção do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 6 | descrição 2
+msgctxt "item_param_01:6:2"
+msgid "A mysterious crystalline substance that"
+msgstr "Uma substância cristalina misteriosa que"
+
+#. cmn/item_param_01.bin | registro 6 | descrição 3
+msgctxt "item_param_01:6:3"
+msgid "restores a small amount of a Servant's HP."
+msgstr "recupera uma pequena porção do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 7 | nome
+msgctxt "item_param_01:7:0"
+msgid "Ether Fragment"
+msgstr "Estilhaço de Éter"
+
+#. cmn/item_param_01.bin | registro 7 | descrição 1
+msgctxt "item_param_01:7:1"
+msgid "Restores a moderate amount of a Servant's HP."
+msgstr "Recupera uma porção moderada do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 7 | descrição 2
+msgctxt "item_param_01:7:2"
+msgid "A mysterious crystalline substance that"
+msgstr "Uma substância cristalina misteriosa que"
+
+#. cmn/item_param_01.bin | registro 7 | descrição 3
+msgctxt "item_param_01:7:3"
+msgid "restores a moderate amount of a Servant's HP."
+msgstr "recupera uma porção moderada do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 8 | nome
+msgctxt "item_param_01:8:0"
+msgid "Ether Crystal"
+msgstr "Cristal de Éter"
+
+#. cmn/item_param_01.bin | registro 8 | descrição 1
+msgctxt "item_param_01:8:1"
+msgid "Restores a significant amount of a Servant's HP."
+msgstr "Recupera uma grande porção do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 8 | descrição 2
+msgctxt "item_param_01:8:2"
+msgid "A mysterious crystalline substance that"
+msgstr "Uma substância cristalina misteriosa que"
+
+#. cmn/item_param_01.bin | registro 8 | descrição 3
+msgctxt "item_param_01:8:3"
+msgid "restores a significant amount of a Servant's HP."
+msgstr "recupera uma grande porção do HP do Servo."
+
+#. cmn/item_param_01.bin | registro 9 | nome
+msgctxt "item_param_01:9:0"
+msgid "Pure Ether"
+msgstr "Éter Puro"
+
+#. cmn/item_param_01.bin | registro 9 | descrição 1
+msgctxt "item_param_01:9:1"
+msgid "Completely restores a Servant's HP."
+msgstr "Recupera todo o HP do Servo."
+
+#. cmn/item_param_01.bin | registro 9 | descrição 2
+msgctxt "item_param_01:9:2"
+msgid "A mysterious crystalline substance that"
+msgstr "Uma substância cristalina misteriosa que"
+
+#. cmn/item_param_01.bin | registro 9 | descrição 3
+msgctxt "item_param_01:9:3"
+msgid "completely restores a Servant's HP."
+msgstr "recupera todo o HP do Servo."
+
+#. cmn/item_param_01.bin | registro 10 | nome
+msgctxt "item_param_01:10:0"
+msgid "Magic Crystal Shard"
+msgstr "Estilhaço de Cristal Mágico"
+
+#. cmn/item_param_01.bin | registro 10 | descrição 1
+msgctxt "item_param_01:10:1"
+msgid "Restores a small amount of a Master's MP."
+msgstr "Recupera uma pequena porção do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 10 | descrição 2
+msgctxt "item_param_01:10:2"
+msgid "A shard of crystal that restores"
+msgstr "Um estilhaço de cristal que recupera"
+
+#. cmn/item_param_01.bin | registro 10 | descrição 3
+msgctxt "item_param_01:10:3"
+msgid "a small amount of a Master's MP."
+msgstr "uma pequena porção do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 11 | nome
+msgctxt "item_param_01:11:0"
+msgid "Magic Crystal Fragment"
+msgstr "Fragmento de Cristal Mágico"
+
+#. cmn/item_param_01.bin | registro 11 | descrição 1
+msgctxt "item_param_01:11:1"
+msgid "Restores a moderate amount of a Master's MP."
+msgstr "Recupera uma porção moderada do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 11 | descrição 2
+msgctxt "item_param_01:11:2"
+msgid "A fragment of crystal that restores"
+msgstr "Um fragmento de cristal que recupera"
+
+#. cmn/item_param_01.bin | registro 11 | descrição 3
+msgctxt "item_param_01:11:3"
+msgid "a moderate amount of a Master's MP."
+msgstr "uma porção moderada do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 12 | nome
+msgctxt "item_param_01:12:0"
+msgid "Magic Crystal Sphere"
+msgstr "Esfera de Cristal Mágico"
+
+#. cmn/item_param_01.bin | registro 12 | descrição 1
+msgctxt "item_param_01:12:1"
+msgid "Restores a significant amount of a Master's MP."
+msgstr "Recupera uma grande porção do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 12 | descrição 2
+msgctxt "item_param_01:12:2"
+msgid "A sphere of crystal that restores"
+msgstr "Uma esfera de cristal que recupera"
+
+#. cmn/item_param_01.bin | registro 12 | descrição 3
+msgctxt "item_param_01:12:3"
+msgid "a significant amount of a Master's MP."
+msgstr "uma grande porção do MP do Mestre."
+
+#. cmn/item_param_01.bin | registro 13 | nome
+msgctxt "item_param_01:13:0"
+msgid "Bottle of Yakushu"
+msgstr "Garrafa de Yakushu"
+
+#. cmn/item_param_01.bin | registro 13 | descrição 1
+msgctxt "item_param_01:13:1"
+msgid "Slightly restores Servant's MP."
+msgstr "Recupera um pouco do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 13 | descrição 2
+msgctxt "item_param_01:13:2"
+msgid "A bottle of medicinal sake that"
+msgstr "Uma garrafa de saquê medicinal que"
+
+#. cmn/item_param_01.bin | registro 13 | descrição 3
+msgctxt "item_param_01:13:3"
+msgid "restores a small amount of a Servant's MP."
+msgstr "recupera uma pequena porção do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 14 | nome
+msgctxt "item_param_01:14:0"
+msgid "Bottle of Reishu"
+msgstr "Garrafa de Reishu"
+
+#. cmn/item_param_01.bin | registro 14 | descrição 1
+msgctxt "item_param_01:14:1"
+msgid "Moderately restores Servant's MP."
+msgstr "Recupera uma porção moderada do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 14 | descrição 2
+msgctxt "item_param_01:14:2"
+msgid "A bottle of spirit sake that"
+msgstr "Uma garrafa de saquê espiritual que"
+
+#. cmn/item_param_01.bin | registro 14 | descrição 3
+msgctxt "item_param_01:14:3"
+msgid "restores a moderate amount of a Servant's MP."
+msgstr "recupera uma porção moderada do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 15 | nome
+msgctxt "item_param_01:15:0"
+msgid "Bottle of Shinshu"
+msgstr "Garrafa de Shinshu"
+
+#. cmn/item_param_01.bin | registro 15 | descrição 1
+msgctxt "item_param_01:15:1"
+msgid "Significantly restores Servant's MP."
+msgstr "Recupera uma grande porção do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 15 | descrição 2
+msgctxt "item_param_01:15:2"
+msgid "A bottle of sacred sake that"
+msgstr "Uma garrafa de saquê sagrado que"
+
+#. cmn/item_param_01.bin | registro 15 | descrição 3
+msgctxt "item_param_01:15:3"
+msgid "restores a significant amount of a Servant's MP."
+msgstr "recupera uma grande porção do MP do Servo."
+
+#. cmn/item_param_01.bin | registro 16 | nome
+msgctxt "item_param_01:16:0"
+msgid "Elixir"
+msgstr "Elixir"
+
+#. cmn/item_param_01.bin | registro 16 | descrição 1
+msgctxt "item_param_01:16:1"
+msgid "Totally heals Servant HP and MP."
+msgstr "Recupera todo o HP e o MP do Servo."
+
+#. cmn/item_param_01.bin | registro 16 | descrição 2
+msgctxt "item_param_01:16:2"
+msgid "A nostrum of mysterious origins that heals"
+msgstr "Uma panaceia de origem misteriosa que restaura"
+
+#. cmn/item_param_01.bin | registro 16 | descrição 3
+msgctxt "item_param_01:16:3"
+msgid "one's vitality, strength and magic."
+msgstr "a vitalidade, a força e a magia de quem a toma."
+
+#. cmn/item_param_01.bin | registro 17 | nome
+msgctxt "item_param_01:17:0"
+msgid "Remedy"
+msgstr "Remédio"
+
+#. cmn/item_param_01.bin | registro 17 | descrição 1
+msgctxt "item_param_01:17:1"
+msgid "Removes poison, paralysis, and curse."
+msgstr "Cura veneno, paralisia e maldição."
+
+#. cmn/item_param_01.bin | registro 17 | descrição 2
+msgctxt "item_param_01:17:2"
+msgid "A mysterious pill"
+msgstr "Uma pílula misteriosa"
+
+#. cmn/item_param_01.bin | registro 17 | descrição 3
+msgctxt "item_param_01:17:3"
+msgid "that instantly cures any illness."
+msgstr "que cura qualquer doença na hora."
+
+#. cmn/item_param_01.bin | registro 18 | nome
+msgctxt "item_param_01:18:0"
+msgid "Return Crystal"
+msgstr "Cristal de Retorno"
+
+#. cmn/item_param_01.bin | registro 18 | descrição 1
+msgctxt "item_param_01:18:1"
+msgid "Used to escape from the Labyrinth back to the old campus."
+msgstr "Permite sair do Labirinto e voltar à escola."
+
+#. cmn/item_param_01.bin | registro 18 | descrição 2
+msgctxt "item_param_01:18:2"
+msgid "A cylindrical crystal that allows the user"
+msgstr "Um cristal cilíndrico que permite"
+
+#. cmn/item_param_01.bin | registro 18 | descrição 3
+msgctxt "item_param_01:18:3"
+msgid "to immediately return to the old school building."
+msgstr "voltar de imediato ao prédio antigo."
+
+#. cmn/item_param_01.bin | registro 19 | nome
+msgctxt "item_param_01:19:0"
+msgid "Sakura's Special Lunch"
+msgstr "Almoço Especial da Sakura"
+
+#. cmn/item_param_01.bin | registro 19 | descrição 1
+msgctxt "item_param_01:19:1"
+msgid "Heals moderate Servant HP; heals status effects."
+msgstr "Recupera parte do HP e cura estados do Servo."
+
+#. cmn/item_param_01.bin | registro 19 | descrição 2
+msgctxt "item_param_01:19:2"
+msgid "A lunch made by Sakura with love and justice."
+msgstr "Um almoço que Sakura fez com amor e justiça."
+
+#. cmn/item_param_01.bin | registro 19 | descrição 3
+msgctxt "item_param_01:19:3"
+msgid "Its flavor is subtle yet complex."
+msgstr "Tem um sabor sutil, mas complexo."
+
+#. cmn/item_param_01.bin | registro 20 | nome
+msgctxt "item_param_01:20:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 21 | nome
+msgctxt "item_param_01:21:0"
+msgid "Sakura's Supreme Lunch"
+msgstr "Almoço Supremo da Sakura"
+
+#. cmn/item_param_01.bin | registro 21 | descrição 1
+msgctxt "item_param_01:21:1"
+msgid "Totally heals Servant HP, heals status effects."
+msgstr "Recupera todo o HP e cura estados do Servo."
+
+#. cmn/item_param_01.bin | registro 21 | descrição 2
+msgctxt "item_param_01:21:2"
+msgid "The legendary version of Sakura's lunch recipe."
+msgstr "A versão lendária da receita de Sakura."
+
+#. cmn/item_param_01.bin | registro 21 | descrição 3
+msgctxt "item_param_01:21:3"
+msgid "It is seen as god's gift to the culinary arts."
+msgstr "É tido como um presente dos deuses à culinária."
+
+#. cmn/item_param_01.bin | registro 22 | nome
+msgctxt "item_param_01:22:0"
+msgid "Chess Set"
+msgstr "Jogo de Xadrez"
+
+#. cmn/item_param_01.bin | registro 22 | descrição 1
+msgctxt "item_param_01:22:1"
+msgid "You can play chess with two people."
+msgstr "Dá para jogar xadrez a dois."
+
+#. cmn/item_param_01.bin | registro 22 | descrição 2
+msgctxt "item_param_01:22:2"
+msgid "One of the classic board games."
+msgstr "Um dos clássicos dos jogos de tabuleiro."
+
+#. cmn/item_param_01.bin | registro 22 | descrição 3
+msgctxt "item_param_01:22:3"
+msgid "It is well-loved all around the world."
+msgstr "É adorado no mundo inteiro."
+
+#. cmn/item_param_01.bin | registro 23 | nome
+msgctxt "item_param_01:23:0"
+msgid "Sakura's Medicine"
+msgstr "Remédio da Sakura"
+
+#. cmn/item_param_01.bin | registro 23 | descrição 1
+msgctxt "item_param_01:23:1"
+msgid "Medicine that was prescribed by Sakura."
+msgstr "Um remédio receitado por Sakura."
+
+#. cmn/item_param_01.bin | registro 23 | descrição 2
+msgctxt "item_param_01:23:2"
+msgid "Medicine that Sakura made for me."
+msgstr "Um remédio que Sakura fez para mim."
+
+#. cmn/item_param_01.bin | registro 23 | descrição 3
+msgctxt "item_param_01:23:3"
+msgid "If consumed, it would cure any type of illness."
+msgstr "Quem tomar fica curado de qualquer doença."
+
+#. cmn/item_param_01.bin | registro 24 | nome
+msgctxt "item_param_01:24:0"
+msgid "Dust Data"
+msgstr "Dados Residuais"
+
+#. cmn/item_param_01.bin | registro 24 | descrição 1
+msgctxt "item_param_01:24:1"
+msgid "A cluster of compressed data picked from the Labyrinth."
+msgstr "Um aglomerado de dados comprimidos do Labirinto."
+
+#. cmn/item_param_01.bin | registro 24 | descrição 2
+msgctxt "item_param_01:24:2"
+msgid "5 cubic centimeter cube of data."
+msgstr "Um cubo de dados de 5 centímetros cúbicos."
+
+#. cmn/item_param_01.bin | registro 24 | descrição 3
+msgctxt "item_param_01:24:3"
+msgid "Even though it's compressed, it's still quite hefty."
+msgstr "Mesmo comprimido, ainda pesa bastante."
+
+#. cmn/item_param_01.bin | registro 25 | nome
+msgctxt "item_param_01:25:0"
+msgid "Memory Data"
+msgstr "Dados de Memória"
+
+#. cmn/item_param_01.bin | registro 25 | descrição 1
+msgctxt "item_param_01:25:1"
+msgid "Memory Data of the participants in the Holy Grail War."
+msgstr "Memórias dos participantes da Guerra do Santo Graal."
+
+#. cmn/item_param_01.bin | registro 25 | descrição 2
+msgctxt "item_param_01:25:2"
+msgid "Informative data pertaining to"
+msgstr "Dados que registram"
+
+#. cmn/item_param_01.bin | registro 25 | descrição 3
+msgctxt "item_param_01:25:3"
+msgid "sealed memories of the Holy Grail War."
+msgstr "memórias seladas da Guerra do Santo Graal."
+
+#. cmn/item_param_01.bin | registro 26 | nome
+msgctxt "item_param_01:26:0"
+msgid "Secret Key"
+msgstr "Chave Secreta"
+
+#. cmn/item_param_01.bin | registro 26 | descrição 1
+msgctxt "item_param_01:26:1"
+msgid "To open a door somewhere."
+msgstr "Abre uma porta em algum lugar."
+
+#. cmn/item_param_01.bin | registro 26 | descrição 2
+msgctxt "item_param_01:26:2"
+msgid "Key obtained from the miniature house."
+msgstr "Uma chave obtida na casa em miniatura."
+
+#. cmn/item_param_01.bin | registro 26 | descrição 3
+msgctxt "item_param_01:26:3"
+msgid "I wonder what door this key is to?"
+msgstr "Que porta será que esta chave abre?"
+
+#. cmn/item_param_01.bin | registro 27 | nome
+msgctxt "item_param_01:27:0"
+msgid "Sakura's Token Digestive Medicine"
+msgstr "Digestivo da Sakura"
+
+#. cmn/item_param_01.bin | registro 27 | descrição 1
+msgctxt "item_param_01:27:1"
+msgid "Special stomach medicine prescribed by Sakura."
+msgstr "Um digestivo especial receitado por Sakura."
+
+#. cmn/item_param_01.bin | registro 27 | descrição 2
+msgctxt "item_param_01:27:2"
+msgid "Stomach medicine filled with Sakura's affection. With this,"
+msgstr "Um remédio para o estômago cheio do carinho de Sakura."
+
+#. cmn/item_param_01.bin | registro 27 | descrição 3
+msgctxt "item_param_01:27:3"
+msgid "you could eat any kind of food and be just fine!"
+msgstr "Com ele, dá para comer de tudo sem passar mal!"
+
+#. cmn/item_param_01.bin | registro 28 | nome
+msgctxt "item_param_01:28:0"
+msgid "Doll's Limbs"
+msgstr "Membros da Boneca"
+
+#. cmn/item_param_01.bin | registro 28 | descrição 1
+msgctxt "item_param_01:28:1"
+msgid "The cute n' tiny arms and legs of a doll."
+msgstr "Os bracinhos e as perninhas fofas de uma boneca."
+
+#. cmn/item_param_01.bin | registro 28 | descrição 2
+msgctxt "item_param_01:28:2"
+msgid "Each one was carefully disconnected"
+msgstr "Cada um deles foi separado com cuidado"
+
+#. cmn/item_param_01.bin | registro 28 | descrição 3
+msgctxt "item_param_01:28:3"
+msgid "and then removed."
+msgstr "e depois retirado."
+
+#. cmn/item_param_01.bin | registro 29 | nome
+msgctxt "item_param_01:29:0"
+msgid "Doll's Torso"
+msgstr "Tronco da Boneca"
+
+#. cmn/item_param_01.bin | registro 29 | descrição 1
+msgctxt "item_param_01:29:1"
+msgid "A doll's torso adorned a sleek, black dress."
+msgstr "O tronco de uma boneca num vestido preto elegante."
+
+#. cmn/item_param_01.bin | registro 29 | descrição 2
+msgctxt "item_param_01:29:2"
+msgid "It's wearing a metallic, black dress."
+msgstr "Ela veste um vestido preto metálico."
+
+#. cmn/item_param_01.bin | registro 29 | descrição 3
+msgctxt "item_param_01:29:3"
+msgid "Parts such as the arms and legs are missing."
+msgstr "Faltam partes como os braços e as pernas."
+
+#. cmn/item_param_01.bin | registro 30 | nome
+msgctxt "item_param_01:30:0"
+msgid "Doll's Life"
+msgstr "Vida da Boneca"
+
+#. cmn/item_param_01.bin | registro 30 | descrição 1
+msgctxt "item_param_01:30:1"
+msgid "A part that can be said to be the life of a doll."
+msgstr "Uma parte que é como a vida da boneca."
+
+#. cmn/item_param_01.bin | registro 30 | descrição 2
+msgctxt "item_param_01:30:2"
+msgid "The life of a doll is its face."
+msgstr "A vida da boneca está no rosto."
+
+#. cmn/item_param_01.bin | registro 31 | nome
+msgctxt "item_param_01:31:0"
+msgid "BB's Confidential Data"
+msgstr "Dados Confidenciais da BB"
+
+#. cmn/item_param_01.bin | registro 31 | descrição 1
+msgctxt "item_param_01:31:1"
+msgid "Item folder packed with illegal data."
+msgstr "Pasta de itens cheia de dados ilegais."
+
+#. cmn/item_param_01.bin | registro 31 | descrição 2
+msgctxt "item_param_01:31:2"
+msgid "Confidential data pertaining to BB"
+msgstr "Dados confidenciais sobre BB,"
+
+#. cmn/item_param_01.bin | registro 31 | descrição 3
+msgctxt "item_param_01:31:3"
+msgid "given by the Green Archer."
+msgstr "entregues pelo Archer Verde."
+
+#. cmn/item_param_01.bin | registro 32 | nome
+msgctxt "item_param_01:32:0"
+msgid "BB's Confidential Data 2"
+msgstr "Dados Confidenciais da BB 2"
+
+#. cmn/item_param_01.bin | registro 32 | descrição 1
+msgctxt "item_param_01:32:1"
+msgid "Item folder packed with illegal data."
+msgstr "Pasta de itens cheia de dados ilegais."
+
+#. cmn/item_param_01.bin | registro 32 | descrição 2
+msgctxt "item_param_01:32:2"
+msgid "Secret confidential data pertaining to BB"
+msgstr "Dados secretos e confidenciais sobre BB,"
+
+#. cmn/item_param_01.bin | registro 32 | descrição 3
+msgctxt "item_param_01:32:3"
+msgid "given by the Green Archer."
+msgstr "entregues pelo Archer Verde."
+
+#. cmn/item_param_01.bin | registro 33 | nome
+msgctxt "item_param_01:33:0"
+msgid "Meltlilith's SG"
+msgstr "SG de Meltlilith"
+
+#. cmn/item_param_01.bin | registro 33 | descrição 1
+msgctxt "item_param_01:33:1"
+msgid "One of Meltlilith's SGs, received from Alice."
+msgstr "Um dos SGs de Meltlilith, recebido de Alice."
+
+#. cmn/item_param_01.bin | registro 33 | descrição 2
+msgctxt "item_param_01:33:2"
+msgid "Capable of destroying Meltlilith's Shield."
+msgstr "Pode destruir o Escudo de Meltlilith."
+
+#. cmn/item_param_01.bin | registro 34 | nome
+msgctxt "item_param_01:34:0"
+msgid "Black Item Folder"
+msgstr "Pasta de Itens Preta"
+
+#. cmn/item_param_01.bin | registro 34 | descrição 1
+msgctxt "item_param_01:34:1"
+msgid "Item folder with its contents unknown."
+msgstr "Uma pasta de itens de conteúdo desconhecido."
+
+#. cmn/item_param_01.bin | registro 34 | descrição 2
+msgctxt "item_param_01:34:2"
+msgid "A cube-shaped item folder that"
+msgstr "Uma pasta de itens cúbica"
+
+#. cmn/item_param_01.bin | registro 34 | descrição 3
+msgctxt "item_param_01:34:3"
+msgid "was given by Rin."
+msgstr "entregue por Rin."
+
+#. cmn/item_param_01.bin | registro 35 | nome
+msgctxt "item_param_01:35:0"
+msgid "Cat Keychain"
+msgstr "Chaveiro de Gato"
+
+#. cmn/item_param_01.bin | registro 35 | descrição 1
+msgctxt "item_param_01:35:1"
+msgid "Keychain that's very dear to Jinako."
+msgstr "Um chaveiro muito querido por Jinako."
+
+#. cmn/item_param_01.bin | registro 35 | descrição 2
+msgctxt "item_param_01:35:2"
+msgid "Keychain that Jinako was given by her mama."
+msgstr "Um chaveiro que Jinako ganhou da mãe."
+
+#. cmn/item_param_01.bin | registro 35 | descrição 3
+msgctxt "item_param_01:35:3"
+msgid "It's gotten worn over the years."
+msgstr "Está gasto de tantos anos de uso."
+
+#. cmn/item_param_01.bin | registro 36 | nome
+msgctxt "item_param_01:36:0"
+msgid "Data Segment"
+msgstr "Fragmento de Dados"
+
+#. cmn/item_param_01.bin | registro 36 | descrição 1
+msgctxt "item_param_01:36:1"
+msgid "A fragment of segmented data."
+msgstr "Um fragmento de dados divididos em partes."
+
+#. cmn/item_param_01.bin | registro 36 | descrição 2
+msgctxt "item_param_01:36:2"
+msgid "Segmented data with unknown contents,"
+msgstr "Dados fragmentados, de conteúdo desconhecido,"
+
+#. cmn/item_param_01.bin | registro 36 | descrição 3
+msgctxt "item_param_01:36:3"
+msgid "obtained from an invisible item folder."
+msgstr "obtidos numa pasta de itens invisível."
+
+#. cmn/item_param_01.bin | registro 37 | nome
+msgctxt "item_param_01:37:0"
+msgid "Foliage of a Great Tree"
+msgstr "Folhas de uma Árvore Gigante"
+
+#. cmn/item_param_01.bin | registro 37 | descrição 1
+msgctxt "item_param_01:37:1"
+msgid "Bundle of foliage picked from a great tree."
+msgstr "Um punhado de folhas de uma árvore gigante."
+
+#. cmn/item_param_01.bin | registro 37 | descrição 2
+msgctxt "item_param_01:37:2"
+msgid "A bundle made from foliage that grew from a great tree."
+msgstr "Um maço de folhas que cresceram numa árvore gigante."
+
+#. cmn/item_param_01.bin | registro 38 | nome
+msgctxt "item_param_01:38:0"
+msgid "Laurel Wreath Veil"
+msgstr "Véu com Coroa de Louros"
+
+#. cmn/item_param_01.bin | registro 38 | descrição 1
+msgctxt "item_param_01:38:1"
+msgid "If I take it back to My Room……"
+msgstr "Se eu levar de volta ao Meu Quarto……"
+
+#. cmn/item_param_01.bin | registro 38 | descrição 2
+msgctxt "item_param_01:38:2"
+msgid "Bridal article made from laurel leaves"
+msgstr "Um adereço de noiva feito de folhas de louro"
+
+#. cmn/item_param_01.bin | registro 38 | descrição 3
+msgctxt "item_param_01:38:3"
+msgid "and a pure-white veil."
+msgstr "e um véu branco como a neve."
+
+#. cmn/item_param_01.bin | registro 39 | nome
+msgctxt "item_param_01:39:0"
+msgid "Free Ticket"
+msgstr "Vale Grátis"
+
+#. cmn/item_param_01.bin | registro 39 | descrição 1
+msgctxt "item_param_01:39:1"
+msgid "If I take it back to My Room……"
+msgstr "Se eu levar de volta ao Meu Quarto……"
+
+#. cmn/item_param_01.bin | registro 39 | descrição 2
+msgctxt "item_param_01:39:2"
+msgid "Rents a facility your Servant wishes for"
+msgstr "Aluga o local que seu Servo deseja"
+
+#. cmn/item_param_01.bin | registro 39 | descrição 3
+msgctxt "item_param_01:39:3"
+msgid "for one hour."
+msgstr "por uma hora."
+
+#. cmn/item_param_01.bin | registro 40 | nome
+msgctxt "item_param_01:40:0"
+msgid "Kuda Ward"
+msgstr "Amuleto Kuda"
+
+#. cmn/item_param_01.bin | registro 40 | descrição 1
+msgctxt "item_param_01:40:1"
+msgid "A talisman that Andersen would have something to say about."
+msgstr "Um talismã sobre o qual Andersen deve saber algo."
+
+#. cmn/item_param_01.bin | registro 40 | descrição 2
+msgctxt "item_param_01:40:2"
+msgid "A cursed charm apparently made from"
+msgstr "Um amuleto amaldiçoado, feito ao que parece"
+
+#. cmn/item_param_01.bin | registro 40 | descrição 3
+msgctxt "item_param_01:40:3"
+msgid "the earlobe of an inugami."
+msgstr "do lóbulo da orelha de um inugami."
+
+#. cmn/item_param_01.bin | registro 41 | nome
+msgctxt "item_param_01:41:0"
+msgid "Infinite Extension Ladder"
+msgstr "Escada de Extensão Infinita"
+
+#. cmn/item_param_01.bin | registro 41 | descrição 1
+msgctxt "item_param_01:41:1"
+msgid "A mysterious ladder that can reach anywhere."
+msgstr "Uma escada misteriosa que alcança qualquer lugar."
+
+#. cmn/item_param_01.bin | registro 41 | descrição 2
+msgctxt "item_param_01:41:2"
+msgid "A ladder that can extend indefinitely until obstructed."
+msgstr "Estende-se sem parar até encontrar um obstáculo."
+
+#. cmn/item_param_01.bin | registro 41 | descrição 3
+msgctxt "item_param_01:41:3"
+msgid "I should show it to Taiga."
+msgstr "Devia mostrar à Taiga."
+
+#. cmn/item_param_01.bin | registro 42 | nome
+msgctxt "item_param_01:42:0"
+msgid "Platinum Pickaxe"
+msgstr "Picareta de Platina"
+
+#. cmn/item_param_01.bin | registro 42 | descrição 1
+msgctxt "item_param_01:42:1"
+msgid "A sturdy pickaxe made of platinum."
+msgstr "Uma picareta resistente feita de platina."
+
+#. cmn/item_param_01.bin | registro 42 | descrição 2
+msgctxt "item_param_01:42:2"
+msgid "Doesn't seem to break no matter how much you use it."
+msgstr "Por mais que seja usada, parece nunca quebrar."
+
+#. cmn/item_param_01.bin | registro 42 | descrição 3
+msgctxt "item_param_01:42:3"
+msgid "I should show it to Taiga."
+msgstr "Devia mostrar à Taiga."
+
+#. cmn/item_param_01.bin | registro 43 | nome
+msgctxt "item_param_01:43:0"
+msgid "Exciting Swimset"
+msgstr "Kit de Mergulho Empolgante"
+
+#. cmn/item_param_01.bin | registro 43 | descrição 1
+msgctxt "item_param_01:43:1"
+msgid "Very ordinary snorkels."
+msgstr "Snorkels perfeitamente comuns."
+
+#. cmn/item_param_01.bin | registro 43 | descrição 2
+msgctxt "item_param_01:43:2"
+msgid "Swimming gear used at certain kinds of recreational spots."
+msgstr "Equipamento de natação usado em certos locais de lazer."
+
+#. cmn/item_param_01.bin | registro 43 | descrição 3
+msgctxt "item_param_01:43:3"
+msgid "I should show it to Taiga."
+msgstr "Devia mostrar à Taiga."
+
+#. cmn/item_param_01.bin | registro 44 | nome
+msgctxt "item_param_01:44:0"
+msgid "Fortune Circle"
+msgstr "Círculo da Fortuna"
+
+#. cmn/item_param_01.bin | registro 44 | descrição 1
+msgctxt "item_param_01:44:1"
+msgid "Item that promotes luck, obtained from defeating an enemy."
+msgstr "Item que atrai sorte, obtido ao derrotar um inimigo."
+
+#. cmn/item_param_01.bin | registro 44 | descrição 2
+msgctxt "item_param_01:44:2"
+msgid "Said to gather good luck into the ring part of it."
+msgstr "Dizem que o anel concentra a boa sorte."
+
+#. cmn/item_param_01.bin | registro 44 | descrição 3
+msgctxt "item_param_01:44:3"
+msgid "I should show it to Taiga."
+msgstr "Devia mostrar à Taiga."
+
+#. cmn/item_param_01.bin | registro 45 | nome
+msgctxt "item_param_01:45:0"
+msgid "Serena's Secret"
+msgstr "Segredo de Serena"
+
+#. cmn/item_param_01.bin | registro 45 | descrição 1
+msgctxt "item_param_01:45:1"
+msgid "SG obtained from a female-type enemy."
+msgstr "SG obtido de um inimigo do tipo feminino."
+
+#. cmn/item_param_01.bin | registro 45 | descrição 2
+msgctxt "item_param_01:45:2"
+msgid "The faint, fleeting secret of a maiden"
+msgstr "O segredo tênue e fugaz de uma donzela,"
+
+#. cmn/item_param_01.bin | registro 45 | descrição 3
+msgctxt "item_param_01:45:3"
+msgid "hidden in the heart of a female-type enemy."
+msgstr "oculto no coração de um inimigo do tipo feminino."
+
+#. cmn/item_param_01.bin | registro 46 | nome
+msgctxt "item_param_01:46:0"
+msgid "Classic Sailor Uniform"
+msgstr "Uniforme Clássico de Marinheira"
+
+#. cmn/item_param_01.bin | registro 46 | descrição 1
+msgctxt "item_param_01:46:1"
+msgid "Tsukumihara Academy's classic girl's uniform."
+msgstr "Uniforme feminino clássico da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 46 | descrição 2
+msgctxt "item_param_01:46:2"
+msgid "To match that classical feel of the old school building."
+msgstr "Combina com o ar clássico do prédio antigo."
+
+#. cmn/item_param_01.bin | registro 46 | descrição 3
+msgctxt "item_param_01:46:3"
+msgid "Sailor-type girl's uniform."
+msgstr "Uniforme feminino de marinheira."
+
+#. cmn/item_param_01.bin | registro 47 | nome
+msgctxt "item_param_01:47:0"
+msgid "Taiga-style Wall Ornament"
+msgstr "Enfeite de Parede da Taiga"
+
+#. cmn/item_param_01.bin | registro 47 | descrição 1
+msgctxt "item_param_01:47:1"
+msgid "Taiga's signature wall ornament. For room decor."
+msgstr "Enfeite de parede da Taiga. Decoração de quarto."
+
+#. cmn/item_param_01.bin | registro 47 | descrição 2
+msgctxt "item_param_01:47:2"
+msgid "Decoration to adorn the wall of My Room."
+msgstr "Decoração para a parede do Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 47 | descrição 3
+msgctxt "item_param_01:47:3"
+msgid "The dreary walls have gotten a bit more lively."
+msgstr "As paredes sem graça ficaram mais animadas."
+
+#. cmn/item_param_01.bin | registro 48 | nome
+msgctxt "item_param_01:48:0"
+msgid "Taiga-style Window Ornament"
+msgstr "Enfeite de Janela da Taiga"
+
+#. cmn/item_param_01.bin | registro 48 | descrição 1
+msgctxt "item_param_01:48:1"
+msgid "Taiga's signature window ornament. For room decor."
+msgstr "Enfeite de janela da Taiga. Decoração de quarto."
+
+#. cmn/item_param_01.bin | registro 48 | descrição 2
+msgctxt "item_param_01:48:2"
+msgid "Decoration to adorn the window of My Room."
+msgstr "Decoração para a janela do Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 48 | descrição 3
+msgctxt "item_param_01:48:3"
+msgid "Something for that lonely windowsill."
+msgstr "Algo para animar aquele peitoril solitário."
+
+#. cmn/item_param_01.bin | registro 49 | nome
+msgctxt "item_param_01:49:0"
+msgid "Taiga-style Lamp"
+msgstr "Luminária da Taiga"
+
+#. cmn/item_param_01.bin | registro 49 | descrição 1
+msgctxt "item_param_01:49:1"
+msgid "Taiga's signature luminary device. For room decor."
+msgstr "Luminária da Taiga. Decoração de quarto."
+
+#. cmn/item_param_01.bin | registro 49 | descrição 2
+msgctxt "item_param_01:49:2"
+msgid "Light fixture placed in My Room."
+msgstr "Luminária para o Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 49 | descrição 3
+msgctxt "item_param_01:49:3"
+msgid "This gentle light illuminates my heart as well."
+msgstr "Esta luz suave também ilumina meu coração."
+
+#. cmn/item_param_01.bin | registro 50 | nome
+msgctxt "item_param_01:50:0"
+msgid "Taiga-style General Goods"
+msgstr "Bibelôs da Taiga"
+
+#. cmn/item_param_01.bin | registro 50 | descrição 1
+msgctxt "item_param_01:50:1"
+msgid "Taiga's signature variety goods. For room decor."
+msgstr "Bibelôs da Taiga. Decoração de quarto."
+
+#. cmn/item_param_01.bin | registro 50 | descrição 2
+msgctxt "item_param_01:50:2"
+msgid "General items placed in My Room."
+msgstr "Objetos diversos para o Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 50 | descrição 3
+msgctxt "item_param_01:50:3"
+msgid "Things that make you happy."
+msgstr "Coisas que trazem alegria."
+
+#. cmn/item_param_01.bin | registro 51 | nome
+msgctxt "item_param_01:51:0"
+msgid "Taiga-style Wall Ornament 2"
+msgstr "Enfeite de Parede da Taiga 2"
+
+#. cmn/item_param_01.bin | registro 51 | descrição 1
+msgctxt "item_param_01:51:1"
+msgid "Taiga's signature wall ornament, part 2. For room decor."
+msgstr "Enfeite de parede da Taiga, parte 2. Para o quarto."
+
+#. cmn/item_param_01.bin | registro 51 | descrição 2
+msgctxt "item_param_01:51:2"
+msgid "Decoration to adorn the wall of My Room."
+msgstr "Decoração para a parede do Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 51 | descrição 3
+msgctxt "item_param_01:51:3"
+msgid "And so the room's wall gets even more fancy."
+msgstr "E a parede do quarto ganha ainda mais graça."
+
+#. cmn/item_param_01.bin | registro 52 | nome
+msgctxt "item_param_01:52:0"
+msgid "Taiga-style Hobby Goods"
+msgstr "Passatempos da Taiga"
+
+#. cmn/item_param_01.bin | registro 52 | descrição 1
+msgctxt "item_param_01:52:1"
+msgid "Taiga's signature hobby goods. For room decor."
+msgstr "Passatempos da Taiga. Decoração de quarto."
+
+#. cmn/item_param_01.bin | registro 52 | descrição 2
+msgctxt "item_param_01:52:2"
+msgid "Hobby items placed in My Room."
+msgstr "Objetos de passatempo para o Meu Quarto."
+
+#. cmn/item_param_01.bin | registro 52 | descrição 3
+msgctxt "item_param_01:52:3"
+msgid "It's your Servant's hobby though."
+msgstr "Mas o passatempo é do seu Servo."
+
+#. cmn/item_param_01.bin | registro 53 | nome
+msgctxt "item_param_01:53:0"
+msgid "Bondage Bridal Gown"
+msgstr "Vestido de Noiva com Amarras"
+
+#. cmn/item_param_01.bin | registro 53 | descrição 1
+msgctxt "item_param_01:53:1"
+msgid "Outfit for Saber."
+msgstr "Traje de Saber."
+
+#. cmn/item_param_01.bin | registro 53 | descrição 2
+msgctxt "item_param_01:53:2"
+msgid "A white wedding dress with restraints that"
+msgstr "Um vestido de noiva branco com amarras que"
+
+#. cmn/item_param_01.bin | registro 53 | descrição 3
+msgctxt "item_param_01:53:3"
+msgid "Saber was wearing on the Far Side of the Moon."
+msgstr "Saber usava no Lado Distante da Lua."
+
+#. cmn/item_param_01.bin | registro 54 | nome
+msgctxt "item_param_01:54:0"
+msgid "Rose Ball Gown"
+msgstr "Vestido de Baile das Rosas"
+
+#. cmn/item_param_01.bin | registro 54 | descrição 1
+msgctxt "item_param_01:54:1"
+msgid "Outfit for Saber."
+msgstr "Traje de Saber."
+
+#. cmn/item_param_01.bin | registro 54 | descrição 2
+msgctxt "item_param_01:54:2"
+msgid "A magnificent ball gown that"
+msgstr "Um magnífico vestido de baile que"
+
+#. cmn/item_param_01.bin | registro 54 | descrição 3
+msgctxt "item_param_01:54:3"
+msgid "Saber was wearing on the Near Side of the Moon."
+msgstr "Saber usava no Lado Próximo da Lua."
+
+#. cmn/item_param_01.bin | registro 55 | nome
+msgctxt "item_param_01:55:0"
+msgid "Red Lightning"
+msgstr "Relâmpago Vermelho"
+
+#. cmn/item_param_01.bin | registro 55 | descrição 1
+msgctxt "item_param_01:55:1"
+msgid "Outfit for Saber."
+msgstr "Traje de Saber."
+
+#. cmn/item_param_01.bin | registro 55 | descrição 2
+msgctxt "item_param_01:55:2"
+msgid "A very risqué swimsuit."
+msgstr "Um traje de banho muito ousado."
+
+#. cmn/item_param_01.bin | registro 56 | nome
+msgctxt "item_param_01:56:0"
+msgid "Mythology Mystic Code of Emperor"
+msgstr "Artefato Místico Mitológico do Imperador"
+
+#. cmn/item_param_01.bin | registro 56 | descrição 1
+msgctxt "item_param_01:56:1"
+msgid "Outfit for Saber."
+msgstr "Traje de Saber."
+
+#. cmn/item_param_01.bin | registro 56 | descrição 2
+msgctxt "item_param_01:56:2"
+msgid "Mystic Code of Saber's legend that was"
+msgstr "O Artefato Místico da lenda de Saber, que"
+
+#. cmn/item_param_01.bin | registro 56 | descrição 3
+msgctxt "item_param_01:56:3"
+msgid "placed under a Sealing Designation by the Moon Cell."
+msgstr "recebeu uma Designação de Selamento do Moon Cell."
+
+#. cmn/item_param_01.bin | registro 57 | nome
+msgctxt "item_param_01:57:0"
+msgid "Crimson Modern Clothes"
+msgstr "Roupas Modernas Carmesim"
+
+#. cmn/item_param_01.bin | registro 57 | descrição 1
+msgctxt "item_param_01:57:1"
+msgid "Outfit for Saber."
+msgstr "Traje de Saber."
+
+#. cmn/item_param_01.bin | registro 57 | descrição 2
+msgctxt "item_param_01:57:2"
+msgid "Striking red-and-black modern clothing."
+msgstr "Roupa moderna, marcante, em vermelho e preto."
+
+#. cmn/item_param_01.bin | registro 58 | nome
+msgctxt "item_param_01:58:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 59 | nome
+msgctxt "item_param_01:59:0"
+msgid "Cool & Wild"
+msgstr "Descolado e Selvagem"
+
+#. cmn/item_param_01.bin | registro 59 | descrição 1
+msgctxt "item_param_01:59:1"
+msgid "Outfit for Archer."
+msgstr "Traje de Archer."
+
+#. cmn/item_param_01.bin | registro 59 | descrição 2
+msgctxt "item_param_01:59:2"
+msgid "A wild red leather outfit that"
+msgstr "Um traje arrojado de couro vermelho que"
+
+#. cmn/item_param_01.bin | registro 59 | descrição 3
+msgctxt "item_param_01:59:3"
+msgid "Archer was wearing on the Far Side of the Moon."
+msgstr "Archer usava no Lado Distante da Lua."
+
+#. cmn/item_param_01.bin | registro 60 | nome
+msgctxt "item_param_01:60:0"
+msgid "Base Red Mystic Code"
+msgstr "Artefato Místico Base Vermelho"
+
+#. cmn/item_param_01.bin | registro 60 | descrição 1
+msgctxt "item_param_01:60:1"
+msgid "Outfit for Archer."
+msgstr "Traje de Archer."
+
+#. cmn/item_param_01.bin | registro 60 | descrição 2
+msgctxt "item_param_01:60:2"
+msgid "The red mantle and black bodysuit that"
+msgstr "O manto vermelho e o traje preto justo que"
+
+#. cmn/item_param_01.bin | registro 60 | descrição 3
+msgctxt "item_param_01:60:3"
+msgid "Archer was wearing on the Near Side of the Moon."
+msgstr "Archer usava no Lado Próximo da Lua."
+
+#. cmn/item_param_01.bin | registro 61 | nome
+msgctxt "item_param_01:61:0"
+msgid "Black Swimmer"
+msgstr "Traje de Banho Preto"
+
+#. cmn/item_param_01.bin | registro 61 | descrição 1
+msgctxt "item_param_01:61:1"
+msgid "Outfit for Archer."
+msgstr "Traje de Archer."
+
+#. cmn/item_param_01.bin | registro 61 | descrição 2
+msgctxt "item_param_01:61:2"
+msgid "It's supposedly to show off your well-trained body,"
+msgstr "Era para exibir um físico bem treinado,"
+
+#. cmn/item_param_01.bin | registro 61 | descrição 3
+msgctxt "item_param_01:61:3"
+msgid "but that's not what happens."
+msgstr "mas acaba tendo outro efeito."
+
+#. cmn/item_param_01.bin | registro 62 | nome
+msgctxt "item_param_01:62:0"
+msgid "Mythology Mystic Code of Wrought Iron"
+msgstr "Artefato Místico Mitológico do Ferro Forjado"
+
+#. cmn/item_param_01.bin | registro 62 | descrição 1
+msgctxt "item_param_01:62:1"
+msgid "Outfit for Archer."
+msgstr "Traje de Archer."
+
+#. cmn/item_param_01.bin | registro 62 | descrição 2
+msgctxt "item_param_01:62:2"
+msgid "Mystic Code of Archer's legend that was"
+msgstr "O Artefato Místico da lenda de Archer, que"
+
+#. cmn/item_param_01.bin | registro 62 | descrição 3
+msgctxt "item_param_01:62:3"
+msgid "placed under a Sealing Designation by the Moon Cell."
+msgstr "recebeu uma Designação de Selamento do Moon Cell."
+
+#. cmn/item_param_01.bin | registro 63 | nome
+msgctxt "item_param_01:63:0"
+msgid "Black Modern Clothes"
+msgstr "Roupas Modernas Negras"
+
+#. cmn/item_param_01.bin | registro 63 | descrição 1
+msgctxt "item_param_01:63:1"
+msgid "Outfit for Archer."
+msgstr "Traje de Archer."
+
+#. cmn/item_param_01.bin | registro 63 | descrição 2
+msgctxt "item_param_01:63:2"
+msgid "Simply put, it's all black-colored modern clothing."
+msgstr "Roupa moderna inteiramente preta. Simples assim."
+
+#. cmn/item_param_01.bin | registro 64 | nome
+msgctxt "item_param_01:64:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 65 | nome
+msgctxt "item_param_01:65:0"
+msgid "Jet Black Mage"
+msgstr "Maga de Preto"
+
+#. cmn/item_param_01.bin | registro 65 | descrição 1
+msgctxt "item_param_01:65:1"
+msgid "Outfit for Caster."
+msgstr "Traje de Caster."
+
+#. cmn/item_param_01.bin | registro 65 | descrição 2
+msgctxt "item_param_01:65:2"
+msgid "Black, gothic-style western clothing that"
+msgstr "Roupa ocidental preta, em estilo gótico, que"
+
+#. cmn/item_param_01.bin | registro 65 | descrição 3
+msgctxt "item_param_01:65:3"
+msgid "Caster was wearing on the Far Side of the Moon."
+msgstr "Caster usava no Lado Distante da Lua."
+
+#. cmn/item_param_01.bin | registro 66 | nome
+msgctxt "item_param_01:66:0"
+msgid "Blue Magician Wear"
+msgstr "Traje Azul de Maga"
+
+#. cmn/item_param_01.bin | registro 66 | descrição 1
+msgctxt "item_param_01:66:1"
+msgid "Outfit for Caster."
+msgstr "Traje de Caster."
+
+#. cmn/item_param_01.bin | registro 66 | descrição 2
+msgctxt "item_param_01:66:2"
+msgid "Bewitching blue Japanese clothes that"
+msgstr "Uma roupa japonesa azul e encantadora que"
+
+#. cmn/item_param_01.bin | registro 66 | descrição 3
+msgctxt "item_param_01:66:3"
+msgid "Caster was wearing on the Near Side of the Moon."
+msgstr "Caster usava no Lado Próximo da Lua."
+
+#. cmn/item_param_01.bin | registro 67 | nome
+msgctxt "item_param_01:67:0"
+msgid "Sexy Bikini"
+msgstr "Biquíni Sexy"
+
+#. cmn/item_param_01.bin | registro 67 | descrição 1
+msgctxt "item_param_01:67:1"
+msgid "Outfit for Caster."
+msgstr "Traje de Caster."
+
+#. cmn/item_param_01.bin | registro 67 | descrição 2
+msgctxt "item_param_01:67:2"
+msgid "White bikini for women who are confident in their looks."
+msgstr "Biquíni branco para mulheres seguras de si."
+
+#. cmn/item_param_01.bin | registro 68 | nome
+msgctxt "item_param_01:68:0"
+msgid "Mythology Mystic Code of the Sun"
+msgstr "Artefato Místico Mitológico do Sol"
+
+#. cmn/item_param_01.bin | registro 68 | descrição 1
+msgctxt "item_param_01:68:1"
+msgid "Outfit for Caster."
+msgstr "Traje de Caster."
+
+#. cmn/item_param_01.bin | registro 68 | descrição 2
+msgctxt "item_param_01:68:2"
+msgid "Mystic Code of Caster's legend that was"
+msgstr "O Artefato Místico da lenda de Caster, que"
+
+#. cmn/item_param_01.bin | registro 68 | descrição 3
+msgctxt "item_param_01:68:3"
+msgid "placed under a Sealing Designation by the Moon Cell."
+msgstr "recebeu uma Designação de Selamento do Moon Cell."
+
+#. cmn/item_param_01.bin | registro 69 | nome
+msgctxt "item_param_01:69:0"
+msgid "Spring Modern Clothes"
+msgstr "Roupas Modernas de Primavera"
+
+#. cmn/item_param_01.bin | registro 69 | descrição 1
+msgctxt "item_param_01:69:1"
+msgid "Outfit for Caster."
+msgstr "Traje de Caster."
+
+#. cmn/item_param_01.bin | registro 69 | descrição 2
+msgctxt "item_param_01:69:2"
+msgid "Striking pink spring-colored modern clothing."
+msgstr "Roupa moderna num rosa primaveril marcante."
+
+#. cmn/item_param_01.bin | registro 70 | nome
+msgctxt "item_param_01:70:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 71 | nome
+msgctxt "item_param_01:71:0"
+msgid "Golden Armor"
+msgstr "Armadura Dourada"
+
+#. cmn/item_param_01.bin | registro 71 | descrição 1
+msgctxt "item_param_01:71:1"
+msgid "Outfit for Gilgamesh."
+msgstr "Traje de Gilgamesh."
+
+#. cmn/item_param_01.bin | registro 71 | descrição 2
+msgctxt "item_param_01:71:2"
+msgid "Gilgamesh's golden armor."
+msgstr "A armadura dourada de Gilgamesh."
+
+#. cmn/item_param_01.bin | registro 72 | nome
+msgctxt "item_param_01:72:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 73 | nome
+msgctxt "item_param_01:73:0"
+msgid "Excited Swimmer"
+msgstr "Nadador Empolgado"
+
+#. cmn/item_param_01.bin | registro 73 | descrição 1
+msgctxt "item_param_01:73:1"
+msgid "Outfit for Gilgamesh."
+msgstr "Traje de Gilgamesh."
+
+#. cmn/item_param_01.bin | registro 73 | descrição 2
+msgctxt "item_param_01:73:2"
+msgid "A casual swimsuit that's very reminiscent"
+msgstr "Um traje de banho casual que lembra muito"
+
+#. cmn/item_param_01.bin | registro 73 | descrição 3
+msgctxt "item_param_01:73:3"
+msgid "of a youthful heart."
+msgstr "o espírito da juventude."
+
+#. cmn/item_param_01.bin | registro 74 | nome
+msgctxt "item_param_01:74:0"
+msgid "Mythology Mystic Code of Beginning"
+msgstr "Artefato Místico Mitológico da Origem"
+
+#. cmn/item_param_01.bin | registro 74 | descrição 1
+msgctxt "item_param_01:74:1"
+msgid "Outfit for Gilgamesh."
+msgstr "Traje de Gilgamesh."
+
+#. cmn/item_param_01.bin | registro 74 | descrição 2
+msgctxt "item_param_01:74:2"
+msgid "Mystic Code of Gilgamesh's legend that was"
+msgstr "O Artefato Místico da lenda de Gilgamesh, que"
+
+#. cmn/item_param_01.bin | registro 74 | descrição 3
+msgctxt "item_param_01:74:3"
+msgid "placed under a Sealing Designation by the Moon Cell."
+msgstr "recebeu uma Designação de Selamento do Moon Cell."
+
+#. cmn/item_param_01.bin | registro 75 | nome
+msgctxt "item_param_01:75:0"
+msgid "Modern Wear of Joy"
+msgstr "Traje Moderno da Alegria"
+
+#. cmn/item_param_01.bin | registro 75 | descrição 1
+msgctxt "item_param_01:75:1"
+msgid "Outfit for Gilgamesh."
+msgstr "Traje de Gilgamesh."
+
+#. cmn/item_param_01.bin | registro 75 | descrição 2
+msgctxt "item_param_01:75:2"
+msgid "Striking uniquely-patterned modern clothing."
+msgstr "Roupa moderna marcante, com uma estampa única."
+
+#. cmn/item_param_01.bin | registro 76 | nome
+msgctxt "item_param_01:76:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 77 | nome
+msgctxt "item_param_01:77:0"
+msgid "Classic Boy's Uniform"
+msgstr "Uniforme Masculino Clássico"
+
+#. cmn/item_param_01.bin | registro 77 | descrição 1
+msgctxt "item_param_01:77:1"
+msgid "Tsukumihara Academy's classic uniform."
+msgstr "Uniforme clássico da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 77 | descrição 2
+msgctxt "item_param_01:77:2"
+msgid "A gakuran-type boy's uniform that"
+msgstr "Um uniforme masculino no estilo gakuran, que"
+
+#. cmn/item_param_01.bin | registro 77 | descrição 3
+msgctxt "item_param_01:77:3"
+msgid "I was wearing on the Far Side of the Moon."
+msgstr "eu usava no Lado Distante da Lua."
+
+#. cmn/item_param_01.bin | registro 78 | nome
+msgctxt "item_param_01:78:0"
+msgid "Boy's Uniform"
+msgstr "Uniforme Masculino"
+
+#. cmn/item_param_01.bin | registro 78 | descrição 1
+msgctxt "item_param_01:78:1"
+msgid "Tsukumihara Academy's designated school uniform."
+msgstr "Uniforme oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 78 | descrição 2
+msgctxt "item_param_01:78:2"
+msgid "Blazer-type boy's uniform that"
+msgstr "Um uniforme masculino com blazer que"
+
+#. cmn/item_param_01.bin | registro 78 | descrição 3
+msgctxt "item_param_01:78:3"
+msgid "I was wearing on the Near Side of the Moon."
+msgstr "eu usava no Lado Próximo da Lua."
+
+#. cmn/item_param_01.bin | registro 79 | nome
+msgctxt "item_param_01:79:0"
+msgid "Boy's School Swimsuit"
+msgstr "Roupa de Banho Masculina"
+
+#. cmn/item_param_01.bin | registro 79 | descrição 1
+msgctxt "item_param_01:79:1"
+msgid "Tsukumihara Academy's designated swimsuit."
+msgstr "Traje de natação oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 79 | descrição 2
+msgctxt "item_param_01:79:2"
+msgid "A plain swimsuit for swimming classes."
+msgstr "Um traje simples para as aulas de natação."
+
+#. cmn/item_param_01.bin | registro 80 | nome
+msgctxt "item_param_01:80:0"
+msgid "Boy's Gym Clothes"
+msgstr "Uniforme de Ed. Física Masc."
+
+#. cmn/item_param_01.bin | registro 80 | descrição 1
+msgctxt "item_param_01:80:1"
+msgid "Tsukumihara Academy's designated gym clothes."
+msgstr "Traje esportivo oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 80 | descrição 2
+msgctxt "item_param_01:80:2"
+msgid "Tsukumihara's blue shorts."
+msgstr "Shorts azuis de Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 81 | nome
+msgctxt "item_param_01:81:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 82 | nome
+msgctxt "item_param_01:82:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 83 | nome
+msgctxt "item_param_01:83:0"
+msgid "Classic Girl's Uniform"
+msgstr "Uniforme Feminino Clássico"
+
+#. cmn/item_param_01.bin | registro 83 | descrição 1
+msgctxt "item_param_01:83:1"
+msgid "Tsukumihara Academy's classic uniform."
+msgstr "Uniforme clássico da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 83 | descrição 2
+msgctxt "item_param_01:83:2"
+msgid "A sailor-type girl's uniform that"
+msgstr "Um uniforme feminino de marinheira que"
+
+#. cmn/item_param_01.bin | registro 83 | descrição 3
+msgctxt "item_param_01:83:3"
+msgid "I was wearing on the Far Side of the Moon."
+msgstr "eu usava no Lado Distante da Lua."
+
+#. cmn/item_param_01.bin | registro 84 | nome
+msgctxt "item_param_01:84:0"
+msgid "Girl's Uniform"
+msgstr "Uniforme Feminino"
+
+#. cmn/item_param_01.bin | registro 84 | descrição 1
+msgctxt "item_param_01:84:1"
+msgid "Tsukumihara Academy's designated school uniform."
+msgstr "Uniforme oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 84 | descrição 2
+msgctxt "item_param_01:84:2"
+msgid "Blazer-type girl's uniform that"
+msgstr "Um uniforme feminino com blazer que"
+
+#. cmn/item_param_01.bin | registro 84 | descrição 3
+msgctxt "item_param_01:84:3"
+msgid "I was wearing on the Near Side of the Moon."
+msgstr "eu usava no Lado Próximo da Lua."
+
+#. cmn/item_param_01.bin | registro 85 | nome
+msgctxt "item_param_01:85:0"
+msgid "Girl's School Swimsuit"
+msgstr "Maiô Escolar Feminino"
+
+#. cmn/item_param_01.bin | registro 85 | descrição 1
+msgctxt "item_param_01:85:1"
+msgid "Tsukumihara Academy's designated swimsuit."
+msgstr "Traje de natação oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 85 | descrição 2
+msgctxt "item_param_01:85:2"
+msgid "Good-old traditional swimsuit full of trust,"
+msgstr "O bom e velho traje de banho tradicional,"
+
+#. cmn/item_param_01.bin | registro 85 | descrição 3
+msgctxt "item_param_01:85:3"
+msgid "accomplishment, charm, and youth."
+msgstr "cheio de confiança, mérito, charme e juventude."
+
+#. cmn/item_param_01.bin | registro 86 | nome
+msgctxt "item_param_01:86:0"
+msgid "Girl's Gym Clothes"
+msgstr "Uniforme de Ed. Física Fem."
+
+#. cmn/item_param_01.bin | registro 86 | descrição 1
+msgctxt "item_param_01:86:1"
+msgid "Tsukumihara Academy's designated gym clothes."
+msgstr "Traje esportivo oficial da Academia Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 86 | descrição 2
+msgctxt "item_param_01:86:2"
+msgid "Tsukumihara's red bloomers."
+msgstr "Os shorts bufantes vermelhos de Tsukumihara."
+
+#. cmn/item_param_01.bin | registro 87 | nome
+msgctxt "item_param_01:87:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 88 | nome
+msgctxt "item_param_01:88:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 89 | nome
+msgctxt "item_param_01:89:0"
+msgid "Stage Costume"
+msgstr "Traje de Palco"
+
+#. cmn/item_param_01.bin | registro 89 | descrição 1
+msgctxt "item_param_01:89:1"
+msgid "Stage costume for Lancer."
+msgstr "Traje de palco de Lancer."
+
+#. cmn/item_param_01.bin | registro 89 | descrição 2
+msgctxt "item_param_01:89:2"
+msgid "An idol costume of good quality material"
+msgstr "Um traje de idol feito de material de qualidade,"
+
+#. cmn/item_param_01.bin | registro 89 | descrição 3
+msgctxt "item_param_01:89:3"
+msgid "tailored exclusively for Lancer."
+msgstr "costurado especialmente para Lancer."
+
+#. cmn/item_param_01.bin | registro 90 | nome
+msgctxt "item_param_01:90:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 91 | nome
+msgctxt "item_param_01:91:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 92 | nome
+msgctxt "item_param_01:92:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 93 | nome
+msgctxt "item_param_01:93:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 94 | nome
+msgctxt "item_param_01:94:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 95 | nome
+msgctxt "item_param_01:95:0"
+msgid "Chic Glasses for Men"
+msgstr "Óculos Masculinos Elegantes"
+
+#. cmn/item_param_01.bin | registro 95 | descrição 1
+msgctxt "item_param_01:95:1"
+msgid "Enables the wearing of glasses."
+msgstr "Permite usar óculos."
+
+#. cmn/item_param_01.bin | registro 95 | descrição 2
+msgctxt "item_param_01:95:2"
+msgid "There's nothing like the sophistication of glasses."
+msgstr "Nada como a sofisticação de um par de óculos."
+
+#. cmn/item_param_01.bin | registro 95 | descrição 3
+msgctxt "item_param_01:95:3"
+msgid "Everything's better with glasses!"
+msgstr "Tudo fica melhor de óculos!"
+
+#. cmn/item_param_01.bin | registro 96 | nome
+msgctxt "item_param_01:96:0"
+msgid "Chic Glasses for Women"
+msgstr "Óculos Femininos Elegantes"
+
+#. cmn/item_param_01.bin | registro 96 | descrição 1
+msgctxt "item_param_01:96:1"
+msgid "Enables the wearing of glasses."
+msgstr "Permite usar óculos."
+
+#. cmn/item_param_01.bin | registro 96 | descrição 2
+msgctxt "item_param_01:96:2"
+msgid "There's nothing like the sophistication of glasses."
+msgstr "Nada como a sofisticação de um par de óculos."
+
+#. cmn/item_param_01.bin | registro 96 | descrição 3
+msgctxt "item_param_01:96:3"
+msgid "Everything's cuter in glasses!"
+msgstr "Tudo fica mais fofo de óculos!"
+
+#. cmn/item_param_01.bin | registro 97 | nome
+msgctxt "item_param_01:97:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 98 | nome
+msgctxt "item_param_01:98:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 99 | nome
+msgctxt "item_param_01:99:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 100 | nome
+msgctxt "item_param_01:100:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 101 | nome
+msgctxt "item_param_01:101:0"
+msgid "Men's Fingers"
+msgstr "Luvas Meio-Dedo"
+
+#. cmn/item_param_01.bin | registro 101 | descrição 1
+msgctxt "item_param_01:101:1"
+msgid "Accessory for males."
+msgstr "Acessório masculino."
+
+#. cmn/item_param_01.bin | registro 101 | descrição 2
+msgctxt "item_param_01:101:2"
+msgid "Nothing wrong with your bare hands."
+msgstr "Não há nada de errado com as mãos nuas."
+
+#. cmn/item_param_01.bin | registro 102 | nome
+msgctxt "item_param_01:102:0"
+msgid "Men's Gloves"
+msgstr "Luvas Masculinas"
+
+#. cmn/item_param_01.bin | registro 102 | descrição 1
+msgctxt "item_param_01:102:1"
+msgid "Accessory for males."
+msgstr "Acessório masculino."
+
+#. cmn/item_param_01.bin | registro 102 | descrição 2
+msgctxt "item_param_01:102:2"
+msgid "Men's gloves that are convenient for both"
+msgstr "Luvas masculinas que servem tanto"
+
+#. cmn/item_param_01.bin | registro 102 | descrição 3
+msgctxt "item_param_01:102:3"
+msgid "the cold and for fashion."
+msgstr "para o frio quanto para compor o visual."
+
+#. cmn/item_param_01.bin | registro 103 | nome
+msgctxt "item_param_01:103:0"
+msgid "Men's Bandages"
+msgstr "Ataduras Masculinas"
+
+#. cmn/item_param_01.bin | registro 103 | descrição 1
+msgctxt "item_param_01:103:1"
+msgid "Accessory for males."
+msgstr "Acessório masculino."
+
+#. cmn/item_param_01.bin | registro 103 | descrição 2
+msgctxt "item_param_01:103:2"
+msgid "A bandage that obscures the proof of contract."
+msgstr "Uma atadura que esconde a prova do contrato."
+
+#. cmn/item_param_01.bin | registro 103 | descrição 3
+msgctxt "item_param_01:103:3"
+msgid "That is to say, it's just for show."
+msgstr "Ou seja, é só de enfeite."
+
+#. cmn/item_param_01.bin | registro 104 | nome
+msgctxt "item_param_01:104:0"
+msgid "Men's Cotton Gloves"
+msgstr "Luvas de Algodão Masculinas"
+
+#. cmn/item_param_01.bin | registro 104 | descrição 1
+msgctxt "item_param_01:104:1"
+msgid "Accessory for males."
+msgstr "Acessório masculino."
+
+#. cmn/item_param_01.bin | registro 104 | descrição 2
+msgctxt "item_param_01:104:2"
+msgid "Gloves for safety in all manners of labor."
+msgstr "Luvas de proteção para todo tipo de trabalho."
+
+#. cmn/item_param_01.bin | registro 104 | descrição 3
+msgctxt "item_param_01:104:3"
+msgid "Also known as knit working gloves."
+msgstr "Também chamadas de luvas de trabalho de malha."
+
+#. cmn/item_param_01.bin | registro 105 | nome
+msgctxt "item_param_01:105:0"
+msgid "Men's Knuckle"
+msgstr "Soqueira Masculina"
+
+#. cmn/item_param_01.bin | registro 105 | descrição 1
+msgctxt "item_param_01:105:1"
+msgid "Accessory for males."
+msgstr "Acessório masculino."
+
+#. cmn/item_param_01.bin | registro 105 | descrição 2
+msgctxt "item_param_01:105:2"
+msgid "SE.RA.PH is whispering to me \"Shine even brighter\""
+msgstr "O SE.RA.PH parece sussurrar: “Brilhe ainda mais.”"
+
+#. cmn/item_param_01.bin | registro 105 | descrição 3
+msgctxt "item_param_01:105:3"
+msgid "…is the feeling I get."
+msgstr "…é a sensação que me dá."
+
+#. cmn/item_param_01.bin | registro 106 | nome
+msgctxt "item_param_01:106:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_01.bin | registro 107 | nome
+msgctxt "item_param_01:107:0"
+msgid "Knee-high Socks"
+msgstr "Meias 3/4"
+
+#. cmn/item_param_01.bin | registro 107 | descrição 1
+msgctxt "item_param_01:107:1"
+msgid "Accessory for females."
+msgstr "Acessório feminino."
+
+#. cmn/item_param_01.bin | registro 107 | descrição 2
+msgctxt "item_param_01:107:2"
+msgid "High socks common to female students."
+msgstr "Meias altas comuns entre as alunas."
+
+#. cmn/item_param_01.bin | registro 108 | nome
+msgctxt "item_param_01:108:0"
+msgid "Stockings"
+msgstr "Meias-Calças"
+
+#. cmn/item_param_01.bin | registro 108 | descrição 1
+msgctxt "item_param_01:108:1"
+msgid "Accessory for females."
+msgstr "Acessório feminino."
+
+#. cmn/item_param_01.bin | registro 108 | descrição 2
+msgctxt "item_param_01:108:2"
+msgid "Colored stockings that are convenient for both"
+msgstr "Meias-calças coloridas que servem tanto"
+
+#. cmn/item_param_01.bin | registro 108 | descrição 3
+msgctxt "item_param_01:108:3"
+msgid "the cold and for fashion."
+msgstr "para o frio quanto para compor o visual."
+
+#. cmn/item_param_01.bin | registro 109 | nome
+msgctxt "item_param_01:109:0"
+msgid "Fetish Foot"
+msgstr "Meias Fetiche"
+
+#. cmn/item_param_01.bin | registro 109 | descrição 1
+msgctxt "item_param_01:109:1"
+msgid "Accessory for females."
+msgstr "Acessório feminino."
+
+#. cmn/item_param_01.bin | registro 109 | descrição 2
+msgctxt "item_param_01:109:2"
+msgid "Promotes hygiene of the feet by"
+msgstr "Favorece a higiene dos pés"
+
+#. cmn/item_param_01.bin | registro 109 | descrição 3
+msgctxt "item_param_01:109:3"
+msgid "not wearing anything."
+msgstr "deixando-os descalços."
+
+#. cmn/item_param_01.bin | registro 110 | nome
+msgctxt "item_param_01:110:0"
+msgid "Absolute Knee-highs"
+msgstr "Meias 7/8"
+
+#. cmn/item_param_01.bin | registro 110 | descrição 1
+msgctxt "item_param_01:110:1"
+msgid "Accessory for females."
+msgstr "Acessório feminino."
+
+#. cmn/item_param_01.bin | registro 110 | descrição 2
+msgctxt "item_param_01:110:2"
+msgid "Knee-high socks with incredible length that"
+msgstr "Meias de comprimento impressionante que"
+
+#. cmn/item_param_01.bin | registro 110 | descrição 3
+msgctxt "item_param_01:110:3"
+msgid "create an absolute territory."
+msgstr "criam um território absoluto."
+
+#. cmn/item_param_01.bin | registro 111 | nome
+msgctxt "item_param_01:111:0"
+msgid "Adult Garters"
+msgstr "Cinta-Liga Adulta"
+
+#. cmn/item_param_01.bin | registro 111 | descrição 1
+msgctxt "item_param_01:111:1"
+msgid "Accessory for females."
+msgstr "Acessório feminino."
+
+#. cmn/item_param_01.bin | registro 111 | descrição 2
+msgctxt "item_param_01:111:2"
+msgid "A garter belt perfectly suited to those who want to be"
+msgstr "Uma cinta-liga perfeita para quem quer ser"
+
+#. cmn/item_param_01.bin | registro 111 | descrição 3
+msgctxt "item_param_01:111:3"
+msgid "an adult woman, or perhaps an empress."
+msgstr "uma mulher adulta, ou talvez uma imperatriz."
+
+#. cmn/item_param_01.bin | registro 112 | nome
+msgctxt "item_param_01:112:0"
+msgid "0"
+msgstr "0"
+
+#. cmn/item_param_04.bin | registro 0 | nome
+msgctxt "item_param_04:0:0"
+msgid "Tsukumihara Badge"
+msgstr "Distintivo de Tsukumihara"
+
+#. cmn/item_param_04.bin | registro 0 | descrição 1
+msgctxt "item_param_04:0:1"
+msgid "Tsukumihara Academy's school badge."
+msgstr "O distintivo da Academia Tsukumihara."
+
+#. cmn/item_param_04.bin | registro 1 | nome
+msgctxt "item_param_04:1:0"
+msgid "President's Armband"
+msgstr "Braçadeira da Presidência"
+
+#. cmn/item_param_04.bin | registro 1 | descrição 1
+msgctxt "item_param_04:1:1"
+msgid "Proof of being Student Council President of Tsukumihara"
+msgstr "Comprova a presidência do grêmio da Academia"
+
+#. cmn/item_param_04.bin | registro 1 | descrição 2
+msgctxt "item_param_04:1:2"
+msgid "Academy. It carries the hopes of its past presidents."
+msgstr "Tsukumihara. Carrega as esperanças de quem já o liderou."
+
+#. cmn/item_param_04.bin | registro 2 | nome
+msgctxt "item_param_04:2:0"
+msgid "Red-and-White Headband"
+msgstr "Faixa Vermelha e Branca"
+
+#. cmn/item_param_04.bin | registro 2 | descrição 1
+msgctxt "item_param_04:2:1"
+msgid "A headband where the front is red and the back is white."
+msgstr "Uma faixa vermelha na frente e branca atrás."
+
+#. cmn/item_param_04.bin | registro 2 | descrição 2
+msgctxt "item_param_04:2:2"
+msgid "I feel more tense when I put it on."
+msgstr "Sinto a tensão aumentar quando a coloco."
+
+#. cmn/item_param_04.bin | registro 3 | nome
+msgctxt "item_param_04:3:0"
+msgid "Seer's Crystal Ball"
+msgstr "Bola de Cristal de Vidente"
+
+#. cmn/item_param_04.bin | registro 3 | descrição 1
+msgctxt "item_param_04:3:1"
+msgid "A crystal ball the size of a softball that"
+msgstr "Uma bola de cristal do tamanho de uma bola de softbol"
+
+#. cmn/item_param_04.bin | registro 3 | descrição 2
+msgctxt "item_param_04:3:2"
+msgid "radiates an ominous light."
+msgstr "que irradia uma luz sinistra."
+
+#. cmn/item_param_04.bin | registro 4 | nome
+msgctxt "item_param_04:4:0"
+msgid "Shockwave/1st Strike"
+msgstr "Onda de Choque/Golpe 1"
+
+#. cmn/item_param_04.bin | registro 4 | descrição 1
+msgctxt "item_param_04:4:1"
+msgid "Allows the use of Field Skill: Mana Burst C."
+msgstr "Permite usar a habilidade de campo Explosão de Mana C."
+
+#. cmn/item_param_04.bin | registro 4 | descrição 2
+msgctxt "item_param_04:4:2"
+msgid "Stuns for 1 turn@eliminates weaker enemies."
+msgstr "Atordoa por 1 turno@elimina inimigos mais fracos."
+
+#. cmn/item_param_04.bin | registro 5 | nome
+msgctxt "item_param_04:5:0"
+msgid "Exorcist Blade"
+msgstr "Lâmina Exorcista"
+
+#. cmn/item_param_04.bin | registro 5 | descrição 1
+msgctxt "item_param_04:5:1"
+msgid "A small dagger said to have the power to"
+msgstr "Uma adaga pequena que, dizem, tem o poder de"
+
+#. cmn/item_param_04.bin | registro 5 | descrição 2
+msgctxt "item_param_04:5:2"
+msgid "exorcise malevolent spirits."
+msgstr "exorcizar espíritos malignos."
+
+#. cmn/item_param_04.bin | registro 6 | nome
+msgctxt "item_param_04:6:0"
+msgid "Phoenix Scarf"
+msgstr "Echarpe de Fênix"
+
+#. cmn/item_param_04.bin | registro 6 | descrição 1
+msgctxt "item_param_04:6:1"
+msgid "A stylish silk scarf adorned with the feathers"
+msgstr "Uma echarpe de seda elegante, enfeitada com penas"
+
+#. cmn/item_param_04.bin | registro 6 | descrição 2
+msgctxt "item_param_04:6:2"
+msgid "of the mythical phoenix."
+msgstr "da fênix mitológica."
+
+#. cmn/item_param_04.bin | registro 7 | nome
+msgctxt "item_param_04:7:0"
+msgid "Aromatic Wood"
+msgstr "Madeira Aromática"
+
+#. cmn/item_param_04.bin | registro 7 | descrição 1
+msgctxt "item_param_04:7:1"
+msgid "Fragrant woods whose scents are proven to heal"
+msgstr "Madeira cujo aroma comprovadamente cura"
+
+#. cmn/item_param_04.bin | registro 7 | descrição 2
+msgctxt "item_param_04:7:2"
+msgid "even incurable diseases."
+msgstr "até doenças incuráveis."
+
+#. cmn/item_param_04.bin | registro 8 | nome
+msgctxt "item_param_04:8:0"
+msgid "Saint's Monocle"
+msgstr "Monóculo do Santo"
+
+#. cmn/item_param_04.bin | registro 8 | descrição 1
+msgctxt "item_param_04:8:1"
+msgid "A hacking tool used to learn the abilities of"
+msgstr "Uma ferramenta de hacking que revela habilidades de"
+
+#. cmn/item_param_04.bin | registro 8 | descrição 2
+msgctxt "item_param_04:8:2"
+msgid "enemies encountered in the Sakura Labyrinth."
+msgstr "inimigos encontrados no Labirinto de Sakura."
+
+#. cmn/item_param_04.bin | registro 9 | nome
+msgctxt "item_param_04:9:0"
+msgid "Fortune Key"
+msgstr "Chave da Fortuna"
+
+#. cmn/item_param_04.bin | registro 9 | descrição 1
+msgctxt "item_param_04:9:1"
+msgid "A charm that skews the odds in favor of the one"
+msgstr "Um amuleto que faz a sorte pender"
+
+#. cmn/item_param_04.bin | registro 9 | descrição 2
+msgctxt "item_param_04:9:2"
+msgid "in possession of it."
+msgstr "para o lado de quem o carrega."
+
+#. cmn/item_param_04.bin | registro 10 | nome
+msgctxt "item_param_04:10:0"
+msgid "Imp's Belt"
+msgstr "Cinto do Diabrete"
+
+#. cmn/item_param_04.bin | registro 10 | descrição 1
+msgctxt "item_param_04:10:1"
+msgid "An excessively outrageous belt studded with"
+msgstr "Um cinto extravagante, coberto de"
+
+#. cmn/item_param_04.bin | registro 10 | descrição 2
+msgctxt "item_param_04:10:2"
+msgid "countless steel rivets."
+msgstr "incontáveis rebites de aço."
+
+#. cmn/item_param_04.bin | registro 11 | nome
+msgctxt "item_param_04:11:0"
+msgid "Silver Earrings"
+msgstr "Brincos de Prata"
+
+#. cmn/item_param_04.bin | registro 11 | descrição 1
+msgctxt "item_param_04:11:1"
+msgid "An earring of mysterious power that transfers a"
+msgstr "Um brinco com o poder misterioso de transferir"
+
+#. cmn/item_param_04.bin | registro 11 | descrição 2
+msgctxt "item_param_04:11:2"
+msgid "Master's magic to their Servant."
+msgstr "a magia de um Mestre ao seu Servo."
+
+#. cmn/item_param_04.bin | registro 12 | nome
+msgctxt "item_param_04:12:0"
+msgid "Old Rusty Sword"
+msgstr "Espada Velha Enferrujada"
+
+#. cmn/item_param_04.bin | registro 12 | descrição 1
+msgctxt "item_param_04:12:1"
+msgid "An old sword, covered in years of rust."
+msgstr "Uma espada velha, enferrujada há anos."
+
+#. cmn/item_param_04.bin | registro 13 | nome
+msgctxt "item_param_04:13:0"
+msgid "Mermaid Robe"
+msgstr "Manto de Sereia"
+
+#. cmn/item_param_04.bin | registro 13 | descrição 1
+msgctxt "item_param_04:13:1"
+msgid "A robe of archaic cut adorned with scales"
+msgstr "Um manto de corte antigo, decorado com escamas"
+
+#. cmn/item_param_04.bin | registro 13 | descrição 2
+msgctxt "item_param_04:13:2"
+msgid "taken from a mermaid."
+msgstr "tiradas de uma sereia."
+
+#. cmn/item_param_04.bin | registro 14 | nome
+msgctxt "item_param_04:14:0"
+msgid "Seraphic Music Box"
+msgstr "Caixa de Música Seráfica"
+
+#. cmn/item_param_04.bin | registro 14 | descrição 1
+msgctxt "item_param_04:14:1"
+msgid "A music box that plays a healing tone."
+msgstr "Uma caixa de música que toca uma melodia curativa."
+
+#. cmn/item_param_04.bin | registro 15 | nome
+msgctxt "item_param_04:15:0"
+msgid "Staff of Fortitude"
+msgstr "Cajado da Fortaleza"
+
+#. cmn/item_param_04.bin | registro 15 | descrição 1
+msgctxt "item_param_04:15:1"
+msgid "A staff that infuses a Servant with fortitude and prana."
+msgstr "Um cajado que infunde vigor e prana no Servo."
+
+#. cmn/item_param_04.bin | registro 16 | nome
+msgctxt "item_param_04:16:0"
+msgid "Protection Charm"
+msgstr "Amuleto de Proteção"
+
+#. cmn/item_param_04.bin | registro 16 | descrição 1
+msgctxt "item_param_04:16:1"
+msgid "A charm that creates a barrier that protects the"
+msgstr "Um amuleto que cria uma barreira e protege"
+
+#. cmn/item_param_04.bin | registro 16 | descrição 2
+msgctxt "item_param_04:16:2"
+msgid "wielder from physical attacks."
+msgstr "quem o usa de ataques físicos."
+
+#. cmn/item_param_04.bin | registro 17 | nome
+msgctxt "item_param_04:17:0"
+msgid "Enhancement Spike"
+msgstr "Espigão de Aprimoramento"
+
+#. cmn/item_param_04.bin | registro 17 | descrição 1
+msgctxt "item_param_04:17:1"
+msgid "A unique lightweight spike engraved with the"
+msgstr "Um espigão leve e singular, gravado com"
+
+#. cmn/item_param_04.bin | registro 17 | descrição 2
+msgctxt "item_param_04:17:2"
+msgid "image of a gamboling cat."
+msgstr "a imagem de um gato brincalhão."
+
+#. cmn/item_param_04.bin | registro 18 | nome
+msgctxt "item_param_04:18:0"
+msgid "Shockwave/2nd Strike"
+msgstr "Onda de Choque/Golpe 2"
+
+#. cmn/item_param_04.bin | registro 18 | descrição 1
+msgctxt "item_param_04:18:1"
+msgid "Allows the use of Field Skill: Mana Burst B."
+msgstr "Permite usar a habilidade de campo Explosão de Mana B."
+
+#. cmn/item_param_04.bin | registro 18 | descrição 2
+msgctxt "item_param_04:18:2"
+msgid "Stuns for 2 turns@eliminates weaker enemies."
+msgstr "Atordoa por 2 turnos@elimina inimigos mais fracos."
+
+#. cmn/item_param_04.bin | registro 19 | nome
+msgctxt "item_param_04:19:0"
+msgid "Dragon Cloak"
+msgstr "Manto de Dragão"
+
+#. cmn/item_param_04.bin | registro 19 | descrição 1
+msgctxt "item_param_04:19:1"
+msgid "An item of remarkable craftsmanship said to be"
+msgstr "Uma peça de feitura impecável, que dizem ser"
+
+#. cmn/item_param_04.bin | registro 19 | descrição 2
+msgctxt "item_param_04:19:2"
+msgid "made from the hide of an ancient dragon."
+msgstr "feita do couro de um dragão ancestral."
+
+#. cmn/item_param_04.bin | registro 20 | nome
+msgctxt "item_param_04:20:0"
+msgid "Maleficent Garments"
+msgstr "Vestes Maléficas"
+
+#. cmn/item_param_04.bin | registro 20 | descrição 1
+msgctxt "item_param_04:20:1"
+msgid "Set of clothes that radiate pure evil and"
+msgstr "Vestes que irradiam pura maldade e"
+
+#. cmn/item_param_04.bin | registro 20 | descrição 2
+msgctxt "item_param_04:20:2"
+msgid "malice embroidered with countless lizards."
+msgstr "malícia, bordadas com incontáveis lagartos."
+
+#. cmn/item_param_04.bin | registro 21 | nome
+msgctxt "item_param_04:21:0"
+msgid "Staff of Rebuke"
+msgstr "Cajado da Repreensão"
+
+#. cmn/item_param_04.bin | registro 21 | descrição 1
+msgctxt "item_param_04:21:1"
+msgid "An item of great power that, when struck with it,"
+msgstr "Um objeto de grande poder. Quem for atingido por ele"
+
+#. cmn/item_param_04.bin | registro 21 | descrição 2
+msgctxt "item_param_04:21:2"
+msgid "will cause one to lose willpower and magic."
+msgstr "perderá a força de vontade e a magia."
+
+#. cmn/item_param_04.bin | registro 22 | nome
+msgctxt "item_param_04:22:0"
+msgid "Sword of Repentance"
+msgstr "Espada do Arrependimento"
+
+#. cmn/item_param_04.bin | registro 22 | descrição 1
+msgctxt "item_param_04:22:1"
+msgid "A legendary sword said to have slain a demon."
+msgstr "Uma espada lendária que teria matado um demônio."
+
+#. cmn/item_param_04.bin | registro 23 | nome
+msgctxt "item_param_04:23:0"
+msgid "Shockwave/3rd Strike"
+msgstr "Onda de Choque/Golpe 3"
+
+#. cmn/item_param_04.bin | registro 23 | descrição 1
+msgctxt "item_param_04:23:1"
+msgid "Allows the use of Field Skill: Mana Burst A."
+msgstr "Permite usar a habilidade de campo Explosão de Mana A."
+
+#. cmn/item_param_04.bin | registro 23 | descrição 2
+msgctxt "item_param_04:23:2"
+msgid "No cost@stuns for 1 turn@eliminates weaker enemies."
+msgstr "Sem custo@atordoa por 1 turno@elimina inimigos fracos."
+
+#. cmn/item_param_04.bin | registro 24 | nome
+msgctxt "item_param_04:24:0"
+msgid "Angelic Trumpet"
+msgstr "Trombeta Angelical"
+
+#. cmn/item_param_04.bin | registro 24 | descrição 1
+msgctxt "item_param_04:24:1"
+msgid "A relic thought to have belonged to an angel."
+msgstr "Uma relíquia que teria pertencido a um anjo."
+
+#. cmn/item_param_04.bin | registro 25 | nome
+msgctxt "item_param_04:25:0"
+msgid "Celestial Blade"
+msgstr "Lâmina Celestial"
+
+#. cmn/item_param_04.bin | registro 25 | descrição 1
+msgctxt "item_param_04:25:1"
+msgid "An ancient sword of incredible power;"
+msgstr "Uma espada ancestral de poder incrível,"
+
+#. cmn/item_param_04.bin | registro 25 | descrição 2
+msgctxt "item_param_04:25:2"
+msgid "said to have belonged to a god who slew monsters."
+msgstr "que teria pertencido a um deus matador de monstros."
+
+#. cmn/item_param_04.bin | registro 26 | nome
+msgctxt "item_param_04:26:0"
+msgid "Scapegoat Charm"
+msgstr "Amuleto do Bode Expiatório"
+
+#. cmn/item_param_04.bin | registro 26 | descrição 1
+msgctxt "item_param_04:26:1"
+msgid "A charm that can help to divert disaster by"
+msgstr "Um amuleto que pode desviar um infortúnio"
+
+#. cmn/item_param_04.bin | registro 26 | descrição 2
+msgctxt "item_param_04:26:2"
+msgid "taking the place of the user."
+msgstr "tomando o lugar de quem o usa."
+
+#. cmn/item_param_04.bin | registro 27 | nome
+msgctxt "item_param_04:27:0"
+msgid "Silver Anklet"
+msgstr "Tornozeleira de Prata"
+
+#. cmn/item_param_04.bin | registro 27 | descrição 1
+msgctxt "item_param_04:27:1"
+msgid "An anklet modified with thaumaturgy that helps a"
+msgstr "Uma tornozeleira modificada por magia, que ajuda"
+
+#. cmn/item_param_04.bin | registro 27 | descrição 2
+msgctxt "item_param_04:27:2"
+msgid "Master enhance their Servant's magic abilities."
+msgstr "o Mestre a reforçar a magia de seu Servo."
+
+#. cmn/item_param_04.bin | registro 28 | nome
+msgctxt "item_param_04:28:0"
+msgid "Base Red Mystic Code"
+msgstr "Artefato Místico Base Vermelho"
+
+#. cmn/item_param_04.bin | registro 28 | descrição 1
+msgctxt "item_param_04:28:1"
+msgid "Conceptual weapon made from the shroud of a certain saint."
+msgstr "Arma Conceitual feita da mortalha de um santo."
+
+#. cmn/item_param_04.bin | registro 28 | descrição 2
+msgctxt "item_param_04:28:2"
+msgid "Shields the wearer not from enemies, but from the World."
+msgstr "Protege quem a usa do próprio Mundo."
+
+#. cmn/item_param_04.bin | registro 29 | nome
+msgctxt "item_param_04:29:0"
+msgid "Demon of Atlas"
+msgstr "Demônio de Atlas"
+
+#. cmn/item_param_04.bin | registro 29 | descrição 1
+msgctxt "item_param_04:29:1"
+msgid "Creates a brief impenetrable wall by predicting"
+msgstr "Cria por instantes uma barreira impenetrável ao prever"
+
+#. cmn/item_param_04.bin | registro 29 | descrição 2
+msgctxt "item_param_04:29:2"
+msgid "your opponent's every possible movement."
+msgstr "todos os movimentos possíveis do oponente."
+
+#. cmn/item_param_04.bin | registro 30 | nome
+msgctxt "item_param_04:30:0"
+msgid "Thoughtful Mystic Code"
+msgstr "Artefato Místico de Afeição"
+
+#. cmn/item_param_04.bin | registro 30 | descrição 1
+msgctxt "item_param_04:30:1"
+msgid "Mystic Code formed from the strong feelings of a Servant."
+msgstr "Artefato Místico feito da intensidade do afeto de um Servo."
+
+#. cmn/item_param_04.bin | registro 30 | descrição 2
+msgctxt "item_param_04:30:2"
+msgid "What kind of feelings and for whom is privy only to them."
+msgstr "Só o Servo sabe qual é o sentimento e por quem o nutre."
+
+#. cmn/item_param_04.bin | registro 31 | nome
+msgctxt "item_param_04:31:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 32 | nome
+msgctxt "item_param_04:32:0"
+msgid "Dustcloud of Osiris"
+msgstr "Poeira de Osíris"
+
+#. cmn/item_param_04.bin | registro 32 | descrição 1
+msgctxt "item_param_04:32:1"
+msgid "An extremely compressed, specialized Mystic Code."
+msgstr "Artefato Místico especializado e extremamente compacto."
+
+#. cmn/item_param_04.bin | registro 32 | descrição 2
+msgctxt "item_param_04:32:2"
+msgid "Its sand will protect you from all abnormalities."
+msgstr "Sua areia protege de todo estado anormal."
+
+#. cmn/item_param_04.bin | registro 33 | nome
+msgctxt "item_param_04:33:0"
+msgid "Mirror of the Hermit"
+msgstr "Espelho do Eremita"
+
+#. cmn/item_param_04.bin | registro 33 | descrição 1
+msgctxt "item_param_04:33:1"
+msgid "A mirror that interrupts attacks by reacting"
+msgstr "Um espelho que interrompe ataques ao reagir"
+
+#. cmn/item_param_04.bin | registro 33 | descrição 2
+msgctxt "item_param_04:33:2"
+msgid "to the opponent's intent to harm."
+msgstr "à intenção do oponente de ferir."
+
+#. cmn/item_param_04.bin | registro 34 | nome
+msgctxt "item_param_04:34:0"
+msgid "Tengu Fan"
+msgstr "Leque de Tengu"
+
+#. cmn/item_param_04.bin | registro 34 | descrição 1
+msgctxt "item_param_04:34:1"
+msgid "A fan said to be capable of blowing away"
+msgstr "Um leque que, dizem, pode soprar para longe"
+
+#. cmn/item_param_04.bin | registro 34 | descrição 2
+msgctxt "item_param_04:34:2"
+msgid "all obstacles and barriers."
+msgstr "todos os obstáculos e barreiras."
+
+#. cmn/item_param_04.bin | registro 35 | nome
+msgctxt "item_param_04:35:0"
+msgid "Thunderbeast Claw"
+msgstr "Garra da Fera do Trovão"
+
+#. cmn/item_param_04.bin | registro 35 | descrição 1
+msgctxt "item_param_04:35:1"
+msgid "Charm crafted from a thunderbeast's claw,"
+msgstr "Amuleto feito da garra da fera do trovão,"
+
+#. cmn/item_param_04.bin | registro 35 | descrição 2
+msgctxt "item_param_04:35:2"
+msgid "said to be able to cast lightning at will."
+msgstr "que, dizem, lança raios à vontade."
+
+#. cmn/item_param_04.bin | registro 36 | nome
+msgctxt "item_param_04:36:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 37 | nome
+msgctxt "item_param_04:37:0"
+msgid "Celestial's Bell"
+msgstr "Sino Celestial"
+
+#. cmn/item_param_04.bin | registro 37 | descrição 1
+msgctxt "item_param_04:37:1"
+msgid "A bell that reinvigorates the exhausted with its"
+msgstr "Um sino que revitaliza quem está exausto"
+
+#. cmn/item_param_04.bin | registro 37 | descrição 2
+msgctxt "item_param_04:37:2"
+msgid "refreshing tone when rung."
+msgstr "com seu toque revigorante."
+
+#. cmn/item_param_04.bin | registro 38 | nome
+msgctxt "item_param_04:38:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 39 | nome
+msgctxt "item_param_04:39:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 40 | nome
+msgctxt "item_param_04:40:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 41 | nome
+msgctxt "item_param_04:41:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 42 | nome
+msgctxt "item_param_04:42:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 43 | nome
+msgctxt "item_param_04:43:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 44 | nome
+msgctxt "item_param_04:44:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 45 | nome
+msgctxt "item_param_04:45:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 46 | nome
+msgctxt "item_param_04:46:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 47 | nome
+msgctxt "item_param_04:47:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 48 | nome
+msgctxt "item_param_04:48:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 49 | nome
+msgctxt "item_param_04:49:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 50 | nome
+msgctxt "item_param_04:50:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 51 | nome
+msgctxt "item_param_04:51:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 52 | nome
+msgctxt "item_param_04:52:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 53 | nome
+msgctxt "item_param_04:53:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 54 | nome
+msgctxt "item_param_04:54:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 55 | nome
+msgctxt "item_param_04:55:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 56 | nome
+msgctxt "item_param_04:56:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 57 | nome
+msgctxt "item_param_04:57:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 58 | nome
+msgctxt "item_param_04:58:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 59 | nome
+msgctxt "item_param_04:59:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 60 | nome
+msgctxt "item_param_04:60:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 61 | nome
+msgctxt "item_param_04:61:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 62 | nome
+msgctxt "item_param_04:62:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 63 | nome
+msgctxt "item_param_04:63:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 64 | nome
+msgctxt "item_param_04:64:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 65 | nome
+msgctxt "item_param_04:65:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 66 | nome
+msgctxt "item_param_04:66:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 67 | nome
+msgctxt "item_param_04:67:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 68 | nome
+msgctxt "item_param_04:68:0"
+msgid "Andersen 1"
+msgstr "Andersen 1"
+
+#. cmn/item_param_04.bin | registro 69 | nome
+msgctxt "item_param_04:69:0"
+msgid "Andersen 2"
+msgstr "Andersen 2"
+
+#. cmn/item_param_04.bin | registro 70 | nome
+msgctxt "item_param_04:70:0"
+msgid "Jinako 1"
+msgstr "Jinako 1"
+
+#. cmn/item_param_04.bin | registro 71 | nome
+msgctxt "item_param_04:71:0"
+msgid "Jinako 2"
+msgstr "Jinako 2"
+
+#. cmn/item_param_04.bin | registro 72 | nome
+msgctxt "item_param_04:72:0"
+msgid "Jinako 3"
+msgstr "Jinako 3"
+
+#. cmn/item_param_04.bin | registro 73 | nome
+msgctxt "item_param_04:73:0"
+msgid "Rin 3"
+msgstr "Rin 3"
+
+#. cmn/item_param_04.bin | registro 74 | nome
+msgctxt "item_param_04:74:0"
+msgid "Kotomine 1"
+msgstr "Kotomine 1"
+
+#. cmn/item_param_04.bin | registro 75 | nome
+msgctxt "item_param_04:75:0"
+msgid "Kotomine 2"
+msgstr "Kotomine 2"
+
+#. cmn/item_param_04.bin | registro 76 | nome
+msgctxt "item_param_04:76:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 77 | nome
+msgctxt "item_param_04:77:0"
+msgid "stay night Rin 1"
+msgstr "Rin de stay night 1"
+
+#. cmn/item_param_04.bin | registro 78 | nome
+msgctxt "item_param_04:78:0"
+msgid "stay night Rin 2"
+msgstr "Rin de stay night 2"
+
+#. cmn/item_param_04.bin | registro 79 | nome
+msgctxt "item_param_04:79:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 80 | nome
+msgctxt "item_param_04:80:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 81 | nome
+msgctxt "item_param_04:81:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 82 | nome
+msgctxt "item_param_04:82:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 83 | nome
+msgctxt "item_param_04:83:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 84 | nome
+msgctxt "item_param_04:84:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 85 | nome
+msgctxt "item_param_04:85:0"
+msgid "Shinji 1"
+msgstr "Shinji 1"
+
+#. cmn/item_param_04.bin | registro 86 | nome
+msgctxt "item_param_04:86:0"
+msgid "Shinji 2"
+msgstr "Shinji 2"
+
+#. cmn/item_param_04.bin | registro 87 | nome
+msgctxt "item_param_04:87:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 88 | nome
+msgctxt "item_param_04:88:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 89 | nome
+msgctxt "item_param_04:89:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 90 | nome
+msgctxt "item_param_04:90:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 91 | nome
+msgctxt "item_param_04:91:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 92 | nome
+msgctxt "item_param_04:92:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 93 | nome
+msgctxt "item_param_04:93:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 94 | nome
+msgctxt "item_param_04:94:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 95 | nome
+msgctxt "item_param_04:95:0"
+msgid "Rin 1"
+msgstr "Rin 1"
+
+#. cmn/item_param_04.bin | registro 96 | nome
+msgctxt "item_param_04:96:0"
+msgid "Rin 2"
+msgstr "Rin 2"
+
+#. cmn/item_param_04.bin | registro 97 | nome
+msgctxt "item_param_04:97:0"
+msgid "Rani 1"
+msgstr "Rani 1"
+
+#. cmn/item_param_04.bin | registro 98 | nome
+msgctxt "item_param_04:98:0"
+msgid "Rani 2"
+msgstr "Rani 2"
+
+#. cmn/item_param_04.bin | registro 99 | nome
+msgctxt "item_param_04:99:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 100 | nome
+msgctxt "item_param_04:100:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 101 | nome
+msgctxt "item_param_04:101:0"
+msgid "Leo 1"
+msgstr "Leo 1"
+
+#. cmn/item_param_04.bin | registro 102 | nome
+msgctxt "item_param_04:102:0"
+msgid "Leo 2"
+msgstr "Leo 2"
+
+#. cmn/item_param_04.bin | registro 103 | nome
+msgctxt "item_param_04:103:0"
+msgid "Twice 1"
+msgstr "Twice 1"
+
+#. cmn/item_param_04.bin | registro 104 | nome
+msgctxt "item_param_04:104:0"
+msgid "Twice 2"
+msgstr "Twice 2"
+
+#. cmn/item_param_04.bin | registro 105 | nome
+msgctxt "item_param_04:105:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 106 | nome
+msgctxt "item_param_04:106:0"
+msgid "-"
+msgstr "-"
+
+#. cmn/item_param_04.bin | registro 107 | nome
+msgctxt "item_param_04:107:0"
+msgid "-"
+msgstr "-"

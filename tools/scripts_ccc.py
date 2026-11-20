@@ -36,7 +36,7 @@ TAG_PATTERNS = (
     re.compile(r'#CDEF'),
     re.compile(r'#RUBS|#RUBE|#REND'),
     re.compile(r'#ROFS[-\d]\d{3}'),
-    re.compile(r'#FAMILY|#GIVEN|#NICK|#SVT'),
+    re.compile(r'#FAMILY|#GIVEN|#NICK|#SVT(?!\[)'),
     re.compile(r'#TITM\d{4}|#VAL\d{3}|#TVAL\d{2}|#SP\d{2}|#T\d'),
 )
 
@@ -75,11 +75,25 @@ def sha(data: bytes) -> str:
 
 
 def atomic_write(path: Path | str, data: bytes) -> None:
+    import time
     p = Path(path)
     p.parent.mkdir(parents=True, exist_ok=True)
     tmp = p.with_name(p.name + '.tmp')
     tmp.write_bytes(data)
-    os.replace(tmp, p)
+    for attempt in range(5):
+        try:
+            os.replace(tmp, p)
+            return
+        except PermissionError:
+            if attempt == 4:
+                p.write_bytes(data)
+                if tmp.exists():
+                    try:
+                        tmp.unlink()
+                    except OSError:
+                        pass
+                return
+            time.sleep(0.05 * (attempt + 1))
 
 
 def read_json(path: Path | str) -> dict:
@@ -215,7 +229,9 @@ def parse_max_bytes(comment: str, en: str = '', po_id: str = '') -> int | None:
         slot = (len(fatetext.encode(en)) + 4) & ~3
         return max(0, slot - 1)
     if po_id == 'menus/interface__cmn__install':
-        return len(en.encode('utf-8'))
+        # o limite vale para o arquivo inteiro (INSTALL_BIN_SIZE), não por
+        # frase; quem confere é _install_bin_size em inspect_scene
+        return None
     return None
 
 
@@ -239,6 +255,84 @@ def compute_string_frequencies(items: list[dict], parsed_cache: dict[str, dict])
     return freq
 
 
+INVARIABLE_EN = {
+    'Alice', 'Saber', 'Archer', 'Caster', 'Gilgamesh', 'BB', 'Elizabeth',
+    'Rani', 'Dan', 'Gatou', "Lil' Ronnie", 'Julius', 'Leo', 'Twice',
+    'Gawain', '???', '????', '??????', 'Rider', 'Lancer', 'Berserker',
+    'Assassin', 'Savior', 'Andersen', 'Passionlip', 'Meltlilith', 'Jinako',
+    'Karna', 'Aozaki Touko', '#TVAL02 Sm#CDEF.', '\x03', 'もじ', 'MP', 'HP',
+    'SG', 'EX', 'CCC', 'SE.RA.PH', 'Rani VIII', 'Elizabeth Báthory',
+    'Hans Christian Andersen', '#FAMILY #GIVEN', '#SVT', 'N/A', '',
+    '（予備）', '未使用', 'Tamamo', 'Golem', 'Garuda', 'Moby Dick',
+    'Jabberwock', 'Alter Ego', 'Eater', 'Effigy', 'Powergamer', 'Clear Data',
+    # infomatrix dummies / placeholders
+    'マスター偽名', 'サーバント偽名', '#RUBSほうぐぎめい#RUBE宝具偽名#REND',
+    '竜の娘（偽名）', '拷問技術（偽名）', '血の浴槽（偽名）', '人物背景Ⅰ（偽名）',
+    'ブレストバレー（偽名）', '複合神性（偽名）', '認識障害（偽名）', '愛憎の果て（偽名）',
+    '黄金の鎧（偽名）', '施しの英雄（偽名）', '竜の逆鱗（偽名）', 'スーパーソニック（偽名）',
+    '頭痛持ち（偽名）', '人物背景Ⅱ（偽名）', '神経障害（偽名）', '快楽の果て（偽名）',
+    '上級ＡＩ（偽名）', '支配の錫杖（偽名）', '霊子虚構陥穽（偽名）', '日々の名残（偽名）',
+    '英雄王（偽名）', '友人（偽名）', '出典（偽名）', 'Blank Page',
+    'キーワード１偽名テキスト', 'キーワード２偽名テキスト',
+    'スキル１偽名テキスト', 'スキル２偽名テキスト', 'スキル３偽名テキスト',
+    '設定１偽名テキスト', '設定２偽名テキスト',
+    'キーワード１ダイジェスト偽名', 'キーワード２ダイジェスト偽名',
+    '宝具ダイジェスト偽名…', 'スキル１ダイジェスト偽名',
+    'スキル２ダイジェスト偽名', 'スキル３ダイジェスト偽名',
+    '設定１ダイジェスト偽名', '設定２ダイジェスト偽名',
+    '宝具偽名', '設定１偽名', '設定２偽名', '宝具偽名テキスト',
+    '宝具・偽名のテキストを記述します。', 'スキル１偽名', 'スキル２偽名',
+    '宝具・偽名のテキストを記述…', '宝具・偽名のテキスト', '\n\r',
+}
+
+
+_NAMEENTRY_KEYBOARD_ROWS = {
+    'A B C D E ', 'F G H I J ', 'K L M N O ', 'P Q R S T ', 'U V W X Y ', 'Z ',
+    '0 1 2 3 4 ', '5 6 7 8 9 ', '? ! & ', '- ',
+    'a b c d e ', 'f g h i j ', 'k l m n o ', 'p q r s t ', 'u v w x y ', 'z ',
+    '\u3000\u3000\u3000\u3000\u3000', '\u3002\u3000\u3000\u3000\u3000', '( ) [ ] : ', '. ',
+}
+
+_EBOOT_INVARIABLE = {
+    'Haku', 'Zabiko', 'Boss', 'Assassin Effig', 'Kishinam', 'Hakuno  ', 'Hakunon ',
+    'boost_mp(%02d);', '0 1 2 3 4 5 6 7 8 9', 'Storeroo', 'Gard', 'Roof',
+    'Librar', 'Moon Cell Core', '%s %s[%s](%s)Lv.%2d', '%s %s[%s](%s)',
+    '%s %s', '%s %s ★', '%s', 's ★', 'School L', 'Kiara Sessyo',
+}
+
+
+def is_line_done(en: str, pt: str, po_id: str = '') -> bool:
+    """Retorna True se a linha tem tradução preenchida ou é um rótulo invariável (nome próprio/código)."""
+    if po_id == 'menus/interface__nameentry__kanji':
+        return True
+    en_s = str(en)
+    if bool(str(pt).strip()):
+        return True
+    if en_s in INVARIABLE_EN or en_s.strip() in INVARIABLE_EN:
+        return True
+    if en_s.startswith('!rmap>@'):
+        return True
+    if po_id.startswith('sg/'):
+        stripped = en_s.strip()
+        if re.fullmatch(r'\d+cm.*', stripped) or re.fullmatch(r'\d+kg.*', stripped) or re.fullmatch(r'B\d+/W\d+/H\d+.*', stripped):
+            return True
+        if any('\u3040' <= ch <= '\u30ff' for ch in stripped) or any('\u4e00' <= ch <= '\u9fff' for ch in stripped):
+            return True
+    if po_id == 'menus/interface__nameentry__msg':
+        if en_s in _NAMEENTRY_KEYBOARD_ROWS or any('\u3040' <= ch <= '\u30ff' for ch in en_s):
+            return True
+    if po_id == 'menus/interface__osioki__msg':
+        if '未使用' in en_s or re.fullmatch(r'選択肢[０-９0-9]+', en_s):
+            return True
+    if po_id == 'sistema/eboot':
+        if en_s in _EBOOT_INVARIABLE:
+            return True
+        # Slots residuais em japonês não referenciados ou substituídos via ponteiro MIPS
+        if any('\u3040' <= ch <= '\u9fff' or '\uff01' <= ch <= '\uff60' for ch in en_s):
+            return True
+    return False
+
+
 def _build_scene_payload(item: dict, parsed: dict, freq: Counter) -> dict:
     po_id = item['id']
     origem = parsed.get('source_bin') or _bin_rel_from_item(item)
@@ -255,13 +349,13 @@ def _build_scene_payload(item: dict, parsed: dict, freq: Counter) -> dict:
         comum = rep >= 25
         if not comum:
             exclusivas += 1
-        if pt:
+        if is_line_done(en, pt, po_id):
             traduzidas += 1
         linhas.append({
             'id': idx,
             'msgctxt': e['msgctxt'],
             'tipo': cmt,
-            'medida': medida.kind_for(cmt),
+            'medida': medida.kind_for(cmt, po_id, e['msgctxt']),
             'max_bytes': parse_max_bytes(cmt, en, po_id),
             'comum': comum,
             'repeticoes': rep,
@@ -323,7 +417,7 @@ def build_work_tree(work_dir: Path = WORK, force_all: bool = False) -> dict:
             payload = read_json(json_path)
 
         n_lines = len(payload['linhas'])
-        n_tr = sum(1 for r in payload['linhas'] if str(r.get('pt', '')).strip())
+        n_tr = sum(1 for r in payload['linhas'] if is_line_done(r.get('en', ''), r.get('pt', ''), payload.get('id', '')))
         n_uniq = payload.get('linhas_exclusivas', 0)
 
         total_lines += n_lines
@@ -385,7 +479,7 @@ def refresh_manifest(work_dir: Path = WORK) -> dict:
             sc = read_json(jp)
             lines = sc.get('linhas', [])
             n_lines = len(lines)
-            n_tr = sum(1 for r in lines if str(r.get('pt', '')).strip())
+            n_tr = sum(1 for r in lines if is_line_done(r.get('en', ''), r.get('pt', ''), sid))
             meta['linhas'] = n_lines
             meta['traduzidas'] = n_tr
         else:
@@ -406,8 +500,6 @@ def refresh_manifest(work_dir: Path = WORK) -> dict:
 def _can_fit_translation(en: str, pt: str, max_bytes: int | None, is_utf8: bool, po_id: str) -> tuple[bool, str]:
     if not pt:
         return True, ''
-    if po_id == 'menus/interface__cmn__install':
-        return False, 'interface/cmn/install.bin permanece em inglês (UTF-8 tamanho fixo no PRELOAD.pak)'
     if is_utf8:
         blen = len(pt.encode('utf-8'))
         if max_bytes is not None and blen > max_bytes:
@@ -556,10 +648,14 @@ def propagate_translations(work_dir: Path, en_to_pt: dict[str, str] | None = Non
 
 
 def check_tags(en: str, pt: str) -> str | None:
-    """Verifica se códigos de controle obrigatórios (#C..., #CDEF, #RUBS, #[a][b]#) estão íntegros."""
-    if '#[' in pt or ']#' in pt:
-        # verifica balanceamento de #[a][b]#
-        cleaned = re.sub(r'#\[[^\]]*\]\[[^\]]*\]#', '', pt)
+    """Verifica se códigos de controle obrigatórios (#C..., #CDEF, #RUBS, #[a][b]#, #SVT[...]#) estão íntegros."""
+    svt_pat = re.compile(r'#SVT(?:\[[^\]]*\]){3,4}#')
+    cleaned = svt_pat.sub('', pt)
+    if '#SVT[' in cleaned:
+        return 'Seletor #SVT[...]# malformado (precisa de 3 ou 4 colchetes e fechar com #)'
+    if '#[' in cleaned or ']#' in cleaned:
+        # verifica balanceamento de #[a][b]# após remover #SVT[...]
+        cleaned = re.sub(r'#\[[^\]]*\]\[[^\]]*\]#', '', cleaned)
         if '#[' in cleaned or ']#' in cleaned:
             return 'Seletor #[masc][fem]# malformado (precisa de exatamente 2 colchetes e fechar com #)'
     for pat in TAG_PATTERNS:
@@ -633,7 +729,29 @@ def inspect_scene(data: dict, sid: str, json_path: Path | str, check_glossary_te
                     str(json_path), sid, rid, 'pt', severity='aviso',
                 ))
 
+    if sid == 'menus/interface__cmn__install':
+        size = _install_bin_size(data)
+        if size > INSTALL_BIN_SIZE:
+            issues.append(Issue(
+                f'interface/cmn/install.bin ficaria com {size} bytes; o limite no PRELOAD.pak é '
+                f'{INSTALL_BIN_SIZE} (UTF-8, acento = 2 bytes). Encurte as mensagens.',
+                str(json_path), sid, severity='erro',
+            ))
+
     return issues
+
+
+# interface/cmn/install.bin vive no PRELOAD.pak: o arquivo inteiro tem de caber
+# nos 656 bytes originais. Cada frase pode crescer desde que o total caiba
+# (build.py completa com NUL até o tamanho exato).
+INSTALL_BIN_SIZE = 656
+
+
+def _install_bin_size(data: dict) -> int:
+    import binfile
+    entries = [(i, str(r.get('pt') or r.get('en') or ''))
+               for i, r in enumerate(data.get('linhas', []))]
+    return len(binfile.build(entries, utf8=True))
 
 
 def apply_po_text_to_scene(data: dict, raw_po_text: str) -> dict:
@@ -655,7 +773,7 @@ def apply_po_text_to_scene(data: dict, raw_po_text: str) -> dict:
         nr['pt'] = ent['pt']
         new_linhas.append(nr)
     new_data['linhas'] = new_linhas
-    new_data['traduzidas'] = sum(1 for r in new_linhas if str(r.get('pt', '')).strip())
+    new_data['traduzidas'] = sum(1 for r in new_linhas if is_line_done(r.get('en', ''), r.get('pt', ''), scene_id))
     return new_data
 
 

@@ -71,8 +71,8 @@ def measure(line):
     return sum(WIDE_W if ch in WIDE_CHARS else ASCII_W for ch in line)
 
 
-def kind_for(types):
-    """Qual limite aplicar, a partir do comentário `#.` do .po."""
+def kind_for(types, rel='', ctx=''):
+    """Qual limite aplicar, a partir do comentário `#.` ou do caminho do .po."""
     t = types or ''
     if 'choice' in t:
         return 'choice'
@@ -80,6 +80,14 @@ def kind_for(types):
         return 'inDungeon'
     if 'text' in t or 'backlog' in t or 'motion' in t:
         return 'dialog'
+    if 'infomatrix_t_' in rel and 'max 6143 bytes' in t:
+        return 'infomatrix'
+    if rel.startswith('sg/interface__sg__sg_') and '_text' in rel and str(ctx) == '1':
+        return 'sg'
+    if rel == 'menus/interface__dungeon__msg':
+        return 'inDungeon'
+    if rel == 'menus/interface__osioki__msg':
+        return 'choice'
     return None
 
 
@@ -106,7 +114,7 @@ def check(text, kind):
 
 def _entries(path):
     txt = open(path, encoding='utf-8').read()
-    return re.findall(r'#\. ([^\n]*)\nmsgctxt "([^"]+)"\nmsgid "(.*)"\nmsgstr "(.*)"', txt)
+    return re.findall(r'(?:#\. ([^\n]*)\n)?msgctxt "([^"]+)"\nmsgid "(.*)"\nmsgstr "(.*)"', txt)
 
 
 def _unescape(s):
@@ -125,7 +133,7 @@ def sweep(target=None):
             if not tr:
                 continue
             total += 1
-            kind = kind_for(types)
+            kind = kind_for(types, rel, ctx)
             problems = check(_unescape(tr), kind)
             if not problems:
                 continue

@@ -174,7 +174,39 @@ def patched_game_files(only=None):
                 continue
             print('  %s/%s: %d textos' % (group, stem, used))
 
+    # --- rótulos gravados em texturas (ptbr/graficos/lote*.json) ---
+    if not only or 'graficos' in only:
+        result.update(patched_textures())
+
     return result
+
+
+def patched_textures():
+    """Redesenha em PT-BR os rótulos das texturas catalogadas (tools/ui_labels.py).
+
+    Entram como arquivos do jogo comuns: rebuild_paks os coloca em todos os
+    .pak que os contêm, inclusive os comprimidos no CPK.
+    """
+    import ui_labels
+    labels = ui_labels.load_catalog()
+    if not labels:
+        return {}
+    fonts = ui_labels.Fonts(os.path.join(os.environ.get('WINDIR', r'C:\Windows'), 'Fonts'))
+    out = {}
+    for rel, items in sorted(labels.items()):
+        src = os.path.join(ROOT, 'work', 'pak', rel.replace('/', os.sep))
+        report = []
+        try:
+            out[rel] = ui_labels.patch_txb(rel, open(src, 'rb').read(), items, fonts, report)
+        except (OSError, ValueError) as ex:
+            warn('%s: textura mantida em ingles (%s)' % (rel, ex))
+            continue
+        print('  graficos/%s: %d texturas' % (rel, sum(1 for v in items.values() if v)))
+    import creditos_ui
+    for rel, data in creditos_ui.patched_credits().items():
+        out[rel] = data
+        print('  graficos/%s: creditos Fate Cafe' % rel)
+    return out
 
 
 def patched_eboot(only=None):
@@ -230,6 +262,17 @@ def rebuild_paks(game_files):
         # EBOOT. If any entry changes size that code moves and the game dies
         # on boot, so refuse rather than ship a broken ISO.
         sizes_before = {e.path: len(e.data) for e in pk.entries}
+        if cont.endswith('PRELOAD.pak'):
+            # an indexed-text .bin that came out SMALLER can be padded back to
+            # its exact original size (extra NULs after the last string)
+            for rel in members:
+                cur, want = len(game_files[rel]), sizes_before.get(rel)
+                if rel.endswith('.bin') and want and cur < want:
+                    padded = binfile.pad_to_size(game_files[rel], want)
+                    if padded is not None:
+                        print('  PRELOAD: %s completado com %d bytes NUL '
+                              '(%d -> %d)' % (rel, want - cur, cur, want))
+                        game_files[rel] = padded
         for rel in members:
             pk.replace(rel, game_files[rel])
         if cont.endswith('PRELOAD.pak'):

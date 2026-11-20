@@ -401,12 +401,185 @@
       "nota": "Igual."
     },
     "Praetor": {
-      "pt": "Praetor",
-      "nota": "Tratamento que Nero usa para o Mestre. Mantido em latim, como no patch inglês."
+      "pt": "Maestro",
+      "nota": "Tratamento que Nero usa para o Mestre. Padronizado para Maestro conforme decisão da equipe Fate Café / Fate/Extra Record (#[meu][minha]# Maestro)."
     },
     "Tamamo Nine": {
       "pt": "Tamamo Nine",
       "nota": "Mantido."
+    },
+    "Sakura Labyrinth": {
+      "pt": "Labirinto de Sakura",
+      "nota": "Nome da dungeon principal criada por BB."
+    },
+    "Old School Building": {
+      "pt": "Prédio Antigo da Escola / prédio antigo",
+      "nota": "Base de operações no Far Side; em forma curta: prédio antigo."
+    },
+    "Moon Cell's Core": {
+      "pt": "Núcleo do Moon Cell",
+      "nota": "Sempre no masculino (o Moon Cell)."
+    },
+    "Moon Cell Core": {
+      "pt": "Núcleo do Moon Cell",
+      "nota": "Idem."
+    },
+    "Wizard": {
+      "pt": "Wizard",
+      "nota": "Mantido em inglês (no jogo aparece como rubi de #RUBSmago#RUBEWizard#REND, mantendo a distinção do Extra com magus comum)."
+    },
+    "Wizards": {
+      "pt": "Wizards",
+      "nota": "Plural mantido em inglês."
+    },
+    "checkpoint": {
+      "pt": "checkpoint",
+      "nota": "Mantido em inglês (Checkpoint desbloqueado.)."
+    },
+    "Checkpoint": {
+      "pt": "Checkpoint",
+      "nota": "Mantido."
+    },
+    "Noise": {
+      "pt": "Ruído",
+      "nota": "Maiúscula quando fenômeno do Moon Cell."
+    },
+    "Sakurament": {
+      "pt": "Sakurament",
+      "nota": "Moeda/energia do Far Side; nunca traduzir."
+    },
+    "zeni": {
+      "pt": "zeni",
+      "nota": "Moeda humana/Near Side; mantido."
+    },
+    "Relief": {
+      "pt": "Relevo",
+      "nota": "Monólito/escultura de SG no Labirinto de Sakura."
+    },
+    "Multi-Colored Tranquility": {
+      "pt": "Tranquilidade Multicolorida",
+      "nota": "Leitura em inglês de 十色悠遠."
+    },
+    "Ten-thousand Colored Stagnation": {
+      "pt": "Estagnação de Dez Mil Cores",
+      "nota": "Leitura base de 万色悠滞 (#RUBS...#RUBETranquilidade Multicolorida#REND)."
+    },
+    "Five Meditations": {
+      "pt": "Cinco Meditações",
+      "nota": "五停心観 (Skill / estado de Kiara)."
+    },
+    "Recorded Universe": {
+      "pt": "Universo Registrado",
+      "nota": "記録宇宙 — conceito cósmico do Moon Cell."
+    },
+    "Observed Universe": {
+      "pt": "Universo Observado",
+      "nota": "観測宇宙 — conceito cósmico do Moon Cell."
+    },
+    "Dustcloud of Osiris": {
+      "pt": "Poeira de Osíris",
+      "nota": "Armazenamento/sistema de dados do Moon Cell."
+    },
+    "dust data": {
+      "pt": "dados residuais",
+      "nota": "Dados descartados/residuais."
+    },
+    "High Servant": {
+      "pt": "Servo Composto",
+      "nota": "Mesmo termo consolidado em SE.RA.PH (Fate Café)."
+    },
+    "Composite Divinity": {
+      "pt": "Divindade Composta",
+      "nota": "Skill das Alter Egos."
+    },
+    "id_es": {
+      "pt": "id_es",
+      "nota": "Mantido conforme Lore / FGO."
+    },
+    "PUNISH!": {
+      "pt": "PUNIÇÃO!",
+      "nota": "Aviso da Sala de Punição (Oshioki) na Galeria."
+    },
+    "Queen of the Moon": {
+      "pt": "Rainha da Lua",
+      "nota": "Título."
+    },
+
+    "tratamentos_protagonista": {
+      "nota": "Padronização obrigatória de como cada personagem se refere ou chama Kishinami Hakuno.",
+      "Nero (Saber)": "Maestro / #[meu][minha]# Maestro (padrão Fate Café / Extra Record para 'Praetor'; quando houver rubi Master/Praetor: #RUBS#[Mestre][Mestra]##RUBEMaestro#REND ou equivalente).",
+      "Tamamo no Mae (Caster)": "#[Querido][Querida]# para 'Darling' (rubi Master/Darling: #RUBS#[Mestre][Mestra]##RUBE#[Querido][Querida]##REND).",
+      "EMIYA (Archer)": "#[Mestre][Mestra]# (sóbrio, direto; #FAMILY / #GIVEN em momentos formais).",
+      "Gilgamesh": "#[mestiço][mestiça]# (mongrel) ou 'verme' (worm/cur), em tom régio e arcaico; quando usa o gênero no EN: #[homem][mulher]# / #[rapaz][moça]#.",
+      "BB": "Senpai (sempre preservado; sem forçar 'veterano').",
+      "Elizabeth Báthory": "#[porquinho][esquilinho]# (piggy/squirrely), #[Porquinho][Esquilinho]# (Piggy/Squirrely), #[porco][esquilo]# (pig/squirrel), #[Mestre porquinho][Mestra esquilinho]# (piggy Master/squirrel Master). 'puppy' para Lancer/Archer/Karna = cachorrinho.",
+      "Jinako / Passionlip / Meltlilith": "#NICK (código de apelido do protagonista); Meltlilith pode usar também #[Sr.][Srta.]# ou provocações mantendo gênero.",
+      "Sakura / Rani / Leo / Kotomine": "#[Sr.][Srta.]# #FAMILY (Kishinami) ou #FAMILY-#NICK / #GIVEN conforme o EN.",
+      "Matou Shinji / Tohsaka Rin": "#GIVEN / #NICK (informal).",
+      "Monji Gatou / Dan Blackmore / Andersen": "#[rapaz][moça]# / #[garoto][garota]# / #[irmão][irmã]# conforme o contexto do EN."
+    },
+
+    "apelidos_servos": {
+      "Goldy": "Goldy (mantido em inglês)",
+      "Gorgeous": "Gorgeous (mantido em inglês)",
+      "AUO": "AUO (mantido)",
+      "Launcher": "Launcher (mantido em inglês — trocadilho com Lancer para Karna)",
+      "King of Heroes": "Rei dos Heróis",
+      "Emperor of Roses": "Imperadora das Rosas",
+      "Green Archer": "Archer Verde",
+      "Green Tea": "Chá Verde",
+      "Greenchee": "Chazinho Verde",
+      "Red Lancer": "Lancer Vermelha"
+    },
+
+    "sg_titulos": {
+      "Love of Harems": "Amante de Haréns",
+      "Bouquet of Laurel Wreaths": "Buquê de Coroas de Louros",
+      "Love for the People": "Amor pelo Povo",
+      "Tool Mania": "Mania por Ferramentas",
+      "Serving Constitution": "Índole Prestativa",
+      "Bad Luck with Women": "Azar com Mulheres",
+      "Monopolizing Desire": "Desejo de Monopolizar",
+      "Poor Cook": "Péssima Cozinheira",
+      "Golden-furred Beauty": "Beldade de Pelagem Dourada",
+      "Lynchpin of Heaven": "Estaca do Céu",
+      "Chains of Heaven": "Correntes do Céu",
+      "Poison of Death": "Veneno da Morte",
+      "Overly Self-conscious": "Autoconsciência Excessiva",
+      "Money Worship": "Adoração por Dinheiro",
+      "Submission Desire": "Desejo de Submissão",
+      "Management Desire": "Desejo de Gerenciamento",
+      "Habit of Exposure": "Hábito de Exposição",
+      "Powergamer": "Powergamer",
+      "Breast Valley": "Vale dos Seios",
+      "Masochistic Constitution": "Constituição Masoquista",
+      "Hypersensitivity": "Hipersensibilidade",
+      "Compulsive Liar": "Mentirosa Compulsiva",
+      "Loneliness": "Solidão",
+      "Curse of Death": "Maldição da Morte",
+      "Lovestruck": "Apaixonada",
+      "Loves Cooking": "Amor pela Culinária",
+      "Purity": "Pureza",
+      "Sadistic Constitution": "Constituição Sádica",
+      "Doll Mania": "Mania por Bonecas",
+      "Crime Ballet": "Balé do Crime",
+      "Kouhai Attribute": "Atributo Kouhai",
+      "Confining Desire": "Desejo de Confinamento",
+      "Inversion of Love & Hate": "Inversão de Amor e Ódio",
+      "Pheromones": "Feromônios",
+      "Philanthropy": "Filantropia",
+      "Demonic Bodhisattva": "Bodhisattva Demoníaca"
+    },
+
+    "infomatrix_np_skills": {
+      "Kilenc Sárkány": "#RUBS  Rugido Trovejante do Dragão#RUBEKilenc Sárkány#REND",
+      "Brynhildr Romantia": "#RUBSAté que a Morte os Separe#RUBEBrynhildr Romantia#REND",
+      "Vasavi Shakti": "#ROFS0001#RUBSÓ Sol, Curva-te à Morte#RUBEVasavi Shakti#REND",
+      "Báthory Erzsébet": "#RUBS   Demonesa de Sangue Fresco#RUBEBáthory Erzsébet#REND",
+      "Saraswati Meltout": "#RUBS Biwa de Cinco Cordas de Benzaiten#RUBESaraswati Meltout#REND",
+      "C. C. C.": "#RUBSCursed Cutting Crater#RUBEC. C. C.#REND",
+      "Märchen Meines Lebens": "#RUBS      Uma História Só Para Você#RUBEMärchen Meines Lebens#REND",
+      "Enuma Elish": "#RUBSA Estrela da Criação que Fendeu Céu e Terra#RUBEEnuma Elish#REND"
     },
 
     "classes": {
@@ -494,7 +667,9 @@
     "#ROFSnnnn": "Desloca o rubi horizontalmente. Vem antes do #RUBS.",
     "#FAMILY": "Sobrenome do jogador, inserido pelo jogo.",
     "#GIVEN": "Nome do jogador, inserido pelo jogo.",
+    "#NICK": "Apelido do(a) protagonista escolhido na entrada de nome (usado por Jinako, Passionlip e Meltlilith).",
     "#SVT": "Nome do Servo do jogador.",
+    "#SVT[a][b][c][d]#": "Seletor de 4 variantes para o Servo escolhido: 1a = Saber (Nero), 2a = Archer (EMIYA), 3a = Caster (Tamamo), 4a = Gilgamesh.",
     "#TITM0001": "Nome do item corrente.",
     "#TVALnn": "Valor numérico inserido pelo jogo.",
     "#[a][b]#": "Seletor de variante por gênero do jogador. Primeira opção = masculino, segunda = feminino. Traduzir as DUAS opções.",

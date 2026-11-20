@@ -41,6 +41,7 @@ STATUS_FILL = {
     'Em revisão': 'CFE2F3',
     'Auto-sincronizado': 'E2E8F0',
     'Revisado': 'D9EAD3',
+    'beta-ia': 'D9D2E9',
 }
 
 
@@ -148,12 +149,15 @@ def build_spreadsheet(preserve_team: bool = True) -> tuple[Path, Path]:
             tr = int(meta['traduzidas'])
             pct = (100.0 * tr / tot) if tot else 0.0
 
-            if meta['is_stub']:
+            if tr >= tot:
+                if gid == '00_prologo':
+                    estado = 'Revisado'
+                else:
+                    estado = 'beta-ia'
+            elif meta['is_stub']:
                 estado = 'Auto-sincronizado'
             elif tr == 0:
                 estado = 'Pendente'
-            elif tr >= tot:
-                estado = 'Em revisão'
             else:
                 estado = 'Em tradução'
 
@@ -163,8 +167,8 @@ def build_spreadsheet(preserve_team: bool = True) -> tuple[Path, Path]:
             obs = ' · '.join(obs_parts)
 
             prev_rev, prev_est, prev_test = existing.get(meta['id'], ('', '', ''))
-            if prev_est == 'Revisado':
-                estado = 'Revisado'
+            if prev_est in ('Revisado', 'beta-ia'):
+                estado = prev_est
 
             script_ref = f"trabalho/{meta['path']} ({meta['id']})"
             row_vals = [meta['titulo'], script_ref, tot, prev_rev, estado, cap_name, prev_test, obs]
@@ -198,12 +202,14 @@ def build_spreadsheet(preserve_team: bool = True) -> tuple[Path, Path]:
         cj = ws.cell(r, 10, cap_name)
         ck = ws.cell(
             r, 11,
-            f'=COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"Revisado",$B$3:$B${last_row},"<>")'
+            f'=(COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"Revisado",$B$3:$B${last_row},"<>")'
+            f'+COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"beta-ia",$B$3:$B${last_row},"<>"))'
             f'&" / "&COUNTIFS($F$3:$F${last_row},J{r},$B$3:$B${last_row},"<>")',
         )
         cl = ws.cell(
             r, 12,
-            f'=IFERROR(COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"Revisado",$B$3:$B${last_row},"<>")'
+            f'=IFERROR((COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"Revisado",$B$3:$B${last_row},"<>")'
+            f'+COUNTIFS($F$3:$F${last_row},J{r},$E$3:$E${last_row},"beta-ia",$B$3:$B${last_row},"<>"))'
             f'/COUNTIFS($F$3:$F${last_row},J{r},$B$3:$B${last_row},"<>"),0)',
         )
         cm = ws.cell(r, 13, f'=SUMIF($F$3:$F${last_row},J{r},$C$3:$C${last_row})')
@@ -220,8 +226,8 @@ def build_spreadsheet(preserve_team: bool = True) -> tuple[Path, Path]:
     tot_fill = PatternFill('solid', fgColor='C9DAF8')
     tot_font = Font(name='Segoe UI', size=10, bold=True, color='111827')
     tj = ws.cell(total_row, 10, 'TOTAL')
-    tk = ws.cell(total_row, 11, f'=COUNTIF($E$3:$E${last_row},"Revisado")&" / "&COUNTA($B$3:$B${last_row})')
-    tl = ws.cell(total_row, 12, f'=IFERROR(COUNTIF($E$3:$E${last_row},"Revisado")/COUNTA($B$3:$B${last_row}),0)')
+    tk = ws.cell(total_row, 11, f'=(COUNTIF($E$3:$E${last_row},"Revisado")+COUNTIF($E$3:$E${last_row},"beta-ia"))&" / "&COUNTA($B$3:$B${last_row})')
+    tl = ws.cell(total_row, 12, f'=IFERROR((COUNTIF($E$3:$E${last_row},"Revisado")+COUNTIF($E$3:$E${last_row},"beta-ia"))/COUNTA($B$3:$B${last_row}),0)')
     tm = ws.cell(total_row, 13, f'=SUM($C$3:$C${last_row})')
     tl.number_format = '0.0%'
     tm.number_format = '#,##0'
@@ -234,7 +240,7 @@ def build_spreadsheet(preserve_team: bool = True) -> tuple[Path, Path]:
     # Validação de lista suspensa na coluna E (Estado)
     dv = DataValidation(
         type='list',
-        formula1='"Pendente,Em tradução,Em revisão,Auto-sincronizado,Revisado"',
+        formula1='"Pendente,Em tradução,Em revisão,Auto-sincronizado,Revisado,beta-ia"',
         allow_blank=True,
     )
     ws.add_data_validation(dv)

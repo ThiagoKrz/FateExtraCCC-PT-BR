@@ -22,17 +22,19 @@ Entrada não registrada = trabalho incompleto.
 | Base | `EnglishBase/ccc-patched.iso` (patch inglês do ccc-tl) |
 | Saída | `output/ccc-ptbr.iso` — ISO pronta, não é patch |
 | Textos exportados | 67.797 em 292 arquivos |
-| Traduzidos | 7.745 (~11,4%) |
+| Cobertura do catálogo | 67.797 / 67.797 entradas cobertas em 292 unidades, incluindo as exceções do catálogo |
+| Textos nativos | 545 campos de item e 2.057 segmentos de legenda localizados |
+| Textos em texturas | Aviso de abertura e menu Sistema/Arquivos (`patch_ui.py`) e lotes 1–4 em `ptbr/graficos/lote*.json`, aplicados pelo `build.py`. Falta o lote 5 (tutoriais e créditos) |
 | Acentos | 19 letras funcionando na fonte |
-| Boot | testado e funcionando no PPSSPP |
+| Boot | A ISO de teste anterior chegou ao aviso e ao menu Sistema no PPSSPP. A v2 foi verificada por extração e comparação binária |
 
 Unidades de texto cobertas: história (`dat`), menus (`misc`), Secret Gardens
 (`sg`), Info Matrix (`infomatrix`), in-dungeon, EBOOT.
 
-Unidades **bloqueadas**: `items` (~493) e `subs` (~1.365). O texto delas vive em
-espaço de relocação compilado no código nativo (`hax/patch.o`). Exigem
-reconstruir o nativo com o PSP SDK, já instalado em `C:/pspsdk` (psp-gcc 4.3.5,
-`PSPSDK_HOME` configurado).
+Pendências identificadas: triagem dos rótulos residuais do EBOOT e tradução do
+texto gravado nas outras texturas (inventário de 2026-11-18). As mensagens de
+instalação de dados foram traduzidas, mas ainda não entraram numa ISO de teste. A cobertura
+do catálogo de texto é independente da cobertura das texturas da interface.
 
 ---
 
@@ -109,6 +111,196 @@ ccc-patched.iso
 ---
 
 ## Histórico
+
+### 2026-11-18 — Créditos do Fate Café (logo nos créditos finais, aviso no boot e mensagem de instalação)
+
+- Adicionada a logo oficial do Fate Café em `ptbr/graficos/fate_cafe_logo.png` (1000×1000 RGBA) e integrada à cadeia de build em três pontos:
+  - **Créditos finais (`interface/staffroll/staffroll_03.txb`, textura #4):** novo módulo `tools/creditos_ui.py`, chamado automaticamente por `tools/build.py` (`patched_textures`). Desloca o bloco `--- CCC TRANSLATION TEAM ---` 46 px à esquerda (preservando 100% dos pixels e das 107 cores originais) e insere a logo colorida (114×114) à direita usando os 149 slots livres da paleta RGBA8888 (120 cores opacas + 8 níveis de alfa para suavizar a borda circular). Mantém o tamanho exato de `staffroll_03.txb` (1.193.072 bytes) e entra nos dois PAKs de créditos (`ev_scn_c07_credit.pak` e `ev_scn_staffroll.pak`).
+  - **Tela de aviso no boot (`interface/logo/0000.txb`, textura #4):** `tools/patch_ui.py` (`notice_pixels`) sobe ligeiramente as 6 linhas do `<Aviso>` (`y = 32, 66, 85, 104, 123, 158`) e desenha a logo do Fate Café em escala de cinza (64×64) centralizada em `y = 194`, dentro da paleta original de 16 tons e mantendo o tamanho exato (110.704 bytes).
+  - **Aviso de Instalação de Dados (`ptbr/menus/interface__title__msg.po`):** `msgctxt "1"` atualizado para `"desativada nesta versão PT-BR do Fate Café."` (`medida.py` e `genero.py`: 0 problemas).
+- Nota técnica sobre o logo da tela de título (`interface/title/0000.txb`, textura #6): todos os 157 blocos armazenados já estão ocupados pelo logo oficial `Fate/EXTRA CCC` (paleta magenta/branca de 256 cores), então a logo oficial da tela de título foi mantida intacta.
+- **ISO final gerada e verificada:** `output/ccc-ptbr.iso` (1,34 GiB, SHA-256 `5C6939774D91102F9332739CE6A891F79BED75B87A5A9D6498AEB888B3291430`), produzida pela cadeia completa (`build.py` → `native_text.py` → `patch_ui.py`) com 0 avisos. Reextração direta confirmou `PRELOAD.pak` inalterado em tamanho (2.793.760 bytes), 545 itens e 2.057 legendas nativas, `logo/0000.txb` (110.704 bytes) e `title/msg.bin` em `title.pak`, e `staffroll_03.txb` (1.193.072 bytes) nos dois PAKs de créditos (`ev_scn_c07_credit.pak` e `ev_scn_staffroll.pak`).
+
+### 2026-11-18 — Texturas, lote 4 desenhado (aberturas de capítulo e poema final)
+
+- O catálogo é `ptbr/graficos/lote4-aberturas.json`, com 106 texturas. Ele sai da planilha revisada `Fate_Extra_CCC_Lote4_Aberturas.xlsx` via `python tools/lote4_planilha.py`, que usa a coluna "Sua revisão" quando preenchida. Para mudar um verso, edite a planilha e rode o script de novo.
+- Como foi desenhado:
+  - poemas em Garamond (`GARA.TTF`, chave `garamond`), com o preenchimento no tom claro (`percentil` 90), brilho e sem contorno, iguais em todas as linhas;
+  - texturas com mais de uma linha viram uma parte por linha, com o corte na linha de menor tinta entre elas;
+  - título traduzido em `quadrada_fina`; "CHAPTER" virou "CAPÍTULO".
+- `ui_labels.py` ganhou a fonte `garamond_b` (GARABD) e o recurso de trocar `garamond_b` por `garamond` quando o texto não cabe. O negrito acabou não sendo usado, porque misturava pesos entre as linhas.
+- A ISO de teste v5 está em `output/ccc-ptbr-teste-v5.iso`, com SHA-256 `82573979c10251b21bae79cd25ab71869b16ec93ec82dea7e7021a2c75d7d938`. Ela é a v4 mais o lote 4, gerada pela cadeia completa. A reextração conferiu as 83 cópias de TXB catalogadas em 67 PAKs, e o PRELOAD manteve o tamanho de todas as entradas.
+- Falta o teste no PPSSPP das aberturas: elas aparecem no início de cada capítulo e no final.
+
+### 2026-11-18 — Texturas, lote 4: tradução proposta em planilha
+
+- Transcrevi o texto das aberturas de capítulo (`interface/poem/cpt_00` a `cpt_08.txb`), do poema final (`poem_ex_tex.txb`) e dos títulos estilizados (`poem.txb`). A tradução proposta está em `Fate_Extra_CCC_Lote4_Aberturas.xlsx`, para revisão: são 134 linhas, 106 delas para traduzir.
+- Ficam em inglês: o kanji e o subtítulo estilizado de cada título ("- Backyard of Eden -", "- Alter Ego / M -"…), "- BAD END. -" e os títulos de `poem.txb`, que são arte original. Traduz-se a linha que traduz o kanji ("Jardim da Subordinação", "Prisão do Cálculo"…).
+- `cpt_07` e `cpt_08` ficam no mesmo PAK (`ev_scn_c07_000.pak`): são as duas rotas do capítulo 7. `poem_ex_tex.txb` está em 4 PAKs.
+- Próximo passo: depois da revisão, criar `ptbr/graficos/lote4-aberturas.json` e renderizar. Os textos têm várias linhas por textura e a fonte é serifada, então o desenho precisará de suporte a mais de uma linha por parte.
+
+### 2026-11-18 — Texturas, lotes 2 e 3, e texturas integradas ao `build.py`
+
+- Novos catálogos:
+  - `ptbr/graficos/lote2-menus.json`, com 218 texturas: menu principal, comandos de exploração, plaquinhas de nome, Meu Quarto, armário e cores, loja, equipamento, itens, status, Matriz de Dados (abas, parâmetros e 25 placas de habilidade com os nomes já traduzidos nas fichas), Secret Garden, galeria, fim do dia, passagem do tempo, caçadas, triggers, castigo e game over;
+  - `ptbr/graficos/lote3-batalha.json`, com 133 texturas: avisos de batalha (">CRÍTICO<", ">VENENO<"…), estados, resultados, missão, seleção de andar, nome da camada nos 22 `loca_NN` e tela de VS.
+  - O inventário foi feito por leitura de folhas de contato de todas as texturas candidatas.
+- Seguem as regras de nome do projeto: as plaquinhas em ordem ocidental viraram ordem japonesa (Tohsaka Rin, Matou Sakura, Matou Shinji, Fujimura Taiga, Ryuudou Issei, Sessyoin Kiara). Servant/Master/Sentinel viraram Servo/Mestre/Sentinela.
+- Ficam em inglês, como no texto do jogo ou por serem arte do original japonês:
+  - comandos de batalha (ATTACK, GUARD, BREAK, SKILL, EXTRA, WAIT, CODE CAST, C·CAST, EX-SKILL, CHAIN), que o tutorial já cita em inglês;
+  - Code Cast, Secret Garden, Sakurament, STATUS, SG, MP, EXP, TOTAL, CENTRAL, Launcher, Potnia Theron, Aurea Poculum e Trash & Crash;
+  - subtítulos estilizados de cada andar ("Escape From New Moon.", "Gold Trash."…);
+  - telas DEAD END/BAD END/NEVER END/Fin/TO BE CONTINUED, logo Channel e a tela de erro de instalação do patch inglês;
+  - textos em placa ou em fonte de 8 px que não ficam legíveis: ESCAPE, POINT1–3;
+  - itens que dependem de redesenho, como PLAYER'S LIFE em duas linhas e as letras soltas de GAME OVER, HUNTING e EXTRA TURN.
+- Mudanças em `tools/ui_labels.py`:
+  - suporta texturas sem tabela de blocos (`PlainTexture`, como as plaquinhas de nome);
+  - estilo `placa` para texto vazado;
+  - percentil de cor do preenchimento configurável;
+  - troca automática para a fonte condensada quando o texto não cabe;
+  - se a textura não tem blocos de reserva suficientes, tenta de novo com o texto mais estreito;
+  - uma textura que falha fica em inglês com aviso, sem derrubar as outras;
+  - a conferência final compara a cor visível, com blocos `-1` transparentes.
+- **Limite importante:** o número de blocos guardados em cada textura é fixo. Na loja, BUY ocupa um único bloco de 32 px, por isso a loja usa COMPRA/VENDA.
+- **As texturas agora entram pelo `build.py`** (`patched_textures`): viram arquivos de jogo comuns, e `rebuild_paks` os grava em todos os PAKs que os contêm. Isso inclui os comprimidos no CPK (beginning, mission, hunting, trigger…), que a gravação direta na ISO não aceita. `ui_labels.py BASE SAIDA` continua disponível só para PAKs sem compressão.
+- A cadeia oficial para gerar a ISO passa a ser: `python tools/build.py` → `python tools/native_text.py ETAPA1.iso ETAPA2.iso` → `python tools/patch_ui.py ETAPA2.iso FINAL.iso`. Ela inclui todos os textos, as mensagens de instalação, itens e legendas nativos, aviso de abertura, menu Sistema e os lotes 1–3.
+- A ISO de teste v4 está em `output/ccc-ptbr-teste-v4.iso`, com SHA-256 `05469b4c0e4f7c7cb687a276f48e5d23bb34c0168e31f084bcbd36f235247bc9`. Os passos intermediários ficaram em `output/ccc-ptbr-etapa1.iso` e `etapa2.iso`.
+  - O CPK cresceu 7,9 MiB por causa dos PAKs que antes eram comprimidos e agora vão sem compressão, e a ISO foi reconstruída inteira.
+  - A reextração conferiu as 70 cópias dos TXBs catalogados nos 55 PAKs que os contêm, byte a byte contra a renderização esperada, sem nenhum PAK ainda comprimido.
+  - O PRELOAD manteve o tamanho de todas as entradas, e o `install.bin` traduzido tem os 656 bytes.
+  - O `native_text.py` aplicou 545 campos de item e 2.057 segmentos de legenda, e o `patch_ui.py` verificou a ISO final.
+- Falta o teste no PPSSPP.
+
+### 2026-11-18 — Texturas, lote 1 (abertura e configuração)
+
+- O catálogo `ptbr/graficos/lote1-abertura.json` tem 54 rótulos em 7 TXBs:
+  - tela de título (`interface/title/0000.txb`): INICIAR/NOVO JOGO, CARREGAR/CONTINUAR, DADOS/INSTALAR, APERTE START, INFORMAÇÕES e APAGAR;
+  - aviso de ficção e conselho de salvar (`interface/advice/0000.txb`);
+  - dificuldade (`interface/modeselect/modeselect.txb`);
+  - opções (`interface/option/option_00.txb`);
+  - criação do protagonista (`interface/nameentry/0000.txb`);
+  - ESCOLHA O SERVO (`interface/svtselect/svt_select.txb`);
+  - as oito "Primeira… Última seleção" do prólogo (`interface/beginning/0000.txb`).
+- Ficaram como no original:
+  - nomes de classe e GILGAMESH;
+  - as etiquetas de dificuldade SWEET/NORMAL/MANIAC, que o texto do jogo também mantém como nome (como "Maniac" na escolha do Servo);
+  - ✕>OK, SELECT>AUTO, ひらがな/カタカナ/ABC e OK;
+  - FEMALE/MALE dentro dos ícones ♀/♂: o rótulo fica sobre o círculo e o português não cabe sem redesenhar o ícone;
+  - `interface/charsel/svt_select.txb`, com descrições em japonês e provavelmente resto do Extra; falta confirmar no PPSSPP se aparece.
+- `tools/ui_labels.py` é a ferramenta genérica para rótulos em textura. Ela mede o texto inglês na arte: altura da maiúscula, linha de base, largura relativa à fonte escolhida e alinhamento. Também lê as cores: preenchimento com degradê por linha, contorno escuro e brilho colorido. O português é desenhado com a mesma métrica e as mesmas camadas e quantizado para a paleta da textura. Use `--preview PASTA` para gerar PNGs de antes/depois e `BASE.iso SAIDA.iso` para aplicar sobre uma ISO.
+- `ChunkedTexture.relayout` (em `tools/ui_textures.py`) reconstrói a tabela de blocos da textura sem mudar o tamanho do arquivo. O resultado tem blocos transparentes como `-1`, blocos iguais compartilhados e o contador atualizado. A ferramenta só usa o relayout quando o texto novo não cabe no arranjo original de blocos.
+- `beginning.pak` está **comprimido** no CPK. A gravação direta na ISO (`native_text.read_iso_paks`/`write_iso`) só aceita PAKs sem compressão, então as oito "seleções" estão prontas no catálogo, mas ainda não entram na ISO. Para aplicá-las, é preciso recomprimir o PAK ou fazer a troca pelo `build.py`. `read_iso_paks` aceita um conjunto `skipped` para registrar os comprimidos em vez de abortar.
+- A ISO de teste v3 (a v2 mais o lote 1) está em `C:/Users/Thiago/Documents/Codex/2026-11-18/fate-extra-ccc-pt-br/outputs/ccc-ptbr-teste-v3.iso`, SHA-256 `b6f83f2f25cfc159a41dbeecf143eb0a573c6c3cfae16e182d003a26160ce12f`.
+  - A reextração conferiu as 46 texturas trocadas byte a byte contra a renderização esperada.
+  - As outras entradas dos PAKs ficaram idênticas, e `write_iso` confirmou que nada mudou fora deles.
+  - A v3 **não** inclui as mensagens de instalação traduzidas, porque elas exigem a cadeia completa (`build.py` → `native_text.py` → `patch_ui.py` → `ui_labels.py`).
+- Falta ver no PPSSPP o encaixe dos textos mais longos: VELOCIDADE DO TEXTO, CONTROLE DA CÂMERA e ESCOLHA O SERVO.
+
+### 2026-11-18 — Mensagens de instalação de dados em PT-BR
+
+- As cinco mensagens de `interface/cmn/install.bin` (sem erros, dados danificados, falha de leitura, Memory Stick ausente e instalação interrompida pelo modo de espera) foram traduzidas em `ptbr/menus/interface__cmn__install.po`. A decisão anterior de manter o inglês partia da ideia de que cada frase precisava caber no tamanho da frase inglesa. Na verdade, o limite é o arquivo inteiro: 656 bytes no `PRELOAD.pak`. O português ficou com 592 bytes, com todos os acentos (em UTF-8, cada acento ocupa 2 bytes), e o `build.py` completa o restante com NUL.
+- `binfile.pad_to_size` agora preserva o registro final `[índice 0][tamanho 0]` quando sobram 8 bytes ou mais, como no arquivo original. Antes, a sobra era absorvida pela última entrada e a tabela ficava sem terminador. A reconstrução do `PRELOAD.pak` em memória manteve o tamanho de todas as entradas.
+- `scripts_ccc.py` deixou de tratar essas frases como invariáveis e de recusar a tradução. Agora confere o tamanho do arquivo inteiro (`INSTALL_BIN_SIZE = 656`) na validação. O título da unidade perdeu o "manter EN", e o JSON de trabalho passou a ser `trabalho/12_menus_interface/008_menus_instalacao_de_dados_preload__interface__cmn__install.json`.
+- `catalogo_ccc.py` ignora `ptbr/nativo/`, que é aplicado por `tools/native_text.py`. Sem isso, o catálogo, o `--build-work` e o painel quebravam com "Categoria desconhecida".
+- A régua passou em 64.446 textos sem problemas, e o validador registrou 0 erros nas 292 unidades. Falta gerar a próxima ISO de teste (`build.py` → `native_text.py` → `patch_ui.py`). Essas mensagens só aparecem quando a instalação de dados falha, então dificilmente surgem numa jogatina normal no PPSSPP.
+
+### 2026-11-18 — Inventário de texto em texturas após a ISO v2
+
+- A auditoria visual comparou 47 arquivos TXB da extração com os correspondentes na ISO v2. Confirmou texto em inglês nas artes de título, opções, seleção de Servo, nome do jogador, menu principal, itens, equipamento, loja, status, Meu Quarto, Matriz de Dados, Labirinto, batalha, resultados e outros avisos. A presença no arquivo ainda não comprova que todo recurso seja exibido em jogo.
+- O título e o aviso de ficção/recomendação de salvar ficam em title.pak. Os comandos de exploração e as plaquinhas de personagens ficam em interface/cmn/i_bpt.txb, i_con.txb e i_con_name.txb. Esses TXBs, interface/cmn/i_load.txb e as artes do menu principal/locomoção ficam em PRELOAD.pak, sujeitos ao tamanho fixo. Os rótulos de batalha e resultados ficam em dungeon_resident.pak.
+- As aberturas de capítulo cpt_00 a cpt_08 em interface/poem incluem texto narrativo em inglês gravado nas imagens. Também há texto japonês nos tutoriais amostrados e texto em inglês e japonês nos créditos. A auditoria não reempacotou a ISO nem alterou imagens.
+
+### 2026-11-18 — Aviso de abertura e menu Sistema/Arquivos
+
+- O teste no PPSSPP mostrou o aviso de abertura, o cabeçalho e as duas colunas de opções do menu em inglês, mesmo com a ajuda do rodapé em PT-BR. O aviso fica em interface/logo/0000.txb, textura 4 de title.pak. Os rótulos ficam em interface/save/0000.txb e 0001.txb de savemenu.pak, incluindo a variante Arquivos.
+- O catálogo editável está em ptbr/graficos/abertura-e-sistema.json. A arte mantém a disposição, as dimensões, a paleta e a tabela de blocos do jogo. Os glifos foram renderizados com Verdana, Segoe UI Semibold e Square721 no lugar dos glifos em inglês.
+- Para reproduzir sobre a ISO de teste com itens e legendas, execute `python tools/patch_ui.py ISO_BASE.iso ISO_V2.iso`. As fontes específicas podem ser indicadas via `--font-dir`. A ferramenta valida a edição das texturas por SHA-256 e a imagem de saída mantém os tamanhos e os offsets das entradas no CPK.
+- A v2 está em C:/Users/Thiago/Documents/Codex/2026-11-18/fate-extra-ccc-pt-br/outputs/ccc-ptbr-teste-v2.iso. Reextraídos e conferidos os pixels de 18 texturas em três TXBs. A comparação confirmou que o PRELOAD, o EBOOT e todos os bytes fora de title.pak e savemenu.pak correspondem à ISO de teste anterior. SHA-256 da v2 700930ba5d8ba4110a06946f80176dbc3cc8e2512e08f7934cb08fed30cae128.
+
+### 2026-11-18 — Itens e legendas nativas em PT-BR
+
+- Os catálogos editáveis em ptbr/nativo/itens.po e ptbr/nativo/legendas.po cobrem os 545 campos de item com texto (424 textos distintos) e os 2.057 segmentos com texto dos 1.365 eventos de legenda. Os outros 231 campos de item e 254 segmentos são brancos ou pausas. A contagem anterior de 626 campos de item incluía 81 campos ocupados por um único espaço.
+- tools/native_text.py aplica os catálogos à ISO integrada em uma imagem de saída separada. Uso com caminhos de origem e destino: python tools/native_text.py BASE.iso TESTE.iso. Para validar sem gravar uma ISO, use python tools/native_text.py BASE.iso --check. A ferramenta exige o módulo inglês original da edição 08/12/2023 no PRELOAD da ISO de origem.
+- Os textos couberam nos espaços já reservados do módulo ligado, com 14.472 de 16.928 bytes para itens e 80.396 de 92.172 bytes para legendas. Foi possível manter o código nativo, as coordenadas, todos os tempos e modos de exibição, as pausas e os tamanhos de cada entrada do PRELOAD, sem recompilar o patch nem modificar o EBOOT.
+- A ISO de teste está em C:/Users/Thiago/Documents/Codex/2026-11-18/fate-extra-ccc-pt-br/outputs/ccc-ptbr-itens-legendas-teste.iso. O PRELOAD reextraído confirmou todos os textos dos dois catálogos. A comparação da imagem confirmou igualdade byte a byte fora dele, e só os dois arquivos de parâmetros de item e hax/patch.o mudaram dentro dele. O SHA-256 da ISO é 0452416e4946db958d144a7d81e6e7c202206b37f69717f0dfc3f13056a2f6ac.
+- A régua global verificou 64.441 traduções sem estouros. As 25 sinalizações de gênero nas legendas nativas foram triadas pelo contexto. O boot e a apresentação das legendas e dos itens ainda precisam ser testados no PPSSPP.
+
+### 2026-11-18 — Extração dos itens e das legendas do patch nativo
+
+- Na ISO inglesa, hax/patch.o é a última entrada de PRELOAD.pak e contém o binário nativo já ligado. A base calculada segundo CccAsmPatcher é 0x08FE1D60 para esta edição, com 160.608 bytes de conteúdo. A inspeção resolveu os 776 marcadores de item de cmn/item_param_01.bin e cmn/item_param_04.bin. São 626 campos não vazios e 425 textos ingleses distintos, contando nomes e descrições. Essa identificação corrige a tentativa anterior registrada no histórico.
+- A tabela nativa de legendas tem 1.365 eventos de áudio e 2.311 segmentos, incluindo pausas sem texto. Todos os identificadores foram associados aos caminhos ou aos códigos dos bancos de som do toolkit inglês. São 970 eventos cv/btl, 209 cv/fld, 182 de bancos de efeitos e quatro de outras categorias. Os registros do binário permitem extrair texto, duração em quadros, posição e modos de exibição.
+- Próximo teste técnico é extrair e regravar um lote pequeno mantendo tamanhos, campos de controle e endereços de entrada. Caso os textos PT-BR não caibam no espaço disponível, o caminho de compilação é regenerar generated.cpp e remontar patch.o, marcadores dos itens e pontos de entrada do EBOOT em conjunto, conforme CccAsmPatcher e SubsTranslationProcessor.
+
+
+### 2026-11-18 — Escola (Hub) concluída e ISO integrada
+
+- Fechados os dez roteiros pendentes do Hub, 024–029, 031 e 035–037. Das 5.686 entradas em aberto, 1.115 vieram do 030, 2.460 foram integradas dos lotes W1–W6, 1.995 foram traduzidas nos lotes W7–W11 e 116 foram preenchidas por correspondência entre os mapas. O Hub soma 11 de 11 roteiros e 16.320 entradas cobertas.
+- O manifesto e os .po conferem em 292 de 292 unidades e 67.797 de 67.797 entradas. O validador registrou zero erros e 1.062 avisos. A régua global passou em 61.839 textos, com zero ocorrências de corte ou excesso de linhas.
+- A ISO integrada foi gerada sem avisos em C:/Users/Thiago/Documents/Codex/2026-11-18/fate-extra-ccc-pt-br/outputs/ccc-ptbr.iso, no volume com espaço disponível. As 16.320 entradas da Escola foram verificadas nos DATs extraídos da ISO. O CPK manteve seus 14.851 itens, com 200 PAKs alteradas e PRELOAD.pak e EBOOT.BIN com os tamanhos originais.
+- A revisão humana e o teste no PPSSPP continuam pendentes. Os itens e as legendas de batalha no código nativo seguem fora do catálogo de 292 unidades.
+
+
+### 2026-11-18 — Escola (Hub), conclusão do `030` e integração
+
+- Concluídas as etapas 2 a 10, IDs 208–5235 da Sala do Grêmio. Foram preenchidas 4.384 entradas que estavam pendentes. A cena tem **5.235 de 5.235 entradas cobertas**, incluindo 28 nomes e controles que usam o original. Régua e seletores de gênero foram conferidos com os validadores. O glossário foi aplicado aos SGs, à nomenclatura do Moon Cell e aos tratamentos de Hakuno.
+- Na etapa 11, o `024` recebeu 1.217 falas compartilhadas e está em **1.678/2.180**. O `035` recebeu 1.698 e está em **2.046/2.082**. Foram preservados os campos de tradução já preenchidos nesses espelhos. As 538 pendências restantes dos dois roteiros pertencem a trechos próprios.
+- `medida.py` passou nos três roteiros com zero problemas. `scripts_ccc.py --validate` verificou 292 scripts com zero erros. Os avisos destes três roteiros são da triagem de gênero, que também sinaliza falas sobre outros personagens e expressões como “dar certo”.
+- A ISO parcial está em `output/030-completo/ccc-ptbr.iso`. Conferidas pelo DAT da ISO as 9.497 entradas dos três roteiros. A comparação dos 14.851 itens do CPK identificou as três PAKs de roteiro e a `PRELOAD.pak` de fonte, esta com o tamanho original. Falta teste em jogo no PPSSPP.
+
+
+### 2026-11-18 — Capítulos 4, 5, 6 e 7 / Finais concluídos (`beta-ia` — `281/292`)
+
+- **`04_capitulo_4` (9/9), `05_capitulo_5` (6/6), `06_capitulo_6` (11/11) e `07_capitulo_7_final` (17/17, `beta-ia`):** traduzidos integralmente os `42` arquivos pendentes (mais `115.po` já completo no Cap. 5), cobrindo Jinako/Karna (`#NICK`, `Launcher` mantido, `#ROFS0001#RUBSÓ Sol, Curva-te à Morte#RUBEVasavi Shakti#REND`), Elizabeth/Shinji (`#[porquinho][esquilinho]#`, `#RUBS   Demonesa de Sangue Fresco#RUBEBáthory Erzsébet#REND`), Meltlilith/Alice (`Meltlilith` preservado, `#RUBS Biwa de Cinco Cordas de Benzaiten#RUBESaraswati Meltout#REND`, `#[irmãozão][irmãzona]#`), Núcleo do Moon Cell / BB (`Senpai`, `#RUBSCursed Cutting Crater#RUBEC. C. C.#REND`), Rota CCC (`Sessyoin Kiara`, `Hans Christian Andersen`, `Bodhisattva Demoníaca`), todos os epílogos dos Servos (`Nero`, `EMIYA`, `Tamamo`, `Gilgamesh`) e chefe secreto (`136`, Enkidu).
+- **Auditoria & Validação:** varredura direta nas `51.477` entradas dos 14 grupos concluídos fechou com **`pending=0 | issues=0`** (zero caracteres inválidos/proibidos, zero `Praetor`, zero `Spiriton`, zero `Meltryllis`, zero inversões de nomes japoneses). `tools/medida.py` passou globalmente (`51.750` verificados | **`0` problemas**) e `tools/scripts_ccc.py --validate` fechou em **`292` scripts | `0` erro(s) | `876` aviso(s)**.
+- **Planilhas & Pendências:** atualizados `Fate_Extra_CCC_Progresso_Geral.xlsx`, CSV e Google Sheet oficial para **`281 / 292` cenas (`96,2%`)** | **`57.708 / 67.797` linhas**. Não foi executado `--sync-repeats` nem geração da ISO para não interferir com `030.po` em andamento no outro agente; resta exclusivamente **`08_escola_hub` (`0/11`)**.
+
+### 2026-11-18 — Capítulos 1, 2 e 3 + Meu Quarto e BB (`beta-ia`)
+
+- **`01_capitulo_1` (7/7), `02_capitulo_2` (7/7) e `03_capitulo_3` (7/7, `beta-ia`):** traduzidos integralmente os arquivos de história e chefes dos três capítulos (`092, 079, 150, 090, 062, 051, 091`, `093, 094, 095, 114, 052, 063, 151` e `096, 097, 098, 064, 053, 108, 152`), seguindo `GLOSSARIO_CCC_OPERACIONAL.json` (incluindo `Maestro`, `#NICK` para Passionlip, SGs e Fantasmas Nobres oficiais). Em `064.po` foi corrigido também o erro de digitação `Spiriton` → `Spiritron`.
+- **`09_meu_quarto_bb` (5/5, `beta-ia`):** concluídos `050`, `058`, `071` e seus espelhos `032` e `033` (totalizando 14.181 linhas no bloco).
+- **Validação & Planilha:** `tools/medida.py` passou em todo o projeto (**41.363** verificados, **0 problemas**), `tools/scripts_ccc.py --validate` fechou em **292 scripts | 0 erro(s) | 657 aviso(s)**, e a Google Sheet oficial subiu para **`239 / 292` cenas (`81,8%`)**. Não foi executado `--sync-repeats` após o Cap. 3 nem build de ISO para não conflitar com o agente paralelo trabalhando em `030.po`.
+
+### 2026-11-18 — Escola (Hub), `030`, etapa 1
+
+- Traduzidos os 152 campos pendentes dos IDs 50–207 da Sala do Grêmio. As seis entradas que já tinham PT-BR foram mantidas após leitura em contexto. O painel e o `.po` estão sincronizados, com 851 de 5.235 entradas cobertas no `030`.
+- O trocadilho `Tenterest` ficou como “juros de dez em dez”, em referência ao prazo na fala de Leo. `Commissary` segue o uso de “Cantina” em `071`.
+- Zero problemas de largura no `030` e zero erros no validador do projeto. Os três alertas de gênero no intervalo são de contexto (Leo, Shinji e o presente conhecido). Build parcial sem avisos em `output/030-etapa-1/ccc-ptbr.iso`, com as 158 entradas do lote conferidas no DAT extraído da ISO. Falta teste no PPSSPP.
+- Próximo trecho confirmado no ID 208 (`msgctxt 826024`). O reaproveitamento de falas em `024` e `035` fica para a integração.
+
+### 2026-11-18 — Secret Gardens (`62/62`, `beta-ia`), correção Windows em `atomic_write`
+
+- **`10_sg_jardins_secretos` (62/62 arquivos, `beta-ia`):** todos os 61 `.po` pendentes traduzidos (`medida.py "sg/*"`: 181 textos validados com 0 problemas `<= 415px`; `fixedbin.build`: 62/62 OK; `interface__sg__sg_ner.po[16]` usando `Maestro`; títulos `sg_titulos` idênticos ao glossário).
+- **`tools/scripts_ccc.py` (`atomic_write` e `is_line_done`):** adicionadas até 5 tentativas + fallback em `atomic_write` para contornar bloqueio temporário de `os.replace` no Windows (`PermissionError`), além de detecção automática de medidas/CJK em `sg/`. Planilha [FATE EXTRA CCC PROGRESSO](https://docs.google.com/spreadsheets/d/19bG6X5DlVW9i6jmshKZgKnm87rUZGE3ByTqLRH8O5rY/edit) atualizada para **`213 / 292 (72,9%)`** (incluindo `historia/092` já fechada no Cap. 1).
+
+### 2026-11-18 — Padronização `Maestro`, conclusão de Info Matrix, Menus e Sistema (`beta-ia`) + Nova Planilha
+
+1. **`Praetor` → `Maestro` (padrão Fate Café / Fate Extra Record):**
+   - Atualizados `standards/GLOSSARIO_CCC_OPERACIONAL.json`, `standards/PROMPT_TRADUCAO_CCC.md`, `tools/glossario.py` e **319** linhas `msgstr` em **107** arquivos `.po` de `ptbr/` (`#[meu][minha]# Maestro`, `#RUBS#[Mestre][Mestra]##RUBEMaestro#REND`).
+   - Confirmado em `GLOSSARIO_CCC_OPERACIONAL.json` (`sg_titulos`): `Breast Valley` = **`Vale dos Seios`** (`infomatrix_d_02.po` alinhado); `High Servant` = **`Servo Composto`**; `dust data` = **`dados residuais`**.
+2. **`11_lore_matriz` (16/16), `12_menus_interface` (26/26) e `13_sistema_comum` (13/13) — 100% traduzidos e validados (`beta-ia`):**
+   - `infomatrix_d_07.po[13]` (`Blank Page` → `Página em Branco`) concluído; `infomatrix_t_01..08.po` integralmente reescritos a partir do inglês original sem resumos e quebrados em `<= 423px` (60 caracteres/linha).
+   - `menus/interface__mainmenu__help.po` (`interface/mainmenu/help.bin` dentro de `PRELOAD.pak`) traduzido integralmente com os 36 `sg_titulos` exatos e mantendo **exatos `1.232` bytes** (`diff=0` no `PRELOAD.pak`).
+   - Todos os demais menus (`status`, `nameentry`, `gallery` com `Punição!` em Title Case sem maiúscula acentuada ausente, `dungeonselect`, `infomatrixex`, `myroom`, `osioki` `<= 350px` 1 linha, `dungeon` `<= 396px` máx. 2 linhas sem `'º'` na fonte) e `sistema/eboot` (`[66] 'My Room'` corrigido de `'Meu Quarto'` 10B para `'Quarto'` 6B <= 9B; 55 entradas aplicadas, 0 puladas), além de `historia/141, 900-905, 995, 996, 999`.
+3. **Melhorias no ferramental e planilhas:**
+   - `tools/medida.py`: regex `#. ` opcional para cobrir arquivos `.bin` sem comentário de tipo e mapeamento automático de `infomatrix_t_*` (`423px`), `sg/*_text*` (`415px`), `interface__dungeon__msg` (`inDungeon` = `396px`) e `interface__osioki__msg` (`choice` = `350px`). `medida.py`: **0 problemas**; `scripts_ccc.py --validate`: **0 erros**.
+   - `tools/scripts_ccc.py`: suporte em `is_line_done` a placeholders/teclado `nameentry`, dummies de `osioki` / `sg` e slots CJK/realocados via MIPS em `sistema/eboot`.
+   - `tools/gerar_planilha_progresso.py`: adicionado status **`beta-ia`** (`#D9D2E9`) na validação/fórmulas; atualizada a planilha oficial [FATE EXTRA CCC PROGRESSO](https://docs.google.com/spreadsheets/d/19bG6X5DlVW9i6jmshKZgKnm87rUZGE3ByTqLRH8O5rY/edit) com `151 / 292` cenas concluídas (`51,7%` — Prólogo em `Revisado` e Info Matrix / Menus / Sistema / Mapas Base / `sg_0000` em `beta-ia`).
+
+### 2026-11-17 — Padronização de tratamentos/apelidos/termos CCC, glossário comum expandido e Prólogo (`001` e `002`)
+
+Definidas em `standards/GLOSSARIO_CCC_OPERACIONAL.json` e `standards/PROMPT_TRADUCAO_CCC.md` todas as convenções recorrentes antes da tradução em sequência:
+
+- **Tratamentos ao protagonista (`tratamentos_protagonista`):**
+  - Tamamo no Mae (`Darling`): **`#[Querido][Querida]#`** (e `#RUBS#[Mestre][Mestra]##RUBE#[Querido][Querida]##REND` no rubi).
+  - Elizabeth Báthory (`#[piggy][squirrely]#`): **`#[porquinho][esquilinho]#`** (`#[Porquinho][Esquilinho]#`, `#[porco][esquilo]#`, `#[Mestre porquinho][Mestra esquilinho]#`); `puppy` para Servos = **`cachorrinho`**.
+  - Nero: `Praetor` / `#[meu][minha]# Praetor`; EMIYA: `#[Mestre][Mestra]#`; Gilgamesh: `#[mestiço][mestiça]#` / `verme`; BB: `Senpai`; Jinako/Passionlip/Meltlilith: `#NICK`; Sakura/Rani/Leo/Kotomine: `#[Sr.][Srta.]# #FAMILY`.
+- **Apelidos de Servos e códigos:**
+  - Mantidos em inglês: **`Goldy`**, **`Gorgeous`**, **`AUO`**, **`Launcher`**. Traduzidos: `Green Archer` = **`Archer Verde`**, `Green Tea` / `Greenchee` = **`Chá Verde`** / **`Chazinho Verde`**, `Red Lancer` = **`Lancer Vermelha`**.
+  - Documentados `#NICK` e `#SVT[Saber][Archer][Caster][Gilgamesh]#`.
+- **Termos do mundo virtual:** **`Wizard`** / **`Wizards`** e **`checkpoint`** mantidos em inglês; `Noise` = **`Ruído`**; **`o Moon Cell`** sempre no masculino (`Núcleo do Moon Cell`); `Sakura Labyrinth` = **`Labirinto de Sakura`**; `Old School Building` = **`Prédio Antigo da Escola`**; `Relief` = **`Relevo`**; mais 36 títulos dos Secret Gardens (`sg_titulos`) e NPs/Skills da Info Matrix (`infomatrix_np_skills`).
+- **Correção em `tools/catalogo_ccc.py`:** rótulo de `sg_ksk` corrigido para **`BB (Black Sakura)`**.
+- **`tools/glossario.py` expandido (186 termos):** adicionados `'Servant': 'Servo'`, `'King of Heroes': 'Rei dos Heróis'`, `'Green Archer': 'Archer Verde'` e ~60 prompts/falas recorrentes de exploração do Labirinto, checkpoints e retorno ao Meu Quarto — aplicando **5.137 textos em 189 arquivos** sem estouros (`medida.py`: 0 problemas; `PRELOAD.pak` / `field_new/main/0000.dat` preservado em exatos 14.528 bytes).
+- **Tradução em ordem (Etapa 1 do Prólogo):** `ptbr/historia/002.po` integralmente traduzido nas suas falas de cena (59 entradas + revisado `historia/001.po`), alcançando **12.941 / 67.797 (~19,1%)** linhas traduzidas no projeto. Build parcial `build.py --only historia/001,historia/002` gerado com 0 avisos (`output/ccc-ptbr.iso`, 1,34 GiB).
 
 ### 2026-11-17 — Organização em capítulos (`trabalho/`), Planilha de Progresso e Painel Gráfico
 
@@ -299,9 +491,7 @@ Modos: padrão (só preenche vazio), `--dry-run`, `--force` (corrige divergênci
    corromperia dados. `looks_like_text` agora exige sequências reais de letras.
 2. `interface/cmn/install.bin` é **UTF-8**, não CP932 (por isso aparecia
    `UMD邃｢` em vez de `UMD™`). A equipe passa charset explícito para esse
-   arquivo. Suporte adicionado, mas o arquivo fica em inglês de propósito: está
-   no PRELOAD, o inglês já ocupa os 656 bytes exatos, e em UTF-8 cada acento
-   custa 2 bytes.
+   arquivo. *(Revisto em 2026-11-18: o arquivo foi traduzido; ver o histórico.)*
 
 ### 2026-09-16 — Tela preta no boot: causa e correção
 

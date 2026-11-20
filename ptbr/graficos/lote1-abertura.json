@@ -1,0 +1,520 @@
+{
+ "descricao": "Lote 1 de texturas: tela de título, avisos de abertura, dificuldade, opções, criação do protagonista e escolha do Servo. Aplicado por tools/ui_labels.py. 'area' = [x0, x1, y0, y1] da textura apagada e redesenhada (padrão: textura inteira); 'fonte' = chave de FONT_FILES; partes sem 'pt' ficam como no original.",
+ "texturas": {
+  "interface/title/0000.txb": {
+   "4": {
+    "partes": [
+     {
+      "en": "START",
+      "pt": "INICIAR",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       79,
+       0,
+       24
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "NEW GAME",
+      "pt": "NOVO JOGO",
+      "fonte": "quadrada_fina",
+      "area": [
+       86,
+       168,
+       0,
+       24
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "10": {
+    "partes": [
+     {
+      "en": "LOAD",
+      "pt": "CARREGAR",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       79,
+       0,
+       24
+      ],
+      "alinhar": "esq",
+      "manter_espaco": true
+     },
+     {
+      "en": "CONTINUE",
+      "pt": "CONTINUAR",
+      "fonte": "quadrada_fina",
+      "area": [
+       90,
+       168,
+       0,
+       24
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "11": {
+    "partes": [
+     {
+      "en": "DATA",
+      "pt": "DADOS",
+      "fonte": "quadrada_fina",
+      "area": [
+       0,
+       79,
+       0,
+       24
+      ],
+      "alinhar": "esq",
+      "manter_espaco": true
+     },
+     {
+      "en": "INSTALL",
+      "pt": "INSTALAR",
+      "fonte": "quadrada_fina",
+      "area": [
+       94,
+       168,
+       0,
+       24
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   },
+   "8": {
+    "en": "PRESS START",
+    "pt": "APERTE START",
+    "fonte": "quadrada_fina",
+    "area": [
+     0,
+     160,
+     0,
+     20
+    ],
+    "alinhar": "esq"
+   },
+   "17": {
+    "en": "INFORMATION",
+    "pt": "INFORMAÇÕES",
+    "fonte": "quadrada_fina",
+    "area": [
+     13,
+     112,
+     0,
+     16
+    ],
+    "alinhar": "esq"
+   },
+   "20": {
+    "en": "DELETE",
+    "pt": "APAGAR",
+    "fonte": "quadrada",
+    "area": [
+     24,
+     80,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": false
+   }
+  },
+  "interface/advice/0000.txb": {
+   "1": {
+    "en": "<WARNING>",
+    "pt": "<ATENÇÃO>",
+    "fonte": "segoe_b",
+    "alinhar": "centro"
+   },
+   "2": {
+    "en": "There are a number of dead ends and",
+    "pt": "Este jogo tem vários becos sem saída",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "3": {
+    "en": "potentially fatal choices in this game.",
+    "pt": "e escolhas que podem ser fatais.",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "4": {
+    "en": "It is recommended that you save frequently",
+    "pt": "Recomendamos salvar com frequência",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "5": {
+    "en": "as you progress through the story.",
+    "pt": "ao longo da história.",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "7": {
+    "en": "A WORD OF ADVICE",
+    "pt": "UM CONSELHO",
+    "fonte": "arial_b",
+    "alinhar": "centro"
+   },
+   "8": {
+    "partes": [
+     {
+      "en": "This is a work of fiction.",
+      "pt": "Esta é uma obra de ficção.",
+      "fonte": "segoe",
+      "area": [
+       80,
+       480,
+       96,
+       117
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "Everything depicted is a work of fiction,",
+      "pt": "Tudo o que é retratado aqui é ficção, e",
+      "fonte": "segoe",
+      "area": [
+       80,
+       480,
+       117,
+       137
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "any relation to existing persons or",
+      "pt": "qualquer semelhança com pessoas ou",
+      "fonte": "segoe",
+      "area": [
+       80,
+       480,
+       137,
+       157
+      ],
+      "alinhar": "esq"
+     },
+     {
+      "en": "groups are purely coincidental.",
+      "pt": "grupos reais é mera coincidência.",
+      "fonte": "segoe",
+      "area": [
+       80,
+       480,
+       157,
+       178
+      ],
+      "alinhar": "esq"
+     }
+    ]
+   }
+  },
+  "interface/modeselect/modeselect.txb": {
+   "3": {
+    "en": "EASY MODE",
+    "pt": "MODO FÁCIL",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "5": {
+    "en": "Select Difficulty Level.",
+    "pt": "Escolha a dificuldade.",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "NORMAL MODE",
+    "pt": "MODO NORMAL",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "8": {
+    "en": "MODE SELECT",
+    "pt": "DIFICULDADE",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "12": {
+    "en": "HARD MODE",
+    "pt": "MODO DIFÍCIL",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   }
+  },
+  "interface/option/option_00.txb": {
+   "4": {
+    "en": "MESSAGE SPEED",
+    "pt": "VELOCIDADE DO TEXTO",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "5": {
+    "en": "EVENT VOICES",
+    "pt": "VOZES DOS EVENTOS",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "6": {
+    "en": "BACKGROUND MUSIC",
+    "pt": "MÚSICA DE FUNDO",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "7": {
+    "en": "SOUND EFFECTS/VOICES",
+    "pt": "EFEITOS E VOZES",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "8": {
+    "en": "CAMERA CONTROLS",
+    "pt": "CONTROLE DA CÂMERA",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "9": {
+    "en": "GAME DIFFICULTY",
+    "pt": "DIFICULDADE",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "10": {
+    "en": "CONFIRM",
+    "pt": "CONFIRMAR",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "28": {
+    "en": "DATA INSTALLATION",
+    "pt": "INSTALAR DADOS",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "13": {
+    "en": "CHANGE",
+    "pt": "MUDAR",
+    "fonte": "quadrada",
+    "area": [
+     23,
+     78,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": false
+   },
+   "14": {
+    "en": "RESET",
+    "pt": "PADRÃO",
+    "fonte": "quadrada",
+    "area": [
+     28,
+     80,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": false
+   },
+   "15": {
+    "en": "SLOW",
+    "pt": "LENTA",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   },
+   "17": {
+    "en": "FAST",
+    "pt": "RÁPIDA",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   },
+   "18": {
+    "en": "ON",
+    "pt": "SIM",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   },
+   "19": {
+    "en": "OFF",
+    "pt": "NÃO",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   },
+   "20": {
+    "en": "REVERSE",
+    "pt": "INVERTIDO",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   },
+   "22": {
+    "en": "OPTION",
+    "pt": "OPÇÕES",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "27": {
+    "en": "OFF",
+    "pt": "NÃO",
+    "fonte": "segoe_sb",
+    "alinhar": "esq"
+   },
+   "29": {
+    "en": "NO WAIT",
+    "pt": "IMEDIATA",
+    "fonte": "quadrada",
+    "alinhar": "centro"
+   }
+  },
+  "interface/nameentry/0000.txb": {
+   "7": {
+    "en": "CHANGE",
+    "pt": "MUDAR",
+    "fonte": "quadrada",
+    "area": [
+     24,
+     80,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": false
+   },
+   "8": {
+    "en": "DELETE",
+    "pt": "APAGAR",
+    "fonte": "quadrada",
+    "area": [
+     24,
+     79,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": false
+   },
+   "9": {
+    "en": "MOVE",
+    "pt": "MOVER",
+    "fonte": "quadrada_cond",
+    "area": [
+     50,
+     89,
+     0,
+     16
+    ],
+    "alinhar": "centro",
+    "contorno": false
+   },
+   "11": {
+    "en": "TYPE",
+    "pt": "TIPO",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "12": {
+    "en": "NAME",
+    "pt": "NOME",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "13": {
+    "en": "NICK NAME",
+    "pt": "APELIDO",
+    "fonte": "quadrada",
+    "alinhar": "esq"
+   },
+   "19": {
+    "en": "BACK",
+    "pt": "VOLTAR",
+    "fonte": "quadrada_fina",
+    "alinhar": "esq"
+   },
+   "21": {
+    "en": "PLAYER SELECT",
+    "pt": "PROTAGONISTA",
+    "fonte": "quadrada",
+    "alinhar": "esq",
+    "contorno": true
+   },
+   "22": {
+    "en": "NAME INPUT",
+    "pt": "INSERIR NOME",
+    "fonte": "quadrada",
+    "alinhar": "esq",
+    "contorno": true
+   }
+  },
+  "interface/svtselect/svt_select.txb": {
+   "21": {
+    "en": "SERVANT SELECT",
+    "pt": "ESCOLHA O SERVO",
+    "fonte": "quadrada",
+    "area": [
+     10,
+     136,
+     0,
+     16
+    ],
+    "alinhar": "esq",
+    "contorno": true
+   }
+  },
+  "interface/beginning/0000.txb": {
+   "39": {
+    "en": "The first selection",
+    "pt": "Primeira seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "40": {
+    "en": "The second selection",
+    "pt": "Segunda seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "41": {
+    "en": "The third selection",
+    "pt": "Terceira seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "42": {
+    "en": "The fourth selection",
+    "pt": "Quarta seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "43": {
+    "en": "The fifth selection",
+    "pt": "Quinta seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "44": {
+    "en": "The sixth selection",
+    "pt": "Sexta seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "45": {
+    "en": "The seventh selection",
+    "pt": "Sétima seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   },
+   "46": {
+    "en": "Last selection",
+    "pt": "Última seleção",
+    "fonte": "serifa_b",
+    "alinhar": "centro"
+   }
+  }
+ }
+}
